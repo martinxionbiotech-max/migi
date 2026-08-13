@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit?", "a": "The FeLV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of leukemia virus antigen (FeLV-Ag) in feline serum or plasma. It is used as an aid in diagnosing and monitoring feline leukemia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of FeLV-Ag captured, and the concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, complete the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FeLV-Ag in Feline Serum or Plasma: Detection Range: 5.0–320 Tu/ml Result (Tu/ml) Interpretation Suggestion ≤ 10 Negative (-) 10–13 Suspected (±) 13–25 Weak Positive (+) 25–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
 ---
 
-# Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit
+## Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R028`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +30,27 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline Leukemia Virus An
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 10 Tests/Box
 Cat.No.: MG-CA-R028
 
-## Intended Use
+### Intended Use
 
 The FeLV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of leukemia virus antigen (FeLV-Ag) in feline serum or plasma. It is used as an aid in diagnosing and monitoring feline leukemia virus infection.
 For in vitro diagnostic use only. For professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Feline leukemia virus (FeLV) is one of the most significant infectious diseases of cats, associated with immunosuppression, anaemia, and lymphoma. Because many infected cats are asymptomatic carriers for extended periods, antigen detection is the most reliable method of identifying infection.
 
 Quantitative FeLV antigen measurement supports early diagnosis, appropriate isolation of viraemic cats, and informed vaccination and management decisions in multi-cat settings.
 
-## Test Principle
+### Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of FeLV-Ag captured, and the concentration is expressed in Tu/ml.
 
-## Materials
+### Materials
 
 Provided:
 10 Individual Sealed Pouches
@@ -71,13 +71,13 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at 4–30°C until the expiration date.
 Perform the test at 18–28°C after opening the Test Device.
 Once the pouch is opened, complete the test within 30 minutes.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test can be performed using serum or plasma.
 Serum/Plasma Preparation:
@@ -89,7 +89,7 @@ Thaw and mix frozen specimens thoroughly prior to testing.
 Avoid repeated freezing and thawing of specimens.
 Use only clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -103,11 +103,11 @@ Quick Test:
 Click "Quick Test," start the timer immediately after adding the sample mixture, and leave the Test Device at room temperature (18–28°C) for 15 minutes. Then insert the Test Device into the meter holder and click "Start Test." The instrument will automatically scan and display the result.
 Results are displayed on the main screen and can be printed automatically or manually by clicking "Print."
 
-## Quality Control
+### Quality Control
 
 Each FeLV-Ag Rapid Quantitative Test includes an internal control for routine quality control. This internal control is conducted with each patient sample. If the internal control fails, the meter will display an error message, indicating that the test should be repeated.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Reference Range for FeLV-Ag in Feline Serum or Plasma:
 Detection Range:
@@ -127,7 +127,7 @@ Medium Positive (++)
 Strong Positive (+++)
 Each laboratory should establish a reference range representative of the population being evaluated.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 This kit is for in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is damaged or the vial appears compromised.

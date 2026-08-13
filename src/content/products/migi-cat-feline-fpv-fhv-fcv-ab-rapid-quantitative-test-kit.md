@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit?", "a": "The Feline FPV/FHV/FCV Ab test is a quantitative assay used with an Immunofluorescence Analyzer to measure antibodies for feline panleukopenia virus (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) in serum or plasma."}, {"q": "What detection principle does the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit use?", "a": "This test uses a double antigen sandwich fluorescence method. The intensity of the fluorescent signal indicates the concentration of antibodies, expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store at 4-30°C until the expiration date. Perform tests at 18-28°C after opening. Use the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "FPV-Ab : 4.5–640 Tu/ml FHV-Ab : 5.0–640 Tu/ml FCV-Ab : 5.0–640 Tu/ml Refer to the results table for interpretation based on antibody levels."}]
 ---
 
-# Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit
+## Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R033`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,28 +30,28 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline FPV/FHV/FCV Ab Ra
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 Tests per Box
 : 10
 Catalog Number
 : MG-CA-R033
 
-## Intended Use
+### Intended Use
 
 The Feline FPV/FHV/FCV Ab test is a quantitative assay used with an Immunofluorescence Analyzer to measure antibodies for feline panleukopenia virus (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) in serum or plasma.
 
-## Clinical Significance
+### Clinical Significance
 
 Feline panleukopenia (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) are the three core pathogens targeted by the standard feline vaccination protocol. Measuring antibody titres against all three simultaneously provides a convenient assessment of vaccination efficacy and immune status.
 
 A single quantitative triple test helps clinicians determine whether a cat has protective immunity, identify animals requiring booster vaccination, and optimise vaccination schedules for multi-cat environments.
 
-## Test Principle
+### Test Principle
 
 This test uses a double antigen sandwich fluorescence method. The intensity of the fluorescent signal indicates the concentration of antibodies, expressed as Tu/ml.
 
-## Materials
+### Materials
 
 Provided:
 10 sealed pouches with test devices for FPV-Ab, FHV-Ab, and FCV-Ab
@@ -66,19 +66,19 @@ Timer
 Pipette (already provided)
 Centrifuge (typically not needed)
 
-## Storage and Stability
+### Storage and Stability
 
 Store at 4-30°C until the expiration date.
 Perform tests at 18-28°C after opening.
 Use the test within 30 minutes of opening the pouch.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 Use serum or plasma (EDTA recommended).
 Separate serum or plasma within 3 hours of collection. Use only clear, non-hemolyzed specimens.
 Store specimens at 2-8°C for up to 72 hours or below -20°C for long-term storage.
 
-## Test Procedure
+### Test Procedure
 
 Preparation:
 Place a Test Device on a flat surface.
@@ -95,15 +95,15 @@ Quick Test
 Pipette 100 μl of mixed sample into the test device.
 Select "Quick Test," start the timer, and let the device sit for 10 minutes. Insert it into the meter and click "Start Test." Repeat for each test device.
 
-## Results
+### Results
 
 Results appear on the screen. Print results if needed.
 
-## Quality Control
+### Quality Control
 
 The test includes an internal quality control. If it fails, an error message will appear, and you'll need to use a new Test Device and sample.
 
-## Interpretation of Results
+### Interpretation of Results
 
 FPV-Ab
 : 4.5–640 Tu/ml
@@ -113,7 +113,7 @@ FCV-Ab
 : 5.0–640 Tu/ml
 Refer to the results table for interpretation based on antibody levels.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For in vitro diagnostic use only.
 Do not use if packaging is damaged.

@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit?", "a": "The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or the timing of a Cesarean section. Detecting reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 1.0 ~ 50 ng/ml Conversion Factor : 1 ng/ml = 3.18 nmol/L Result (ng/ml) Result (nmol/L) Level Suggestion ≤ 1.0 ≤ 3.18 Negative Non-estrus phase 1.0 - 5.0 3.18 - 15.9 Low Preovulation phase 5.0 - 10.0 15.9 - 31.8 Medium+ Oviposition phase 10.0 - 20.0 31.8 - 63.6 Medium++ Optimal fertility phase > 20.0 > 63.6 High+++ Ootid senescence phase Note: A result above Level 1 in an unvaccinated pet may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}]
 ---
 
-# Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit
+## Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R020`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,14 +30,14 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cPr
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R020
 
-## Intended Use
+### Intended Use
 
 The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma.
 Clinical Applications
@@ -49,18 +49,18 @@ For
 in vitro diagnostic use only
 . For professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Canine progesterone measurement is the cornerstone of reproductive management in breeding bitches. Serial progesterone testing enables precise determination of the fertile window and optimal mating or insemination timing.
 
 Quantitative cProgesterone measurement supports ovulation timing, prediction of whelping dates, and diagnosis of reproductive abnormalities such as luteal insufficiency.
 
-## Test Principle
+### Test Principle
 
 Utilizes a quantitative competitive fluorescence immunoassay technique.
 The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L.
 
-## Materials Provided
+### Materials Provided
 
 Contents
 Quantity
@@ -90,7 +90,7 @@ Pipette
 Centrifuge
 1
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -102,7 +102,7 @@ Perform the test within
 30 minutes
 of opening the pouch.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 Suitable for use with
 serum or plasma
@@ -119,7 +119,7 @@ or below
 for long-term storage.
 Bring all materials to room temperature before use. Thaw frozen specimens completely and mix well. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -139,11 +139,11 @@ Quick Test
 , then insert the device into the analyzer, select "Serum/Plasma," and start the test. The result will be displayed automatically.
 Results will be shown on the screen and can be printed either automatically or by clicking "Print."
 
-## Quality Control
+### Quality Control
 
 Each cProgesterone Rapid Quantitative Test includes an internal control for routine quality control. If the internal control result is invalid, the analyzer will display an error message prompting a retest.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Detection Range
 : 1.0 ~ 50 ng/ml
@@ -176,7 +176,7 @@ Ootid senescence phase
 Note: A result above Level 1 in an unvaccinated pet may indicate past infection.
 Each laboratory should establish its own reference range based on the specific population being evaluated.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For
 in vitro diagnostic use only

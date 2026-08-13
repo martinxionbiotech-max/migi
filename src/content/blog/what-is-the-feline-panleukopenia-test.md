@@ -6,20 +6,20 @@ pubDate: "2024-09"
 category: "blog"
 ---
 
-# What is the Feline Panleukopenia Test?
+## What is the Feline Panleukopenia Test?
 
 01
 
 Views: 1148
 
 
-## What is the Feline Panleukopenia Test?
+### What is the Feline Panleukopenia Test?
 
 
 The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline panleukopenia is a highly contagious and potentially deadly disease that can affect all domestic and wild felines. While vaccination is the best form of prevention, testing allows veterinarians to diagnose infected cats and provide proper treatment plans to aid their recovery (Hartmann, 2020).
 
 
-## Why Should We Do the Test?
+### Why Should We Do the Test?
 
 
 There are several reasons for pet owners to have their cats tested for feline panleukopenia. The disease poses serious health risks if left untreated, as the virus attacks rapidly dividing cells in    the cat’s body, most severely affecting the gastrointestinal tract. This can lead to vomiting, diarrhoea and lowered white blood cell count, leaving cats vulnerable to other infections. Without treatment, the virus is often fatal.
@@ -27,7 +27,7 @@ There are several reasons for pet owners to have their cats tested for feline pa
 Testing allows for early diagnosis and administration of supportive treatments like fluid therapy and medication. This gives infected cats a much better chance of overcoming the disease. It    also helps curb the spread of the contagious virus, protecting other susceptible felines. By determining which cats have been exposed, veterinarians can isolate infected animals and provide boosters to those at risk. This plays a crucial role in disease control and prevention within catteries, animal shelters, and multi-cat households (Litster, 2014).
 
 
-## How Much Does It Cost?
+### How Much Does It Cost?
 
 
 The cost of feline panleukopenia testing ranges between $50 to $100 on average. However, prices may vary depending on the diagnostic method used by the veterinary clinic. Common tests available include:
@@ -39,7 +39,7 @@ The cost of feline panleukopenia testing ranges between $50 to $100 on average. 
 ●    PCR (Polymerase Chain Reaction) test: Considered the most accurate method, PCR detects viral DNA. While highly sensitive and specific, it is also the costliest diagnostic   option ranging from $90-120 per sample.
 
 
-## How Often Do We Need to Do the Test?
+### How Often Do We Need to Do the Test?
 
 
 There is no set schedule for panleukopenia testing as the need varies based on individual risk factors. However, here are some general guidelines:
@@ -57,7 +57,7 @@ There is no set schedule for panleukopenia testing as the need varies based on i
 The frequency of repeat testing is determined by the cat’s lifestyle, health status, and exposure risks. Owners must consult their vet who may advise more frequent monitoring depending on the situation.
 
 
-## What Specifications Are We Looking For?
+### What Specifications Are We Looking For?
 
 
 In feline panleukopenia testing, veterinarians look for certain parameters that help establish an accurate diagnosis:
@@ -77,7 +77,7 @@ In feline panleukopenia testing, veterinarians look for certain parameters that 
 Combining testing methods aids diagnosis. Clinical history and symptoms are also evaluated. Having a clear understanding of normal and abnormal test values helps veterinarians determine infection status, advise treatment, isolate contagious cats, and assess response to vaccination   (Hartmann, 2020).
 
 
-## What Do We Need to Use for Testing?
+### What Do We Need to Use for Testing?
 
 
 The main equipment and supplies required for performing the feline panleukopenia test are:
@@ -97,7 +97,7 @@ The main equipment and supplies required for performing the feline panleukopeni
 ●   Software: Install the AnalyzerControl app for seamless instrument operation on Android tablets.
 
 
-## Do the Kits Come with an Analyzer?
+### Do the Kits Come with an Analyzer?
 
 
 No, immunofluorescence test kits for detecting feline panleukopenia and other pathogens are sold separately from the analyzer equipment. Here are more details:
@@ -113,7 +113,7 @@ No, immunofluorescence test kits for detecting feline panleukopenia and other pa
 Purchasing individual components provides flexibility. Customers can try out low volumes of specific pathogen kits first before investing in the analyzer. Some veterinary labs may already own a compatible machine too.
 
 
-## How Much Does the Machine Cost? Are There Any Discounts?
+### How Much Does the Machine Cost? Are There Any Discounts?
 
 
 As mentioned earlier, Guangzhou Magic’s veterinary immunofluorescence analyzers are affordably priced as follows:
@@ -141,7 +141,7 @@ Some discount offers provided by Magic Biotech on the analyzers include:
 These incentives help customers maximize savings while equipping their practices. The easy EMI payment schemes ensure affordable access to high-quality immunofluorescence testing  technology.
 
 
-## References
+### References
 
 
 Greene, C. E. (2012). Infectious Diseases of the Dog and Cat (4th ed.). Elsevier.

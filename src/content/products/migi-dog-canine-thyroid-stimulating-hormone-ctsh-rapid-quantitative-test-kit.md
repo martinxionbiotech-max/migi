@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit?", "a": "The cTSH test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure thyroid-stimulating hormone (TSH) levels in canine serum or plasma. This test is intended for professional use only and for in vitro diagnostic purposes."}, {"q": "What detection principle does the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cTSH captured, with results expressed in mIU/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. After opening, operate the test at 18–28℃ . Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 9.0 ~ 600 mIU/L Result (mIU/L) Significance ≤ 37 Normal > 37 High Each laboratory should establish its own reference range based on the specific population being tested."}]
 ---
 
-# Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit
+## Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R017`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,29 +30,29 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Thyroid Stimulati
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R017
 
-## Intended Use
+### Intended Use
 
 The cTSH test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure thyroid-stimulating hormone (TSH) levels in canine serum or plasma. This test is intended for professional use only and for in vitro diagnostic purposes.
 
-## Clinical Significance
+### Clinical Significance
 
 Canine thyroid-stimulating hormone (cTSH) is used in combination with total thyroxine (cTT4) for the diagnosis of hypothyroidism. An elevated cTSH with a low cTT4 is highly specific for primary hypothyroidism.
 
 Quantitative cTSH measurement improves diagnostic accuracy in equivocal cases and supports monitoring of thyroid hormone replacement therapy.
 
-## Test Principle
+### Test Principle
 
 Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.
 The fluorescent signal intensity correlates with the amount of cTSH captured, with results expressed in mIU/L.
 
-## Materials Provided
+### Materials Provided
 
 Contents
 Quantity
@@ -82,7 +82,7 @@ Pipette
 Centrifuge
 1
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -94,7 +94,7 @@ Perform the test within
 30 minutes
 of opening the pouch.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test can be performed on
 serum or plasma
@@ -111,7 +111,7 @@ or below
 for long-term storage.
 Bring all materials to room temperature before use. Ensure frozen specimens are fully thawed and mixed well before testing. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -131,11 +131,11 @@ Quick Test
 . Insert the device into the analyzer and select "Serum/Plasma," then start the test. The result will be displayed automatically.
 Results are shown on the screen and can be printed either automatically or by clicking "Print."
 
-## Quality Control
+### Quality Control
 
 Each cTSH Rapid Quantitative Test includes an internal control for quality assurance. If the internal control fails, the analyzer will show an error message, indicating a need for a retest.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Detection Range
 : 9.0 ~ 600 mIU/L
@@ -147,7 +147,7 @@ Normal
 High
 Each laboratory should establish its own reference range based on the specific population being tested.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For
 in vitro diagnostic use only

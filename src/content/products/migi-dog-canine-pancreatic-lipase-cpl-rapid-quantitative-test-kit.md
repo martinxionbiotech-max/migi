@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit?", "a": "The cPL test is a fluorescence immunoassay designed for the quantitative determination of pancreatic lipase concentration in canine serum or plasma. It is used to aid in the diagnosis and monitoring of pancreatic lipase levels in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of cPL captured. Results are expressed in ng/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the Test Device. Once the pouch is opened, the test should be performed within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 50 ~ 3200 ng/ml Reference Ranges : Result (ng/ml) Risk Level ≤ 100 Low risk 100 – 300 Medium risk > 300 High risk Each laboratory should establish its own reference range based on the population being tested."}]
 ---
 
-# Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit
+## Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R014`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,32 +30,32 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Pancreatic Lipase
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R014
 
-## Intended Use
+### Intended Use
 
 The cPL test is a fluorescence immunoassay designed for the quantitative determination of pancreatic lipase concentration in canine serum or plasma. It is used to aid in the diagnosis and monitoring of pancreatic lipase levels in dogs.
 For
 in vitro diagnostic use only
 . Professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Canine pancreatic lipase immunoreactivity (cPL) is the reference biomarker for canine pancreatitis, offering superior sensitivity and specificity compared with serum lipase and amylase. Elevated cPL is highly correlated with pancreatic inflammation.
 
 Quantitative cPL measurement supports prompt diagnosis of acute pancreatitis, differentiation from other causes of vomiting and abdominal pain, and serial monitoring of recovery.
 
-## Test Principle
+### Test Principle
 
 This test utilizes a quantitative double-antibody sandwich fluorescence immunoassay technique.
 The fluorescent signal intensity corresponds to the amount of cPL captured. Results are expressed in ng/ml.
 
-## Materials Provided
+### Materials Provided
 
 Contents
 Quantity
@@ -79,7 +79,7 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -91,7 +91,7 @@ Once the pouch is opened, the test should be performed within
 30 minutes
 .
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test can be conducted using
 serum or plasma
@@ -110,7 +110,7 @@ or below
 for long-term storage.
 Before testing, bring all materials to room temperature. Frozen specimens must be completely thawed and mixed well before use. Avoid repeated freezing and thawing. Only clear, non-hemolyzed specimens should be tested.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -130,11 +130,11 @@ Quick Test
 , then insert it into the analyzer, select "Serum/Plasma," and start the test. The meter will display the result automatically.
 Results will be shown on the screen and printed either automatically or by clicking "Print."
 
-## Quality Control
+### Quality Control
 
 Each cPL Rapid Quantitative Test includes an internal control for routine quality control. If an invalid result occurs, the analyzer will display an error message, prompting a retest.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Detection Range
 : 50 ~ 3200 ng/ml
@@ -150,7 +150,7 @@ Medium risk
 High risk
 Each laboratory should establish its own reference range based on the population being tested.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For
 in vitro diagnostic use only

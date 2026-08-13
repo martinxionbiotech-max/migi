@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline Herpes Virus Antigen (FHV-Ag) Rapid Quantitative Test Kit?", "a": "The FHV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen (FHV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Herpes Virus Antigen (FHV-Ag) Rapid Quantitative Test Kit use?", "a": "The FHV-Ag test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FHV-Ag captured, and the concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be completed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FHV-Ag in Feline Swabs: Detection Range: 4.0–640 Tu/ml Result (Tu/ml) Interpretation ≤ 8 Negative (-) 8–15 Suspected (±) 15–40 Weak Positive (+) 40–200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
 ---
 
-# Migi (Cat) Feline Herpes Virus Antigen (FHV-Ag) Rapid Quantitative Test Kit
+## Migi (Cat) Feline Herpes Virus Antigen (FHV-Ag) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R007`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,28 +30,28 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline Herpes Virus Anti
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 10 Tests/Box
 Cat.No.: MG-CA-R007
 
-## Intended Use
+### Intended Use
 
 The FHV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen (FHV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infections.
 For in vitro diagnostic use only. For professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Feline herpesvirus (FHV-1) is a highly prevalent pathogen responsible for feline viral rhinotracheitis and recurrent ocular disease. Antigen detection permits confirmation of active infection during acute outbreaks, when viral shedding is highest.
 
 Quantitative FHV antigen results support early isolation of infected cats, reducing transmission in multi-cat environments and guiding appropriate antiviral and supportive therapy.
 
-## Test Principle
+### Test Principle
 
 The FHV-Ag test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.
 The intensity of the fluorescent signal correlates with the amount of FHV-Ag captured, and the concentration is expressed in Tu/ml.
 
-## Materials
+### Materials
 
 Provided:
 10 individual sealed pouches, each containing:
@@ -68,13 +68,13 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at 4–30°C until the expiration date.
 Perform the test at 18–28°C after opening the Test Device.
 Once the pouch is opened, the test should be completed within 30 minutes.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test can be performed with a nasopharyngeal or ocular swab.
 Specimen Collection:
@@ -89,7 +89,7 @@ Thaw and mix frozen specimens thoroughly prior to testing.
 Do not freeze and thaw specimens multiple times.
 Use only clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for complete instructions.
 Place the Test Device on a clean, level surface.
@@ -103,11 +103,11 @@ Quick Test:
 Click “Quick Test,” start the timer immediately after adding the sample mixture, and leave the Test Device at room temperature (18–28°C) for 10 minutes. Insert the Test Device into the meter holder and click “Start Test.” Select sample type “Swab.” The instrument will automatically scan and display the result.
 Results are displayed on the main screen and can be printed automatically or manually by clicking “Print.”
 
-## Quality Control
+### Quality Control
 
 Each FHV-Ag Rapid Quantitative Test includes an internal control to ensure routine quality control. This internal control is performed with each patient sample. If the internal control fails, the meter will display an error message, indicating the need for a repeat test.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Reference Range for FHV-Ag in Feline Swabs:
 Detection Range:
@@ -126,7 +126,7 @@ Medium Positive (++)
 Strong Positive (+++)
 Each laboratory should establish a reference range representative of the population being evaluated.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 This kit is for in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is damaged or if the vial appears compromised.

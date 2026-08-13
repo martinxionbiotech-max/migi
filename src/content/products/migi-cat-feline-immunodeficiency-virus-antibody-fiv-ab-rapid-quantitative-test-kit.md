@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit?", "a": "The FIV-Ab test is a fluorescence immunoassay designed for the quantitative determination of feline immunodeficiency virus antibodies in serum or plasma specimens. This test assists in diagnosing and monitoring feline immunodeficiency virus (FIV) infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FIV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be completed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FIV-Ab in Feline Serum or Plasma: Detection Range: 4.5–320 Tu/ml Result (Tu/ml) Interpretation ≤ 9 Negative (-) 9–11 Suspected (±) 11–20 Weak Positive (+) 20–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
 ---
 
-# Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit
+## Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R027`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +30,27 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline Immunodeficiency 
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 10 Tests/Box
 Cat.No.: MG-CA-R027
 
-## Intended Use
+### Intended Use
 
 The FIV-Ab test is a fluorescence immunoassay designed for the quantitative determination of feline immunodeficiency virus antibodies in serum or plasma specimens. This test assists in diagnosing and monitoring feline immunodeficiency virus (FIV) infection.
 For in vitro diagnostic use only. For professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Feline immunodeficiency virus (FIV) is a lentivirus that progressively impairs the immune system of infected cats. Because infection is lifelong, early detection is essential for managing health, preventing secondary infections, and limiting spread through fighting and biting.
 
 Quantitative FIV antibody testing provides a reliable screening tool, with antibody levels supporting confirmation of infection status and informing long-term care and isolation decisions.
 
-## Test Principle
+### Test Principle
 
 This test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FIV-Ab captured, with the concentration expressed as Tu/ml.
 
-## Materials
+### Materials
 
 Provided:
 10 individual sealed pouches, each containing:
@@ -67,13 +67,13 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit at 4–30°C until the expiration date.
 Perform the test at 18–28°C after opening the Test Device.
 Once the pouch is opened, the test should be completed within 30 minutes.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test can be performed using serum or plasma.
 Serum/Plasma Preparation:
@@ -85,7 +85,7 @@ Thaw and mix frozen specimens thoroughly prior to testing.
 Avoid repeated freezing and thawing of specimens.
 Use only clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for complete instructions.
 Place the Test Device on a clean, level surface.
@@ -99,11 +99,11 @@ Quick Test:
 Click "Quick Test," start the timer immediately after adding the sample mixture, and leave the Test Device at room temperature (18–28°C) for 15 minutes. Then, insert the Test Device into the meter holder and click "Start Test." The instrument will automatically scan and display the result.
 Results are displayed on the main screen and can be printed automatically or manually by clicking "Print."
 
-## Quality Control
+### Quality Control
 
 Each FIV-Ab Rapid Quantitative Test includes an internal control to ensure routine quality control. This internal control is performed with each patient sample. If the internal control fails, the meter will display an error message, indicating the need for a repeat test.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Reference Range for FIV-Ab in Feline Serum or Plasma:
 Detection Range:
@@ -122,7 +122,7 @@ Medium Positive (++)
 Strong Positive (+++)
 Each laboratory should establish a reference range representative of the population being evaluated.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 This kit is for in vitro diagnostic use only.
 Inspect the packaging and labels before use. Do not use if the pouch is damaged or if the vial appears compromised.
