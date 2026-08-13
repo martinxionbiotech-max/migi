@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-white text-gray-900;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  }
+
+  ::selection {
+    @apply bg-brand-600 text-white;
+  }
+}
+
+@layer components {
+  /* Subtle top progress accent on the brand */
+  .brand-accent {
+    @apply h-1 w-full bg-gradient-to-r from-brand-400 via-brand-600 to-brand-800;
+  }
+
+  /* Section eyebrow label */
+  .eyebrow {
+    @apply mb-3 inline-block text-sm font-semibold uppercase tracking-widest text-brand-600;
+  }
+
+  /* Consistent card hover lift */
+  .card-hover {
+    @apply transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-brand-900/5;
+  }
+
+  /* Primary button */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-brand-600 px-6 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-brand-700 hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600;
+  }
+
+  /* Secondary / ghost button */
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-brand-300 px-6 py-3 text-base font-semibold text-brand-700 transition-all duration-200 hover:border-brand-500 hover:bg-brand-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-600;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-out both;
+  }
+  .animate-fade-in-up {
+    animation: fadeInUp 0.7s ease-out both;
+  }
+  .animation-delay-100 {
+    animation-delay: 100ms;
+  }
+  .animation-delay-200 {
+    animation-delay: 200ms;
+  }
+  .animation-delay-300 {
+    animation-delay: 300ms;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-fade-in,
+  .animate-fade-in-up {
+    animation: none;
+  }
+  .card-hover {
+    transition: none;
+  }
+}
