@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const products = await getCollection('products');
+const analyzers = products
+  .filter((p) => p.data.category === 'analyzer')
+  .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'CollectionPage',
+      name: 'Equipment',
+      description: 'Veterinary immunofluorescence quantitative analyzers — FIA680 and FIA880.',
+      url: 'https://migibio.com/equipment',
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.com/' },
+        { '@type': 'ListItem', position: 2, name: 'Equipment' },
+      ],
+    },
+  ],
+};
+---
+
+<Layout title="Equipment — Veterinary Immunofluorescence Analyzers" description="Migibio FIA680 (single-channel) and FIA880 (six-channel) veterinary immunofluorescence quantitative analyzers for rapid, quantitative POCT diagnostics." schema={schema}>
+  <div class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
+    <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+      <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Equipment</h1>
+      <p class="mt-3 text-lg text-brand-100">Quantitative fluorescence immunoassay analyzers for veterinary point-of-care diagnostics.</p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="grid gap-8 md:grid-cols-2">
+      {analyzers.map((p) => (
+        <a href={`/equipment/${p.data.slug}`} class="group overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
+          <div class="aspect-[16/9] overflow-hidden bg-gray-100">
+            {p.data.image ? (
+              <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+            ) : (
+              <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🔬</span></div>
+            )}
+          </div>
+          <div class="p-5">
+            <h2 class="text-lg font-semibold text-gray-900 group-hover:text-brand-700">{p.data.title}</h2>
+            {p.data.description && <p class="mt-2 text-sm text-gray-600 line-clamp-2">{p.data.description}</p>}
+            <span class="mt-3 inline-flex items-center text-sm font-medium text-brand-600">View details →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+</Layout>

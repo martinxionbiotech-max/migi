@@ -1,0 +1,50 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((p) => ({
+    params: { slug: p.data.slug },
+    props: { entry: p },
+  }));
+}
+
+const { entry } = Astro.props;
+const { title, description } = entry.data;
+const { Content } = await render(entry);
+
+const pageUrl = `/${entry.data.slug}/`;
+const pageSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebPage',
+      name: title,
+      description: description || title,
+      url: `https://migibio.com${pageUrl}`,
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.com/' },
+        { '@type': 'ListItem', position: 2, name: title },
+      ],
+    },
+  ],
+};
+---
+
+<Layout title={title} description={description} schema={pageSchema} canonical={pageUrl}>
+  <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
+    <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-brand-600">Home</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">{title}</span>
+    </nav>
+
+    <div class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-brand-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+      <Content />
+    </div>
+  </article>
+</Layout>

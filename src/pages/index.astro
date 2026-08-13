@@ -1,0 +1,216 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const products = await getCollection('products');
+const posts = await getCollection('blog');
+
+const analyzers = products
+  .filter((p) => p.data.category === 'analyzer')
+  .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+const reagents = products
+  .filter((p) => p.data.category === 'canine-feline')
+  .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
+const latestPosts = posts
+  .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
+  .slice(0, 6);
+
+const siteSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': 'https://migibio.com/#organization',
+      name: 'Guangzhou Magic Biotech Co., Ltd.',
+      alternateName: 'Migibio',
+      url: 'https://migibio.com',
+      email: 'info@magic-bio.com',
+      telephone: '+86-20-82288812',
+      foundingDate: '2017-11',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road',
+        addressLocality: 'Guangzhou',
+        addressRegion: 'Guangdong',
+        addressCountry: 'CN',
+      },
+      description:
+        'High-tech manufacturer of POCT veterinary diagnostic equipment and rapid test reagents using fluorescence immunochromatographic technology (FICT).',
+    },
+    {
+      '@type': 'WebSite',
+      '@id': 'https://migibio.com/#website',
+      url: 'https://migibio.com',
+      name: 'Migibio',
+      publisher: { '@id': 'https://migibio.com/#organization' },
+      inLanguage: 'en',
+    },
+  ],
+};
+
+function formatDate(date: Date | undefined): string {
+  if (!date) return '';
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+---
+
+<Layout
+  title="Migibio — Veterinary Rapid Diagnostic Equipment & Reagents Manufacturer"
+  description="Guangzhou Magic Biotech (Migibio) manufactures POCT veterinary rapid diagnostic equipment (FIA680/FIA880) and fluorescence immunochromatographic test reagents for canine and feline disease detection. ISO9001 & GMP certified, exported to 30+ countries."
+  schema={siteSchema}
+  ogImage="/images/default-og.png"
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
+    <div class="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
+      <div class="max-w-3xl">
+        <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+          Quantitative Veterinary Diagnostics, Delivered in Minutes
+        </h1>
+        <p class="mt-6 text-xl text-brand-100">
+          Migibio's fluorescence immunochromatographic technology (FICT) delivers
+          rapid, quantitative, and highly sensitive results for animal disease
+          detection and health assessment — from companion animals to farm livestock.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-4">
+          <a href="/equipment" class="rounded-lg bg-white px-6 py-3 text-base font-semibold text-brand-700 shadow-sm hover:bg-brand-50">Explore Equipment</a>
+          <a href="/reagents" class="rounded-lg border border-brand-300 px-6 py-3 text-base font-semibold text-white hover:bg-brand-700">View Reagents</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Application cases -->
+  <section class="py-16 sm:py-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Application Cases</h2>
+        <p class="mt-3 text-lg text-gray-600">Trusted single-source solutions across diagnostics and safety.</p>
+      </div>
+      <div class="mt-12 grid gap-8 md:grid-cols-3">
+        <div class="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
+          <div class="text-3xl">🐾</div>
+          <h3 class="mt-4 text-lg font-semibold text-gray-900">Veterinary Diagnostics</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            From state-of-the-art diagnostics to single-use rapid tests, Migibio offers a
+            trusted single source for veterinary diagnostics — including farm animals
+            (pigs, cattle, horses) and companion animals (dogs, cats).
+          </p>
+        </div>
+        <div class="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
+          <div class="text-3xl">🍽️</div>
+          <h3 class="mt-4 text-lg font-semibold text-gray-900">Food Safety Detection</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            From veterinary drug residue to mycotoxin — from farm to dinner table — Migibio
+            provides a total solution for food safety detection to protect security and health.
+          </p>
+        </div>
+        <div class="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
+          <div class="text-3xl">🌍</div>
+          <h3 class="mt-4 text-lg font-semibold text-gray-900">Environmental Protection</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            Innovative heavy metal ion detection technology improves sensitivity and
+            specificity, enhancing detection efficiency against environmental pollution.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why choose us -->
+  <section class="bg-gray-50 py-16 sm:py-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Why Choose Us</h2>
+      </div>
+      <div class="mt-12 grid gap-8 md:grid-cols-3">
+        <div class="rounded-xl border border-gray-200 bg-white p-6">
+          <h3 class="text-lg font-semibold text-brand-700">High-Precision, Rapid Diagnostics</h3>
+          <p class="mt-2 text-sm text-gray-600">Immunochromatographic equipment and reagents deliver fast, accurate results for timely detection and treatment.</p>
+        </div>
+        <div class="rounded-xl border border-gray-200 bg-white p-6">
+          <h3 class="text-lg font-semibold text-brand-700">Strict Quality Control</h3>
+          <p class="mt-2 text-sm text-gray-600">High-quality materials and rigorous production processes ensure the stability and reliability of every product.</p>
+        </div>
+        <div class="rounded-xl border border-gray-200 bg-white p-6">
+          <h3 class="text-lg font-semibold text-brand-700">Professional Support</h3>
+          <p class="mt-2 text-sm text-gray-600">Comprehensive technical support and tailored services for the best experience and outcomes.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Equipment -->
+  <section class="py-16 sm:py-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Equipment</h2>
+        <a href="/reagents" class="text-sm font-semibold text-brand-600 hover:text-brand-800">View reagents →</a>
+      </div>
+      <div class="mt-10 grid gap-8 md:grid-cols-2">
+        {analyzers.map((p) => (
+          <a href={`/equipment/${p.data.slug}`} class="group overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
+            <div class="aspect-[16/9] overflow-hidden bg-gray-100">
+              {p.data.image ? (
+                <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+              ) : (
+                <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🔬</span></div>
+              )}
+            </div>
+            <div class="p-5">
+              <h3 class="text-lg font-semibold text-gray-900 group-hover:text-brand-700">{p.data.title}</h3>
+              {p.data.description && <p class="mt-2 text-sm text-gray-600 line-clamp-2">{p.data.description}</p>}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured reagents -->
+  <section class="bg-gray-50 py-16 sm:py-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Featured Reagents</h2>
+        <a href="/reagents" class="text-sm font-semibold text-brand-600 hover:text-brand-800">View all →</a>
+      </div>
+      <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {reagents.slice(0, 6).map((p) => (
+          <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
+            <div class="aspect-square overflow-hidden bg-gray-100">
+              {p.data.image ? (
+                <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+              ) : (
+                <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🧪</span></div>
+              )}
+            </div>
+            <div class="p-4">
+              {p.data.catNo && <span class="text-xs font-medium uppercase tracking-wide text-brand-600">{p.data.catNo}</span>}
+              <h3 class="mt-1 text-base font-semibold text-gray-900 line-clamp-2 group-hover:text-brand-700">{p.data.title}</h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest blog -->
+  <section class="py-16 sm:py-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Latest Insights</h2>
+        <a href="/blog" class="text-sm font-semibold text-brand-600 hover:text-brand-800">View all posts →</a>
+      </div>
+      <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {latestPosts.map((post) => (
+          <a href={`/blog/${post.data.slug}`} class="group rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+            <h3 class="text-lg font-semibold text-gray-900 line-clamp-2 group-hover:text-brand-700">{post.data.title}</h3>
+            <div class="mt-2 text-xs text-gray-500">{post.data.pubDate && <time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate)}</time>}</div>
+            {post.data.description && <p class="mt-3 text-sm text-gray-600 line-clamp-3">{post.data.description}</p>}
+            <span class="mt-4 inline-flex items-center text-sm font-medium text-brand-600 group-hover:text-brand-800">Read article →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
