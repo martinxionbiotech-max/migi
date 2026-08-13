@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit?", "a": "The CDV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantitatively determines distemper virus antibody (CDV-Ab) concentration in serum or plasma. This test helps assess CDV-Ab titer levels following pet vaccinations, guiding whether re-vaccination is necessary. Additionally, it supports diagnosing and monitoring canine distemper virus infections. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit use?", "a": "The test uses a quantitative double-antigen sandwich fluorescence immunoassay technique. Fluorescent signal intensity correlates with the amount of CDV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the kit at 4–30℃ up to the expiration date. Operate the test between 18–28℃ after opening the pouch. Perform the test within 30 minutes of opening the pouch."}]
 ---
 
-## Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R010`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,32 +29,32 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Distemper Virus A
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R010
 
-### Intended Use
+## Intended Use
 
 The CDV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantitatively determines distemper virus antibody (CDV-Ab) concentration in serum or plasma. This test helps assess CDV-Ab titer levels following pet vaccinations, guiding whether re-vaccination is necessary. Additionally, it supports diagnosing and monitoring canine distemper virus infections.
 For
 in vitro diagnostic use only
 . Professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine distemper virus (CDV) is a highly contagious, often fatal morbillivirus affecting multiple body systems. Vaccination is highly protective, and antibody titres are a reliable measure of immunity.
 
 Quantitative CDV antibody measurement supports confirmation of vaccination efficacy, identification of susceptible animals, and management of vaccination schedules in breeding kennels.
 
-### Test Principle
+## Test Principle
 
 The test uses a quantitative double-antigen sandwich fluorescence immunoassay technique.
 Fluorescent signal intensity correlates with the amount of CDV-Ab captured, with results expressed in Tu/ml.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -79,7 +78,7 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the kit at
 4–30℃
@@ -89,7 +88,7 @@ Operate the test between
 after opening the pouch.
 Perform the test within 30 minutes of opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be used with
 serum or plasma
@@ -104,7 +103,7 @@ for up to 72 hours, or below
 for long-term storage.
 Bring specimens to room temperature before testing. Avoid repeated freezing and thawing.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for complete instructions.
 Place the Test Device on a clean, level surface.
@@ -122,11 +121,11 @@ Quick Test
 : Let the test device sit at room temperature for 10 minutes, then insert it into the analyzer and start the test.
 Results will be displayed on-screen and can be printed automatically or manually.
 
-### Quality Control
+## Quality Control
 
 Each test includes an internal control. If this control fails, the analyzer will display an error message, prompting a retest.
 
-### Result Interpretation
+## Result Interpretation
 
 Detection Range
 : 4.5 ~ 640 Tu/ml
@@ -156,7 +155,7 @@ Strong protection; test annually to ensure vaccine coverage.
 Note
 : If a pet has not been vaccinated but shows a level above 1, past infection is possible. Each laboratory should establish its own reference range based on the population being tested.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For
 in vitro diagnostic use only

@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Relaxin (cRelaxin) Rapid Quantitative Test Kit?", "a": "The cRelaxin test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative measurement of relaxin concentration in canine serum or plasma. This test aids in confirming pregnancy in canines. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or timing for a Cesarean section. Identifying reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Relaxin (cRelaxin) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cRelaxin captured, with results expressed in ng/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 0.5 ~ 40 ng/ml Result (ng/ml) Significance ≤ 3.0 Non-pregnancy (normal) > 3.0 Pregnancy (high) Each laboratory should establish its own reference range based on the specific population being evaluated."}]
 ---
 
-## Migi (Dog) Canine Relaxin (cRelaxin) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R021`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,14 +29,14 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Relaxin (cRelaxin
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R021
 
-### Intended Use
+## Intended Use
 
 The cRelaxin test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative measurement of relaxin concentration in canine serum or plasma. This test aids in confirming pregnancy in canines.
 Clinical Applications
@@ -49,18 +48,18 @@ For
 in vitro diagnostic use only
 . For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine relaxin is a pregnancy-specific hormone produced by the placenta, detectable in maternal blood from approximately 20–30 days after mating. It is the most reliable single marker for confirming pregnancy in dogs.
 
 Quantitative cRelaxin measurement supports early pregnancy diagnosis, differentiation of pregnancy from pseudopregnancy, and monitoring of high-risk pregnancies.
 
-### Test Principle
+## Test Principle
 
 Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.
 The fluorescent signal intensity correlates with the amount of cRelaxin captured, with results expressed in ng/ml.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -90,7 +89,7 @@ Pipette
 Centrifuge
 1
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -102,7 +101,7 @@ Perform the test within
 30 minutes
 of opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 Suitable for use with
 serum or plasma
@@ -119,7 +118,7 @@ or below
 for long-term storage.
 Bring all materials to room temperature before use. Thaw frozen specimens completely and mix well. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -139,11 +138,11 @@ Quick Test
 , then insert the device into the analyzer, select "Serum/Plasma," and start the test. The result will be displayed automatically.
 Results will be shown on the screen and can be printed either automatically or by clicking "Print."
 
-### Quality Control
+## Quality Control
 
 Each cRelaxin Rapid Quantitative Test includes an internal control for routine quality control. If the internal control result is invalid, the analyzer will display an error message prompting a retest.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection Range
 : 0.5 ~ 40 ng/ml
@@ -155,7 +154,7 @@ Non-pregnancy (normal)
 Pregnancy (high)
 Each laboratory should establish its own reference range based on the specific population being evaluated.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For
 in vitro diagnostic use only

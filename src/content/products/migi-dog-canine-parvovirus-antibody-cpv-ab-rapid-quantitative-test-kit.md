@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit?", "a": "The CPV-Ab test is a fluorescence immunoassay used with an Immunofluorescence Analyzer to quantitatively determine parvovirus antibody (CPV-Ab) concentration in canine serum or plasma. This test aids in assessing the CPV-Ab titer after vaccination, providing guidance on the necessity for re-vaccination. It is also useful for diagnosing and monitoring canine parvovirus infection. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The fluorescent signal intensity indicates the amount of CPV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 4.5 ~ 640 Tu/ml Reference Ranges : Result (Tu/ml) Level Recommendation ≤ 9 0 No antibody protection; vaccination recommended. 9 - 50 1 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 50 - 150 2 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 150 - 300 3 Moderate antibody protection; monitor antibody levels every 6 months. 300 - 500 4 Moderate antibody protection; monitor antibody levels every 6 months. > 500 5 Strong antibody protection; test antibody levels annually to ensure continued protection. Note: If the test result shows a level above Level 1 in an unvaccinated pet, it may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}]
 ---
 
-## Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R009`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,32 +29,32 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Parvovirus Antibo
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R009
 
-### Intended Use
+## Intended Use
 
 The CPV-Ab test is a fluorescence immunoassay used with an Immunofluorescence Analyzer to quantitatively determine parvovirus antibody (CPV-Ab) concentration in canine serum or plasma. This test aids in assessing the CPV-Ab titer after vaccination, providing guidance on the necessity for re-vaccination. It is also useful for diagnosing and monitoring canine parvovirus infection.
 For
 in vitro diagnostic use only
 . For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine parvovirus (CPV) is a highly contagious and potentially fatal viral enteritis of dogs, particularly puppies. Vaccination is highly effective, and antibody titres correlate strongly with protective immunity.
 
 Quantitative CPV antibody measurement supports assessment of maternal antibody levels in puppies, optimal timing of primary vaccination, and confirmation of vaccine response in adults.
 
-### Test Principle
+## Test Principle
 
 Utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique.
 The fluorescent signal intensity indicates the amount of CPV-Ab captured, with results expressed in Tu/ml.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -85,7 +84,7 @@ Pipette
 Centrifuge
 1
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -97,7 +96,7 @@ Perform the test within
 30 minutes
 after opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 Suitable for use with
 serum or plasma
@@ -114,7 +113,7 @@ or below
 for long-term storage.
 Bring all materials to room temperature before use. Thaw frozen specimens completely and mix well. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -134,11 +133,11 @@ Quick Test
 . Insert the device into the analyzer, select "Serum/Plasma," and start the test. The result will be displayed automatically.
 Results will be shown on the screen and can be printed either automatically or by clicking "Print."
 
-### Quality Control
+## Quality Control
 
 Each CPV-Ab Rapid Quantitative Test includes an internal control for routine quality control. If the internal control result is invalid, the analyzer will display an error message prompting a retest.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection Range
 : 4.5 ~ 640 Tu/ml
@@ -168,7 +167,7 @@ Strong antibody protection; test antibody levels annually to ensure continued pr
 Note: If the test result shows a level above Level 1 in an unvaccinated pet, it may indicate past infection.
 Each laboratory should establish its own reference range based on the specific population being evaluated.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For
 in vitro diagnostic use only

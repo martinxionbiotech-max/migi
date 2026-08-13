@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Product name": "CDV-AgCanine Distemper
 faq: [{"q": "What is the intended use of the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit?", "a": "The CDV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure distemper virus antigen (CDV-Ag) in canine nasopharyngeal or ocular swabs. It is used to aid in diagnosing and monitoring canine distemper virus infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of CDV-Ag captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. After opening the Test Device, operate the test between 18°C and 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: 4.0 ~ 640 Tu/ml Reference range: ≤8 Tu/ml: Negative (-) 8–15 Tu/ml: Suspected (±) 15–40 Tu/ml: Weak Positive (+) 40–200 Tu/ml: Medium Positive (++) 200 Tu/ml: Strong Positive (+++) Each laboratory should establish a reference range suited to the population being tested."}]
 ---
 
-## Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R004`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -29,27 +28,27 @@ faq: [{"q": "What is the intended use of the Migi (Dog) CDV-AgCanine Distemper V
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R001
 
-### Intended Use
+## Intended Use
 
 The CDV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure distemper virus antigen (CDV-Ag) in canine nasopharyngeal or ocular swabs. It is used to aid in diagnosing and monitoring canine distemper virus infections.
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine distemper virus (CDV) causes severe multisystemic disease with high mortality, particularly in unvaccinated puppies. Early antigen detection is critical for prompt diagnosis and isolation.
 
 Quantitative CDV antigen testing supports rapid confirmation of infection during outbreaks and guides appropriate supportive and containment measures.
 
-### Test Principle
+## Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of CDV-Ag captured, with the concentration expressed as Tu/ml.
 
-### Materials
+## Materials
 
 Materials Provided
 Each box contains:
@@ -67,13 +66,13 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit between 4°C and 30°C until the expiration date.
 After opening the Test Device, operate the test between 18°C and 28°C.
 Perform the test within 30 minutes of opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be performed using a rectal swab.
 Rectal sample collection:
@@ -81,7 +80,7 @@ Insert the swab into the canine's rectum and rotate close to the inner wall 3–
 Perform the test immediately after collection. If the test cannot be performed within 3 hours, store the sample at 2°C to 8°C for no more than 48 hours. For long-term storage, freeze at -20°C or lower.
 Bring all materials to room temperature before testing. Thaw frozen specimens completely and mix well. Avoid repeated freeze-thaw cycles.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -97,11 +96,11 @@ Quick Test:
 Select "Quick Test," start the timer after adding the sample, and allow the Test Device to sit at room temperature for 10 minutes. Then insert the Test Device into the meter and click "Start Test." Select "Rectal Swab" as the sample type.
 Results will be displayed on the main screen and printed automatically or manually by selecting "Print."
 
-### Quality Control
+## Quality Control
 
 Each CDV-Ag Rapid Quantitative Test includes an internal control for routine quality checks. If the internal control fails, the meter will display an error message, indicating that a new test should be performed.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection range:
 - 4.0 ~ 640 Tu/ml
@@ -113,7 +112,7 @@ Reference range:
 200 Tu/ml: Strong Positive (+++)
 Each laboratory should establish a reference range suited to the population being tested.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is damaged or the vial is leaking.

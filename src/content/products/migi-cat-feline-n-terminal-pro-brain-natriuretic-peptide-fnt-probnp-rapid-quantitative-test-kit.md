@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit?", "a": "The fNT-proBNP test is a fluorescence immunoassay designed for the quantitative measurement of feline N-terminal pro-brain natriuretic peptide levels in feline serum or plasma samples. It is intended to aid in assessing the risk of cardiac failure. Note: For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay method. The intensity of the fluorescent signal correlates with the amount of fNT-proBNP captured, and the concentration is expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test between 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after the pouch is opened."}, {"q": "How are the results interpreted?", "a": "Detection range: 25 ~ 1600 pmol/L Conversion factor: 1 pmol/L = 8.457 pg/ml Reference Range: ≤ 50 pmol/L: Normal 50 – 100 pmol/L: Suspected > 100 pmol/L: Abnormal Note: Each laboratory should establish a reference range based on the specific population being evaluated."}]
 ---
 
-## Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R023`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,32 +29,32 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline N-Terminal Pro-Br
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Test Quantity:
 10 Tests/Box
 Catalog Number:
 
-### Mg-Ca-R023
+## Mg-Ca-R023
 
 
-### Intended Use
+## Intended Use
 
 The fNT-proBNP test is a fluorescence immunoassay designed for the quantitative measurement of feline N-terminal pro-brain natriuretic peptide levels in feline serum or plasma samples. It is intended to aid in assessing the risk of cardiac failure.
 Note:
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Feline N-terminal pro-B-type natriuretic peptide (fNT-proBNP) is released by cardiac myocytes in response to myocardial wall stress and is a well-established biomarker for cardiac disease in cats. It rises in hypertrophic cardiomyopathy (HCM) — the most common feline heart disease — often before radiographic changes appear.
 
 Quantitative fNT-proBNP measurement aids in distinguishing cardiac from respiratory causes of dyspnoea and supports early screening, particularly in predisposed breeds.
 
-### Test Principle
+## Test Principle
 
 This test utilizes a quantitative double antibody sandwich fluorescence immunoassay method. The intensity of the fluorescent signal correlates with the amount of fNT-proBNP captured, and the concentration is expressed in pmol/L.
 
-### Materials
+## Materials
 
 Materials Provided
 Each box contains:
@@ -73,13 +72,13 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at 4～30℃ until the expiration date.
 Operate the test between 18 ~ 28℃ after opening the Test Device.
 Perform the test within 30 minutes after the pouch is opened.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 Separate serum or plasma from blood within 3 hours of collection.
@@ -87,7 +86,7 @@ If the specimen appears severely hemolyzed, collect a new sample.
 Perform the test immediately after specimen collection. If not possible, store the specimen at 2～8℃ for up to 72 hours. For long-term storage, keep specimens below -20℃.
 Bring all materials to room temperature before testing. Thaw frozen specimens completely and mix well. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -101,11 +100,11 @@ Quick Test:
 Click "Quick Test," start the timer immediately after adding the sample mixture, and leave the Test Device at room temperature (18 ~ 28℃) for 15 minutes. Then, insert the Test Device into the meter holder and click "Start Test." The instrument will automatically scan the device and display the result.
 Results are displayed on the main screen and can be printed automatically or manually by selecting "Print."
 
-### Quality Control
+## Quality Control
 
 Each fNT-proBNP Rapid Quantitative Test includes an internal control for routine quality assurance. This internal control is checked every time a patient sample is tested. If the internal control returns an invalid result, an error message will display, indicating the need for a retest.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection range:
 25 ~ 1600 pmol/L
@@ -121,7 +120,7 @@ Abnormal
 Note:
 Each laboratory should establish a reference range based on the specific population being evaluated.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is damaged, not well sealed, or if the vial is damaged or leaking.

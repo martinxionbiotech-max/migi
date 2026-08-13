@@ -6,7 +6,6 @@ pubDate: "2024-09"
 category: "blog"
 ---
 
-## A Feline Triple Test: One Simple Step to Check for Three Common Viruses
 
 02
 
@@ -19,7 +18,7 @@ As a pet parent, ensuring your furry friend's health and well-being is one of yo
 common viral infections afflicting cats with just one simple sample.
 
 
-### What are the Triple Tests?
+## What are the Triple Tests?
 
 
 The feline triple test screens a single blood or oral swab sample for evidence of infection from
@@ -35,7 +34,7 @@ A sample is added and allowed to migrate along the test strip via capillary acti
 accumulate and produce a fluorescent signal that is detected and quantified. This provides qualitative and quantitative results for each virus in just one test.
 
 
-### What Are They Testing For?
+## What Are They Testing For?
 
 
 ●    Feline parvovirus (FPV): A highly contagious virus that causes hemorrhagic gastroenteritis and fatal disease in young kittens. It is spread through contact with infected faeces.
@@ -49,7 +48,7 @@ Testing for exposure to these viruses is important to understand infection risk,
 appropriate vaccination protocols, and monitor health in high-risk populations like shelter and cattery animals. The triple test allows examining for all three with a single sample.
 
 
-### How Much Does the Total Testing Cost?
+## How Much Does the Total Testing Cost?
 
 
 Veterinary clinics can purchase the feline triple test kits for around $120, which includes
@@ -61,7 +60,7 @@ saves both time and money for the client. At most hospitals, the cost of a singl
 provides excellent value for a routine annual wellness exam.
 
 
-### Why Don't We Use the PCR Method?
+## Why Don't We Use the PCR Method?
 
 
 While polymerase chain reaction (PCR) testing provides the highest sensitivity and accuracy for viral detection, it requires specialized laboratory equipment and processing. These polymerase   chain reaction methods are more expensive due to their complexity. For routine annual wellness checks, the feline triple test utilizing immunofluorescence offers an affordable point-of-care
@@ -73,7 +72,7 @@ Veterinary clinics can perform the immunofluorescence triple test on-site in und
 allows same-day results for clients without needing to send samples to an outside facility. For yearly screening purposes, immunofluorescence testing is well-suited to the needs of general practice veterinary medicine.
 
 
-### What Advantages Does This Method Have?
+## What Advantages Does This Method Have?
 
 
 The immunofluorescence methodology used in the feline triple test kit has some clear benefits over other screening methods:
@@ -93,7 +92,7 @@ By making viral screening simple, convenient and affordable, the feline triple t
 effort from both veterinary staff and the pet.
 
 
-### Conclusion
+## Conclusion
 
 
 In summary, the feline triple test provides a quick and cost-effective one-step screening option available to veterinary clinics for detecting exposure or active infection to three common cat viruses- feline parvovirus, herpesvirus and calicivirus. Testing a single sample for all three
@@ -103,7 +102,7 @@ pathogens important to feline health offers a major advantage over running separ
 convenience and accurate results make it a valuable wellness screening tool for general practice veterinary medicine.
 
 
-### References
+## References
 
 
 Hartmann, K. (2005). Feline calicivirus infection. Journal of  Feline Medicine and Surgery, 7(3), 171-179.

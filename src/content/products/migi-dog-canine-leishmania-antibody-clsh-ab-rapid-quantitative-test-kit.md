@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit?", "a": "The cLSH-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer. It quantitatively determines the concentration of leishmania antibodies in serum or plasma specimens, aiding in the diagnosis and monitoring of canine leishmania infection. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of cLSH-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the kit at 4–30℃ up to the expiration date. Operate the test between 18–28℃ after opening the pouch. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 3.0 ~ 320 Tu/ml Reference Ranges : Result (Tu/ml) Suggestion ≤ 6 Negative (-) 6 – 12 Suspected (±) 12 – 25 Weak Positive (+) 25 – 100 Medium Positive (++) > 100 Strong Positive (+++) Note : Each laboratory should establish its own reference range based on the population being tested."}]
 ---
 
-## Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R024`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,31 +29,31 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Leishmania Antibo
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R024
 
-### Intended Use
+## Intended Use
 
 The cLSH-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer. It quantitatively determines the concentration of leishmania antibodies in serum or plasma specimens, aiding in the diagnosis and monitoring of canine leishmania infection.
 For
 in vitro diagnostic use only
 . Professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine leishmaniasis, caused by Leishmania infantum, is a chronic systemic disease transmitted by sandflies and endemic in the Mediterranean basin and South America. Clinical signs are highly variable, making serological detection essential.
 
 Quantitative cLSH antibody measurement supports diagnosis, staging, and post-treatment monitoring of canine leishmaniasis, with antibody titres correlating with parasite burden and disease activity.
 
-### Test Principle
+## Test Principle
 
 This test utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of cLSH-Ab captured, with results expressed in Tu/ml.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -78,7 +77,7 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the kit at
 4–30℃
@@ -90,7 +89,7 @@ Perform the test within
 30 minutes
 of opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be performed using
 serum or plasma
@@ -107,7 +106,7 @@ for up to
 for long-term storage.
 Bring specimens to room temperature before testing. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for complete instructions.
 Place the Test Device on a clean, level surface.
@@ -127,11 +126,11 @@ Quick Test
 , then insert it into the analyzer and start the test. Results will be displayed automatically.
 Results can be displayed on-screen and printed automatically or manually.
 
-### Quality Control
+## Quality Control
 
 Each cLSH-Ab Rapid Quantitative Test contains an internal control for quality assurance. If an invalid result is detected by the internal control, the analyzer will display an error message, indicating that the test should be repeated.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection Range
 : 3.0 ~ 320 Tu/ml
@@ -152,7 +151,7 @@ Strong Positive (+++)
 Note
 : Each laboratory should establish its own reference range based on the population being tested.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For
 in vitro diagnostic use only

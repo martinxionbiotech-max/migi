@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit?", "a": "The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ag in feline rectal swab. Detection range: 4.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Suggestion ≤ 10 Negative (-) 10 ~ 14 Suspected (±) 14 ~ 30 Weak Positive (+) 30 ~ 150 Medium Positive (++) > 150 Strong Positive (+++) Each laboratory should establish a reference range that represents the population being evaluated."}]
 ---
 
-## Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R008`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,28 +29,28 @@ faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antig
 | Grade | Reagent Grade |
 | Suitable for | Veterinary |
 
-### Specification
+## Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R008
 
-### Intended Use
+## Intended Use
 
 The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infection.
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Feline calicivirus (FCV) is one of the most common causes of feline upper respiratory disease (feline viral rhinotracheitis complex) and a leading agent of acute oral ulceration and gingivostomatitis in cats. Highly contagious, it spreads rapidly through direct contact, fomites, and aerosolised secretions — especially in multi-cat households, catteries, and shelters.
 
 Detection of FCV antigen supports early confirmation of active infection, enabling prompt isolation of affected cats and targeted supportive care. Quantitative antigen results also help clinicians monitor viral shedding and evaluate response to therapy, which is particularly valuable in chronic carrier states.
 
-### Test Principle
+## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique.
 The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml.
 
-### Materials
+## Materials
 
 Material Provided
 Each box contains:
@@ -69,20 +68,20 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at 4～30℃ until the expiration date.
 Operate the test at 18 ~ 28℃ after opening the Test Device.
 Perform the test within 30 minutes after opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test is performed using a rectal swab.
 To collect a rectal sample, insert the swab into the feline’s rectum and rotate it close to the inner wall 3 ~ 5 times. The sample volume should cover about 1/2 ~ 2/3 of the cotton tip.
 Perform the test immediately after specimen collection. If testing cannot be done within 3 hours, store the specimen at 2～8℃ for up to 48 hours. For long-term storage, keep the specimen below -20℃.
 Bring all materials to room temperature before use. Completely thaw and mix frozen specimens well before testing. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions on using the Test Device.
 Set the Test Device on a clean, level surface.
@@ -96,11 +95,11 @@ Quick Test
 : Click "Quick Test," start the timer immediately after adding the sample to the sample well, and leave the Test Device at room temperature (18 ~ 28℃) for 10 minutes. Then insert the Test Device into the meter holder and click "Start Test." Select the sample type "Rectal Swab." The instrument will automatically scan the Test Device and display the result.
 Results can be viewed on the main screen, printed automatically, or manually by clicking "Print."
 
-### Quality Control
+## Quality Control
 
 Each FCV-Ag Rapid Quantitative Test includes an internal control for routine quality control. This internal control is performed each time a patient sample is tested. If an invalid result is obtained from the internal control, the meter will display an error message, indicating the need to conduct another test.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Reference range of FCV-Ag in feline rectal swab.
 Detection range:
@@ -120,7 +119,7 @@ Medium Positive (++)
 Strong Positive (+++)
 Each laboratory should establish a reference range that represents the population being evaluated.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 This kit is for in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is broken, torn, not well sealed, or if the vial appears damaged or leaked.

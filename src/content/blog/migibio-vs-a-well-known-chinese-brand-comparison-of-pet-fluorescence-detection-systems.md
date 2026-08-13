@@ -6,7 +6,6 @@ pubDate: "2024-11"
 category: "core-technology"
 ---
 
-## Migibio vs. A Well-Known Chinese Brand: Comparison of Pet Fluorescence Detection Systems
 
 21
 
@@ -15,7 +14,7 @@ Views: 1285
 Migibio vs. A Well-Known Chinese Brand: Comparison of Pet Fluorescence Detection Systems
 
 
-### Introduction
+## Introduction
 
 
 Introduction
@@ -123,4 +122,4 @@ Six independent channels allow for simultaneous multi-sample and multi-user oper
 The Other Brand:
 
 
-### Does not offer comparable functionality.
+## Does not offer comparable functionality.

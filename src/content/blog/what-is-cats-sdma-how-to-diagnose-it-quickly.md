@@ -6,20 +6,18 @@ pubDate: "2024-12"
 category: "core-technology"
 ---
 
-## What Is Cats SDMA?  How to Diagnose It Quickly?
 
 18
 
 Views: 1252
 
 
-### What Is Cats SDMA?  How to Diagnose It Quickly?
 
 
 Chronic kidney disease (CKD) is a common condition in cats, especially as they age. Early diagnosis is crucial for managing the disease and ensuring a better quality of life for our feline companions. One of the most advanced tools for detecting kidney issues early is SDMA (Symmetric Dimethylarginine). Let’s explore what SDMA is, why it’s important, and how it can be diagnosed quickly.
 
 
-### What Is Cat SDMA?
+## What Is Cat SDMA?
 
 
 SDMA is a biomarker used to assess kidney function in cats. It reacts to kidney function decline much earlier than traditional indicators like Blood Urea Nitrogen (BUN) or Creatinine (Cre). While BUN and Cre levels typically rise after 70% of kidney function is lost, SDMA can detect issues when only 40% of kidney function is impaired.
@@ -33,7 +31,7 @@ SDMA rises about 17 months earlier than Cre.
 By measuring SDMA levels, pet owners and veterinarians can identify kidney problems early and take steps to slow the progression of CKD.
 
 
-### Why Test for Cat SDMA?
+## Why Test for Cat SDMA?
 
 
 CKD in cats is a chronic and progressive disease that can last for months or years. It’s characterized by a wide range of symptoms, such as weight loss, increased thirst, and decreased appetite, which makes it difficult to diagnose based solely on visible signs.
@@ -61,7 +59,7 @@ High Kidney Excretion: Over 90% of SDMA is excreted through the kidneys, making 
 Helps in Disease Staging: SDMA levels can assist in determining the stage of CKD and evaluating the effectiveness of treatments.
 
 
-### How to Test SDMA Quickly?
+## How to Test SDMA Quickly?
 
 
 For fast and reliable SDMA testing, we recommend the MigiBio Fluorescence Rapid Test. This method has several advantages:
@@ -75,7 +73,7 @@ Cost-Effective: Suitable for both pet owners and veterinary clinics.
 With this quick and easy method, SDMA testing can be performed conveniently at home or in a clinic, making it accessible for regular kidney health monitoring.
 
 
-### Conclusion
+## Conclusion
 
 
 Conclusion
@@ -85,7 +83,7 @@ Chronic kidney disease is a serious condition in cats, but early diagnosis with 
 If you notice any signs of kidney issues in your cat, talk to your veterinarian about SDMA testing or try rapid testing solutions like MigiBio's method for quick results.
 
 
-### References
+## References
 
 
 International Renal Interest Society (IRIS). (n.d.). SDMA and chronic kidney disease. Retrieved December 18, 2024, from http://www.iris-kidney.com

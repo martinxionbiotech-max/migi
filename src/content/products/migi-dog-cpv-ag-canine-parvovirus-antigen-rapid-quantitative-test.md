@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test?", "a": "The CPV-Ag test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative determination of canine parvovirus antigen concentration in rectal swabs. It aids in the diagnosis and monitoring of canine parvovirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of CPV-Ag captured. The concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30°C up to the expiration date. Test should operate at 18～28°C after the Test Device is opened. Once the pouch is opened, perform the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Detection Range: 4.0 ~ 640 Tu/ml Reference Range: Result (Tu/ml) Suggestion ≤ 8 Negative (-) 8 ~ 15 Suspected (±) 15 ~ 40 Weak Positive (+) 40 ~ 200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range that is representative of the population to be evaluated."}]
 ---
 
-## Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test
 
 **Catalog Number:** `MG-CA-R002`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +29,27 @@ faq: [{"q": "What is the intended use of the Migi (Dog) CPV-Ag Canine Parvovirus
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R002
 
-### Intended Use
+## Intended Use
 
 The CPV-Ag test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative determination of canine parvovirus antigen concentration in rectal swabs. It aids in the diagnosis and monitoring of canine parvovirus infection.
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine parvovirus (CPV) causes severe haemorrhagic gastroenteritis with high mortality in unvaccinated puppies. Early antigen detection is critical for immediate isolation and intensive supportive care.
 
 Quantitative CPV antigen testing enables rapid confirmation of infection, supporting timely intervention and effective containment during outbreaks.
 
-### Test Principle
+## Test Principle
 
 This test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of CPV-Ag captured. The concentration is expressed in Tu/ml.
 
-### Material
+## Material
 
 Material Provided
 Material Required but Not Provided
@@ -67,13 +66,13 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at 4～30°C up to the expiration date.
 Test should operate at 18～28°C after the Test Device is opened.
 Once the pouch is opened, perform the test within 30 minutes.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be performed using a rectal swab.
 Rectal Sample Collection:
@@ -83,7 +82,7 @@ The sample volume should cover 1/2–2/3 of the cotton tip.
 Test immediately after specimen collection if possible. If not, store the specimen at 2–8°C for up to 48 hours. For longer storage, keep specimens below -20°C.
 Before testing, bring all materials to room temperature. Thaw and mix frozen specimens thoroughly. Do not repeatedly freeze and thaw samples. Only clear, non-hemolyzed specimens can be used.
 
-### Test Procedure
+## Test Procedure
 
 Follow the Immunofluorescence Analyzer Operation Manual for complete instructions.
 Place the Test Device on a clean, level surface.
@@ -104,11 +103,11 @@ The instrument will automatically scan the Test Device and display the result.
 Results:
 Displayed on the main screen, printed automatically, or printed by clicking "Print."
 
-### Quality Control
+## Quality Control
 
 Each CPV-Ag Rapid Quantitative Test includes an internal control for quality control purposes. This control is performed each time a patient sample is tested. If an invalid result is detected, the meter will display an error message, indicating the need to repeat the test.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection Range:
 - 4.0 ~ 640 Tu/ml
@@ -127,7 +126,7 @@ Medium Positive (++)
 Strong Positive (+++)
 Each laboratory should establish a reference range that is representative of the population to be evaluated.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 This kit is for in vitro diagnostic use only.
 Inspect packaging before use. Do not use if the pouch is damaged or if any components are compromised.

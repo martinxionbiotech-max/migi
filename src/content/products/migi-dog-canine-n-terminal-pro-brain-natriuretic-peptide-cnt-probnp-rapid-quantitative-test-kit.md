@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit?", "a": "The cNT-proBNP test is a fluorescence immunoassay designed for the quantitative determination of N-terminal pro-brain natriuretic peptide (cNT-proBNP) concentration in canine serum or plasma. It aids in evaluating the risk of cardiac failure in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cNT-proBNP captured. Results are expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the pouch. Once the pouch is opened, the test should be used within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 450 ~ 10,000 pmol/L Conversion Factor : 1 pmol/L = 8.457 pg/ml Reference Ranges : Result (pmol/L) Suggestion ≤ 900 Normal 900 – 1800 Suspected (SUS) > 1800 Abnormal Each laboratory should establish its own reference range based on the population being tested."}]
 ---
 
-## Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R019`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,31 +29,31 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine N-Terminal Pro-Br
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 Package Size
 : 10 Tests/Box
 Catalog Number
 : MG-CA-R019
 
-### Intended Use
+## Intended Use
 
 The cNT-proBNP test is a fluorescence immunoassay designed for the quantitative determination of N-terminal pro-brain natriuretic peptide (cNT-proBNP) concentration in canine serum or plasma. It aids in evaluating the risk of cardiac failure in dogs.
 For
 in vitro diagnostic use only
 . Professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine N-terminal pro-B-type natriuretic peptide (cNT-proBNP) is a sensitive marker of cardiac wall stress and volume overload, released in response to myocardial stretch. It is used to differentiate cardiac from respiratory causes of clinical signs such as cough and dyspnoea.
 
 Quantitative cNT-proBNP measurement supports the early detection of congestive heart failure and myxomatous mitral valve disease (MMVD), and assists in monitoring response to cardiac therapy.
 
-### Test Principle
+## Test Principle
 
 This test employs a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cNT-proBNP captured. Results are expressed in pmol/L.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -78,7 +77,7 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at
 4–30℃
@@ -90,7 +89,7 @@ Once the pouch is opened, the test should be used within
 30 minutes
 .
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 This test can be performed using
 serum or plasma
@@ -107,7 +106,7 @@ or below
 for long-term storage.
 Before testing, bring all materials to room temperature. Ensure that frozen specimens are fully thawed and mixed well. Avoid repeated freezing and thawing. Only clear, non-hemolyzed specimens should be used.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -127,11 +126,11 @@ Quick Test
 , then insert it into the analyzer, select "Serum/Plasma," and start the test. Results will be displayed automatically.
 Results will be displayed on the screen, printed automatically, or printed manually by selecting "Print."
 
-### Quality Control
+## Quality Control
 
 Each cNT-proBNP Rapid Quantitative Test includes an internal control for routine quality control. If an invalid result occurs, the analyzer will display an error message, indicating that the test should be repeated.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection Range
 : 450 ~ 10,000 pmol/L
@@ -149,7 +148,7 @@ Suspected (SUS)
 Abnormal
 Each laboratory should establish its own reference range based on the population being tested.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For
 in vitro diagnostic use only

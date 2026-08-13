@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit?", "a": "The CDV/CPV/CAV Ab test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative measurement of antibodies against canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) in serum or plasma samples. This test can provide reference levels of antibody titers after vaccination to determine whether revaccination is necessary. It is also used as an aid in diagnosing and monitoring infections of CDV, CPV, and CAV. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity corresponds to the amount of CDV-Ab, CPV-Ab, and CAV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Once opened, operate the test device at 18°C to 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: CPV-Ab: 4.5–640 Tu/ml CDV-Ab: 5.0–640 Tu/ml CAV-Ab: 4.0–640 Tu/ml Reference Range: CPV-Ab (Tu/ml) CDV-Ab (Tu/ml) CAV-Ab (Tu/ml) Level Suggestion ≤9 ≤10 ≤8 0 No antibody protection, vaccination recommended. 9–50 10–20 8–18 1 Weak antibody protection, consider booster vaccination. 50–150 20–50 18–40 2 Moderate protection, monitor antibody levels every 6 months. 150–300 50–100 40–80 3 Moderate antibody protection, and strengthen antibody level monitoring, once every 6 months or so. 300-500 100-200 80-160 4 >500 >200 >160 5 Strongest protection, annual testing recommended. Note: If the pet has not been vaccinated but shows antibody levels above level 1, it may indicate past infection. Antibody levels may vary due to individual immune responses to vaccination."}]
 ---
 
-## Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R032`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +29,27 @@ faq: [{"q": "What is the intended use of the Migi (Dog) CDV/CPV/CAV Ab Rapid Qua
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R032
 
-### Intended Use
+## Intended Use
 
 The CDV/CPV/CAV Ab test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative measurement of antibodies against canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) in serum or plasma samples. This test can provide reference levels of antibody titers after vaccination to determine whether revaccination is necessary. It is also used as an aid in diagnosing and monitoring infections of CDV, CPV, and CAV.
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) are the three core components of the standard canine vaccination protocol. Measuring antibody titres against all three simultaneously offers a convenient assessment of overall immune status.
 
 A single quantitative triple test supports confirmation of vaccination efficacy, identification of gaps in protection, and optimisation of booster schedules for breeding and boarding facilities.
 
-### Test Principle
+## Test Principle
 
 This test employs a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity corresponds to the amount of CDV-Ab, CPV-Ab, and CAV-Ab captured, with the concentration expressed as Tu/ml.
 
-### Materials
+## Materials
 
 Materials Provided
 10 individual sealed pouches, each containing:
@@ -66,20 +65,20 @@ Timer
 Pipette (already provided)
 Centrifuge (not typically required for antibody tests)
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at 4°C to 30°C until the expiration date.
 Once opened, operate the test device at 18°C to 28°C.
 Perform the test within 30 minutes of opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 Separate serum or plasma from blood within 3 hours of collection. Avoid severely hemolyzed specimens.
 Perform the test immediately after specimen collection. If testing cannot be done within 3 hours, store the specimen at 2°C to 8°C for no more than 72 hours. For long-term storage, freeze at -20°C or lower.
 Bring all materials to room temperature before use. Thaw frozen specimens completely and mix well. Avoid repeated freeze-thaw cycles.
 
-### Test Procedure
+## Test Procedure
 
 Preparation:
 Set the Test Device on a clean, level surface.
@@ -107,11 +106,11 @@ Results:
 Results are displayed on the main screen.
 Results can be printed automatically or by clicking "Print."
 
-### Quality Control
+## Quality Control
 
 Each CDV/CPV/CAV Ab Rapid Quantitative Test includes an internal control for routine quality assurance. If the internal control fails, the meter will display an error message, indicating that the test should be repeated.
 
-### Interpretation of Results
+## Interpretation of Results
 
 Detection range:
 CPV-Ab: 4.5–640 Tu/ml
@@ -154,7 +153,7 @@ Moderate antibody protection, and strengthen antibody level monitoring, once eve
 Strongest protection, annual testing recommended.
 Note: If the pet has not been vaccinated but shows antibody levels above level 1, it may indicate past infection. Antibody levels may vary due to individual immune responses to vaccination.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For in vitro diagnostic use only.
 Check packaging and labels before use. Do not use if damaged.

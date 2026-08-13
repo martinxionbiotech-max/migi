@@ -10,11 +10,10 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit?", "a": "The cTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantifies the concentration of pancreatic lipase in canine serum or plasma, assisting in the diagnosis and monitoring of pancreatic lipase levels. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit use?", "a": "This assay uses a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cTT4 captured. The results are expressed in nmol/L or µg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Use the Test Device within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "The detection range of cTT4 in canine serum or plasma is 7.5–192 nmol/L (1 nmol/L = 0.0777 µg/dL). Result (nmol/L) Result (µg/dL) Interpretation ≤ 15 ≤ 1.17 Low 15–60 1.17–4.67 Normal > 60 > 4.67 High Each laboratory should establish a reference range specific to its population."}]
 ---
 
-## Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R016`  
 
-### Product Specifications
+## Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,30 +29,30 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Total Thyroxine�
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-### Specification
+## Specification
 
 10 Tests/Box
 Cat. No.:
 
-### Mg-Ca-R016
+## Mg-Ca-R016
 
 
-### Intended Use
+## Intended Use
 
 The cTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantifies the concentration of pancreatic lipase in canine serum or plasma, assisting in the diagnosis and monitoring of pancreatic lipase levels.
 For in vitro diagnostic use only. For professional use only.
 
-### Clinical Significance
+## Clinical Significance
 
 Canine total thyroxine (cTT4) is the standard first-line test for hypothyroidism, one of the most common endocrine disorders in dogs. Low TT4 in the presence of compatible clinical signs strongly supports the diagnosis.
 
 Quantitative cTT4 measurement also enables therapeutic monitoring of dogs receiving levothyroxine supplementation, ensuring adequate replacement without oversupplementation.
 
-### Test Principle
+## Test Principle
 
 This assay uses a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cTT4 captured. The results are expressed in nmol/L or µg/dL.
 
-### Materials Provided
+## Materials Provided
 
 Contents
 Quantity
@@ -77,13 +76,13 @@ Timer
 Pipette
 Centrifuge
 
-### Storage and Stability
+## Storage and Stability
 
 Store the test kit at 4–30°C until the expiration date.
 Perform the test at 18–28°C after opening the Test Device.
 Use the Test Device within 30 minutes after opening the pouch.
 
-### Specimen Collection and Preparation
+## Specimen Collection and Preparation
 
 The test can be used with serum or plasma (EDTA anticoagulant recommended).
 Separate serum or plasma from the blood within 3 hours of collection.
@@ -91,7 +90,7 @@ Severely hemolyzed specimens should be replaced with fresh ones.
 Perform the test immediately after collection if possible. Otherwise, store the specimen at 2–8°C for up to 72 hours. For long-term storage, freeze below -20°C.
 Before testing, bring all materials to room temperature. Ensure frozen samples are completely thawed and mixed thoroughly. Avoid repeated freezing and thawing. Only clear, non-hemolyzed specimens should be used.
 
-### Test Procedure
+## Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, flat surface.
@@ -112,11 +111,11 @@ Insert the Test Device into the meter and click “Start Test.”
 Select “Serum/Plasma” and the device will display the result.
 Results can be displayed on-screen or printed.
 
-### Quality Control
+## Quality Control
 
 Each cTT4 test contains an internal control for routine quality checks. If an internal control result is invalid, the meter will display an error, and a new test should be performed.
 
-### Interpretation of Results
+## Interpretation of Results
 
 The detection range of cTT4 in canine serum or plasma is 7.5–192 nmol/L (1 nmol/L = 0.0777 µg/dL).
 Result (nmol/L)
@@ -133,7 +132,7 @@ Normal
 High
 Each laboratory should establish a reference range specific to its population.
 
-### Warnings and Limitations
+## Warnings and Limitations
 
 For in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if damaged or expired.
