@@ -44,6 +44,12 @@ For
 in vitro diagnostic use only
 . Professional use only.
 
+## Clinical Significance
+
+Canine leishmaniasis, caused by Leishmania infantum, is a chronic systemic disease transmitted by sandflies and endemic in the Mediterranean basin and South America. Clinical signs are highly variable, making serological detection essential.
+
+Quantitative cLSH antibody measurement supports diagnosis, staging, and post-treatment monitoring of canine leishmaniasis, with antibody titres correlating with parasite burden and disease activity.
+
 ## Test Principle
 
 This test utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of cLSH-Ab captured, with results expressed in Tu/ml.

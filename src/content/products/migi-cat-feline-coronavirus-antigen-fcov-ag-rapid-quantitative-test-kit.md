@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R029
 The FCoV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline coronavirus antigen concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline coronavirus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline coronavirus (FCoV) is ubiquitous in cat populations and, in a subset of infected animals, can mutate to cause feline infectious peritonitis (FIP) — a frequently fatal systemic disease. Because clinical signs are often vague in the early stages, antigen detection provides a valuable tool for identifying active infection and guiding management in catteries and shelters.
+
+Quantitative FCoV antigen measurement assists in distinguishing active shedding from past exposure and supports screening programmes aimed at reducing environmental viral load, a key strategy for FIP prevention.
+
 ## Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FCoV-Ag captured, with the concentration expressed in Tu/ml.

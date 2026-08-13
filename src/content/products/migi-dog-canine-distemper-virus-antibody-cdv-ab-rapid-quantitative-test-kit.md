@@ -44,6 +44,12 @@ For
 in vitro diagnostic use only
 . Professional use only.
 
+## Clinical Significance
+
+Canine distemper virus (CDV) is a highly contagious, often fatal morbillivirus affecting multiple body systems. Vaccination is highly protective, and antibody titres are a reliable measure of immunity.
+
+Quantitative CDV antibody measurement supports confirmation of vaccination efficacy, identification of susceptible animals, and management of vaccination schedules in breeding kennels.
+
 ## Test Principle
 
 The test uses a quantitative double-antigen sandwich fluorescence immunoassay technique.

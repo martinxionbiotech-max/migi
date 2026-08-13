@@ -44,6 +44,12 @@ For
 in vitro diagnostic use only
 . For professional use only.
 
+## Clinical Significance
+
+Canine parvovirus (CPV) is a highly contagious and potentially fatal viral enteritis of dogs, particularly puppies. Vaccination is highly effective, and antibody titres correlate strongly with protective immunity.
+
+Quantitative CPV antibody measurement supports assessment of maternal antibody levels in puppies, optimal timing of primary vaccination, and confirmation of vaccine response in adults.
+
 ## Test Principle
 
 Utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique.

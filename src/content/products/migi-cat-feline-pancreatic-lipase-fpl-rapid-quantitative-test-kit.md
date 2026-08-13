@@ -45,6 +45,12 @@ The fPL test is a fluorescence immunoassay designed for use with an Immunofluore
 Note:
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline pancreatic lipase immunoreactivity (fPL) is the most sensitive and specific circulating marker for feline pancreatitis, a condition that is frequently underdiagnosed due to non-specific clinical signs. Unlike traditional amylase and lipase, fPL is specific to pancreatic origin.
+
+Quantitative fPL measurement enables reliable diagnosis of pancreatitis, differentiation from other gastrointestinal disorders, and monitoring of disease progression and treatment response.
+
 ## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique.

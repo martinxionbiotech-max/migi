@@ -41,6 +41,12 @@ Catalog Number
 
 The Feline FPV/FHV/FCV Ab test is a quantitative assay used with an Immunofluorescence Analyzer to measure antibodies for feline panleukopenia virus (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) in serum or plasma.
 
+## Clinical Significance
+
+Feline panleukopenia (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) are the three core pathogens targeted by the standard feline vaccination protocol. Measuring antibody titres against all three simultaneously provides a convenient assessment of vaccination efficacy and immune status.
+
+A single quantitative triple test helps clinicians determine whether a cat has protective immunity, identify animals requiring booster vaccination, and optimise vaccination schedules for multi-cat environments.
+
 ## Test Principle
 
 This test uses a double antigen sandwich fluorescence method. The intensity of the fluorescent signal indicates the concentration of antibodies, expressed as Tu/ml.

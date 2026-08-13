@@ -40,6 +40,12 @@ Cat.No.: MG-CA-R012
 The FHV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine panleukopenia virus antibody concentrations in serum or plasma. This test is useful for assessing the FHV-Ab titer level after pet vaccination, indicating if revaccination is necessary. It also aids in diagnosing and monitoring feline panleukopenia virus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline herpesvirus type 1 (FHV-1) is the causative agent of feline viral rhinotracheitis (FVR) and a major contributor to feline upper respiratory disease. Following infection, the virus establishes lifelong latency, with periodic reactivation causing recurrent clinical signs.
+
+Quantitative FHV antibody measurement helps assess vaccination response and monitor immune status, supporting decisions on booster timing and herd immunity management in catteries.
+
 ## Test Principle
 
 This test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FHV-Ab captured, with the concentration expressed in Tu/ml.

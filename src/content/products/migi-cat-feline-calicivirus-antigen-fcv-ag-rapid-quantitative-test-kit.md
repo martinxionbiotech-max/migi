@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R008
 The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline calicivirus (FCV) is one of the most common causes of feline upper respiratory disease (feline viral rhinotracheitis complex) and a leading agent of acute oral ulceration and gingivostomatitis in cats. Highly contagious, it spreads rapidly through direct contact, fomites, and aerosolised secretions — especially in multi-cat households, catteries, and shelters.
+
+Detection of FCV antigen supports early confirmation of active infection, enabling prompt isolation of affected cats and targeted supportive care. Quantitative antigen results also help clinicians monitor viral shedding and evaluate response to therapy, which is particularly valuable in chronic carrier states.
+
 ## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique.

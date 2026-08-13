@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R013
 The FCV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antibody in serum or plasma. The test may serve as a reference for FCV-Ab titer levels following vaccination and help determine if additional immunization is needed. It can also assist in the diagnosis and monitoring of feline calicivirus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline calicivirus (FCV) is one of the most common causes of feline upper respiratory disease and acute oral ulceration. Vaccination is the mainstay of prevention, and antibody titres are a reliable indicator of protective immunity.
+
+Quantitative FCV antibody measurement supports assessment of vaccination response, identification of cats requiring booster immunisation, and management of herd immunity in catteries and shelters.
+
 ## Test Principle
 
 The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique.

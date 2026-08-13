@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R018
 The cCortisol test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure cCortisol levels in canine serum or plasma specimens.
 For in vitro diagnostic use only. Professional use only.
 
+## Clinical Significance
+
+Canine cortisol measurement is central to the diagnosis of hyperadrenocorticism (Cushing's syndrome) and hypoadrenocorticism (Addison's disease), two significant endocrine disorders with widely differing presentations.
+
+Quantitative cCortisol testing supports screening and monitoring of adrenal function, including ACTH stimulation and low-dose dexamethasone suppression testing protocols.
+
 ## Test Principle
 
 This test utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity corresponds to the amount of cCortisol present, and the concentration is reported in μg/dL or nmol/L.

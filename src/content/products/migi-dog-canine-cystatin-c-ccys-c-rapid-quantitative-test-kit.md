@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R030
 The cCys C test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative measurement of cystatin C concentration in canine serum or plasma. It is designed to assist in the diagnosis and monitoring of cystatin C levels in canines.
 For in vitro diagnostic use only. Professional use only.
 
+## Clinical Significance
+
+Canine cystatin C is a sensitive endogenous marker of glomerular filtration rate (GFR) that is less influenced by muscle mass, breed, and body condition than serum creatinine. It rises earlier in the course of renal dysfunction, making it a valuable adjunct for the early detection of chronic kidney disease (CKD) in dogs.
+
+Quantitative cCys C measurement supports earlier intervention, more accurate CKD staging, and closer therapeutic monitoring in at-risk patients.
+
 ## Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cCys C captured, and the concentration is expressed in mg/dL.

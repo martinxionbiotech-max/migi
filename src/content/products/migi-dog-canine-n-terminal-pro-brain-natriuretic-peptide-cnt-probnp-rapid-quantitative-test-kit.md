@@ -44,6 +44,12 @@ For
 in vitro diagnostic use only
 . Professional use only.
 
+## Clinical Significance
+
+Canine N-terminal pro-B-type natriuretic peptide (cNT-proBNP) is a sensitive marker of cardiac wall stress and volume overload, released in response to myocardial stretch. It is used to differentiate cardiac from respiratory causes of clinical signs such as cough and dyspnoea.
+
+Quantitative cNT-proBNP measurement supports the early detection of congestive heart failure and myxomatous mitral valve disease (MMVD), and assists in monitoring response to cardiac therapy.
+
 ## Test Principle
 
 This test employs a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cNT-proBNP captured. Results are expressed in pmol/L.

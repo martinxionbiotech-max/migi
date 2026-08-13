@@ -43,6 +43,12 @@ Catalog No.:
 The FPV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure panleukopenia virus antigen (FPV-Ag) concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline panleukopenia virus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline panleukopenia (FPV) is a highly contagious parvoviral disease causing severe gastroenteritis and leukopenia, with high mortality in kittens. Early antigen detection is critical for prompt isolation and aggressive supportive therapy.
+
+Quantitative FPV antigen testing enables rapid confirmation of infection during outbreaks, helping to contain transmission in shelters, catteries, and veterinary hospitals.
+
 ## Test Principle
 
 The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.

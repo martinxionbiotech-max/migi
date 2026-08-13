@@ -45,6 +45,12 @@ The fNT-proBNP test is a fluorescence immunoassay designed for the quantitative 
 Note:
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline N-terminal pro-B-type natriuretic peptide (fNT-proBNP) is released by cardiac myocytes in response to myocardial wall stress and is a well-established biomarker for cardiac disease in cats. It rises in hypertrophic cardiomyopathy (HCM) — the most common feline heart disease — often before radiographic changes appear.
+
+Quantitative fNT-proBNP measurement aids in distinguishing cardiac from respiratory causes of dyspnoea and supports early screening, particularly in predisposed breeds.
+
 ## Test Principle
 
 This test utilizes a quantitative double antibody sandwich fluorescence immunoassay method. The intensity of the fluorescent signal correlates with the amount of fNT-proBNP captured, and the concentration is expressed in pmol/L.

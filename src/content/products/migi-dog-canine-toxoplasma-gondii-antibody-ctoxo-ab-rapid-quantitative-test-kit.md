@@ -47,6 +47,12 @@ Toxoplasma gondii
 infections.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Toxoplasma gondii is a zoonotic protozoan parasite that can cause clinical disease in dogs and significant public health concern. Serological detection of antibodies indicates exposure and helps assess infection status.
+
+Quantitative cTOXO antibody measurement supports diagnosis of clinical toxoplasmosis and screening of at-risk animals, informing preventive advice for owners.
+
 ## Test Principle
 
 This test utilizes a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity reflects the amount of cTOXO-Ab captured, and the concentration is expressed in IU/ml.

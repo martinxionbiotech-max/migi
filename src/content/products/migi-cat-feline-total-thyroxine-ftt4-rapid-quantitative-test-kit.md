@@ -43,6 +43,12 @@ Catalog No.:
 The fTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine total thyroxine (fTT4) concentration in feline serum or plasma. This test aids in evaluating thyroid function.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline total thyroxine (fTT4) is the primary screening test for hyperthyroidism, the most common endocrine disease of older cats. Elevated TT4 concentrations are diagnostic in the majority of clinically hyperthyroid cats.
+
+Quantitative fTT4 measurement supports diagnosis and enables serial monitoring of cats receiving antithyroid therapy, ensuring optimal dose titration and early detection of iatrogenic hypothyroidism.
+
 ## Test Principle
 
 This test utilizes a quantitative competitive fluorescence immunoassay technique.

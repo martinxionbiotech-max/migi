@@ -40,6 +40,12 @@ Cat.No.: MG-CA-R030
 The fCys C test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine cystatin C concentration in feline serum or plasma. It is intended for diagnosing and monitoring renal failure in felines.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline cystatin C is a low-molecular-weight protein produced at a constant rate and freely filtered by the glomerulus, making it an early and reliable marker of glomerular filtration rate (GFR). Unlike creatinine, cystatin C is largely independent of muscle mass and body condition — an important advantage in cachectic or elderly cats.
+
+Quantitative fCys C measurement enables earlier detection of renal impairment than creatinine alone, supporting the diagnosis and staging of chronic kidney disease (CKD) before clinical signs become apparent.
+
 ## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of fCys C captured, with concentration expressed in mg/dL.

@@ -43,6 +43,12 @@ Cat. No.:
 The cTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantifies the concentration of pancreatic lipase in canine serum or plasma, assisting in the diagnosis and monitoring of pancreatic lipase levels.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine total thyroxine (cTT4) is the standard first-line test for hypothyroidism, one of the most common endocrine disorders in dogs. Low TT4 in the presence of compatible clinical signs strongly supports the diagnosis.
+
+Quantitative cTT4 measurement also enables therapeutic monitoring of dogs receiving levothyroxine supplementation, ensuring adequate replacement without oversupplementation.
+
 ## Test Principle
 
 This assay uses a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cTT4 captured. The results are expressed in nmol/L or µg/dL.

@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R002
 The CPV-Ag test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative determination of canine parvovirus antigen concentration in rectal swabs. It aids in the diagnosis and monitoring of canine parvovirus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine parvovirus (CPV) causes severe haemorrhagic gastroenteritis with high mortality in unvaccinated puppies. Early antigen detection is critical for immediate isolation and intensive supportive care.
+
+Quantitative CPV antigen testing enables rapid confirmation of infection, supporting timely intervention and effective containment during outbreaks.
+
 ## Test Principle
 
 This test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of CPV-Ag captured. The concentration is expressed in Tu/ml.

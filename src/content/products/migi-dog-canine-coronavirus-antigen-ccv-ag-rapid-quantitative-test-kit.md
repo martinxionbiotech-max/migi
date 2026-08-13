@@ -40,6 +40,12 @@ CAT No.  MG-CA-R005
 The CCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure the concentration of canine distemper virus (CCV) antigen in nasopharyngeal or ocular swabs from dogs. This test aids in diagnosing and monitoring canine distemper virus infections and assessing the effectiveness of vaccination.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine coronavirus (CCV) is a highly contagious enteric pathogen causing gastroenteritis, particularly in puppies. Infection is often mild but can be severe when co-infecting with parvovirus or other pathogens.
+
+Quantitative CCV antigen detection supports confirmation of active infection during outbreaks and aids in differentiating causes of acute diarrhoea in young dogs.
+
 ## Test Principle
 
 The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of CCV antigen captured, with results expressed in Tu/ml.

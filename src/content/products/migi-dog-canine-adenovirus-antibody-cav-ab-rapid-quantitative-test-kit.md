@@ -43,6 +43,12 @@ Catalog No.:
 The CAV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure adenovirus antibody (CAV-Ab) levels in serum or plasma. This test assists in evaluating the effectiveness of pet vaccinations, determining the need for re-vaccination, and monitoring canine adenovirus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine adenovirus (CAV) causes infectious canine hepatitis (CAV-1) and contributes to infectious tracheobronchitis (CAV-2). Vaccination is routine and effective, and antibody titres reflect protective immunity.
+
+Quantitative CAV antibody measurement supports assessment of vaccination status, identification of under-protected animals, and optimisation of booster protocols.
+
 ## Test Principle
 
 The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique.

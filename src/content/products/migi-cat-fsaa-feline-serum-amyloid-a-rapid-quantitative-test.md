@@ -43,6 +43,12 @@ Catalog No.:
 The fSAA test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline serum amyloid A (fSAA) concentration in whole blood, serum, or plasma specimens. This test helps in confirming underlying inflammation and monitoring response to therapy, as well as post-operative effects and recovery.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline serum amyloid A (fSAA) is a major acute-phase protein that rises rapidly and dramatically in response to inflammation and infection in cats. Unlike in other species, fSAA is an exceptionally sensitive early indicator of inflammatory disease.
+
+Quantitative fSAA measurement supports early detection of occult inflammation, differentiation of inflammatory from non-inflammatory conditions, and objective monitoring of treatment response and recovery.
+
 ## Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique.

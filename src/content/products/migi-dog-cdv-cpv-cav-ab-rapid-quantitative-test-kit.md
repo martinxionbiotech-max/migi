@@ -40,6 +40,12 @@ Cat. No.: MG-CA-R032
 The CDV/CPV/CAV Ab test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative measurement of antibodies against canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) in serum or plasma samples. This test can provide reference levels of antibody titers after vaccination to determine whether revaccination is necessary. It is also used as an aid in diagnosing and monitoring infections of CDV, CPV, and CAV.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) are the three core components of the standard canine vaccination protocol. Measuring antibody titres against all three simultaneously offers a convenient assessment of overall immune status.
+
+A single quantitative triple test supports confirmation of vaccination efficacy, identification of gaps in protection, and optimisation of booster schedules for breeding and boarding facilities.
+
 ## Test Principle
 
 This test employs a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity corresponds to the amount of CDV-Ab, CPV-Ab, and CAV-Ab captured, with the concentration expressed as Tu/ml.

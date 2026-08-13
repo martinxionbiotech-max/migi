@@ -44,6 +44,12 @@ For
 in vitro diagnostic use only
 . Professional use only.
 
+## Clinical Significance
+
+Canine pancreatic lipase immunoreactivity (cPL) is the reference biomarker for canine pancreatitis, offering superior sensitivity and specificity compared with serum lipase and amylase. Elevated cPL is highly correlated with pancreatic inflammation.
+
+Quantitative cPL measurement supports prompt diagnosis of acute pancreatitis, differentiation from other causes of vomiting and abdominal pain, and serial monitoring of recovery.
+
 ## Test Principle
 
 This test utilizes a quantitative double-antibody sandwich fluorescence immunoassay technique.

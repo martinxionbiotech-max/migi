@@ -42,6 +42,12 @@ canine whole blood, serum, or plasma.
 It assists in identifying underlying inflammation and monitoring therapy response, post-operative effects, and recovery.
 For in vitro diagnostic use only. Professional use only.
 
+## Clinical Significance
+
+Canine C-reactive protein (cCRP) is the major acute-phase protein in dogs and a highly sensitive marker of systemic inflammation. It rises within hours of an inflammatory stimulus and returns to baseline as inflammation resolves.
+
+Quantitative cCRP measurement supports the detection of subclinical inflammation, differentiation of inflammatory from neoplastic disease, and serial monitoring of response to antibiotic or anti-inflammatory therapy.
+
 ## Test Principle
 
 Double antibody sandwich fluorescence immunoassay technique.

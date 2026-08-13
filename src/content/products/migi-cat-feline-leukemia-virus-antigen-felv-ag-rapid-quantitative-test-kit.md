@@ -40,6 +40,12 @@ Cat.No.: MG-CA-R028
 The FeLV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of leukemia virus antigen (FeLV-Ag) in feline serum or plasma. It is used as an aid in diagnosing and monitoring feline leukemia virus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline leukemia virus (FeLV) is one of the most significant infectious diseases of cats, associated with immunosuppression, anaemia, and lymphoma. Because many infected cats are asymptomatic carriers for extended periods, antigen detection is the most reliable method of identifying infection.
+
+Quantitative FeLV antigen measurement supports early diagnosis, appropriate isolation of viraemic cats, and informed vaccination and management decisions in multi-cat settings.
+
 ## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of FeLV-Ag captured, and the concentration is expressed in Tu/ml.

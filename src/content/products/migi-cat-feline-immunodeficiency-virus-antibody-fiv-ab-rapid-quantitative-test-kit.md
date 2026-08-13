@@ -40,6 +40,12 @@ Cat.No.: MG-CA-R027
 The FIV-Ab test is a fluorescence immunoassay designed for the quantitative determination of feline immunodeficiency virus antibodies in serum or plasma specimens. This test assists in diagnosing and monitoring feline immunodeficiency virus (FIV) infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline immunodeficiency virus (FIV) is a lentivirus that progressively impairs the immune system of infected cats. Because infection is lifelong, early detection is essential for managing health, preventing secondary infections, and limiting spread through fighting and biting.
+
+Quantitative FIV antibody testing provides a reliable screening tool, with antibody levels supporting confirmation of infection status and informing long-term care and isolation decisions.
+
 ## Test Principle
 
 This test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FIV-Ab captured, with the concentration expressed as Tu/ml.

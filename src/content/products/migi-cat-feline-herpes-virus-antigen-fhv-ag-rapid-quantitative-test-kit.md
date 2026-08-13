@@ -40,6 +40,12 @@ Cat.No.: MG-CA-R007
 The FHV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen (FHV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infections.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline herpesvirus (FHV-1) is a highly prevalent pathogen responsible for feline viral rhinotracheitis and recurrent ocular disease. Antigen detection permits confirmation of active infection during acute outbreaks, when viral shedding is highest.
+
+Quantitative FHV antigen results support early isolation of infected cats, reducing transmission in multi-cat environments and guiding appropriate antiviral and supportive therapy.
+
 ## Test Principle
 
 The FHV-Ag test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.

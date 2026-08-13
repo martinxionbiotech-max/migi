@@ -43,6 +43,12 @@ Catalog No.:
 The FPV-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of panleukopenia virus antibodies (FPV-Ab) in serum or plasma. This test can be used to assess the level of FPV-Ab titer following pet vaccination, helping to determine whether a booster vaccination is necessary. Additionally, it aids in the diagnosis and monitoring of feline panleukopenia virus infection.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Feline panleukopenia virus (FPV) is a highly contagious and often fatal parvovirus of cats. Vaccination is highly effective, and antibody titres are a reliable indicator of protective immunity.
+
+Quantitative FPV antibody measurement allows clinicians to confirm vaccination efficacy, identify cats with inadequate protection, and tailor booster schedules — particularly important in shelters and breeding facilities.
+
 ## Test Principle
 
 The test uses a quantitative double antigen sandwich fluorescence immunoassay technique.

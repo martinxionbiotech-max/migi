@@ -41,6 +41,12 @@ Catalog Number
 
 The cTSH test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure thyroid-stimulating hormone (TSH) levels in canine serum or plasma. This test is intended for professional use only and for in vitro diagnostic purposes.
 
+## Clinical Significance
+
+Canine thyroid-stimulating hormone (cTSH) is used in combination with total thyroxine (cTT4) for the diagnosis of hypothyroidism. An elevated cTSH with a low cTT4 is highly specific for primary hypothyroidism.
+
+Quantitative cTSH measurement improves diagnostic accuracy in equivocal cases and supports monitoring of thyroid hormone replacement therapy.
+
 ## Test Principle
 
 Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.

@@ -49,6 +49,12 @@ For
 in vitro diagnostic use only
 . For professional use only.
 
+## Clinical Significance
+
+Canine relaxin is a pregnancy-specific hormone produced by the placenta, detectable in maternal blood from approximately 20–30 days after mating. It is the most reliable single marker for confirming pregnancy in dogs.
+
+Quantitative cRelaxin measurement supports early pregnancy diagnosis, differentiation of pregnancy from pseudopregnancy, and monitoring of high-risk pregnancies.
+
 ## Test Principle
 
 Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique.

@@ -39,6 +39,12 @@ Cat. No.: MG-CA-R001
 The CDV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure distemper virus antigen (CDV-Ag) in canine nasopharyngeal or ocular swabs. It is used to aid in diagnosing and monitoring canine distemper virus infections.
 For in vitro diagnostic use only. For professional use only.
 
+## Clinical Significance
+
+Canine distemper virus (CDV) causes severe multisystemic disease with high mortality, particularly in unvaccinated puppies. Early antigen detection is critical for prompt diagnosis and isolation.
+
+Quantitative CDV antigen testing supports rapid confirmation of infection during outbreaks and guides appropriate supportive and containment measures.
+
 ## Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of CDV-Ag captured, with the concentration expressed as Tu/ml.
