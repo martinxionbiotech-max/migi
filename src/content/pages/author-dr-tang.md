@@ -10,7 +10,7 @@ Dr. Tang is a veterinary diagnostics specialist with a doctoral background in im
 
 ## Professional Background
 
-Dr. Tang holds a doctoral degree (PhD) from South China Medical University and serves as a graduate supervisor. His expertise spans fluorescence immunochromatography (FICT), lateral-flow assay development, and the clinical application of quantitative biomarkers in canine and feline medicine — grounding every article in both rigorous academic science and real-world diagnostic practice.
+Dr. Tang holds a doctoral degree (PhD) from Southern Medical University and serves as a graduate supervisor. His expertise spans fluorescence immunochromatography (FICT), lateral-flow assay development, and the clinical application of quantitative biomarkers in canine and feline medicine — grounding every article in both rigorous academic science and real-world diagnostic practice.
 
 ## Areas of Expertise
 
