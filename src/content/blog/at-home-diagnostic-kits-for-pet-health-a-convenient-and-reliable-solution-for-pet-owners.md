@@ -4,6 +4,7 @@ slug: "at-home-diagnostic-kits-for-pet-health-a-convenient-and-reliable-solution
 description: "At-Home Diagnostic Kits for Pet Health: A Convenient and Reliable Solution for Pet Owners"
 pubDate: "2024-12"
 category: "core-technology"
+faq: [{"q": "Are at-home pet diagnostic kits reliable?", "a": "When manufactured to ISO and GMP standards with built-in controls, at-home rapid tests can be reliable for their intended screening purpose. However, quantitative fluorescence tests read by an analyzer are more objective than visual line-reading, and any abnormal result should be confirmed by a veterinarian."}, {"q": "Which tests are suitable for home use?", "a": "Screening-type tests with simple specimen collection — such as swab-based infectious disease antigen tests or hormone tests using serum/plasma — are the most suitable for home use. Tests requiring venipuncture or complex handling are better performed in a clinic."}, {"q": "How do home tests compare to clinic-based testing?", "a": "Home tests trade convenience for a slightly higher risk of user error and weaker interpretation support. Clinic-based quantitative testing provides calibrated concentrations, reference ranges, and professional interpretation. Home kits are best used for preliminary screening and monitoring between clinic visits."}]
 ---
 
 ## Introduction

@@ -24,6 +24,10 @@ Migibio was established in Guangzhou Science City — a national-level innovatio
 
 Migibio's multidisciplinary team spans R&D, quality control, production, and technical support. The R&D centre, training facilities, and production workshop operate in an integrated workflow designed to shorten the path from reagent development to validated, market-ready diagnostic kits.
 
+## Looking Ahead
+
+Migibio continues to invest in next-generation diagnostic platforms and an expanding biomarker menu. Our roadmap includes broader multi-analyte panels, enhanced connectivity and data management, and deeper partnerships with distributors and reference laboratories to extend quantitative point-of-care testing to more markets worldwide.
+
 ## Vision & Spirit
 
 - **Vision:** More sensitive, more efficient!

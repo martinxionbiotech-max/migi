@@ -4,6 +4,7 @@ slug: "canine-progesterone-relaxin-breeding-testing"
 description: "A guide to canine progesterone and relaxin testing for breeding: timing ovulation with progesterone, confirming pregnancy with relaxin, and how quantitative testing improves breeding outcomes."
 pubDate: "2025-04"
 category: "blog"
+faq: [{"q": "How does progesterone testing help time breeding?", "a": "Progesterone rises predictably around ovulation, so serial quantitative progesterone measurements pinpoint the fertile window for optimal mating or artificial insemination. This is far more reliable than behavioural signs or vaginal cytology alone."}, {"q": "What does relaxin detect?", "a": "Relaxin is a hormone produced by the placenta after implantation, making it a specific marker of pregnancy in dogs. A positive relaxin test confirms pregnancy approximately 21–30 days after mating, earlier than reliable palpation or radiography."}, {"q": "When is the best time to test?", "a": "Progesterone testing should begin a few days after the onset of oestrus and be repeated every 1–2 days until ovulation is identified. Relaxin testing is performed around day 21–30 post-mating to confirm pregnancy."}]
 ---
 
 For dog breeders, timing is everything. Whether breeding naturally or via artificial insemination, success hinges on precisely identifying ovulation and confirming pregnancy. Two biomarkers — progesterone and relaxin — make this possible with quantitative point-of-care testing. This guide explains how to use them.

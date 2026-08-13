@@ -4,6 +4,7 @@ slug: "feline-coronavirus-fip-testing"
 description: "Understand feline coronavirus (FCoV) and feline infectious peritonitis (FIP) testing: how antigen testing works, why a positive coronavirus test does not mean FIP, and how FIP is diagnosed."
 pubDate: "2025-03"
 category: "blog"
+faq: [{"q": "What is the relationship between FCoV and FIP?", "a": "Feline coronavirus (FCoV) is a common, usually mild enteric infection. Feline infectious peritonitis (FIP) develops when the virus mutates within an individual cat and spreads systemically. FCoV is common; FIP is a rare but serious consequence."}, {"q": "Does a positive FCoV test mean my cat has FIP?", "a": "No. Most cats with FCoV never develop FIP. A positive FCoV antigen test confirms coronavirus infection, but FIP diagnosis requires additional clinical, laboratory, and often effusion analysis. A positive FCoV test alone is not diagnostic of FIP."}, {"q": "How is FCoV detected?", "a": "FCoV is detected by antigen testing on rectal/fecal swabs, since the virus is shed in faeces. Quantitative testing measures viral load, which can help monitor shedding and support management in multi-cat environments."}]
 ---
 
 Feline coronavirus (FCoV) is one of the most common — and most misunderstood — infections in cats. Most infected cats show no signs, but in a small minority, the virus mutates into the devastating disease feline infectious peritonitis (FIP). Understanding the distinction between coronavirus infection and FIP is essential for interpreting test results correctly.

@@ -4,6 +4,7 @@ slug: "canine-parvovirus-testing-guide"
 description: "Everything about canine parvovirus (CPV) testing: antigen vs antibody tests, when to test, sample collection, interpreting positive and negative results, and the role of quantitative fluorescence testing."
 pubDate: "2025-03"
 category: "blog"
+faq: [{"q": "How is canine parvovirus detected?", "a": "Parvovirus is most commonly detected by antigen testing on a faecal or rectal swab, which identifies the virus shed in faeces. Antibody testing is used separately to assess vaccination status. Quantitative fluorescence antigen tests report viral load rather than a simple positive/negative."}, {"q": "When should a puppy be tested for CPV?", "a": "Test any puppy or unvaccinated dog with acute vomiting, bloody diarrhoea, lethargy, or fever. Early testing is critical because parvovirus is highly contagious and fast-moving; prompt isolation and supportive care significantly improve survival."}, {"q": "How should a CPV sample be collected?", "a": "A rectal swab is inserted into the rectum and rotated gently to collect faecal material. The sample is mixed into buffer and applied to the test device. Quantitative tests read the result on an immunofluorescence analyzer within minutes."}]
 ---
 
 Canine parvovirus (CPV) is one of the most feared diseases in veterinary medicine — highly contagious, frequently fatal, and devastatingly fast. Rapid, accurate testing is the cornerstone of managing an outbreak, whether in a single puppy or a shelter population. This guide explains CPV testing in depth.

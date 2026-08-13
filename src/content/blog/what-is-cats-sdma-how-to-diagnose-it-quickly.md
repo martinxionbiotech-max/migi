@@ -4,6 +4,7 @@ slug: "what-is-cats-sdma-how-to-diagnose-it-quickly"
 description: "Chronic kidney disease (CKD) is a common condition in cats, especially as they age. Early diagnosis is crucial for managing the disease and ensuring a better qu"
 pubDate: "2024-12"
 category: "core-technology"
+faq: [{"q": "What is SDMA in cats?", "a": "SDMA (symmetric dimethylarginine) is a kidney-function biomarker that rises when glomerular filtration declines. In cats it enables earlier detection of chronic kidney disease than creatinine, often before clinical signs appear."}, {"q": "How does SDMA help diagnose kidney disease early?", "a": "SDMA increases when as little as 25–40% of kidney function is lost — earlier than creatinine — and is unaffected by muscle mass. This allows diagnosis and intervention at an earlier, more treatable stage of chronic kidney disease."}, {"q": "How often should SDMA be tested?", "a": "SDMA should be included in annual or semi-annual senior cat screening, before anaesthesia or nephrotoxic medications, and during monitoring of diagnosed kidney disease to track progression and guide IRIS staging."}]
 ---
 
 Chronic kidney disease (CKD) is a common condition in cats, especially as they age. Early diagnosis is crucial for managing the disease and ensuring a better quality of life for our feline companions. One of the most advanced tools for detecting kidney issues early is SDMA (Symmetric Dimethylarginine). Let’s explore what SDMA is, why it’s important, and how it can be diagnosed quickly.

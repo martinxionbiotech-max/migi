@@ -4,6 +4,7 @@ slug: "what-is-the-feline-panleukopenia-test"
 description: "The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline"
 pubDate: "2024-09"
 category: "blog"
+faq: [{"q": "What is feline panleukopenia?", "a": "Feline panleukopenia (FPV, also called feline distemper) is a highly contagious, often fatal parvovirus of cats that destroys white blood cells and damages the intestinal lining, causing severe vomiting, diarrhoea, and immune suppression, especially in kittens."}, {"q": "How is FPV detected?", "a": "FPV is detected by antigen testing on a faecal or rectal swab, since the virus is shed in faeces. Quantitative fluorescence testing reports viral load, while antibody testing is used separately to confirm vaccination status."}, {"q": "Antigen or antibody testing for panleukopenia?", "a": "Use antigen testing when a cat is actively ill, to confirm current infection and guide isolation. Use antibody testing in serum/plasma to verify vaccine protection or assess exposure in apparently healthy cats."}]
 ---
 
 The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline panleukopenia is a highly contagious and potentially deadly disease that can affect all domestic and wild felines. While vaccination is the best form of prevention, testing allows veterinarians to diagnose infected cats and provide proper treatment plans to aid their recovery (Hartmann, 2020).

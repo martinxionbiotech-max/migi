@@ -25,6 +25,10 @@ To make laboratory-grade quantitative diagnostics accessible at the point of car
 
 Every Migibio product is manufactured under ISO9001 and GMP-certified processes. We maintain strict lot-release testing, internal quality controls in every test device, and full traceability across our supply chain — because diagnostic accuracy is non-negotiable.
 
+## The Migibio Name
+
+"Migibio" combines "Migi" — drawn from "Magic" (Magic Biotech) — with "bio," reflecting the company's biotechnology foundation. The name signals our dual identity: a scientifically rigorous diagnostics manufacturer and an agile, innovation-driven partner committed to making quantitative veterinary testing accessible worldwide.
+
 ## Vision & Spirit
 
 - **Vision:** More sensitive, more efficient!

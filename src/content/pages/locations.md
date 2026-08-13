@@ -29,3 +29,7 @@ This integrated facility enables end-to-end control of reagent production — fr
 ## Global Reach
 
 Migibio products are distributed in **30+ countries and regions**, including the United States, United Kingdom, Germany, Russia, Peru, India, and Vietnam. Our team provides responsive technical and after-sales support to veterinary professionals worldwide.
+
+## Getting Here
+
+Guangzhou Science City is located in the Huangpu District, approximately 30 minutes by road from Guangzhou Baiyun International Airport and well-connected to Guangzhou East Railway Station. The Najin Technology Industrial Park is accessible by Metro Line 6 (Science City area) and the major highways linking the city's industrial zones.

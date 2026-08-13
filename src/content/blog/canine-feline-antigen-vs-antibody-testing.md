@@ -4,6 +4,7 @@ slug: "canine-feline-antigen-vs-antibody-testing"
 description: "A guide to antigen versus antibody testing in veterinary diagnostics — when to use each, what a positive or negative result means, and how quantitative fluorescence immunoassays improve accuracy."
 pubDate: "2025-03"
 category: "blog"
+faq: [{"q": "What is the difference between antigen and antibody tests?", "a": "An antigen test detects the pathogen (or a part of it) and indicates current infection. An antibody test detects the animal's immune response and indicates past exposure or vaccination. The timing of each is different: antigens appear early in infection, antibodies develop days to weeks later."}, {"q": "When should you use an antigen test?", "a": "Use an antigen test when an animal is actively ill and you need to identify the causative pathogen quickly — for example, a parvovirus antigen test in a puppy with vomiting and diarrhoea. Antigen tests support immediate isolation and treatment decisions."}, {"q": "What does a positive antibody result mean?", "a": "A positive antibody result means the animal has been exposed to the pathogen or vaccinated, not necessarily that it is currently sick. Antibody titers are most useful for confirming vaccine protection and deciding whether revaccination is needed."}]
 ---
 
 One of the most common sources of confusion in veterinary diagnostics is the difference between antigen and antibody tests. Both are essential tools, but they answer different clinical questions — and choosing the wrong one can lead to misinterpretation.

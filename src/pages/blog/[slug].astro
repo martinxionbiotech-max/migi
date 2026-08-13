@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { title, description, pubDate, category } = entry.data;
+const { title, description, pubDate, category, faq } = entry.data;
 
 const { Content } = await render(entry);
 
@@ -24,7 +24,13 @@ const articleSchema = {
       headline: title,
       description: description || title,
       datePublished: pubDate ? pubDate.toISOString() : undefined,
-      author: { '@type': 'Organization', name: 'Migibio', url: 'https://migibio.com' },
+      author: {
+        '@type': 'Person',
+        name: 'Martin Wang',
+        url: 'https://migibio.com/about',
+        jobTitle: 'Co-founder, Guangzhou Magic Biotech Co., Ltd.',
+        worksFor: { '@id': 'https://migibio.com/#organization' },
+      },
       publisher: { '@id': 'https://migibio.com/#organization' },
       mainEntityOfPage: `https://migibio.com${pageUrl}`,
     },
@@ -36,6 +42,16 @@ const articleSchema = {
         { '@type': 'ListItem', position: 3, name: title },
       ],
     },
+    ...(faq
+      ? [{
+          '@type': 'FAQPage',
+          mainEntity: faq.map((f) => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        }]
+      : []),
   ],
 };
 

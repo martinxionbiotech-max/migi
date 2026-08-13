@@ -4,6 +4,7 @@ slug: "early-detection-chronic-kidney-disease-sdma-dogs-cats"
 description: "Learn how symmetric dimethylarginine (SDMA) enables earlier detection and staging of chronic kidney disease in dogs and cats — before creatinine rises — and why it matters for clinical outcomes."
 pubDate: "2025-02"
 category: "blog"
+faq: [{"q": "What is SDMA?", "a": "Symmetric dimethylarginine (SDMA) is a methylated amino acid released during protein turnover and cleared almost entirely by the kidneys. Its blood concentration rises when kidney filtration declines, making it a sensitive marker of renal function."}, {"q": "Why is SDMA better than creatinine for early detection?", "a": "SDMA rises when only 25–40% of kidney function is lost, well before creatinine increases, and is largely independent of muscle mass. This allows earlier detection of chronic kidney disease, especially in geriatric or cachectic patients where creatinine is unreliable."}, {"q": "When should SDMA be measured?", "a": "SDMA should be part of routine senior health screening, before anaesthesia or nephrotoxic drug use, and whenever kidney disease is suspected. Serial SDMA measurements also support IRIS staging and monitoring of disease progression."}]
 ---
 
 Chronic kidney disease (CKD) is one of the most common diseases of ageing dogs and cats, yet it is frequently diagnosed late — after substantial and irreversible nephron loss has already occurred. The introduction of symmetric dimethylarginine (SDMA) as a routine biomarker has fundamentally changed how early we can detect this disease.

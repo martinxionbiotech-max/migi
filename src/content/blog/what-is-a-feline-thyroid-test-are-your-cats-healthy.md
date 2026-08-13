@@ -4,6 +4,7 @@ slug: "what-is-a-feline-thyroid-test-are-your-cats-healthy"
 description: "The thyroid gland plays an important role in regulating metabolism in cats. Issues with the thyroid can impact various bodily functions and cause health issues "
 pubDate: "2024-09"
 category: "blog"
+faq: [{"q": "What does a feline thyroid test measure?", "a": "It measures total thyroxine (T4) and, when needed, thyroid-stimulating hormone (TSH) in serum or plasma to assess thyroid function. High T4 is diagnostic of hyperthyroidism, the most common endocrine disease of older cats."}, {"q": "What symptoms suggest thyroid problems in cats?", "a": "Hyperthyroidism typically causes weight loss despite a ravenous appetite, hyperactivity, vomiting, and a rapid heart rate. These signs in a middle-aged or older cat should prompt thyroid testing."}, {"q": "How is the test performed?", "a": "A blood sample is collected and T4 (and TSH) measured quantitatively on an immunofluorescence analyzer. Precise concentrations with age-appropriate reference ranges support diagnosis and subsequent monitoring of therapy."}]
 ---
 
 The thyroid gland plays an important role in regulating metabolism in cats. Issues with the thyroid can impact various bodily functions and cause health issues if left untreated. Since cats cannot express their discomfort verbally, regular screening of thyroid levels is recommended to keep our feline companions healthy. This article discusses the importance of thyroid tests for cats and how it is conducted.
