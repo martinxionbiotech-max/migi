@@ -7,10 +7,9 @@ const reagents = products
   .filter((p) => p.data.category === 'canine-feline')
   .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
 
-// split into canine / feline / other
-const canine = reagents.filter((p) => p.data.title.includes('Dog') || p.data.title.includes('Canine'));
-const feline = reagents.filter((p) => p.data.title.includes('Cat') || p.data.title.includes('Feline'));
-const other = reagents.filter((p) => !canine.includes(p) && !feline.includes(p));
+const canine = reagents.filter((p) => /dog|canine/i.test(p.data.title));
+const feline = reagents.filter((p) => /cat|feline/i.test(p.data.title));
+const shared = reagents.filter((p) => !canine.includes(p) && !feline.includes(p));
 
 const schema = {
   '@context': 'https://schema.org',
@@ -41,9 +40,21 @@ const schema = {
   </div>
 
   <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <!-- 分类概览 -->
+    <div class="mb-12 max-w-3xl">
+      <h2 class="text-2xl font-bold text-gray-900">Complete Canine &amp; Feline Diagnostic Coverage</h2>
+      <p class="mt-4 text-gray-600">
+        Every Migibio reagent uses quantitative fluorescence immunochromatography (FICT) to deliver objective, instrument-read concentrations — not a subjective line — with pg/ml-level sensitivity and CV% below 10%. Simply add the specimen, insert the device, and read the result on the FIA680 or FIA880 analyzer in minutes.
+      </p>
+    </div>
+
+    <!-- Canine -->
     {canine.length > 0 && (
       <div class="mb-12">
         <h2 class="text-2xl font-bold text-gray-900">Canine Test Kits</h2>
+        <p class="mt-2 max-w-3xl text-gray-600">
+          Canine reagents cover infectious disease antigens and antibodies (parvovirus, distemper, coronavirus, adenovirus), reproductive hormones (progesterone, relaxin), endocrine markers (cortisol, total T4, TSH), inflammation (CRP), and organ-function biomarkers (SDMA, cystatin C, NT-proBNP, pancreatic lipase, Leishmania, Toxoplasma).
+        </p>
         <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {canine.map((p) => (
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
@@ -63,9 +74,14 @@ const schema = {
         </div>
       </div>
     )}
+
+    <!-- Feline -->
     {feline.length > 0 && (
       <div class="mb-12">
         <h2 class="text-2xl font-bold text-gray-900">Feline Test Kits</h2>
+        <p class="mt-2 max-w-3xl text-gray-600">
+          Feline reagents cover infectious disease antigens and antibodies (panleukopenia, calicivirus, herpesvirus, coronavirus, leukaemia virus, immunodeficiency virus), endocrine markers (total T4), inflammation (SAA), and organ-function biomarkers (SDMA, cystatin C, pancreatic lipase, NT-proBNP).
+        </p>
         <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {feline.map((p) => (
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
@@ -85,11 +101,16 @@ const schema = {
         </div>
       </div>
     )}
-    {other.length > 0 && (
+
+    <!-- Shared -->
+    {shared.length > 0 && (
       <div class="mb-12">
-        <h2 class="text-2xl font-bold text-gray-900">Other Test Kits</h2>
+        <h2 class="text-2xl font-bold text-gray-900">Canine &amp; Feline Shared Biomarkers</h2>
+        <p class="mt-2 max-w-3xl text-gray-600">
+          Shared biomarkers applicable to both dogs and cats, including SDMA for early detection and IRIS staging of chronic kidney disease.
+        </p>
         <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {other.map((p) => (
+          {shared.map((p) => (
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
               <div class="aspect-square overflow-hidden bg-gray-100">
                 {p.data.image ? (
