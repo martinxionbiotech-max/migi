@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit?", "a": "The cCortisol test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure cCortisol levels in canine serum or plasma specimens. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity corresponds to the amount of cCortisol present, and the concentration is reported in μg/dL or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. The test should be conducted between 18°C and 28°C once the pouch is opened. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCortisol in canine serum or plasma: ACTH Stimulation Test ACTH Before Use (nmol/L) Suggestion ACTH After Use (nmol/L) Suggestion < 55 Possible adrenal insufficiency < 55 Possible adrenal insufficiency 55 - 166 Normal 55 - 166 Suspected > 166 High 166 - 498 Normal 498 - 663 Suspected > 663 Hyperadrenocorticism"}]
 ---
 
-# Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit
+## Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R018`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +30,27 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cortisol (cCortis
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R018
 
-## Intended Use
+### Intended Use
 
 The cCortisol test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure cCortisol levels in canine serum or plasma specimens.
 For in vitro diagnostic use only. Professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Canine cortisol measurement is central to the diagnosis of hyperadrenocorticism (Cushing's syndrome) and hypoadrenocorticism (Addison's disease), two significant endocrine disorders with widely differing presentations.
 
 Quantitative cCortisol testing supports screening and monitoring of adrenal function, including ACTH stimulation and low-dose dexamethasone suppression testing protocols.
 
-## Test Principle
+### Test Principle
 
 This test utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity corresponds to the amount of cCortisol present, and the concentration is reported in μg/dL or nmol/L.
 
-## Materials Included
+### Materials Included
 
 Individual Sealed Pouches (10)
 Test Device (1 per pouch)
@@ -65,20 +65,20 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit between 4°C and 30°C until the expiration date.
 The test should be conducted between 18°C and 28°C once the pouch is opened.
 Perform the test within 30 minutes of opening the pouch.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 Suitable specimens: serum or plasma (EDTA anticoagulant recommended).
 Separate serum or plasma from blood within 3 hours of collection. If hemolysis occurs, collect a new specimen.
 Perform the test immediately after collection if possible. Otherwise, store the specimen at 2°C to 8°C for up to 72 hours, or below -20°C for long-term storage.
 Bring all materials to room temperature before testing. Thaw frozen specimens completely and mix thoroughly. Avoid repeated freeze-thaw cycles. Only clear, non-hemolyzed specimens should be used.
 
-## Test Procedure
+### Test Procedure
 
 Set the Test Device on a clean, level surface.
 Insert the ID Chip into the analyzer and ensure the Test Device lot number matches the ID Chip number.
@@ -91,11 +91,11 @@ Quick Test
 : Start a timer after adding the sample to the Test Device. Allow the test to incubate at room temperature (18°C - 28°C) for 10 minutes, then insert the Test Device into the analyzer and click "Start Test". Select "Serum/Plasma".
 Results are displayed on the screen and can be printed automatically or manually.
 
-## Quality Control
+### Quality Control
 
 Each cCortisol Rapid Quantitative Test includes an internal control to meet routine quality control standards. If the internal control fails, the analyzer will display an error message, indicating the need to repeat the test.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Reference range for cCortisol in canine serum or plasma:
 ACTH Stimulation Test
@@ -120,7 +120,7 @@ Suspected
 > 663
 Hyperadrenocorticism
 
-## Lddst
+### Lddst
 
 4-Hour Cortisol (nmol/L)
 8-Hour Cortisol (nmol/L)
@@ -136,7 +136,7 @@ Hypofunction of adrenal cortex
 > 39 & > 50% base value
 PDH
 
-## Hddst
+### Hddst
 
 4-Hour Cortisol (nmol/L)
 8-Hour Cortisol (nmol/L)
@@ -153,7 +153,7 @@ Detection range: 28 ~ 1700 nmol/L
 Conversion factor: 1 nmol/L = 0.036 μg/dL
 Each laboratory should establish a reference range based on the population being evaluated.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For in vitro diagnostic use only.
 Inspect all packaging before use.

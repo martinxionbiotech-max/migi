@@ -9,11 +9,11 @@ attributes: {"Tests": "10", "Place of Origin": "China", "Storage": "RT", "Shelf 
 faq: [{"q": "What is the intended use of the Migibio SDMA Rapid Quantitative Test Kit?", "a": "The SDMA test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of symmetric dimethylarginine (SDMA) in canine or feline serum/plasma. It is intended as an aid in the early detection and staging of chronic kidney disease (CKD). For in vitro diagnostic use only."}, {"q": "What detection principle does the SDMA test use?", "a": "The test uses a quantitative fluorescence immunoassay. Fluorescent-labelled antibodies bind SDMA in the specimen; the fluorescence signal intensity is measured by the analyzer and converted into an SDMA concentration value."}, {"q": "Why is SDMA better than creatinine for early kidney disease detection?", "a": "SDMA increases when as little as 25–40% of kidney function is lost, well before creatinine rises. It is also largely independent of muscle mass, making it more reliable in young, geriatric, or cachectic patients."}, {"q": "How are SDMA results interpreted?", "a": "Results are reported in µg/dL. Each laboratory should establish its own reference range. Persistently elevated SDMA values above the reference interval support a diagnosis of chronic kidney disease and guide IRIS staging and therapy decisions."}]
 ---
 
-# SDMA- Stage Chronic Kidney Disease Kit
+## SDMA- Stage Chronic Kidney Disease Kit
 
 The **Migibio SDMA Rapid Quantitative Test Kit** measures symmetric dimethylarginine (SDMA) — a sensitive, muscle-mass-independent biomarker of glomerular filtration rate — for the early detection and staging of chronic kidney disease (CKD) in dogs and cats.
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -22,29 +22,29 @@ The **Migibio SDMA Rapid Quantitative Test Kit** measures symmetric dimethylargi
 | Storage | Room temperature |
 | Shelf life | 2 years |
 
-## Intended Use
+### Intended Use
 
 The SDMA test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer for the quantitative determination of symmetric dimethylarginine (SDMA) in canine or feline serum or plasma. It is intended as an aid in the early detection and staging of chronic kidney disease (CKD).
 
 For in vitro diagnostic use only. For professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Symmetric dimethylarginine (SDMA) is a sensitive renal biomarker that increases with as little as 25–40% loss of kidney function — much earlier than creatinine. Unlike creatinine, SDMA is minimally affected by muscle mass, making it especially valuable in young, geriatric, or cachectic patients.
 
 Quantitative SDMA measurement enables early detection of chronic kidney disease (CKD), more accurate staging, and timely initiation of renoprotective therapy in both dogs and cats.
 
-## Test Principle
+### Test Principle
 
 The test utilizes a quantitative fluorescence immunoassay technique. Fluorescent-labelled antibodies specifically bind SDMA present in the specimen. The fluorescence signal intensity reflects the amount of SDMA captured and is converted by the analyzer into a quantitative concentration value (µg/dL).
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 The test is performed using serum or plasma. Separate serum or plasma (EDTA anticoagulant recommended) from blood within 3 hours of collection. If a specimen is severely hemolyzed, obtain and test a new specimen.
 
 Perform the test immediately after specimen collection. If testing cannot be performed within 3 hours, store the specimen at 2 ~ 8℃ for up to 72 hours. For long-term storage, keep the specimen below -20℃ and avoid repeated freezing and thawing.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 
@@ -54,11 +54,11 @@ Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructi
 4. Pipette the mixed sample into the sample well (S) of the Test Device.
 5. Run the Standard or Quick test mode on the analyzer and read the quantitative result.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Results are reported quantitatively in µg/dL. The analyzer automatically calculates and displays the SDMA concentration. Each laboratory should establish a reference range representative of the population being evaluated. Persistently elevated SDMA values support a diagnosis of chronic kidney disease and inform IRIS staging and therapeutic decisions.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 - This kit is for in vitro diagnostic use only.
 - Do not use beyond the expiration date or if the pouch is damaged.

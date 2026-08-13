@@ -10,11 +10,11 @@ attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", 
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit?", "a": "The cCys C test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative measurement of cystatin C concentration in canine serum or plasma. It is designed to assist in the diagnosis and monitoring of cystatin C levels in canines. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cCys C captured, and the concentration is expressed in mg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. Perform the test between 18°C and 28°C once the Test Device is opened. Complete the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCys C in canine serum or plasma: Product Result (mg/dL) Interpretation cCys C ≤ 12 Negative (-) 12 - 15 Suspected kidney injury (+) > 15 Indicated kidney injury (++) Detection range : 3.0 ~ 34 mg/dL Conversion factor : 1 mg/dL = 0.1 mg/L Each laboratory should establish a reference range representative of the evaluated population."}]
 ---
 
-# Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit
+## Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit
 
 **Catalog Number:** `MG-CA-R030`  
 
-## Product Specifications
+### Product Specifications
 
 | Attribute | Value |
 |---|---|
@@ -30,27 +30,27 @@ faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cystatin C(cCys C
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
 
-## Specification
+### Specification
 
 10 Tests/Box
 Cat. No.: MG-CA-R030
 
-## Intended Use
+### Intended Use
 
 The cCys C test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative measurement of cystatin C concentration in canine serum or plasma. It is designed to assist in the diagnosis and monitoring of cystatin C levels in canines.
 For in vitro diagnostic use only. Professional use only.
 
-## Clinical Significance
+### Clinical Significance
 
 Canine cystatin C is a sensitive endogenous marker of glomerular filtration rate (GFR) that is less influenced by muscle mass, breed, and body condition than serum creatinine. It rises earlier in the course of renal dysfunction, making it a valuable adjunct for the early detection of chronic kidney disease (CKD) in dogs.
 
 Quantitative cCys C measurement supports earlier intervention, more accurate CKD staging, and closer therapeutic monitoring in at-risk patients.
 
-## Test Principle
+### Test Principle
 
 This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cCys C captured, and the concentration is expressed in mg/dL.
 
-## Materials Provided
+### Materials Provided
 
 10 individual sealed pouches, each containing:
 Test Device
@@ -65,20 +65,20 @@ Timer
 Pipette
 Centrifuge
 
-## Storage and Stability
+### Storage and Stability
 
 Store the test kit between 4°C and 30°C until the expiration date.
 Perform the test between 18°C and 28°C once the Test Device is opened.
 Complete the test within 30 minutes after opening the pouch.
 
-## Specimen Collection and Preparation
+### Specimen Collection and Preparation
 
 Suitable specimens: serum or plasma (EDTA anticoagulant recommended).
 Separate serum or plasma from blood within 3 hours of collection. If hemolysis is observed, collect a new specimen.
 It is recommended to perform the test immediately after collection. If testing cannot be done within 3 hours, store the specimen at 2°C to 8°C for up to 72 hours or below -20°C for long-term storage.
 Before testing, bring all materials to room temperature. Thaw frozen specimens completely and mix well. Avoid repeated freeze-thaw cycles, and only use clear, non-hemolyzed specimens.
 
-## Test Procedure
+### Test Procedure
 
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
@@ -92,11 +92,11 @@ Quick Test
 : Start a timer after adding the sample to the Test Device. Let it incubate at room temperature (18°C to 28°C) for 10 minutes, then insert the device into the analyzer and click "Start Test." Select "Serum/Plasma."
 Results will display on the main screen and can be printed automatically or manually.
 
-## Quality Control
+### Quality Control
 
 Each cCys C Rapid Quantitative Test includes an internal control. If the internal control fails, the meter will display an error message, requiring a repeat test.
 
-## Interpretation of Results
+### Interpretation of Results
 
 Reference range for cCys C in canine serum or plasma:
 Product
@@ -115,7 +115,7 @@ Conversion factor
 : 1 mg/dL = 0.1 mg/L
 Each laboratory should establish a reference range representative of the evaluated population.
 
-## Warnings and Limitations
+### Warnings and Limitations
 
 For in vitro diagnostic use only.
 Inspect packaging and labels before use. Do not use if the pouch is damaged, torn, or improperly sealed, or if the vial appears damaged or leaking.
