@@ -6,7 +6,6 @@ pubDate: "2025-03"
 category: "blog"
 ---
 
-
 One of the most common sources of confusion in veterinary diagnostics is the difference between antigen and antibody tests. Both are essential tools, but they answer different clinical questions — and choosing the wrong one can lead to misinterpretation.
 
 ## Antigen Tests: Detecting the Pathogen

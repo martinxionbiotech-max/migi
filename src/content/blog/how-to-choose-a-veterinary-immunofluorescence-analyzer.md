@@ -6,7 +6,6 @@ pubDate: "2025-02"
 category: "blog"
 ---
 
-
 Selecting the right immunofluorescence quantitative analyzer is one of the most consequential equipment decisions a veterinary practice will make. The analyzer determines how fast you can turn around results, how many patients you can serve, and how confidently you can act on the numbers it produces. Here is a structured framework for making the right choice.
 
 ## 1. Match Channel Count to Your Caseload

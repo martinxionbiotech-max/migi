@@ -51,4 +51,8 @@ FICT underpins a broad range of Migibio diagnostic solutions:
 
 ## The Science Behind the Systems
 
-For a deeper technical exploration, see our [technology articles](/blog) covering fluorescence immunochromatography principles, analyzer selection, and clinical applications.
+For a deeper technical exploration, see our technology articles:
+
+- [What is Fluorescence Immunochromatography (FICA)?](/blog/what-is-fluorescence-immunochromatography-fica)
+- [Immunofluorescence vs. ELISA vs. PCR: Choosing the Right Diagnostic Method](/blog/veterinary-immunofluorescence-vs-elisa-pcr)
+- [Veterinary Point-of-Care Testing: The Complete Guide](/blog/veterinary-point-of-care-testing-complete-guide)

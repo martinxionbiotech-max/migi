@@ -6,14 +6,6 @@ pubDate: "2024-09"
 category: "blog"
 ---
 
-
-14
-
-Views: 1403
-
-
-
-
 The thyroid gland plays an important role in regulating metabolism in cats. Issues with the thyroid can impact various bodily functions and cause health issues if left untreated. Since cats cannot express their discomfort verbally, regular screening of thyroid levels is recommended to keep our feline companions healthy. This article discusses the importance of thyroid tests for cats and how it is conducted.
 
 

@@ -6,13 +6,6 @@ pubDate: "2024-09"
 category: "blog"
 ---
 
-
-23
-
-Views: 1837
-
-What are the Differences Between the Snap Feline Triple Test and Fluorescence FPV/FCV/FHV?
-
 Snap feline triple test and fluorescence FPV/FCV/FHV test are both commonly used rapid test kits for detecting feline parvovirus (FPV), feline calicivirus (FCV) and feline herpesvirus 1 (FHV-1) in cats. Snap feline triple test uses an immunochromatography technique while the fluorescence FPV/FCV/FHV test uses an immunofluorescence chromatography technique. Let’s compare the differences between these two testing methods.
 
 

@@ -6,7 +6,6 @@ pubDate: "2025-02"
 category: "blog"
 ---
 
-
 Chronic kidney disease (CKD) is one of the most common diseases of ageing dogs and cats, yet it is frequently diagnosed late — after substantial and irreversible nephron loss has already occurred. The introduction of symmetric dimethylarginine (SDMA) as a routine biomarker has fundamentally changed how early we can detect this disease.
 
 ## The Problem with Creatinine

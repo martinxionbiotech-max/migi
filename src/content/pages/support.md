@@ -40,6 +40,15 @@ A: Most kits accept serum or plasma (EDTA anticoagulant recommended). Refer to t
 **Q: How do I obtain a quote or place an order?**  
 A: Contact our sales team at info@magic-bio.com or call 020-82288812. You may also use the contact form on our Contact Us page.
 
+**Q: What is the difference between antigen and antibody tests?**  
+A: Antigen tests detect the pathogen itself and indicate active infection; antibody tests detect the immune response and indicate exposure or immunity. See [Antigen vs. Antibody Testing](/blog/canine-feline-antigen-vs-antibody-testing).
+
+**Q: How do I ensure reliable, reproducible results?**  
+A: Follow the IFU precisely, run built-in controls with every test, store reagents correctly, and track lot numbers. For a complete programme, see [Veterinary Laboratory Quality Control](/blog/veterinary-laboratory-quality-control).
+
+**Q: Which analyzer should I choose for my practice?**  
+A: The single-channel FIA680 suits low-to-moderate volume, while the multi-channel FIA880 suits high-volume hospitals. See [How to Choose a Veterinary Immunofluorescence Analyzer](/blog/how-to-choose-a-veterinary-immunofluorescence-analyzer).
+
 ## Request Documentation
 
 For IFU, SOP, or video access, please contact our support team and include your clinic or company name and the product catalog number.

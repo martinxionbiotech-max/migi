@@ -6,14 +6,6 @@ pubDate: "2024-09"
 category: "blog"
 ---
 
-
-01
-
-Views: 1148
-
-
-
-
 The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline panleukopenia is a highly contagious and potentially deadly disease that can affect all domestic and wild felines. While vaccination is the best form of prevention, testing allows veterinarians to diagnose infected cats and provide proper treatment plans to aid their recovery (Hartmann, 2020).
 
 

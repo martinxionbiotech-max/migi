@@ -1,18 +1,10 @@
 ---
-title: "Does My Cat Should do the Feline Herpes test?"
+title: "Does My Cat Need a Feline Herpes (FHV-1) Test?"
 slug: "does-my-cat-should-do-the-feline-herpes-test"
 description: "Feline herpesvirus-1 (FHV-1), also known as feline viral rhinotracheitis (FVR) is a very common virus that infects cats. It can cause a range of symptoms from m"
 pubDate: "2024-09"
 category: "blog"
 ---
-
-
-14
-
-Views: 1310
-
-
-
 
 Feline herpesvirus-1 (FHV-1), also known as feline viral rhinotracheitis (FVR) is a very common virus that infects cats. It can cause a range of symptoms from mild to severe. As the virus is highly contagious, it is important for cat owners to understand the virus and how it spreads. This article will discuss whether your cat needs testing for FHV-1 and how to prevent and manage the infection.
 
