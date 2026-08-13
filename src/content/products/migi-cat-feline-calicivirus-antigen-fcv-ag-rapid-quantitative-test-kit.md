@@ -7,7 +7,7 @@ catNo: "MG-CA-R008"
 image: "/images/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit.png"
 order: 6
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R008", "Package": "Box", "Appearance": "liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10", "Grade": "Reagent Grade", "Suitable for": "Veterinary"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit?", "a": "The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ag in feline rectal swab. Detection range: 4.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Suggestion ≤ 10 Negative (-) 10 ~ 14 Suspected (±) 14 ~ 30 Weak Positive (+) 30 ~ 150 Medium Positive (++) > 150 Strong Positive (+++) Each laboratory should establish a reference range that represents the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit?", "a": "The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antigen (FCV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline calicivirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ag in feline nasopharyngeal or ocular swabs. Detection range: 4.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Suggestion ≤ 10 Negative (-) 10 ~ 14 Suspected (±) 14 ~ 30 Weak Positive (+) 30 ~ 150 Medium Positive (++) > 150 Strong Positive (+++) Each laboratory should establish a reference range that represents the population being evaluated."}]
 ---
 
 
@@ -36,7 +36,7 @@ Cat. No.: MG-CA-R008
 
 ## Intended Use
 
-The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of herpes virus antigen in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline herpes virus infection.
+The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antigen (FCV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline calicivirus infection.
 For in vitro diagnostic use only. For professional use only.
 
 ## Clinical Significance
@@ -76,8 +76,8 @@ Perform the test within 30 minutes after opening the pouch.
 
 ## Specimen Collection and Preparation
 
-The test is performed using a rectal swab.
-To collect a rectal sample, insert the swab into the feline’s rectum and rotate it close to the inner wall 3 ~ 5 times. The sample volume should cover about 1/2 ~ 2/3 of the cotton tip.
+The test is performed using a nasopharyngeal or ocular swab.
+To collect a sample, gently swab the feline’s nasopharyngeal or ocular (conjunctival) area, collecting sufficient epithelial cells.
 Perform the test immediately after specimen collection. If testing cannot be done within 3 hours, store the specimen at 2～8℃ for up to 48 hours. For long-term storage, keep the specimen below -20℃.
 Bring all materials to room temperature before use. Completely thaw and mix frozen specimens well before testing. Avoid repeated freezing and thawing. Use only clear, non-hemolyzed specimens.
 
@@ -86,13 +86,13 @@ Bring all materials to room temperature before use. Completely thaw and mix froz
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions on using the Test Device.
 Set the Test Device on a clean, level surface.
 Insert the ID Chip into the meter and click "Read ID chip." Ensure that the Test Device lot number matches the ID Chip number.
-Place the rectal swab with the sample into the FCV-Ag Sample Buffer. Stir thoroughly and centrifuge for 1 minute (3000 ~ 5000 rpm).
+Place the swab with the sample into the FCV-Ag Sample Buffer. Stir thoroughly and centrifuge for 1 minute (3000 ~ 5000 rpm).
 Pipette 100 μl of the mixed sample into the sample well (S) of the Test Device. Avoid forming bubbles.
 Choose one of the following test modes:
 Standard Test
-: Click "Standard Test," insert the Test Device into the device holder immediately after adding the sample, and click "Start Test." Select the sample type "Rectal Swab." The meter will automatically count down and display the test result.
+: Click "Standard Test," insert the Test Device into the device holder immediately after adding the sample, and click "Start Test." Select the sample type "Nasopharyngeal/Ocular Swab." The meter will automatically count down and display the test result.
 Quick Test
-: Click "Quick Test," start the timer immediately after adding the sample to the sample well, and leave the Test Device at room temperature (18 ~ 28℃) for 10 minutes. Then insert the Test Device into the meter holder and click "Start Test." Select the sample type "Rectal Swab." The instrument will automatically scan the Test Device and display the result.
+: Click "Quick Test," start the timer immediately after adding the sample to the sample well, and leave the Test Device at room temperature (18 ~ 28℃) for 10 minutes. Then insert the Test Device into the meter holder and click "Start Test." Select the sample type "Nasopharyngeal/Ocular Swab." The instrument will automatically scan the Test Device and display the result.
 Results can be viewed on the main screen, printed automatically, or manually by clicking "Print."
 
 ## Quality Control
@@ -101,7 +101,7 @@ Each FCV-Ag Rapid Quantitative Test includes an internal control for routine qua
 
 ## Interpretation of Results
 
-Reference range of FCV-Ag in feline rectal swab.
+Reference range of FCV-Ag in feline nasopharyngeal or ocular swabs.
 Detection range:
 - 4.0 ~ 640 Tu/ml
 Reference range:

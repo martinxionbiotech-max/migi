@@ -1,0 +1,59 @@
+# Migibio (Guangzhou Magic Biotech) — POCT Veterinary Diagnostics
+> **Official B2B Website:** https://migibio.com
+> **Company:** Guangzhou Magic Biotech Co., Ltd. (brand: Migibio)
+> **Founded:** November 2017 · Guangzhou Science City, China
+> **Core Technology:** Fluorescence Immunochromatographic Technology (FICT)
+> **Certifications:** ISO9001, GMP · 30 patents · exported to 30+ countries
+## About
+Migibio is an ISO9001/GMP-certified manufacturer of point-of-care (POCT) veterinary diagnostic equipment and fluorescence immunochromatographic test reagents. The company produces single-channel (FIA680) and multi-channel (FIA880) immunofluorescence analyzers plus a broad panel of quantitative rapid test kits for canine and feline infectious disease, hormones, inflammatory markers, and kidney/cardiac biomarkers.
+## Equipment (Analyzers)
+- [FIA680](https://migibio.com/equipment/FIA680/): Migibio FIA680 — single-channel veterinary immunofluorescence quantitative analyzer for POCT diagnostics. Results in 3–1
+- [FIA880](https://migibio.com/equipment/FIA880/): Migibio FIA880 — six-channel veterinary immunofluorescence quantitative analyzer for high-throughput labs. Simultaneous 
+## Canine Rapid Test Reagents
+- [Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-adenovirus-antibody-cav-ab-rapid-quantitative-test-kit/): MG-CA-R022
+- [Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test](https://migibio.com/reagents/migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test/): MG-CA-R001
+- [Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-coronavirus-antigen-ccv-ag-rapid-quantitative-test-kit/): MG-CA-R005
+- [Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-cortisol-ccortisol-rapid-quantitative-test-kit/): MG-CA-R018
+- [Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-cystatin-c-ccys-c-rapid-quantitative-test-kit/): MG-CA-R030
+- [Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-distemper-virus-antibody-cdv-ab-rapid-quantitative-test-kit/): MG-CA-R010
+- [Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-leishmania-antibody-clsh-ab-rapid-quantitative-test-kit/): MG-CA-R024
+- [Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-n-terminal-pro-brain-natriuretic-peptide-cnt-probnp-rapid-quantitative-test-kit/): MG-CA-R019
+- [Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-pancreatic-lipase-cpl-rapid-quantitative-test-kit/): MG-CA-R014
+- [Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-parvovirus-antibody-cpv-ab-rapid-quantitative-test-kit/): MG-CA-R009
+- [Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit/): MG-CA-R020
+- [Migi (Dog) Canine Relaxin (cRelaxin) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-relaxin-crelaxin-rapid-quantitative-test-kit/): MG-CA-R021
+- [Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-thyroid-stimulating-hormone-ctsh-rapid-quantitative-test-kit/): MG-CA-R017
+- [Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit/): MG-CA-R016
+- [Migi (Dog) Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-canine-toxoplasma-gondii-antibody-ctoxo-ab-rapid-quantitative-test-kit/): MG-CA-R026
+- [Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-cdv-agcanine-distemper-virus-antigen-rapid-quantitative-test-kit/): MG-CA-R004
+- [Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit/): MG-CA-R032
+- [Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test](https://migibio.com/reagents/migi-dog-cpv-ag-canine-parvovirus-antigen-rapid-quantitative-test/): MG-CA-R002
+## Feline Rapid Test Reagents
+- [Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit/): MG-CA-R008
+- [Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-coronavirus-antigen-fcov-ag-rapid-quantitative-test-kit/): MG-CA-R029
+- [Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-cystatin-c-fcys-c-rapid-quantitative-test-kit/): MG-CA-R030
+- [Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-fpv-fhv-fcv-ab-rapid-quantitative-test-kit/): MG-CA-R033
+- [Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit/): MG-CA-R012
+- [Migi (Cat) Feline Herpes Virus Antigen (FHV-Ag) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit/): MG-CA-R007
+- [Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit/): MG-CA-R027
+- [Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit/): MG-CA-R028
+- [Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-n-terminal-pro-brain-natriuretic-peptide-fnt-probnp-rapid-quantitative-test-kit/): MG-CA-R023
+- [Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-pancreatic-lipase-fpl-rapid-quantitative-test-kit/): MG-CA-R015
+- [Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test](https://migibio.com/reagents/migi-cat-feline-panleukopenia-virus-antibody-fpv-ab-rapid-quantitative-test/): MG-CA-R011
+- [Migi (Cat) Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-panleukopenia-virus-antigen-fpv-ag-rapid-quantitative-test-kit/): MG-CA-R006
+- [Migi (Cat) Feline Total Thyroxine (fTT4) Rapid Quantitative Test Kit](https://migibio.com/reagents/migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit/): MG-CA-R023
+- [Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test](https://migibio.com/reagents/migi-cat-fsaa-feline-serum-amyloid-a-rapid-quantitative-test/): MG-CA-R002
+- [Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit](https://migibio.com/reagents/migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit/): MG-CA-R013
+## Canine & Feline (Shared Biomarkers)
+- [SDMA — Stage Chronic Kidney Disease Kit](https://migibio.com/reagents/sdma-stage-chronic-kidney-disease-kit/): muscle-mass-independent early CKD detection and IRIS staging for dogs and cats
+
+## Key Pages
+- [About](https://migibio.com/about/) — company profile, ISO9001/GMP, 30 patents
+- [Core Technology](https://migibio.com/core-technology/) — FICT principle and advantages
+- [Blog](https://migibio.com/blog/) — veterinary diagnostic guides and technical articles
+- [Support](https://migibio.com/support/) — technical support and documentation
+- [Contact](https://migibio.com/contact/) — quote and distribution inquiries
+## Contact
+- **Tel:** +86-20-82288812
+- **Email:** info@magic-bio.com
+- **Address:** G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou, Guangdong, China

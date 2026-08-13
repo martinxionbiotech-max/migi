@@ -31,7 +31,7 @@ faq: [{"q": "What is the intended use of the Migi (Dog) CDV-AgCanine Distemper V
 ## Specification
 
 10 Tests/Box
-Cat. No.: MG-CA-R001
+Cat. No.: MG-CA-R004
 
 ## Intended Use
 
@@ -74,9 +74,9 @@ Perform the test within 30 minutes of opening the pouch.
 
 ## Specimen Collection and Preparation
 
-The test can be performed using a rectal swab.
-Rectal sample collection:
-Insert the swab into the canine's rectum and rotate close to the inner wall 3–5 times to collect a sample (about 1/2 to 2/3 of the cotton tip).
+The test can be performed using a nasopharyngeal or ocular swab.
+Sample collection:
+Gently swab the canine's nasopharyngeal or ocular (conjunctival) area to collect a sample.
 Perform the test immediately after collection. If the test cannot be performed within 3 hours, store the sample at 2°C to 8°C for no more than 48 hours. For long-term storage, freeze at -20°C or lower.
 Bring all materials to room temperature before testing. Thaw frozen specimens completely and mix well. Avoid repeated freeze-thaw cycles.
 
@@ -85,15 +85,15 @@ Bring all materials to room temperature before testing. Thaw frozen specimens co
 Refer to the Immunofluorescence Analyzer Operation Manual for detailed instructions.
 Place the Test Device on a clean, level surface.
 Insert the ID Chip into the analyzer and verify that the Test Device lot number matches the ID Chip.
-Place the rectal swab with the sample into the CDV-Ag Sample Buffer, stir thoroughly, and centrifuge for 1 minute (3,000–5,000 rpm).
+Place the swab with the sample into the CDV-Ag Sample Buffer, stir thoroughly, and centrifuge for 1 minute (3,000–5,000 rpm).
 Pipette 100 μl of the mixed sample into the sample well (S) of the Test Device, avoiding bubbles.
 Test Mode Options:
 a)
 Standard Test:
-Select "Standard Test," insert the Test Device into the meter after adding the sample, and click "Start Test." Select the sample type "Rectal Swab." The meter will automatically read and display the result.
+Select "Standard Test," insert the Test Device into the meter after adding the sample, and click "Start Test." Select the sample type "Nasopharyngeal/Ocular Swab." The meter will automatically read and display the result.
 b)
 Quick Test:
-Select "Quick Test," start the timer after adding the sample, and allow the Test Device to sit at room temperature for 10 minutes. Then insert the Test Device into the meter and click "Start Test." Select "Rectal Swab" as the sample type.
+Select "Quick Test," start the timer after adding the sample, and allow the Test Device to sit at room temperature for 10 minutes. Then insert the Test Device into the meter and click "Start Test." Select "Nasopharyngeal/Ocular Swab" as the sample type.
 Results will be displayed on the main screen and printed automatically or manually by selecting "Print."
 
 ## Quality Control
