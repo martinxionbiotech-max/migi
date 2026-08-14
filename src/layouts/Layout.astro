@@ -41,6 +41,7 @@ const navLinks = [
       { label: 'History', href: '/history' },
       { label: 'Corporate Identity', href: '/corporate-identity' },
       { label: 'Locations', href: '/locations' },
+      { label: 'Support', href: '/support' },
     ],
   },
   {
@@ -52,19 +53,23 @@ const navLinks = [
     ],
   },
   { label: 'Reagents', href: '/reagents' },
-  { label: 'Core Technology', href: '/core-technology' },
-  { label: 'Blog', href: '/blog' },
+  {
+    label: 'Blog',
+    href: '/blog',
+    children: [
+      { label: 'News', href: '/news' },
+    ],
+  },
   {
     label: 'Resources',
-    href: '/support',
+    href: '/core-technology',
     children: [
+      { label: 'Core Technology', href: '/core-technology' },
       { label: 'Knowledge Base', href: 'https://docs.migibio.net' },
       { label: 'Research Center', href: 'https://research.migibio.net' },
       { label: 'Data Hub', href: 'https://data.migibio.net' },
     ],
   },
-  { label: 'Support', href: '/support' },
-  { label: 'News', href: '/news' },
 ];
 ---
 
