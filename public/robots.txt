@@ -1,4 +1,4 @@
-# robots.txt — Migibio (migibio.com)
+# robots.txt — Migibio (migibio.net)
 # Guangzhou Magic Biotech Co., Ltd. — POCT veterinary diagnostics
 # Updated: 2026-08-13
 
@@ -52,4 +52,4 @@ User-agent: MJ12bot
 Disallow: /
 
 # ---------- Sitemap ----------
-Sitemap: https://migibio.com/sitemap-index.xml
+Sitemap: https://migibio.net/sitemap-index.xml

@@ -38,7 +38,7 @@ A: Store kits at 4–30℃ until the expiration date. Operate tests at 18–28�
 A: Most kits accept serum or plasma (EDTA anticoagulant recommended). Refer to the specific IFU for each analyte.
 
 **Q: How do I obtain a quote or place an order?**  
-A: Contact our sales team at info@magic-bio.com or call 020-82288812. You may also use the contact form on our Contact Us page.
+A: Contact our sales team (Contact: Martin.Wong) via WhatsApp at +86 13323237275 or email martinwang2024@gmail.com. You may also use the contact form on our Contact Us page.
 
 **Q: What is the difference between antigen and antibody tests?**  
 A: Antigen tests detect the pathogen itself and indicate active infection; antibody tests detect the immune response and indicate exposure or immunity. See [Antigen vs. Antibody Testing](/blog/canine-feline-antigen-vs-antibody-testing).

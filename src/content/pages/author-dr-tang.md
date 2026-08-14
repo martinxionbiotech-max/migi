@@ -25,4 +25,4 @@ All articles authored by Dr. Tang are written to support evidence-based veterina
 
 ## Contact the Author
 
-For technical questions about Migibio diagnostics, contact our [support team](/support) or email info@magic-bio.com.
+For technical questions about Migibio diagnostics, contact our [support team](/support) or email martinwang2024@gmail.com.
