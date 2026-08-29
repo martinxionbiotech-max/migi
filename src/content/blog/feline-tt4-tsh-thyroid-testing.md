@@ -1,82 +1,150 @@
 ---
-title: "Feline Thyroid Testing: T4 and TSH Explained"
+title: "Thyroid Testing in Dogs and Cats: T4 and TSH Explained"
 slug: "feline-tt4-tsh-thyroid-testing"
-description: "A guide to feline thyroid testing: total thyroxine (T4) and thyroid-stimulating hormone (TSH) in cats and dogs, diagnosing hyperthyroidism and hypothyroidism, and the role of quantitative testing."
-pubDate: "2025-04"
+description: "A complete guide to thyroid testing in dogs and cats: total T4 and TSH reference ranges, diagnosing hyperthyroidism in cats and hypothyroidism in dogs, and how quantitative testing improves diagnosis and monitoring."
+pubDate: "2026-08"
+author: "Dr. Tang"
+dateModified: "2026-08-29"
 category: "blog"
-faq: [{"q": "What do T4 and TSH measure?", "a": "Total thyroxine (T4) is the main thyroid hormone, and thyroid-stimulating hormone (TSH) is the pituitary hormone that regulates it. Together they assess thyroid function: high T4 with suppressed TSH indicates hyperthyroidism, while low T4 suggests hypothyroidism."}, {"q": "What is the difference between hyper- and hypothyroidism in cats?", "a": "Hyperthyroidism (overactive thyroid) is common in older cats and causes weight loss, increased appetite, and hyperactivity. Hypothyroidism (underactive thyroid) is rare in cats and more common in dogs, causing lethargy and weight gain."}, {"q": "How is feline thyroid disease diagnosed?", "a": "Thyroid disease is diagnosed by measuring T4 (and TSH) in serum or plasma, ideally with quantitative assays that provide precise concentrations and age-appropriate reference ranges. Serial monitoring helps titrate therapy once treatment begins."}]
+faq: [{"q": "What do T4 and TSH measure?", "a": "Total thyroxine (T4) is the main thyroid hormone, and thyroid-stimulating hormone (TSH) is the pituitary hormone that regulates it. Together they assess thyroid function: high T4 with suppressed TSH indicates hyperthyroidism, while low T4 with elevated TSH suggests primary hypothyroidism."}, {"q": "What is a normal T4 level in dogs?", "a": "Canine total T4 is normally about 1.0–4.0 µg/dL. A value below 1.0 µg/dL suggests hypothyroidism, especially when combined with an elevated TSH. Some confirmed hypothyroid dogs have a normal TSH, so interpretation requires clinical signs plus laboratory findings."}, {"q": "What is a normal T4 level in cats?", "a": "Feline total T4 is normally about 0.8–4.0 µg/dL. A value above 4.0 µg/dL is consistent with hyperthyroidism, while 2.5–4.0 µg/dL is a grey zone where free T4 (by equilibrium dialysis) or repeat testing is the next step."}, {"q": "How is thyroid disease treated and monitored?", "a": "Hyperthyroidism in cats is managed with medication, radioactive iodine, or surgery, and total T4 is monitored to titrate therapy. Hypothyroidism in dogs is treated with levothyroxine, with T4 (and sometimes TSH) measured 4–6 weeks after starting or adjusting the dose."}, {"q": "Can medications affect thyroid test results?", "a": "Yes. Glucocorticoids, phenobarbital, and several other drugs can suppress total T4, producing a low value in a dog that is not truly hypothyroid. Non-thyroidal illness can also transiently lower T4 (sick euthyroid syndrome), so review medications and clinical status before diagnosing hypothyroidism."}, {"q": "When should T4 be measured in a dog on levothyroxine?", "a": "Total T4 peaks a few hours after levothyroxine dosing, so sample consistently — commonly 4–6 hours post-pill — about 4–6 weeks after starting or changing the dose. Consistent timing makes serial values comparable for dose titration."}]
 ---
 
-Thyroid disease is common in companion animals — but it presents very differently in cats than in dogs. Cats typically develop **hyperthyroidism** (an overactive thyroid), while dogs typically develop **hypothyroidism** (an underactive thyroid). Understanding the relevant biomarkers — thyroxine (T4) and thyroid-stimulating hormone (TSH) — is key to accurate diagnosis. This guide explains thyroid testing.
+# Thyroid Testing in Dogs and Cats: T4 and TSH Explained
 
-## The Thyroid Axis
+> **TL;DR** — Thyroid disease runs in opposite directions by species: cats go **hyper**thyroid (weight loss + ravenous appetite), dogs go **hypo**thyroid (weight gain + lethargy). Canine T4 <1.0 µg/dL with a high TSH = hypothyroidism; feline T4 >4.0 µg/dL = hyperthyroidism (2.5–4.0 is a grey zone). Quantitative T4/TSH testing returns a number in ~15 minutes, so diagnosis and therapy titration happen the same day.
 
-The thyroid gland produces **thyroxine (T4)**, the primary thyroid hormone, which regulates metabolism throughout the body. T4 production is controlled by **thyroid-stimulating hormone (TSH)**, released by the pituitary gland.
+---
 
-This forms a feedback loop:
+## In Plain Terms
 
-- **Low T4** → pituitary releases more TSH → stimulates thyroid.
-- **High T4** → pituitary releases less TSH → suppresses thyroid.
+Your thermostat doesn't just measure the room temperature — it also responds to it, turning the heat up or down. T4 is the room temperature; TSH is the thermostat's command. A cold room with the heat cranked up (low T4, high TSH) means the furnace — the thyroid — is failing. A hot room with the heat turned off (high T4, suppressed TSH) means the thyroid is running away on its own. Measuring both is how you know whether the problem is the room or the furnace.
 
-Measuring both T4 and TSH reveals where in this axis the problem lies.
+---
 
-## Hyperthyroidism in Cats
+## The Thyroid Axis, in One Paragraph
 
-### The Disease
-Hyperthyroidism — an overactive thyroid, usually caused by a benign thyroid tumour — is the most common endocrine disease of older cats. Excess T4 accelerates metabolism.
+The thyroid gland makes thyroxine (T4), the hormone that sets the body's metabolic rate. The pituitary gland watches T4 and releases thyroid-stimulating hormone (TSH) to tell the thyroid to make more when levels dip. It's a classic negative-feedback loop:
 
-**Signs:** weight loss despite a ravenous appetite, hyperactivity, vomiting, increased thirst and urination, unkempt coat, and (in advanced cases) heart problems.
+- **T4 low** → pituitary releases more TSH → thyroid stimulated.
+- **T4 high** → pituitary suppresses TSH.
 
-### Testing
-- **Total T4 (fTT4)** — the primary screening test. Elevated T4 is the hallmark of hyperthyroidism.
-- **TSH** — usually low in hyperthyroidism (the pituitary is suppressed).
+That simple axis is why measuring *both* T4 and TSH is more informative than either alone. The combination tells you whether the problem is in the thyroid itself or in the pituitary driving it.
 
-### Interpretation
-- **Elevated T4** — strongly suggestive of hyperthyroidism.
-- **Borderline ("grey zone") T4** — some hyperthyroid cats have only mildly elevated T4, especially with concurrent illness. Repeat testing or additional diagnostics may be needed.
+---
 
-**Related product:** [Feline T4 Test](/reagents/migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit)
+## Hyperthyroidism in Cats: The Most Common Feline Endocrine Disease
 
-## Hypothyroidism in Dogs
+Hyperthyroidism — an overactive thyroid — is the single most common endocrine disease of older cats. The typical patient is a middle-aged to senior cat that's **losing weight despite a ravenous appetite**, often with hyperactivity, vomiting, a rapid heart rate, and a poor hair coat.
 
-### The Disease
-Hypothyroidism — an underactive thyroid, usually from immune-mediated thyroid destruction — is common in middle-aged dogs. Low T4 slows metabolism.
+The diagnosis hinges on total T4:
 
-**Signs:** weight gain, lethargy, hair loss, skin problems, cold intolerance, and behavioural changes.
+| Feline Total T4 | Interpretation |
+|---|---|
+| 0.8–4.0 µg/dL | Normal (lab-dependent) |
+| 2.5–4.0 µg/dL | Grey zone with compatible signs |
+| >4.0 µg/dL | Consistent with hyperthyroidism |
 
-### Testing
-- **Total T4 (cTT4)** — the initial screening test. Low T4 suggests hypothyroidism, but can also occur with other illnesses ("euthyroid sick syndrome").
-- **TSH** — elevated in true hypothyroidism (the pituitary is trying to stimulate a failing thyroid). The combination of **low T4 + high TSH** is strongly diagnostic.
+The grey zone matters. Early or mild hyperthyroidism — or hyperthyroidism masked by concurrent non-thyroidal illness — can keep T4 in the high-normal range. When clinical signs fit but T4 is grey-zone, the next step is **free T4 by equilibrium dialysis** or a repeat T4 in 2–4 weeks.
 
-### Interpretation
-- **Low T4 + high TSH** — confirms hypothyroidism.
-- **Low T4 + normal TSH** — inconclusive; consider other illness or repeat testing.
-- **Normal T4** — rules out hypothyroidism in most cases.
+> A practical point: in cats, TSH is *suppressed* in hyperthyroidism and is not routinely used for diagnosis — total T4 (with free T4 as backup) is the workhorse.
 
-**Related products:** [Canine T4 Test](/reagents/migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit) · [Canine TSH Test](/reagents/migi-dog-canine-thyroid-stimulating-hormone-ctsh-rapid-quantitative-test-kit)
+---
+
+## Hypothyroidism in Dogs: The Mirror Image
+
+Hypothyroidism — an underactive thyroid — is common in middle-aged dogs and is essentially the opposite picture: **weight gain despite a normal or reduced appetite**, lethargy, hair loss, and a "slow" demeanor.
+
+Here, both T4 and TSH matter:
+
+| Canine Analyte | Reference | Diagnostic Finding |
+|---|---|---|
+| Total T4 | ~1.0–4.0 µg/dL | Hypothyroid: <1.0 µg/dL |
+| cTSH | <0.6 ng/mL | Elevated (>0.6, often >1.0) in primary hypothyroidism |
+
+The classic diagnostic pattern is **low T4 + high TSH = primary hypothyroidism** — the thyroid itself is failing, and the pituitary is shouting at it to work harder.
+
+But there's a well-known caveat worth remembering: **about 20–30% of confirmed hypothyroid dogs have a TSH within the normal range.** And low T4 with a *normal* TSH is ambiguous — it could be early hypothyroidism, or it could be "sick euthyroid" (a dog whose thyroid function is temporarily suppressed by another illness). That's when you re-test, or add free T4 by equilibrium dialysis.
+
+---
 
 ## Why Combined T4 + TSH Testing Matters
 
-Measuring **both** T4 and TSH dramatically improves diagnostic accuracy:
+The single-number approach fails in predictable ways:
 
-- In **hypothyroidism**, the pattern of low T4 + high TSH is highly specific.
-- In **hyperthyroidism**, high T4 + low TSH confirms the diagnosis.
-- A single marker can be misleading; the combination clarifies.
+- **T4 alone** can't distinguish primary hypothyroidism from sick euthyroid — both show low T4.
+- **TSH alone** misses the ~20–30% of hypothyroid dogs with normal TSH.
 
-## Quantitative Testing and Monitoring
+Measuring both gives you the pattern, and the pattern is the diagnosis:
 
-Thyroid disease is managed **over time**, making quantitative testing essential:
+| T4 | TSH | Interpretation |
+|---|---|---|
+| Low | High | Primary hypothyroidism (most reliable) |
+| Low | Normal | Sick euthyroid vs early hypothyroidism — re-test |
+| High | Suppressed | Hyperthyroidism (cat) |
+| Normal | High | Subclinical — monitor |
 
-- **Dose titration** — after starting thyroid medication, T4 is measured to adjust the dose.
-- **Monitoring response** — ensuring T4 returns to the normal range.
-- **Detecting recurrence** — in cats after radioactive iodine or medication.
+---
 
-Serial quantitative T4 measurement is the backbone of thyroid disease management.
+## Monitoring: The Trend Is the Dose
 
-## In the Bigger Picture
+Both diseases are treated and — critically — **titrated** with the same numbers.
 
-Thyroid testing is part of the broader biomarker toolkit. For a full overview, see [Veterinary Biomarker Monitoring](/blog/veterinary-biomarker-monitoring-kidney-cardiac).
+- **Hyperthyroid cats on methimazole:** monitor total T4 to hit the target range. A cat moving 6.2 → 4.8 → 3.1 µg/dL on a stable dose is well-controlled; a T4 that keeps climbing means the dose needs adjusting.
+- **Hypothyroid dogs on levothyroxine:** check T4 (and sometimes TSH) about **4–6 weeks** after starting or changing the dose. Post-pill timing matters — the peak T4 occurs a few hours after dosing.
 
-## Conclusion
+Quantitative testing makes this practical. A number you can trend tells you whether the dose is right weeks before the patient's weight or energy level changes enough to notice.
 
-Thyroid disease is common and highly treatable — when diagnosed accurately. By understanding the T4–TSH axis and using combined, quantitative testing, veterinarians can diagnose thyroid disease confidently and manage it effectively over the long term.
+---
+
+## Sample Handling, Drug Interference, and Timing
+
+Thyroid results are among the most commonly misinterpreted — and most of the mistakes are pre-analytical:
+
+- **Drug interference is real.** Glucocorticoids, phenobarbital, and several other drugs suppress T4, producing a low value in a dog that isn't truly hypothyroid. Review the medication list before interpreting.
+- **"Sick euthyroid" syndrome.** Any significant non-thyroidal illness can transiently lower T4. Don't diagnose hypothyroidism in a critically ill patient — re-test when they recover.
+- **Timing for monitored patients.** In hypothyroid dogs on levothyroxine, T4 peaks a few hours after dosing — sample consistently (commonly 4–6 hours post-pill) so serial values are comparable.
+- **Sample type.** Use serum or plasma per the kit insert, and process promptly.
+
+---
+
+## How the Test Works
+
+T4 and TSH are measured from serum or plasma on a quantitative immunofluorescence analyzer:
+
+1. Draw blood and separate serum or plasma.
+2. Load into the T4 or TSH cartridge.
+3. The analyzer quantifies the hormone concentration against a calibration curve.
+4. Read the result in µg/dL (T4) or ng/mL (TSH) within roughly 10–20 minutes.
+
+**Related products:** [Canine T4 Test](/reagents/migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit) · [Canine TSH Test](/reagents/migi-dog-canine-thyroid-stimulating-hormone-ctsh-rapid-quantitative-test-kit) · [Feline T4 Test](/reagents/migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit)
+
+**Related reading:** [Veterinary Biomarker Testing: The Complete Guide](/blog/veterinary-biomarker-monitoring-kidney-cardiac) · [Cortisol Testing in Dogs: Cushing's and Addison's](/blog/cortisol-testing-dogs-cushings-addisons) · [What Is a Feline Thyroid Test?](/blog/what-is-a-feline-thyroid-test-are-your-cats-healthy)
+
+---
+
+## Key Takeaways
+
+1. Cats go **hyper**thyroid, dogs go **hypo**thyroid — opposite directions, same test panel.
+2. **Feline hyperthyroidism:** total T4 >4.0 µg/dL (grey zone 2.5–4.0 → free T4).
+3. **Canine hypothyroidism:** T4 <1.0 µg/dL, ideally with elevated TSH — but ~20–30% of hypothyroid dogs have normal TSH.
+4. **Measure both T4 and TSH** — the pattern is the diagnosis, not any single value.
+5. **Serial T4 titrates therapy** — the trend tells you the dose is right before the patient's weight changes.
+
+---
+
+## References
+
+- Cornell eClinPath — Thyroid gland: https://eclinpath.com/chemistry/thyroid-gland/
+- MSD Veterinary Manual — Hypothyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hypothyroidism
+- MSD Veterinary Manual — Hyperthyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hyperthyroidism
+
+*This article is for veterinary professional education. Reference ranges vary by assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+
+---
+
+## Sources & Verification
+
+- **Author:** Dr. Tang — veterinary diagnostics specialist.
+- **Review:** Reference ranges and interpretation cross-checked against Cornell eClinPath and the MSD Veterinary Manual (References above).
+- **Last updated:** 2026-08-29.
+- **Note:** Reference intervals vary by laboratory; confirm against your analyzer's validated ranges.
