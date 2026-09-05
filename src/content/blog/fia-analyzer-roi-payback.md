@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "How do I calculate payback on an FIA analyzer?", "a": "Divide the hardware cost by your monthly margin — which is tests per month multiplied by margin per test (client charge minus cartridge cost minus allocated overhead). The result is payback in months. Volume and margin are the two inputs that matter."}, {"q": "What is a realistic payback period?", "a": "For a busy practice running 10–20 targeted tests a day, payback commonly lands in months. For a low-volume practice running a handful of tests a week, payback can stretch past a year — which is why break-even volume should be calculated before buying."}, {"q": "What is break-even volume?", "a": "The monthly number of tests at which your margin covers the instrument's cost within your target payback window. Below that volume, the analyzer is a cost; above it, it's an asset. You should compute it from your own practice history before purchase."}, {"q": "Why is an FIA reader's payback usually shorter than a chemistry platform?", "a": "A dedicated fluorescence immunoassay reader has a deliberately low hardware cost — often an order of magnitude below a full chemistry-plus-haematology platform — because it's a single-parameter, cartridge-based instrument with no fluidics. Lower upfront cost means the monthly margin clears it faster."}, {"q": "Does adding more tests always improve ROI?", "a": "Not necessarily. Each additional test you offer carries its own cartridge cost and reagent-expiry risk. Adding a test you run rarely can *reduce* ROI through wastage. Add tests you'll actually run at volume, not tests that look good on a menu."}, {"q": "Should I use revenue or profit in the payback calculation?", "a": "Profit (margin), not revenue. Using gross revenue flatters the number and hides thin margins. The honest calculation is margin per test — client charge minus cartridge cost minus allocated overhead."}]
 ---
 
-> **TL;DR:** Payback on a fluorescence immunoassay reader is simple arithmetic: hardware cost divided by monthly margin. What makes it fast isn't the hardware — it's the volume of targeted, time-sensitive tests you actually run. Calculate break-even volume from your own practice history, and don't let a vendor's revenue math do it for you.
+> **TL;DR:** FIA payback is **hardware cost ÷ (tests per month × margin per test)**. A busy practice running **10–20 tests/day** typically sees payback in **months**; a low-volume practice running a handful a week can wait **more than 1 year**. The trap: use **margin, not revenue** — revenue flatters the number and hides cartridge and overhead costs.
 
 Every analyzer sales pitch eventually lands on the same slide: "this machine pays for itself." What they leave off the slide is that *whether* it pays for itself is a function of your test volume, not their hardware. Here's the honest version.
 
@@ -102,35 +102,35 @@ The practical worth is a fast break-even on deliberately low hardware cost — b
 
 ### How do I calculate payback on an FIA analyzer?
 
-Divide the hardware cost by your monthly margin — which is tests per month multiplied by margin per test (client charge minus cartridge cost minus allocated overhead). The result is payback in months. Volume and margin are the two inputs that matter.
+**1 formula** gives payback in months: **hardware cost ÷ (tests per month × margin per test)**, where margin is client charge minus cartridge cost minus allocated overhead. Volume and margin are the **2 inputs** that matter.
 
 ### What is a realistic payback period?
 
-For a busy practice running 10–20 targeted tests a day, payback commonly lands in months. For a low-volume practice running a handful of tests a week, payback can stretch past a year — which is why break-even volume should be calculated before buying.
+For a busy practice running **10–20 targeted tests/day**, payback commonly lands in **months**. A low-volume practice running a handful a week can stretch past **1 year** — which is why break-even volume should be calculated before buying.
 
 ### What is break-even volume?
 
-The monthly number of tests at which your margin covers the instrument's cost within your target payback window. Below that volume, the analyzer is a cost; above it, it's an asset. You should compute it from your own practice history before purchase.
+Break-even volume is the **1 monthly test count** at which your margin covers the instrument's cost within your target payback window. Below it the analyzer is a cost; above it, an asset.
 
 ### Why is an FIA reader's payback usually shorter than a chemistry platform?
 
-A dedicated fluorescence immunoassay reader has a deliberately low hardware cost — often an order of magnitude below a full chemistry-plus-haematology platform — because it's a single-parameter, cartridge-based instrument with no fluidics. Lower upfront cost means the monthly margin clears it faster.
+A dedicated fluorescence reader often costs **1 order of magnitude less** than a full chemistry-plus-haematology platform, because it's a single-parameter, cartridge-based instrument with no fluidics. Lower upfront cost clears monthly margin faster.
 
 ### Does adding more tests always improve ROI?
 
-Not necessarily. Each additional test you offer carries its own cartridge cost and reagent-expiry risk. Adding a test you run rarely can *reduce* ROI through wastage. Add tests you'll actually run at volume, not tests that look good on a menu.
+Not necessarily — **each added test** carries its own cartridge cost and reagent-expiry risk, so **1 rarely-run test** can reduce ROI through wastage. Add tests you'll actually run at volume, not tests that look good on a menu.
 
 ### Should I use revenue or profit in the payback calculation?
 
-Profit (margin), not revenue. Using gross revenue flatters the number and hides thin margins. The honest calculation is margin per test — client charge minus cartridge cost minus allocated overhead.
+Use **1 honest number — profit (margin), not revenue** — gross revenue flatters the result and hides thin margins. The calculation is margin per test: client charge minus cartridge cost minus allocated overhead.
 
 ## Key Takeaways
 
-1. Payback = hardware cost ÷ (tests per month × margin per test). That's the whole model.
-2. Use margin, not revenue — revenue flatters payback by hiding cartridge and overhead cost.
-3. An FIA reader's low hardware cost is its main financial virtue: less capital at risk, faster break-even.
-4. Volume is the dominant variable. Calculate break-even from your own billing history.
-5. Same-day treatment revenue is upside — don't let it paper over a marginal base case.
+1. Payback = **hardware cost ÷ (tests per month × margin per test)** — **1 formula**, that's the whole model.
+2. Use **margin, not revenue** — **2 inputs**, one honest; revenue flatters payback by hiding cartridge and overhead cost.
+3. An FIA reader's **low hardware cost** is its main financial virtue: **1 order of magnitude** less capital at risk, faster break-even.
+4. Volume is the dominant variable — **10–20 tests/day** makes months, a handful a week makes a year; calculate break-even from your billing history.
+5. Same-day treatment revenue is upside — don't let it paper over **1 marginal base case**.
 
 ## References
 

@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the most important question to ask a test kit supplier?", "a": "Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing."}, {"q": "How do I check a supplier's certifications are real?", "a": "Ask for the certificate number and the exact scope, then verify with the issuing body. A certificate that doesn't cover the specific products you're buying — or an expired one — is common. Check ISO 9001/13485 and CE scope carefully."}, {"q": "What is a red flag when choosing a supplier?", "a": "Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale."}, {"q": "Should I ask about OEM/private label before I need it?", "a": "Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later. Switching factories to get OEM capability mid-stream is disruptive and expensive."}]
 ---
 
-> **TL;DR** — Choosing a supplier comes down to ten questions across five areas: performance, certifications, manufacturing quality, logistics, and the relationship. The single most important one is the first: *will you share your analytical performance data?* A supplier that hesitates on that is telling you everything you need to know. Work through this list and the decision mostly makes itself.
+> **TL;DR** — Choosing a supplier comes down to **10 questions across 5 areas**: performance, certifications, manufacturing quality, logistics, and the relationship. The single most important is **#1: will you share your analytical performance data?** A supplier that hesitates on that is telling you everything you need to know.
 
 ---
 
@@ -125,11 +125,11 @@ The practical worth is avoiding supplier risk — ask for performance data, cert
 
 ## Key Takeaways
 
-1. The most important question is **"will you share your analytical performance data?"** — hesitation is disqualifying.
-2. Verify **certifications by scope**, not by the existence of a certificate.
-3. **Batch traceability** and **room-temperature storage** protect you from recalls and logistics costs.
-4. **Guaranteed lead times** and **OEM capability** are the difference between a supplier and a partner.
-5. Use the ten questions as a **scorecard**, not a questionnaire — where a supplier stumbles predicts where the problems will be.
+1. The **#1 question** is "will you share your analytical performance data?" — hesitation is disqualifying.
+2. Verify **certifications by scope, not certificate count** — 1 certificate with the wrong scope is still a gap.
+3. Demand **batch traceability and room-temperature storage** — these 2 things protect you from recalls and logistics costs.
+4. **Guaranteed lead times and OEM capability** are the 2 markers separating a supplier from a partner.
+5. Use the **10 questions as a scorecard**, not a questionnaire — where a supplier stumbles predicts where problems will be.
 
 ---
 

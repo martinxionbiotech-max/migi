@@ -8,7 +8,7 @@ faq: [{"q": "What are the most common canine infectious diseases tested for?", "
 ---
 
 
-> **TL;DR** — Canine infectious disease shows up as vague signs — fever, vomiting, diarrhoea — so testing is what names the culprit. The framework is always the same: **antigen tests detect the pathogen (active infection), antibody tests detect immunity (vaccination or exposure).** Parvo, distemper, corona and adenovirus each have their test; the one you pick depends on whether you're diagnosing a sick dog or checking protection.
+> **TL;DR** — Canine infectious disease shows up as **3 shared signs** — fever, vomiting, diarrhoea — so testing is what names the culprit. The framework is always **2 tests, 2 questions**: antigen detects the pathogen (active infection), antibody detects immunity (vaccination or exposure). At least **4 viral culprits** — parvo, distemper, corona and adenovirus — each need a different test, and the one you pick depends on whether the dog is sick or being screened for protection.
 
 Infectious disease is among the most common reasons dogs present to veterinary clinics, yet the signs are frequently vague — fever, lethargy, vomiting, diarrhoea — and shared across many diseases. Targeted, rapid testing is therefore essential to identify the causative agent and guide treatment. This guide covers the major canine infectious diseases, the tests used to detect them, and how to interpret results.
 
@@ -113,29 +113,29 @@ Rapid, quantitative testing has made canine infectious-disease diagnosis faster 
 
 ## Key Takeaways
 
-1. **Vague signs, specific tests** — fever, vomiting and diarrhoea are shared across diseases, so testing names the cause.
-2. **Antigen = active infection, antibody = immunity** — the two-question framework.
-3. **Parvo and distemper are the urgent ones** — early antigen testing changes the outcome.
-4. **Match the test to the question** — sick dog → antigen; healthy dog → antibody.
-5. **One panel covers the common culprits** — parvo, distemper, corona and adenovirus.
+1. **Vague signs, specific tests** — 3 shared signs (fever, vomiting, diarrhoea) hide very different diseases, so testing names the cause.
+2. **Antigen = active infection, antibody = immunity** — the 2-question framework applies to every canine virus.
+3. **Parvo and distemper are the 2 urgent ones** — early antigen testing changes the outcome; corona and adenovirus can wait.
+4. **Match the test to the question** — 1 sick dog gets an antigen test; 1 healthy dog gets an antibody test.
+5. **One panel covers 4 common culprits** — parvo, distemper, corona and adenovirus, with Leishmania and Toxoplasma added by risk.
 
 ## FAQ
 
 ### What does canine infectious-disease testing cover?
 
-Parvo, distemper, coronavirus and adenovirus — the major canine viral pathogens — using antigen tests (active infection) and antibody tests (immunity).
+Four major canine viral pathogens — parvo, distemper, coronavirus and adenovirus — using 2 test types: antigen tests for active infection and antibody tests for immunity.
 
 ### Which test should I use for a sick dog?
 
-An antigen test — it detects the pathogen directly and confirms active infection, which is what a symptomatic dog needs.
+One choice for a sick dog: an antigen test, because it detects the pathogen directly and confirms active infection — which is what a symptomatic dog needs.
 
 ### Which test checks protection?
 
-An antibody test — it measures the immune response from vaccination or prior exposure.
+One choice for protection checks: an antibody test, because it measures the immune response from vaccination or prior exposure.
 
 ### Why test instead of treating on signs?
 
-Because the signs overlap heavily, and the treatment, isolation and prognosis differ by disease — a specific test prevents both missed and wrong diagnoses.
+Because 3 clinical signs overlap heavily, while treatment, isolation and prognosis differ by disease — a specific test prevents both missed and wrong diagnoses.
 
 ## References
 

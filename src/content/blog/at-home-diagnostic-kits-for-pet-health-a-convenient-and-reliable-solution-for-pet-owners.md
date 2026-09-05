@@ -7,7 +7,7 @@ category: "core-technology"
 faq: [{"q": "Are at-home pet diagnostic kits reliable?", "a": "It depends entirely on what they test. Qualitative screening — urine strips, glucose, temperature — can be reliable at home. But quantitative blood tests (SDMA, NT-proBNP, cPL) and infectious-disease antigen tests need an instrument and correct interpretation, so those 'home kit' versions are where reliability and meaning fall apart."}, {"q": "Which tests are genuinely suitable for home use?", "a": "Urine dipstick checks (glucose, protein, pH), blood-glucose monitoring for a diabetic pet, and simple observations like temperature and weight. These are screening or monitoring tools where a yes/no or a single number is genuinely meaningful."}, {"q": "Why can't I test for parvo or FeLV reliably at home?", "a": "Because these need two things a home kit can't provide: a quantitative readout (viral load, not just present/absent) and professional interpretation — including knowing that a recent vaccine can cause a false positive. A home antigen strip gives you a line, not a diagnosis."}, {"q": "What's the difference between a home test and a clinic test?", "a": "A home test is qualitative — it gives a yes/no or a coarse band. A clinic analyzer is quantitative — it returns an actual concentration with a reference range, so a clinician can stage disease, time breeding, or track a trend. The number is what's missing at home."}, {"q": "Should I use a home test instead of going to the vet?", "a": "No. Home testing is a screening or monitoring supplement, never a replacement. If a home test is abnormal — or your pet is clearly unwell — the next step is a veterinary visit, not a second home kit."}]
 ---
 
-> **TL;DR** — "At-home pet diagnostics" is half real and half marketing. The real half: urine dipsticks, glucose monitoring, temperature — qualitative screening you can genuinely do at home. The marketing half: serious-disease tests (parvo, FeLV, kidney, cardiac) sold as home kits, when what those conditions actually need is a **quantitative** result and professional interpretation. The dividing line is simple: if the decision needs a *number*, it needs a clinic analyzer, not a strip.
+> **TL;DR** — At-home diagnostics split into **2 tiers**: qualitative screening (urine dipsticks, glucose, temperature) vs quantitative disease testing. The hard example: semi-quantitative progesterone strips top out around **5 ng/mL**, but frozen-semen breeding needs **10–20 ng/mL** — a **2–4x gap** that makes strips blind at the decision point. Serious-disease questions (parvo, FeLV, kidney, cardiac) need a number and professional interpretation, not a line.
 
 Pet owners increasingly want to test at home — and there's a whole category of products eager to tell them they can. The honest answer is more nuanced, and getting it right is the difference between useful early warning and a false sense of security.
 
@@ -90,33 +90,33 @@ Home testing isn't a replacement for veterinary care. Used for the right things,
 
 ### Are at-home pet diagnostic kits reliable?
 
-Only for what they're good at. Qualitative screening (urine strips, glucose, temperature) is reliable at home; quantitative blood tests and infectious-disease antigen tests need an instrument and correct interpretation.
+Only for about 2 jobs they're genuinely suited to — urine strips and glucose/temperature monitoring. Quantitative blood tests and infectious-disease antigen tests need an instrument and correct interpretation.
 
 ### Which tests are genuinely suitable for home use?
 
-Urine dipsticks, blood-glucose monitoring for diabetic pets, and simple observations like temperature and weight — screening and monitoring where a yes/no or a single number is genuinely meaningful.
+Three tools are genuinely home-safe: urine dipsticks, blood-glucose monitoring for diabetic pets, and observations like temperature or weight — screening where one number or a yes/no is enough.
 
 ### Why can't I test for parvo or FeLV reliably at home?
 
-Because they need a quantitative readout and professional interpretation — including knowing a recent vaccine can cause a false positive. A home strip gives a line, not a diagnosis.
+Two traps make home parvo/FeLV kits unreliable — the diseases need a quantitative readout, and a recent vaccine can cause a false positive. A home strip gives a line, not a diagnosis.
 
 ### What's the difference between a home test and a clinic test?
 
-A home test is qualitative (yes/no or coarse band); a clinic analyzer is quantitative (an actual concentration with a reference range). The number is what's missing at home.
+A home test returns a yes/no or coarse band; a clinic analyzer returns 1 concentration with a reference range. The missing number is the decision.
 
 ### Should I use a home test instead of going to the vet?
 
-No. Home testing is a supplement, never a replacement. An abnormal result — or a clearly unwell pet — means a veterinary visit, not a second home kit.
+No — home testing covers 1 job (screening/monitoring), not diagnosis. An abnormal result, or a clearly unwell pet, means a veterinary visit, not a second home kit.
 
 ---
 
 ## Key Takeaways
 
-1. **Home testing is half real, half marketing** — urine strips and glucose are real; "home parvo/kidney kits" mostly aren't.
-2. **The dividing line is the number** — if the decision needs a concentration, it needs a clinic analyzer.
-3. **Semi-quantitative strips have ceilings** — progesterone tops out at ~5 ng/mL, blind where 10–20 ng/mL matters.
-4. **Serious-disease home kits are a weaker test** — qualitative, not the quantitative version the disease requires.
-5. **Home tools are supplements, not replacements** — screen at home, confirm and diagnose at the clinic.
+1. **Home testing splits into 2 tiers** — urine strips and glucose are real; home parvo/kidney kits mostly aren't.
+2. **The dividing line is the number** — if a decision needs 1 concentration, it needs a clinic analyzer.
+3. **Semi-quantitative strips have ceilings** — progesterone tops out at ~5 ng/mL, blind where frozen-semen breeding needs 10–20 ng/mL.
+4. **Serious-disease home kits give 1 less thing than the disease requires** — a line instead of the quantitative value and interpretation.
+5. **Home tools are supplements, not replacements** — screen at home, but 1 abnormal result sends you to the clinic.
 
 ---
 

@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What should I look at beyond the analyzer's sticker price?", "a": "Evaluate the cartridge cost per test, the instrument's quality-control and maintenance burden, the staff training required, and the risk of reagent expiry. These recurring and hidden costs, summed over the instrument's life, are the total cost of ownership and usually matter more than the hardware price."}, {"q": "What makes an analyzer easy to use?", "a": "A simple, few-step workflow with minimal sample preparation, automatic rejection of invalid samples, and clear quantitative readouts. Fewer steps mean fewer operator errors, less training, and less cartridge wastage."}, {"q": "How do I avoid buying more analyzer than I need?", "a": "Match the instrument to the specific tests you'll actually run most often. A dedicated single-parameter immunoassay reader is the economical choice for targeted quantitative biomarkers, whereas a full chemistry platform only makes sense when you need broad, high-volume panels."}, {"q": "Is a subscription or placement model worth it?", "a": "It depends on the numbers over three years. A subscription lowers upfront cost but locks in recurring fees that can exceed the purchase price. A placement model may require a minimum test commitment. Calculate the three-year total for each option before choosing."}, {"q": "What should I confirm about the vendor before buying?", "a": "Regional support presence and response time, the repair path and turnaround, how software updates are delivered, cartridge shelf life and minimum order quantity, and whether individual test cartridges are sold or only panels."}, {"q": "How do I compare two analyzers fairly?", "a": "Compute the fully loaded cost per test for each — hardware amortised plus cartridge cost plus allocated overhead, all divided by your realistic three-year test volume. Compare on that number, not on the purchase price."}]
 ---
 
-> **TL;DR:** Choosing an analyzer on sticker price is the fastest way to make an expensive mistake. Compare instruments on total cost of ownership — hardware, cartridges, QC, maintenance, training and wastage, all divided by your realistic three-year volume. For a targeted, time-sensitive menu, a dedicated single-parameter immunoassay reader is frequently the lowest-TCO choice precisely because it does one thing cheaply.
+> **TL;DR:** Choosing an analyzer on sticker price is the fastest way to make an expensive mistake. Compare instruments on **total cost of ownership over 3 years** — hardware, cartridges, QC, maintenance, training and wastage — and price a **2-week repair turnaround** as a cost, not an inconvenience. For a targeted, time-sensitive menu, a dedicated **single-parameter immunoassay reader** is frequently the lowest-TCO choice precisely because it does **1 thing cheaply**.
 
 Every analyzer looks good in a brochure. The differences that matter show up months later, in the cartridge invoices and the expired stock on the shelf. This checklist is the questions to ask before you sign anything — organised by the cost categories that actually decide TCO.
 
@@ -93,35 +93,35 @@ The practical worth is avoiding a workflow mismatch. A lower-TCO, targeted FIA r
 
 ### What should I look at beyond the analyzer's sticker price?
 
-Evaluate the cartridge cost per test, the instrument's quality-control and maintenance burden, the staff training required, and the risk of reagent expiry. These recurring and hidden costs, summed over the instrument's life, are the total cost of ownership and usually matter more than the hardware price.
+Evaluate **1 cartridge cost per test**, QC and maintenance burden, staff training, and reagent expiry risk. Sum those recurring costs over **3 years** — they usually matter more than the 1-time hardware price.
 
 ### What makes an analyzer easy to use?
 
-A simple, few-step workflow with minimal sample preparation, automatic rejection of invalid samples, and clear quantitative readouts. Fewer steps mean fewer operator errors, less training, and less cartridge wastage.
+A **3-step workflow** with minimal sample preparation, automatic rejection of invalid samples, and clear quantitative readouts. Fewer steps mean fewer operator errors, less training, and less cartridge wastage.
 
 ### How do I avoid buying more analyzer than I need?
 
-Match the instrument to the specific tests you'll actually run most often. A dedicated single-parameter immunoassay reader is the economical choice for targeted quantitative biomarkers, whereas a full chemistry platform only makes sense when you need broad, high-volume panels.
+Match the instrument to the **1 menu you'll actually run most often**. A dedicated single-parameter immunoassay reader is the economical choice for targeted quantitative biomarkers, whereas a full chemistry platform only makes sense when you need broad, high-volume panels.
 
 ### Is a subscription or placement model worth it?
 
-It depends on the numbers over three years. A subscription lowers upfront cost but locks in recurring fees that can exceed the purchase price. A placement model may require a minimum test commitment. Calculate the three-year total for each option before choosing.
+It depends on the numbers over **3 years**. A subscription lowers upfront cost but locks in recurring fees that can exceed the purchase price; a placement model may require a minimum test commitment. Calculate the 3-year total for each option before choosing.
 
 ### What should I confirm about the vendor before buying?
 
-Regional support presence and response time, the repair path and turnaround, how software updates are delivered, cartridge shelf life and minimum order quantity, and whether individual test cartridges are sold or only panels.
+Confirm **2 things before buying**: regional support presence/response time, and the repair path/turnaround. Then verify how updates are delivered, cartridge shelf life, minimum order quantity, and whether individual cartridges are sold or only panels.
 
 ### How do I compare two analyzers fairly?
 
-Compute the fully loaded cost per test for each — hardware amortised plus cartridge cost plus allocated overhead, all divided by your realistic three-year test volume. Compare on that number, not on the purchase price.
+Compute the **fully loaded cost per test** for each — hardware amortised plus cartridge cost plus allocated overhead, all divided by your realistic **3-year test volume**. Compare on that number, not on the purchase price.
 
 ## Key Takeaways
 
-1. Compare analyzers on total cost of ownership, never on sticker price.
-2. Consumables matter more than hardware, because they repeat for the instrument's life.
-3. Quantitative readers carry a real QC burden — prefer automated, low-burden internal QC.
-4. Vendor support presence and repair turnaround are part of the cost, not a nice-to-have.
-5. A single-parameter FIA reader is often the lowest-TCO choice for targeted, time-sensitive menus.
+1. Compare analyzers on **3-year total cost of ownership**, never on sticker price.
+2. Consumables matter more than hardware — **1 cartridge reorder** repeats for the instrument's life.
+3. Quantitative readers carry a real QC burden — prefer **1 automated internal QC** over manual steps.
+4. Vendor support and a **2-week repair turnaround** are part of the cost, not a nice-to-have.
+5. A **1-parameter FIA reader** is often the lowest-TCO choice for targeted, time-sensitive menus.
 
 ## References
 

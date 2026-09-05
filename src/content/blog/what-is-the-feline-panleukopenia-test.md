@@ -92,11 +92,11 @@ A note on pricing, deliberately: Migibio is a manufacturer and these kits are so
 
 ### What is feline panleukopenia?
 
-A highly contagious parvovirus of cats — the ancestor of canine parvovirus. It destroys white blood cells and the intestinal lining, causing severe vomiting, diarrhoea and immune suppression, and is deadliest in kittens.
+**1 ancestor virus, 1 highly contagious pathogen**: feline panleukopenia is a parvovirus of cats that destroys white blood cells and the intestinal lining, causing severe vomiting, diarrhoea and immune suppression, deadliest in kittens.
 
 ### How is FPV detected?
 
-By antigen testing on a faecal or rectal swab (virus is shed in faeces). Quantitative fluorescence testing reports viral load. Antibody testing on blood answers the separate question of protection.
+By antigen testing on **1 swab type** — a faecal or rectal swab, since the virus is shed in faeces. Quantitative fluorescence reports viral load; antibody testing on blood answers the protection question.
 
 ### What's the survival rate?
 
@@ -104,26 +104,26 @@ Untreated mortality is 90–100%, especially in kittens. With prompt supportive 
 
 ### Antigen or antibody testing?
 
-Antigen testing for a sick cat — it confirms current infection and guides isolation. Antibody testing for a healthy cat — it verifies vaccine protection. They answer different questions.
+**2 tests, 2 questions**: antigen testing for a sick cat confirms current infection and guides isolation; antibody testing for a healthy cat verifies vaccine protection.
 
 ### Why do shelters have so many outbreaks?
 
-FPV survives months to years in the environment and concentrates in unvaccinated intakes. Intake antigen screening is what prevents one case from becoming a facility-wide outbreak.
+FPV survives **months to years** in the environment and concentrates in unvaccinated intakes — **1 intake antigen screen** is what prevents one case from becoming a facility-wide outbreak.
 
 ### How long does the virus survive?
 
-Months to years, like canine parvovirus. It requires a parvovirus-effective disinfectant (bleach or accelerated hydrogen peroxide), not generic cleaners.
+**Months to years**, like canine parvovirus — **2 disinfectants** (bleach or accelerated hydrogen peroxide) work, generic cleaners don't.
 
 ---
 
 ## Key Takeaways
 
-1. **FPV is the ancestor of canine parvovirus** — same family, same attack pattern, same environmental toughness.
+1. **FPV is 1 ancestor virus** — same family, same attack pattern, same environmental toughness as canine parvovirus.
 2. **Untreated mortality is 90–100%**, but prompt supportive care achieves ~85% survival — speed of diagnosis is the whole game.
-3. **Antigen = active infection, antibody = protection** — two tests, two questions.
-4. **It survives months to years in the environment** — intake screening is what prevents shelter-wide outbreaks.
-5. **Vaccination is highly effective** — the disease is now concentrated in unvaccinated and shelter populations.
-6. **B2B pricing is quoted, not listed** — per-test landed cost depends on volume and terms.
+3. **Antigen = active infection, antibody = protection** — **2 tests, 2 questions**.
+4. **It survives months to years in the environment** — **1 intake screen** is what prevents shelter-wide outbreaks.
+5. **Vaccination is highly effective** — **1 core vaccine** has pushed disease into unvaccinated and shelter populations.
+6. **B2B pricing is quoted, not listed** — **1 landed cost per test** depends on volume and terms.
 
 ---
 

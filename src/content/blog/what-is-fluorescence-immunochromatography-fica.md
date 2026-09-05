@@ -8,7 +8,7 @@ faq: [{"q": "What is fluorescence immunochromatography (FICA)?", "a": "FICA is a
 ---
 
 
-> **TL;DR** — Fluorescence immunochromatography (FICA) fuses immunoassay chemistry with fluorescence detection to solve the one thing rapid tests couldn't do: return a **quantitative concentration** instead of a yes/no line. A fluorescent label is excited and its emitted light measured, so the reader outputs a number — which is what lets clinicians stage disease, time breeding and track trends. It's the backbone of modern veterinary point-of-care testing.
+> **TL;DR** — Fluorescence immunochromatography (FICA) fuses immunoassay chemistry with fluorescence detection to solve the **1 thing** rapid tests couldn't do: return a **quantitative concentration** instead of a yes/no line. The reader outputs a number in **10–20 minutes** — which is what lets clinicians stage disease, time breeding and track trends. It's the backbone of modern veterinary POCT.
 
 Fluorescence immunochromatography (FICA) — also written as fluorescence immunochromatographic technology (FICT) — is a lateral-flow diagnostic platform that fuses two established sciences: **immunoassay chemistry** and **fluorescence detection**. It was developed to overcome the single greatest limitation of traditional rapid tests: the inability to deliver **quantitative, concentration-based results** rather than a simple positive/negative readout.
 
@@ -113,29 +113,29 @@ Selecting the right analyzer is therefore as important as selecting the right re
 
 ## Key Takeaways
 
-1. **FICA is immunoassay + fluorescence** — it fuses lateral-flow chemistry with optical detection to deliver a number, not a line.
-2. **The number is the point** — a quantitative concentration is what enables staging, breeding timing and trend tracking.
-3. **It's the backbone of veterinary POCT** — cage-side results in minutes, no reference-lab shipping.
-4. **The analyzer matters as much as the strip** — the reader's calibration and optics determine the number's accuracy.
-5. **Validation still rules** — "fluorescence" is not a quality guarantee; sensitivity and specificity from a real study are.
+1. **FICA is immunoassay + fluorescence** — **2 technologies** fused to deliver a number, not a line.
+2. **The number is the point** — **1 quantitative concentration** enables staging, breeding timing and trend tracking.
+3. **It's the backbone of veterinary POCT** — **10–20 minute results**, no reference-lab shipping.
+4. **The analyzer matters as much as the strip** — **1 reader's calibration and optics** determine the number's accuracy.
+5. **Validation still rules** — **2 numbers** (sensitivity and specificity) from a real study.
 
 ## FAQ
 
 ### What is fluorescence immunochromatography?
 
-A lateral-flow platform that labels detector antibodies with a fluorescent marker and measures the emitted light to return a quantitative concentration — the fusion of immunoassay chemistry and fluorescence detection.
+FICA is **1 platform**: lateral-flow chemistry that labels detector antibodies with a fluorescent marker and measures emitted light to return a quantitative concentration.
 
 ### Why does it beat a visual line?
 
-Because a line is yes/no and read subjectively by eye, while a fluorescence reader outputs an objective number proportional to concentration — enabling staging and trend tracking.
+Because **1 line is yes/no** and read subjectively by eye, while a fluorescence reader outputs an objective number proportional to concentration — enabling staging and trend tracking.
 
 ### Where is it used in veterinary medicine?
 
-As the backbone of point-of-care testing — infectious-disease antigen/antibody, reproductive hormones, inflammation, kidney and cardiac biomarkers, all read in minutes at the cage-side.
+As the backbone of point-of-care testing — **5 analyte groups** (infectious disease, reproductive hormones, inflammation, kidney, cardiac), all read in minutes at the cage-side.
 
 ### Does "fluorescence" guarantee accuracy?
 
-No. The method returns a number, but accuracy depends on the assay's validation — sensitivity and specificity from a real study — not the detection method name.
+No — **1 number is not proof**: the method returns a concentration, but accuracy depends on sensitivity and specificity from a real validation study, not the detection-method name.
 
 ## References
 

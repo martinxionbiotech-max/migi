@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What three viruses does the feline triple test detect?", "a": "Feline parvovirus (FPV/panleukopenia), feline herpesvirus (FHV-1) and feline calicivirus (FCV) — the three core feline viruses, covering the most common viral causes of gastrointestinal and upper-respiratory disease in cats."}, {"q": "Does a positive antibody result mean my cat is infected right now?", "a": "No. The triple test measures antibodies, and antibody presence reflects vaccination or past exposure — not necessarily active infection. Because most cats are vaccinated against these three viruses, antibody positives are common and expected. Diagnosing active infection needs an antigen test (FPV) or PCR."}, {"q": "Are the three antibody results equally meaningful?", "a": "No, and this is the key point. FPV antibodies predict protection reliably. FCV antibodies are far less predictive because FCV has many strains and antibodies to one strain may not protect against another. FHV-1 antibodies sit in between. Treating all three the same is a common mistake."}, {"q": "Can the triple test tell if my cat needs a booster?", "a": "Partly. For FPV, a low antibody titre is a good signal to revaccinate. For FCV and FHV-1, antibody levels are weaker predictors of protection, so vaccination decisions rely more on risk and schedule than on the titre alone."}, {"q": "Why doesn't the antibody test diagnose an infection?", "a": "Because antibodies persist long after the virus is gone, and vaccination produces antibodies identical to those from infection. A cat with a high titre could be protected by vaccine, recovered from a past infection, or actively shedding — the antibody test alone can't tell which."}, {"q": "When is the triple test most useful?", "a": "For immunity assessment — checking vaccine response in kittens, screening shelter and cattery intakes, and guiding booster decisions. It's an immune-status and screening tool, not a diagnostic for active disease."}]
 ---
 
-> **TL;DR** — The feline triple test checks three core viruses — FPV (panleukopenia), herpes (FHV-1) and calicivirus (FCV) — in one run, but it's an **antibody** test, and that changes everything. Antibody presence means "vaccinated or exposed," not "infected now," so a positive is normal for most vaccinated cats. And the three results are **not equal**: FPV antibodies predict protection reliably, FCV antibodies don't (too many strains), and FHV-1 hides lifelong in nerve tissue no antibody test can see. The panel's real job is immunity assessment — not diagnosing active disease.
+> **TL;DR** — The triple test bundles **3 viruses into 1 sample run**, but only **1 of those 3 antibody results — FPV — reliably predicts protection**. FCV antibody titre is weak because of strain diversity, and FHV-1 goes latent for life, so the other **2 results are exposure history, not immunity**. Use it for the **3 immunity decisions** — vaccine checks, intake screening, booster timing — not for diagnosing active disease.
 
 The feline triple test is one of the most commonly ordered panels in feline medicine — and one of the most commonly misread. It's sold as "one step to check for three viruses," but what it actually answers is narrower, and more useful, than that slogan suggests.
 
@@ -87,37 +87,37 @@ For the owner, the framing is clean: this panel tells us whether your cat's vacc
 
 ### What three viruses does the triple test detect?
 
-FPV (panleukopenia), FHV-1 (herpes) and FCV (calicivirus) — the three core feline viruses behind the most common viral GI and upper-respiratory disease in cats.
+Three viruses in one sample run: FPV (panleukopenia), FHV-1 (herpes) and FCV (calicivirus) — the core viral GI and upper-respiratory pathogens in cats. The panel is an antibody screen, not direct virus detection.
 
 ### Does a positive antibody result mean my cat is infected now?
 
-No. The panel measures antibodies, which reflect vaccination or past exposure. Most vaccinated cats test positive for all three — that's normal. Active infection needs an antigen test or PCR.
+No — most vaccinated cats test positive for all 3 viruses, so a positive is normal rather than alarming. Active infection still needs an antigen test for FPV or PCR for FHV-1/FCV.
 
 ### Are the three antibody results equally meaningful?
 
-No. FPV antibodies reliably predict protection; FCV antibodies are unreliable because of strain diversity; FHV-1 antibodies only show exposure history. Treating them as equal is the classic mistake.
+No — only 1 of the 3, FPV, reliably predicts protection; FCV antibodies are weakened by strain diversity and FHV-1 antibodies only record exposure history. Treating all three as equal is the classic mistake.
 
 ### Can the triple test tell if my cat needs a booster?
 
-Partly. A low FPV titre is a solid reason to revaccinate. For FCV and FHV-1, antibody levels are weaker predictors, so booster decisions lean on risk and schedule.
+Only partly — a low FPV titre is 1 solid reason to revaccinate, but the FCV and FHV-1 antibody levels are weaker predictors, so booster decisions still lean on risk and schedule.
 
 ### Why can't the antibody test diagnose infection?
 
-Antibodies persist after the virus clears, and vaccine antibodies look identical to infection antibodies. A high titre can't distinguish "protected" from "recovered" from "shedding."
+Two sources — vaccination and past infection — produce antibodies that look identical to infection antibodies, and antibodies persist after the virus clears. A high titre can't distinguish protected, recovered, or shedding.
 
 ### When is the triple test most useful?
 
-For immunity assessment — kitten vaccine-response checks, shelter intake screening, and booster decisions. It's an immune-status tool, not a diagnostic for active disease.
+Use it for 3 immunity decisions — kitten vaccine-response checks, shelter intake screening, and booster timing — not for diagnosing active disease.
 
 ---
 
 ## Key Takeaways
 
-1. **It's an antibody test** — it measures immune memory, not the virus, so positives are normal for vaccinated cats.
-2. **Antibodies ≠ active infection** — diagnosing disease needs an antigen test (FPV) or PCR (FHV-1/FCV).
-3. **The three results aren't equal** — FPV antibodies predict protection; FCV antibodies don't (strain diversity); FHV-1 goes latent for life.
-4. **FHV-1 hides in nerves** — a cat can shed herpesvirus during a stress flare with normal-looking antibodies.
-5. **Use it for immunity, not diagnosis** — vaccine-response checks, intake screening, booster decisions.
+1. **It's an antibody test** — 3 viruses in 1 run, but it measures immune memory, so positives are normal for vaccinated cats.
+2. **Antibodies ≠ active infection** — a positive for all 3 is vaccine/exposure history; active disease needs FPV antigen or FHV-1/FCV PCR.
+3. **Only 1 of 3 results is reliably predictive** — FPV antibody predicts protection; FCV titre is unreliable across strains; FHV-1 titre is exposure history.
+4. **FHV-1 hides in nerves** — 1 latent virus can reactivate in a stress flare even when antibodies look normal.
+5. **Use it for 3 immunity decisions** — vaccine response, intake screening, booster timing; it cannot diagnose active disease.
 
 ---
 

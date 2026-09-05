@@ -8,7 +8,7 @@ faq: [{"q": "What is veterinary point-of-care testing (POCT)?", "a": "POCT refer
 ---
 
 
-> **TL;DR** — Point-of-care testing means running diagnostics in the clinic instead of shipping to a reference lab — same-visit results, same-visit decisions. The value is speed plus revenue: a quantitative analyzer returns biomarkers in minutes, which improves care *and* turns in-house testing into a billable service instead of an outsourced cost. The catch is knowing its limits — POCT screens and monitors; it doesn't replace the reference lab for everything.
+> **TL;DR** — POCT means running diagnostics in-clinic instead of shipping out — same-visit results, same-visit decisions. The market logic is concrete: **USD 2.23B in 2025 → 3.77B in 2031, a 9.18% CAGR**. The value is speed plus revenue; the catch is limits — POCT screens and monitors, it doesn't replace the lab for everything.
 
 Point-of-care testing (POCT) has transformed how veterinary medicine is practised. Where clinicians once waited hours or days for reference-laboratory results, they can now obtain diagnostic data in minutes, at the cage-side, and act on it during the same consultation. This guide explains what POCT is, the technologies behind it, and how to integrate it effectively into a veterinary practice.
 
@@ -115,29 +115,29 @@ Veterinary point-of-care testing has moved from convenience to clinical necessit
 
 ## Key Takeaways
 
-1. **POCT = in-clinic, same-visit results** — no reference-lab shipping, no next-day wait.
-2. **The value is speed plus revenue** — faster decisions and a billable in-house service.
-3. **Quantitative biomarkers are the backbone** — SDMA, NT-proBNP, cPL, progesterone read in minutes.
-4. **It screens and monitors, not replaces** — complex or confirmatory work still goes to the lab.
-5. **Know the limits** — POCT is a workflow tool, not a substitute for clinical judgement.
+1. **POCT = in-clinic, same-visit results** — **1 visit** instead of reference-lab shipping and a next-day wait.
+2. **The value is speed plus revenue** — **2 outcomes** from the same test: faster decisions and billable in-house service.
+3. **Quantitative biomarkers are the backbone** — **4 examples** read in minutes: SDMA, NT-proBNP, cPL, progesterone.
+4. **It screens and monitors, not replaces** — **2 jobs in-house, 1 job sent out**: complex or confirmatory work still goes to the lab.
+5. **Know the limits** — POCT is **1 workflow tool**, not a substitute for clinical judgement.
 
 ## FAQ
 
 ### What is point-of-care testing?
 
-Running diagnostics in the clinic — antigen, antibody, hormone and biomarker tests on an analyzer — so results and decisions happen in the same visit instead of after a lab turnaround.
+Running diagnostics in the clinic — **antigen, antibody, hormone and biomarker tests on 1 analyzer** — so results and decisions happen in the same visit.
 
 ### Why does POCT matter?
 
-Because a same-visit result changes management immediately — isolate a contagious patient now, confirm a diagnosis now, adjust treatment now — and turns testing into billable in-house revenue.
+Because **1 same-visit result changes management immediately** — isolate now, confirm now, adjust treatment now — and turns testing into billable revenue.
 
 ### What can POCT run?
 
-Infectious-disease antigen/antibody, reproductive hormones (progesterone, relaxin), inflammation (CRP/SAA), kidney (SDMA) and cardiac (NT-proBNP) biomarkers.
+**5 analyte groups**: infectious-disease antigen/antibody, reproductive hormones (progesterone, relaxin), inflammation (CRP/SAA), kidney (SDMA) and cardiac (NT-proBNP).
 
 ### Does POCT replace the reference lab?
 
-No — it screens and monitors. Confirmatory, specialised or unusual tests still go to the reference lab.
+No — **2 roles**: it screens and monitors; confirmatory, specialised or unusual tests still go to the reference lab.
 
 ## References
 

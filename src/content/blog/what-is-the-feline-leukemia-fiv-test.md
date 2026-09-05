@@ -112,27 +112,27 @@ For the owner, the honest framing changes everything: a positive result isn't a 
 
 ### What's the difference between FeLV and FIV?
 
-FeLV spreads through close contact (grooming, shared bowls, mother-to-kitten) and is the more dangerous — progressive infection shortens lifespan. FIV spreads through deep bite wounds and is often compatible with a near-normal lifespan.
+**2 viruses, 2 transmission routes**: FeLV spreads through close contact (grooming, shared bowls, mother-to-kitten) and is the more dangerous; FIV spreads through deep bite wounds and is often compatible with a near-normal lifespan.
 
 ### Can a kitten's FIV test be a false positive?
 
-Yes. Kittens under 6 months can carry maternal FIV antibodies, producing a positive in an uninfected kitten. Retest every 60 days until 6 months — a negative is reliable, a positive needs confirmation.
+Yes — **kittens under 6 months** can carry maternal FIV antibodies, producing a positive in an uninfected kitten. Retest every **60 days until 6 months**; a negative is reliable, a positive needs confirmation.
 
 ### Does a positive FeLV test mean my cat will get sick?
 
-Not necessarily. Many exposed cats clear the virus (abortive), some contain it and live normally (regressive), and only a minority progress. A single positive should be confirmed with a repeat test.
+Not necessarily — **3 outcomes exist**: many exposed cats clear the virus, some contain it and live normally (regressive), and only a minority progress. A single positive should be confirmed.
 
 ### How long do FeLV-positive cats live?
 
-It depends on the infection type: progressive FeLV carries a ~2.5-year median survival, while regressive infection often means a normal lifespan. The outcome is not one number.
+It depends on the infection type — **progressive FeLV ≈ 2.5-year median survival**, while regressive infection often means a normal lifespan. The outcome is not one number.
 
 ### Can FeLV or FIV infect humans?
 
-No. Both are feline-specific. The real risk is transmission to other cats — FeLV through close contact, FIV through deep bites.
+No — **2 feline-specific viruses**: neither infects humans. The real risk is transmission to other cats — FeLV through close contact, FIV through deep bites.
 
 ### When should a cat be tested?
 
-On acquisition, before introduction to other cats, after a bite wound or exposure, and when illness is unexplained. Kittens can be tested at any age, but a positive FIV under 6 months needs follow-up.
+Test at **4 moments**: acquisition, before introduction to other cats, after a bite wound/exposure, and when illness is unexplained. Kittens can be tested at any age, but a positive FIV under 6 months needs follow-up.
 
 ---
 
@@ -143,7 +143,7 @@ On acquisition, before introduction to other cats, after a bite wound or exposur
 3. **FeLV has three outcomes** — many cats clear the virus, some contain it and live normally, only a minority progress.
 4. **Survival splits hard** — progressive FeLV ≈ 2.5 years median; regressive often means a normal lifespan.
 5. **Age is the biggest risk factor** — kittens under 4 months are most vulnerable; adult cats are largely resistant.
-6. **Neither virus infects humans** — the concern is transmission to other cats.
+6. **Neither virus infects humans** — **2 feline-specific viruses**, but the concern is transmission to other cats.
 
 ---
 

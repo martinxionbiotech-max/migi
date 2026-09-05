@@ -9,7 +9,7 @@ category: "blog"
 faq: [{"q": "What is cPL and how is it different from fPL?", "a": "cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific pancreatic lipase immunoreactivity tests. cPL is used in dogs, fPL in cats, and they are not interchangeable — each measures the pancreas-specific lipase of that species."}, {"q": "What is a normal cPL level in dogs?", "a": "A cPL below 200 µg/L is normal, 200–400 µg/L is equivocal, and above 400 µg/L is consistent with pancreatitis. Values above 400 µg/L have roughly 93% sensitivity for moderate to severe pancreatitis."}, {"q": "What is a normal fPL level in cats?", "a": "An fPL of 3.5 µg/L or lower is normal, 3.6–5.3 µg/L is equivocal, and 5.4 µg/L or higher is consistent with pancreatitis. Grey-zone results may warrant repeat testing or abdominal ultrasound."}, {"q": "Why are amylase and lipase unreliable for pancreatitis?", "a": "Amylase and lipase are not pancreas-specific and are affected by many non-pancreatic conditions, so they have poor sensitivity and specificity for pancreatitis. Pancreatic lipase immunoreactivity (cPL/fPL) is far more accurate."}, {"q": "Can I use cPL on a cat or fPL on a dog?", "a": "No. cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific assays and are not interchangeable. Running a dog assay on a cat sample, or vice versa, produces an invalid result. Always use the assay matched to the species."}, {"q": "How fast is a cPL or fPL result?", "a": "Quantitative immunofluorescence analyzers like the Migibio FIA680 and FIA880 return cPL and fPL results in about 10–20 minutes from serum or plasma, so pancreatitis can be ruled in or out during the same visit."}]
 ---
 
-> **TL;DR** — Pancreatitis is under-diagnosed because the old markers, amylase and lipase, are unreliable. Species-specific pancreatic lipase immunoreactivity fixes that: canine cPL >400 µg/L and feline fPL ≥5.4 µg/L are consistent with pancreatitis. Quantitative immunoassay returns a number in 10–20 minutes, and the magnitude tracks severity — so you can diagnose *and* monitor with one test.
+> **TL;DR** — Pancreatitis is under-diagnosed because amylase and lipase are unreliable. The cut-offs that matter: canine cPL >400 µg/L (roughly **93% sensitive** for moderate-to-severe disease) and feline fPL ≥5.4 µg/L (**79% sensitive / 80% specific**). The trap is the grey zone — dog 200–400 µg/L and cat 3.6–5.3 µg/L mean re-test or image; a quantitative **10–20 minute** number lets you trend severity instead of guessing.
 
 ---
 
@@ -124,11 +124,11 @@ Because the output is a number, you can trend it — a falling cPL over 48–72 
 
 ## Key Takeaways
 
-1. Amylase and traditional lipase are **unreliable** for pancreatitis — too many false results.
-2. **cPL (dog) and fPL (cat)** measure pancreas-specific lipase and are **species-specific and not interchangeable**.
-3. **Dog: >400 µg/L = pancreatitis. Cat: ≥5.4 µg/L = pancreatitis.** Grey zones (200–400 / 3.6–5.3) mean re-test or add ultrasound.
-4. Quantitative values **track severity and monitor recovery** — a qualitative yes/no can't do that.
-5. When a cat presents "just not right," an fPL is cheap insurance against the pancreatitis you'd otherwise miss.
+1. Amylase and traditional lipase are **unreliable** — 1 normal value can be false reassurance when pancreatitis is still present.
+2. **cPL (dog) and fPL (cat)** are species-locked — 1 analyte, 2 species, never interchangeable; dog cPL >400 µg/L and cat fPL ≥5.4 µg/L are the decision lines.
+3. **The cut-offs have a trap** — dog 200–400 µg/L and cat 3.6–5.3 µg/L are equivocal, so re-test in 12–24 hours or add ultrasound before calling it normal.
+4. **Quantitative values track severity** — a 5,000 µg/L cPL and a 450 µg/L cPL are both positive but demand different levels of concern.
+5. **For the "just not right" cat, fPL is cheap insurance** — ~79% sensitivity at ≥5.4 µg/L still beats missing 1 case of feline pancreatitis.
 
 ---
 

@@ -128,10 +128,10 @@ In practice, clarify scope, timelines and regulatory responsibility early, and t
 ## Key Takeaways
 
 1. **ODM = rebrand a factory product (1–3 months); OEM = build to your spec (6–12 months).** Start with ODM, graduate to OEM.
-2. The most valuable customization is usually the **reagent menu**, not the hardware.
-3. **Regulatory documentation is the hidden make-or-break** — a complete technical file saves months.
-4. Your **margin lives in reagent cost**, and branding setup cost is negotiable.
-5. Brand ownership means you keep the customer relationship — and the responsibility that comes with it.
+2. The most valuable customization is usually **1 thing**: the reagent menu, not the hardware.
+3. **Regulatory documentation is the hidden make-or-break** — **1 complete technical file** saves months.
+4. Your **margin lives in reagent cost** — **1-time branding setup** is negotiable, recurring reagent cost isn't.
+5. Brand ownership means **2 things**: you keep the customer relationship and the responsibility that comes with it.
 
 ---
 

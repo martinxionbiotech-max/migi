@@ -78,15 +78,15 @@ In practice, quantitative progesterone supports the high-value cases — frozen-
 
 ### What is the difference between quantitative and qualitative progesterone?
 
-A qualitative test answers 'is progesterone present?' with a yes/no. A quantitative test measures the actual concentration in ng/mL. For breeding, the concentration is the decision — 2 ng/mL means 'not yet,' 5 ng/mL means ovulation, 8–15 ng/mL means breed.
+**2 readouts, 1 decision**: a qualitative test answers 'is progesterone present?' with yes/no; a quantitative test measures the actual ng/mL concentration. For breeding, the concentration is the decision — 2 ng/mL means 'not yet,' 5 ng/mL means ovulation, 8–15 ng/mL means breed.
 
 ### Why is a qualitative progesterone strip useless for breeding timing?
 
-Because a cycling bitch always has measurable progesterone — 'positive' tells you nothing you didn't already know. What you need is the number, since the difference between 2 and 8 ng/mL is the difference between too early and the optimal window.
+Because **1 cycling bitch always has measurable progesterone** — 'positive' tells you nothing you didn't already know. You need the number: **2 vs 8 ng/mL** is the difference between too early and the optimal window.
 
 ### What is the problem with semi-quantitative progesterone kits?
 
-Semi-quantitative kits give broad bands (low/medium/high) instead of a precise number, and are significantly less accurate. Critically, their measurement range is often capped at 5 ng/mL — while frozen-semen timing requires reading 10–20 ng/mL, making them blind exactly where precision is needed.
+Because **capped at 5 ng/mL**, semi-quantitative kits are blind exactly where frozen-semen timing requires **10–20 ng/mL**. They give broad bands (low/medium/high) instead of a precise number and are less accurate.
 
 ### Which progesterone level is the breeding window?
 
@@ -94,19 +94,19 @@ Ovulation is ~4–10 ng/mL (many bitches ~5 ng/mL), and the optimal breeding win
 
 ### Can I use a home progesterone test kit?
 
-For fresh-semen natural breeding, a broad-band kit can indicate when to schedule a veterinary blood draw. For chilled or frozen semen, home kits lack the precision needed, and a quantitative test from your veterinarian is always recommended.
+For **1 semen type**, yes: fresh-semen natural breeding can use a broad-band kit to decide when to schedule a veterinary blood draw. For chilled or frozen semen, home kits lack the precision needed.
 
 ### What methods give quantitative progesterone?
 
-Radioimmunoassay (RIA), liquid chromatography-tandem mass spectrometry (LC-MS/MS), chemiluminescence immunoassay (CLIA), and enzyme-linked fluorescence assay — including in-house fluorescence immunoassay analyzers that return a number in minutes.
+**4 quantitative methods** return a number: RIA, LC-MS/MS, CLIA, and enzyme-linked fluorescence assay — including in-house FIA analyzers that return results in minutes.
 
 ## Key Takeaways
 
-1. "Progesterone present" is a useless answer — every cycling bitch has progesterone.
+1. **1 answer is useless** — "progesterone present" tells you nothing, because every cycling bitch has progesterone.
 2. The number is the decision: 2–3 ng/mL (LH surge), ~5 ng/mL (ovulation), 8–15 ng/mL (breed).
 3. Semi-quantitative kits are less accurate and often capped at 5 ng/mL — blind in the 10–20 ng/mL range frozen semen needs.
 4. Frozen semen's 12-hour survival window makes quantitative, same-day measurement non-negotiable.
-5. For fresh-semen natural breeding, a broad-band kit can triage — but the real decision still needs a number.
+5. For **1 semen type** — fresh-semen natural breeding — a broad-band kit can triage, but the real decision still needs a number.
 
 ## References
 

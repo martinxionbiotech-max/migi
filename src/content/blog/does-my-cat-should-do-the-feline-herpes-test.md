@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "How common is feline herpesvirus?", "a": "Extremely common — most cats are exposed during their lifetime, and once infected they carry the virus for life. It's a leading cause of feline upper-respiratory disease and recurrent conjunctivitis, especially in kittens, shelters and stressed cats."}, {"q": "Can feline herpes infect humans?", "a": "No. FHV-1 is a cat-specific virus and cannot infect people. The real concern is transmission to other cats — through close contact, shared bowls and grooming — not to your family."}, {"q": "Why does my cat's sneezing keep coming back?", "a": "Because FHV-1 goes latent. After the first infection, the virus hides in nerve tissue for life and reactivates under stress — boarding, moving, illness, a new pet. That reactivation is why the same cat gets the same flare-ups repeatedly."}, {"q": "How is FHV-1 diagnosed?", "a": "By antigen or PCR testing on an ocular, nasal or throat swab during active shedding — this confirms active infection. Antibody testing on blood reflects exposure history and cannot distinguish latent infection from active disease."}, {"q": "Does a negative test rule out herpes?", "a": "Not entirely. A negative antigen test means the cat isn't shedding at that moment — but a latently infected cat tests negative between flare-ups. Testing is most meaningful during active clinical signs."}, {"q": "Is there a cure for feline herpes?", "a": "No — once infected, a cat carries the virus for life. Treatment (decided by a veterinarian) manages acute flare-ups and reduces shedding, and vaccination reduces the severity of future outbreaks, but the virus itself stays."}]
 ---
 
-> **TL;DR** — Feline herpesvirus (FHV-1) infects most cats, then stays for life: it hides in nerve tissue and flares up whenever the cat is stressed. That's why the same cat gets the same sneezing and eye problems over and over. Two things worth being clear on: **FHV-1 does not infect humans**, and testing splits into two questions — antigen/PCR confirms *active* infection, while antibody testing only shows *exposure* (and can't tell a latent carrier from an actively shedding cat).
+> **TL;DR** — FHV-1 is **1 virus with 2 phases**: acute infection, then lifelong latency in nerve tissue that reactivates under stress. **4 common triggers** — boarding, moving, illness, new pets — explain why the same cat gets the same sneezing and eye problems over and over. Testing splits into **2 questions**: antigen/PCR confirms active infection, while antibody testing only shows exposure and can't separate a latent carrier from an actively shedding cat. And **1 reassurance matters**: FHV-1 does not infect humans.
 
 If your cat sneezes and gets watery eyes on a recurring loop — every time you board her, every time there's a new pet, every time anything stressful happens — feline herpesvirus is the usual suspect. This guide explains what the virus is, why it never really goes away, and what a test can and can't tell you.
 
@@ -102,37 +102,37 @@ For a chronic carrier, the most useful interventions are the non-drug ones: **mi
 
 ### How common is feline herpesvirus?
 
-Extremely common — most cats are exposed in their lifetime and carry the virus for life. It's a leading cause of feline upper-respiratory disease and recurrent conjunctivitis.
+Extremely common — a **2-phase infection** (acute illness, then lifelong latency) means most cats are exposed in their lifetime and carry the virus for life. It's a leading cause of feline upper-respiratory disease and recurrent conjunctivitis.
 
 ### Can feline herpes infect humans?
 
-No. FHV-1 is cat-specific and cannot infect people. The only transmission risk is cat-to-cat.
+No — FHV-1 is **1 cat-specific virus** and cannot infect people. The only transmission risk is cat-to-cat.
 
 ### Why does my cat's sneezing keep coming back?
 
-Because the virus goes latent in nerve tissue and reactivates under stress — boarding, moving, illness, new pets. The same virus resurfaces, it's not a new infection.
+Because **1 virus** goes latent in nerve tissue and reactivates under **4 common stressors** — boarding, moving, illness, new pets. The same virus resurfaces; it's not a new infection.
 
 ### How is FHV-1 diagnosed?
 
-Antigen/PCR on an ocular or nasal swab during active shedding confirms active infection. Antibody testing shows exposure history and can't separate latent from active disease.
+Two tests answer **2 different questions**: antigen/PCR on an ocular or nasal swab during active shedding confirms active infection, while antibody testing shows exposure history and can't separate latent from active disease.
 
 ### Does a negative test rule out herpes?
 
-No. A latently infected cat tests negative between flare-ups. Test during active clinical signs for a meaningful result.
+No — a latently infected cat tests negative between flare-ups, so **1 negative is only a snapshot**. Test during active clinical signs for a meaningful result.
 
 ### Is there a cure?
 
-No — the virus stays for life. Treatment (vet-directed) manages flare-ups and vaccination reduces severity, but the virus itself is never eliminated.
+No — **1 infection makes a lifetime carrier**. Treatment (vet-directed) manages flare-ups and vaccination reduces severity, but the virus itself is never eliminated.
 
 ---
 
 ## Key Takeaways
 
-1. **FHV-1 is lifelong** — it goes latent in nerve tissue and reactivates under stress, which is why flare-ups recur.
-2. **It does not infect humans** — the only transmission risk is cat-to-cat.
-3. **Antigen/PCR = active infection, antibody = exposure history** — and a negative antigen test doesn't rule out a latent carrier.
-4. **Test during a flare-up** — a negative between episodes is just a snapshot.
-5. **There's no cure** — treatment and vaccination manage severity, but the virus stays.
+1. **FHV-1 is lifelong** — **1 infection becomes 1 lifetime carrier** in nerve tissue, which is why flare-ups recur.
+2. **It does not infect humans** — **0 human risk**, and the only transmission risk is **cat-to-cat**.
+3. **Antigen/PCR = active infection, antibody = exposure history** — and **1 negative antigen test** doesn't rule out a latent carrier.
+4. **Test during a flare-up** — a negative between episodes is just **1 snapshot**, not proof of absence.
+5. **There's no cure** — treatment and vaccination manage severity, but **1 infection stays for life**.
 
 ---
 

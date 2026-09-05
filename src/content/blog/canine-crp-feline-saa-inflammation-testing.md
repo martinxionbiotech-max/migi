@@ -9,7 +9,7 @@ category: "blog"
 faq: [{"q": "What are CRP and SAA?", "a": "C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation. CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment."}, {"q": "What is a normal CRP level in dogs?", "a": "A canine CRP below 10 mg/L is considered normal, 10–35 mg/L indicates low-grade or mild inflammation, and above 35 mg/L indicates active systemic inflammation. CRP rises within 4–24 hours and peaks around 24–48 hours."}, {"q": "What is a normal SAA level in cats?", "a": "A feline SAA below 10 µg/mL is considered normal, and above 10 µg/mL indicates active inflammation. Levels are often graded 10–50 µg/mL mild, 50–100 µg/mL moderate, and above 100 µg/mL severe. SAA rises within 6–12 hours."}, {"q": "Do CRP and SAA identify the cause of inflammation?", "a": "No. They are non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease."}, {"q": "Which is better for monitoring treatment, CRP or SAA?", "a": "Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly once therapy is effective — a falling value confirms the treatment is working before the patient looks better."}, {"q": "Can CRP or SAA tell me the cause of the inflammation?", "a": "No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL or fPL to find the underlying problem."}]
 ---
 
-> **TL;DR** — CRP (dogs) and SAA (cats) are acute-phase proteins that rise within hours of an inflammatory insult and fall just as fast when treatment works. Normal: canine CRP <10 mg/L, feline SAA <10 µg/mL. Their real value is serial monitoring — a falling CRP confirms the antibiotic is working, and a rising SAA flags a complication before it's obvious. They don't identify the *cause* of inflammation, but they quantify *how much* and *whether it's responding*.
+> **TL;DR** — CRP and SAA are speed markers, not cause finders: canine CRP rises in **4–24 hours** and peaks at **24–48 hours**, feline SAA rises in **6–12 hours**. Normal is canine CRP <10 mg/L and feline SAA <10 µg/mL; a CRP falling **120→60→18 mg/L over 3 days** is proof the antibiotic is working. The trap: a CRP of **80 mg/L** doesn't name the disease, only the inflammation.
 
 ---
 
@@ -131,11 +131,11 @@ The commercial value is the monitoring relationship: serial draws for treatment 
 
 ## Key Takeaways
 
-1. CRP (dog) and SAA (cat) are **fast, species-specific acute-phase proteins** — up in hours, down in hours.
-2. **Normal: canine CRP <10 mg/L, feline SAA <10 µg/mL.** Active inflammation: CRP >35 mg/L, SAA >10 µg/mL (severe >100).
-3. Their real value is **serial monitoring** — trends reveal treatment response and complications before clinical signs change.
-4. They **quantify inflammation but don't identify its cause** — pair with other diagnostics.
-5. Quantitative numbers are mandatory; a qualitative positive/negative can't trend.
+1. CRP and SAA rise and fall fast — dog CRP rises in **4–24 hours**, cat SAA in **6–12 hours**; single snapshots mean less than the **48-hour trend**.
+2. **Normal: canine CRP <10 mg/L, feline SAA <10 µg/mL.** Active inflammation starts at CRP >35 mg/L or SAA >10 µg/mL, with severe SAA >100 µg/mL.
+3. **Read 2–3 serial numbers** — a CRP falling 120→60→18 mg/L over 3 days confirms treatment, long before the patient looks better.
+4. **They quantify but don't identify** — an 80 mg/L CRP could be pneumonia, pancreatitis, or surgery; pair it with a cause-specific test.
+5. **Quantitative numbers are mandatory** — a qualitative positive/negative can't show a 48-hour trend or a 50% drop.
 
 ---
 

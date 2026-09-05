@@ -79,7 +79,7 @@ For the species-specific and marker-comparison detail, see the companion guides:
 
 ### Why is kidney disease diagnosed so late?
 
-Because creatinine only rises after 60–70% of function is lost and is distorted by muscle mass — so the disease is often advanced by the time it's detected.
+Because creatinine waits for **60–70% function loss** and is distorted by muscle mass — so the disease is often advanced by the time it's detected.
 
 ### What does SDMA change?
 
@@ -91,11 +91,11 @@ Yes — the 0–14 µg/dL interval applies to both, and its early lead time bene
 
 ### What's the practical workflow?
 
-Add SDMA to the senior panel alongside creatinine. A persistent SDMA above 14 µg/dL with normal creatinine supports early-stage disease.
+Add **1 marker** — SDMA — to the senior panel alongside creatinine. A persistent SDMA above **14 µg/dL** with normal creatinine supports early-stage disease.
 
 ### Does SDMA replace creatinine?
 
-No — it pairs with it. Creatinine still helps with staging and monitoring; SDMA catches the decline earlier.
+No — it needs **2 numbers together**. Creatinine still helps with staging and monitoring; SDMA catches the decline earlier.
 
 ---
 

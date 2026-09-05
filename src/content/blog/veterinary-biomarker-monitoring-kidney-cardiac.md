@@ -268,10 +268,10 @@ No. Biomarkers localize and quantify a problem; imaging (ultrasound, echo, radio
 ## Key Takeaways
 
 1. Biomarkers detect organ dysfunction **earlier** than traditional chemistry — SDMA at ~25–40% kidney loss vs ~60–75% for creatinine.
-2. **Quantitative numbers** enable IRIS staging, grey-zone interpretation, and serial trend tracking that qualitative tests can't support.
-3. SDMA and cystatin C are the kidney early-warning pair; NT-proBNP is the cardiac triage tool; cPL/fPL confirm pancreatitis; CRP/SAA grade inflammation; T4/TSH and cortisol map the endocrine system.
+2. **Quantitative numbers** enable **3 things**: IRIS staging, grey-zone interpretation, and serial trend tracking that qualitative tests can't support.
+3. **6 biomarker groups** cover the organs: SDMA/cystatin C kidney, NT-proBNP cardiac, cPL/fPL pancreas, CRP/SAA inflammation, T4/TSH and cortisol endocrine.
 4. **One sample, multiple assays** — a single draw can screen kidney, heart, thyroid, and inflammation together.
-5. The trend is the diagnosis. Serial values reveal progression and treatment response before clinical signs change.
+5. **2 serial values** define the trend — progression and treatment response appear before clinical signs change.
 
 ---
 

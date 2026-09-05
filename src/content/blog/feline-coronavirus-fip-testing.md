@@ -108,38 +108,38 @@ For the owner, the framing matters: FIP used to mean "nothing we can do." Today 
 
 ### Does a positive coronavirus test mean my cat has FIP?
 
-No. FCoV is common and usually harmless; most infected cats never develop FIP. A positive antigen test confirms coronavirus only. FIP needs a clinical workup, not a single test.
+No — **1 positive coronavirus test** only confirms FCoV, because most infected cats never develop FIP. FIP needs a clinical workup, not a single test.
 
 ### Can an antibody titre diagnose FIP?
 
-No. Healthy cats carry high titres, and about 10% of confirmed FIP cats have no detectable antibodies. A single titre is not diagnostic — high doesn't confirm, negative doesn't rule out.
+No — the titre is meaningless as a single number: healthy cats carry high titres, and about **10%** of confirmed FIP cats have no detectable antibodies. High doesn't confirm, negative doesn't rule out.
 
 ### Is a low A:G ratio enough to diagnose FIP?
 
-Not alone. A:G below 0.6 is a classic finding, but dental disease and other common conditions can also push it below 0.6. It's a supporting clue, not proof.
+Not alone — **A:G below 0.6** is a classic clue, but dental disease and other common conditions can also push it below 0.6. It's a supporting clue, not proof.
 
 ### How is FIP actually diagnosed?
 
-By combining clinical signs, effusion analysis, blood markers (low A:G, high globulins) and PCR on effusion or tissue. It's a multimodal diagnosis — there's no single definitive blood test.
+By combining **4 inputs** — clinical signs, effusion analysis, blood markers (low A:G, high globulins) and PCR on effusion or tissue. There is no single definitive blood test.
 
 ### Can FIP be treated?
 
-Yes. GS-441524 and remdesivir now achieve ~80% survival in effusive FIP for cats surviving the first 48 hours. What was fatal is now largely treatable with prompt diagnosis.
+Yes — **GS-441524 and remdesivir now achieve ~80% survival** in effusive FIP for cats surviving the first **48 hours**. What was fatal is now largely treatable with prompt diagnosis.
 
 ### What's the FCoV antigen test for?
 
-Screening and outbreak management — finding shedders in multi-cat households and shelters to guide hygiene. It's a screening tool, not a FIP diagnostic.
+For **2 jobs** — finding shedders in multi-cat households and shelters, and guiding hygiene. It's a screening tool, not a FIP diagnostic.
 
 ---
 
 ## Key Takeaways
 
-1. **FCoV ≠ FIP** — coronavirus is common and benign; FIP is a rare, mutated, serious consequence.
+1. **FCoV ≠ FIP** — 1 common benign virus can rarely mutate into a serious disease.
 2. **Antibody titres don't diagnose FIP** — healthy cats carry high titres, ~10% of FIP cats have none, and a single reading is meaningless.
 3. **A:G below 0.6 isn't proof** — dental disease and other conditions cause it too; read it with clinical signs.
-4. **FIP is a multimodal diagnosis** — signs + effusion + blood markers + PCR, not one test.
+4. **FIP is a 4-part diagnosis** — signs + effusion + blood markers + PCR, not one test.
 5. **Treatment changed everything** — GS-441524/remdesivir save ~80% of effusive FIP cats, so an early, correct diagnosis now genuinely changes the outcome.
-6. **The antigen test is for screening** — shedders, multi-cat hygiene, outbreak management — not for diagnosing FIP.
+6. **The antigen test is for 1 job** — finding shedders for multi-cat hygiene and outbreak management, not diagnosing FIP.
 
 ---
 

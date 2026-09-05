@@ -8,7 +8,7 @@ faq: [{"q": "What is the difference between FICA, ELISA, and PCR?", "a": "FICA (
 ---
 
 
-> **TL;DR** — Three methods, three jobs. **Immunofluorescence** is the fast quantitative cage-side option (a number in minutes); **ELISA** is the established lab workhorse for hormones and antibodies; **PCR** is the sensitivity ceiling for detecting nucleic acid. The question isn't which is 'best' — it's which answers your specific question with the right sensitivity, speed and cost.
+> **TL;DR** — **3 methods, 3 jobs**: immunofluorescence is the fast quantitative cage-side option (a number in minutes); ELISA is the established lab workhorse for hormones and antibodies; PCR is the sensitivity ceiling for nucleic acid. The question isn't which is best — it's which answers your **1 specific question** with the right sensitivity, speed and cost.
 
 Veterinary diagnostics offers three powerful but very different testing technologies: **fluorescence immunoassay (FICA)**, **ELISA**, and **PCR**. Each answers different questions, at different speeds, with different trade-offs. Choosing the right method — or combining them — is essential for efficient, accurate diagnosis. This guide compares the three.
 
@@ -100,29 +100,29 @@ FICA, ELISA, and PCR are complementary tools, not competitors. By understanding 
 
 ## Key Takeaways
 
-1. **Three methods, three jobs** — immunofluorescence (fast + quantitative), ELISA (lab workhorse), PCR (sensitivity ceiling).
-2. **Match the method to the question** — speed for triage, sensitivity for confirmation.
-3. **They're complementary, not competitive** — a POCT screen often leads to a PCR confirm.
-4. **Sensitivity isn't everything** — specificity and validation matter as much.
-5. **Cost follows complexity** — the right test is the cheapest one that answers the question.
+1. **3 methods, 3 jobs** — immunofluorescence (fast + quantitative), ELISA (lab workhorse), PCR (sensitivity ceiling).
+2. **Match the method to the question** — **1 triage result** needs speed; **1 confirmation** needs sensitivity.
+3. **They're complementary, not competitive** — **1 POCT screen** often leads to **1 PCR confirm**.
+4. **Sensitivity isn't everything** — **2 sides of accuracy** (specificity and validation) matter as much.
+5. **Cost follows complexity** — the right test is the **cheapest one that answers 1 question**.
 
 ## FAQ
 
 ### What's the difference between immunofluorescence, ELISA and PCR?
 
-Immunofluorescence is a fast quantitative cage-side method; ELISA is a lab-based immunoassay for hormones and antibodies; PCR detects nucleic acid and is the sensitivity ceiling.
+**3 methods, 3 targets**: immunofluorescence is fast and quantitative; ELISA is lab-based for hormones/antibodies; PCR detects nucleic acid and is the sensitivity ceiling.
 
 ### When should I use immunofluorescence?
 
-When you need a quantitative result in minutes at the point of care — staging, breeding timing, trend tracking.
+Use immunofluorescence for **1 need**: a quantitative result in minutes at the point of care — staging, breeding timing, trend tracking.
 
 ### When is PCR the right choice?
 
-When you need maximum sensitivity or to confirm an equivocal result, or to distinguish active infection from exposure.
+Use PCR when you need **2 things**: maximum sensitivity or confirmation of an equivocal result, and to distinguish active infection from exposure.
 
 ### Do these methods compete or complement?
 
-They complement — a point-of-care screen often leads to a PCR confirmation, not a replacement.
+They complement — **1 point-of-care screen** often leads to **1 PCR confirmation**, not a replacement.
 
 ## References
 

@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the biggest hidden cost of in-house diagnostics?", "a": "Reagent expiry is usually the largest silent cost. Cartridges and control materials have limited shelf lives, and any stock that expires before use is a direct write-off. Ordering to demonstrated demand in small, frequent batches is the most effective control."}, {"q": "Do quantitative analyzers need quality control?", "a": "Yes. A quantitative immunoassay analyzer measures a numerical concentration, so periodic calibration and internal quality-control runs are required to keep results accurate and traceable. Budget for control materials and the staff time to run them."}, {"q": "How much should I budget for maintenance?", "a": "Maintenance cost depends on the instrument, but even a low-maintenance cartridge-based reader needs periodic calibration, software updates and a defined repair path. A small annual reserve is prudent, and the exact amount should be confirmed with the vendor before purchase."}, {"q": "Why is quantitative QC more important than for a rapid test?", "a": "A positive/negative rapid test tolerates small errors — the answer doesn't change. A quantitative test reports an exact concentration you act on (a progesterone of 5 vs 8 ng/mL changes the breeding decision). Small drift in a quantitative reader becomes a clinically meaningful error, so QC is non-negotiable."}, {"q": "How do I reduce reagent wastage?", "a": "Match orders to demonstrated monthly volume, order small batches frequently, track shelf life against usage, and resist bulk discounts that lock you into stock you won't use before expiry. Wastage is an operational problem with an operational fix."}, {"q": "Are storage and disposal costs significant?", "a": "They're small per test but not zero. Reagents need controlled storage (usually refrigeration or a stable temperature), and used cartridges and biological samples must be disposed according to local medical-waste rules. Include them in your overhead allocation."}]
 ---
 
-> **TL;DR:** The sticker price is the cost everyone sees; the hidden costs are the ones that reverse a decision that looked good on paper. Reagent expiry is the largest and most avoidable. Quality control is the necessary cost of a trustworthy quantitative number. Fold them all into a per-test overhead before you trust your payback math.
+> **TL;DR:** The sticker price is what everyone sees; the hidden costs reverse decisions that looked good on paper. The trap is quantitative: a **progesterone of 5 vs 8 ng/mL** changes a breeding decision, so QC drift becomes a clinical error. Fold QC, maintenance, training and wastage into a **per-test overhead** before trusting payback math.
 
 The day a clinic signs for an analyzer, three cost categories quietly come onto the books that were never on the quote: reagent expiry, quality control, and maintenance. None of them appears on the vendor's ROI slide. All of them decide whether the instrument is profitable.
 
@@ -96,35 +96,35 @@ Buyers should model recurring cost per test and order to demonstrated demand, th
 
 ### What is the biggest hidden cost of in-house diagnostics?
 
-Reagent expiry is usually the largest silent cost. Cartridges and control materials have limited shelf lives, and any stock that expires before use is a direct write-off. Ordering to demonstrated demand in small, frequent batches is the most effective control.
+**1 largest silent cost** — reagent expiry: cartridges and controls have limited shelf lives, and any stock that expires before use is a direct write-off. Order to demonstrated demand in small, frequent batches.
 
 ### Do quantitative analyzers need quality control?
 
-Yes. A quantitative immunoassay analyzer measures a numerical concentration, so periodic calibration and internal quality-control runs are required to keep results accurate and traceable. Budget for control materials and the staff time to run them.
+Yes — a quantitative analyzer reports **1 numerical concentration**, so periodic calibration and internal QC are required to keep results accurate and traceable. Budget for control materials and staff time.
 
 ### How much should I budget for maintenance?
 
-Maintenance cost depends on the instrument, but even a low-maintenance cartridge-based reader needs periodic calibration, software updates and a defined repair path. A small annual reserve is prudent, and the exact amount should be confirmed with the vendor before purchase.
+Even a low-maintenance cartridge reader needs **2 things**: periodic calibration/software updates and a defined repair path. Confirm the annual reserve with the vendor before purchase.
 
 ### Why is quantitative QC more important than for a rapid test?
 
-A positive/negative rapid test tolerates small errors — the answer doesn't change. A quantitative test reports an exact concentration you act on (a progesterone of 5 vs 8 ng/mL changes the breeding decision). Small drift in a quantitative reader becomes a clinically meaningful error, so QC is non-negotiable.
+Because **5 vs 8 ng/mL** changes a progesterone breeding decision: a positive/negative test tolerates small errors, but small drift in a quantitative reader becomes clinically meaningful, so QC is non-negotiable.
 
 ### How do I reduce reagent wastage?
 
-Match orders to demonstrated monthly volume, order small batches frequently, track shelf life against usage, and resist bulk discounts that lock you into stock you won't use before expiry. Wastage is an operational problem with an operational fix.
+Use **2 controls**: match orders to demonstrated monthly volume and order **small batches frequently**, while tracking shelf life and resisting bulk discounts that lock in expiring stock.
 
 ### Are storage and disposal costs significant?
 
-They're small per test but not zero. Reagents need controlled storage (usually refrigeration or a stable temperature), and used cartridges and biological samples must be disposed according to local medical-waste rules. Include them in your overhead allocation.
+They're small per test but not zero — **2 cost buckets** (controlled storage and medical-waste disposal) should be included in your overhead allocation.
 
 ## Key Takeaways
 
-1. Reagent expiry is the largest hidden cost — and the most avoidable through order-to-demand discipline.
-2. Quantitative instruments carry a higher QC burden than rapid strips, because the number *is* the diagnosis.
-3. A no-fluidics FIA reader reduces maintenance costs but doesn't eliminate them.
-4. Every workflow step is an error opportunity that costs a wasted cartridge.
-5. Fold QC, maintenance, training and wastage into a per-test overhead before trusting payback.
+1. Reagent expiry is the largest hidden cost — **1 expired box** is a direct write-off, and order-to-demand discipline avoids it.
+2. Quantitative instruments carry a higher QC burden — **5 vs 8 ng/mL** is a clinical decision, so drift is a real error.
+3. A no-fluidics FIA reader reduces maintenance but doesn't eliminate it — **2 recurring tasks** remain: calibration and repair path.
+4. Every workflow step is **1 error opportunity** that costs a wasted cartridge.
+5. Fold QC, maintenance, training and wastage into **1 per-test overhead** before trusting payback.
 
 ## References
 

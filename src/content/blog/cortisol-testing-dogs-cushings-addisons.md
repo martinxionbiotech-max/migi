@@ -150,11 +150,11 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 
 ## Key Takeaways
 
-1. A single resting cortisol **cannot diagnose Cushing's** — you need dynamic testing.
+1. A single resting cortisol **cannot diagnose Cushing's** — **1 sample** is not a diagnosis; you need dynamic testing.
 2. **ACTH stimulation test:** post-ACTH >22 µg/dL = Cushing's; <2 µg/dL = Addison's. It's also the monitoring standard.
 3. **LDDST:** 8-hour cortisol >1.4 µg/dL = failure to suppress = Cushing's (and it's the most sensitive screen).
 4. **Addison's screening:** basal cortisol <2 µg/dL is highly suggestive — a fast result can be life-saving.
-5. **Quantitative in-clinic testing** completes the dynamic workup in a day instead of shipping samples out.
+5. **Quantitative in-clinic testing** completes a **3-step dynamic workup in ~15 minutes per result**, finishing the case in a day instead of shipping samples out.
 
 ---
 

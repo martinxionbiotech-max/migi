@@ -140,27 +140,27 @@ Because the result is quantitative, you can store it, compare it to the referenc
 
 ### What is NT-proBNP?
 
-A peptide the heart releases when its muscle stretches under load — low means "not straining," high means "working too hard." It's a load marker, not a heart-failure test: a high value raises suspicion, it does not confirm failure.
+A **2-state load marker**: the heart releases NT-proBNP when muscle stretches under load — low means "not straining," high means "working too hard." It's a load marker, not a heart-failure test.
 
 ### Can NT-proBNP tell heart failure from a breathing problem?
 
-Yes, that's its highest-value use. In a dyspneic cat or coughing dog, a high value points to the heart and a low value to the lungs. It triages; it doesn't replace echo.
+Yes — **1 number triages 2 look-alikes**: in a dyspneic cat or coughing dog, a high value points to the heart and a low value to the lungs. It triages; it doesn't replace echo.
 
 ### Why do NT-proBNP cut-offs differ between sources?
 
-Because the number is platform- and population-dependent. One system uses ~900/1800 pmol/L for dogs; another validated ~445 pmol/L. That's a 2x spread — so always use the interval validated for your specific analyzer, never a memorised number from elsewhere.
+Because the number is platform-dependent: **~900/1800 pmol/L vs ~445 pmol/L** is a **2x spread** — so always use the interval validated for your specific analyzer, never a memorised number from elsewhere.
 
 ### Does kidney disease affect NT-proBNP?
 
-Yes, and this is the classic false-positive trap: NT-proBNP is cleared by the kidneys, so an azotemic cat — especially with CKD — can read high without heart disease. Read it with creatinine/SDMA, or you'll chase a cardiac diagnosis that isn't there.
+Yes — **1 clearance route creates the false positive**: NT-proBNP is cleared by the kidneys, so an azotemic cat, especially with CKD, can read high without heart disease. Read it with creatinine/SDMA, or you'll chase a cardiac diagnosis that isn't there.
 
 ### Does NT-proBNP replace an echocardiogram?
 
-No. NT-proBNP says the heart is under stress; echo says why. NT-proBNP screens and triages, echo characterizes, NT-proBNP then monitors therapy.
+No — **2 tests, 2 jobs**: NT-proBNP says the heart is under stress; echo says why. NT-proBNP screens and triages, echo characterizes, NT-proBNP then monitors therapy.
 
 ### How fast is the result?
 
-About 10–20 minutes on a quantitative immunofluorescence analyzer like the FIA680 or FIA880 — so triage happens in the same consultation, not a next-day lab call.
+About **10–20 minutes** on a quantitative immunofluorescence analyzer like the FIA680 or FIA880 — so triage happens in the same consultation, not a next-day lab call.
 
 ---
 

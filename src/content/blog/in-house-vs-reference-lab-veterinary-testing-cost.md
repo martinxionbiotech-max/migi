@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "Is in-house testing always cheaper than a reference lab?", "a": "No. Per-test reagent cost is usually higher in-house than the reference lab's per-test fee. The economic advantage of in-house testing is not lower cost per test — it's that the clinic earns the full client charge instead of paying the lab, and the same-visit result often enables same-day treatment that a send-out workflow loses."}, {"q": "When does a reference lab make more sense?", "a": "For low-volume tests, esoteric panels, histopathology, and anything where the clinic's monthly volume can't cover the reagent and QC overhead. A reference lab is also the right choice when you need specialist interpretation or a test you simply can't run in-clinic."}, {"q": "How much faster is in-house testing really?", "a": "A fluorescence immunoassay analyzer returns a result in minutes, typically 3–15 minutes depending on the assay, versus hours to days for a reference lab. That speed is clinically decisive for time-sensitive markers like progesterone, cPL and NT-proBNP."}, {"q": "What is the hidden revenue of same-visit results?", "a": "A client who gets an answer in 15 minutes is far more likely to accept treatment the same day. That converts a diagnostic fee into a same-day treatment plan — revenue a 24–72 hour send-out workflow structurally cannot capture."}, {"q": "Should I run everything in-house?", "a": "No. The sensible model is hybrid: run high-volume, time-sensitive, quantitative biomarkers in-house, and send out low-volume, esoteric or batched panels to a reference lab. Volume decides which side of the line a test falls on."}, {"q": "How do I decide where the break-even is?", "a": "Calculate your fully loaded cost per test (cartridge plus allocated overhead) and compare it against what the reference lab charges you. If your in-house cost per test is below the lab fee at your real monthly volume, in-house wins. If not, send it out."}]
 ---
 
-> **TL;DR:** In-house testing is rarely cheaper per test than a reference lab — and that's fine, because cost per test isn't the point. The point is revenue capture: the clinic keeps the full client charge, gets the result in minutes, and converts the diagnosis into same-day treatment. The break-even is decided by your real monthly volume, not by a vendor's spreadsheet.
+> **TL;DR:** In-house testing is rarely cheaper per test than a reference lab — and that's fine, because cost per test isn't the point. A fluorescence analyzer returns results in **3–15 minutes** versus **24–72 hours** for send-out, converting diagnosis into same-day treatment. Break-even is decided by your real monthly volume, not a vendor's spreadsheet.
 
 Ask a clinic owner why they bought an analyzer and you'll usually hear two words: "faster" and "cheaper." One of those is true and one is a myth that survives because nobody runs the arithmetic. Let's run it.
 
@@ -90,35 +90,35 @@ A clinic owner should decide by patient flow and margin capture per case, keepin
 
 ### Is in-house testing always cheaper than a reference lab?
 
-No. Per-test reagent cost is usually higher in-house than the reference lab's per-test fee. The economic advantage of in-house testing is not lower cost per test — it's that the clinic earns the full client charge instead of paying the lab, and the same-visit result often enables same-day treatment that a send-out workflow loses.
+No — **1 per-test reagent cost is usually higher in-house** than the lab's fee. The advantage is earning the full client charge and enabling same-day treatment.
 
 ### When does a reference lab make more sense?
 
-For low-volume tests, esoteric panels, histopathology, and anything where the clinic's monthly volume can't cover the reagent and QC overhead. A reference lab is also the right choice when you need specialist interpretation or a test you simply can't run in-clinic.
+For **3 scenarios** — low-volume/esoteric tests, histopathology, and anything your monthly volume can't cover; a lab also wins when you need specialist interpretation.
 
 ### How much faster is in-house testing really?
 
-A fluorescence immunoassay analyzer returns a result in minutes, typically 3–15 minutes depending on the assay, versus hours to days for a reference lab. That speed is clinically decisive for time-sensitive markers like progesterone, cPL and NT-proBNP.
+A fluorescence analyzer returns a result in **3–15 minutes**, versus hours to days for a reference lab — decisive for **progesterone, cPL and NT-proBNP**.
 
 ### What is the hidden revenue of same-visit results?
 
-A client who gets an answer in 15 minutes is far more likely to accept treatment the same day. That converts a diagnostic fee into a same-day treatment plan — revenue a 24–72 hour send-out workflow structurally cannot capture.
+A client who gets an answer in **15 minutes** is far more likely to accept treatment the same day — revenue a **24–72 hour send-out** structurally cannot capture.
 
 ### Should I run everything in-house?
 
-No. The sensible model is hybrid: run high-volume, time-sensitive, quantitative biomarkers in-house, and send out low-volume, esoteric or batched panels to a reference lab. Volume decides which side of the line a test falls on.
+No — run a **2-side hybrid model**: high-volume, time-sensitive quantitative biomarkers in-house; low-volume, esoteric or batched panels to a lab. Volume decides the line.
 
 ### How do I decide where the break-even is?
 
-Calculate your fully loaded cost per test (cartridge plus allocated overhead) and compare it against what the reference lab charges you. If your in-house cost per test is below the lab fee at your real monthly volume, in-house wins. If not, send it out.
+Compare **1 fully loaded in-house cost per test** against the reference-lab fee at your real monthly volume; if in-house is below the lab fee, in-house wins.
 
 ## Key Takeaways
 
-1. In-house testing is usually not cheaper per test — it's a margin-capture strategy.
-2. The hidden value is same-day diagnosis and treatment, which a send-out workflow can't deliver.
-3. Speed matters most for time-sensitive markers: progesterone, cPL, NT-proBNP.
-4. The reference lab still wins for low-volume, esoteric, and specialist-interpretation work.
-5. Your break-even is a function of your own monthly volume, not the vendor's assumptions.
+1. In-house testing is usually **not cheaper per test** — **1 margin-capture strategy**, not a unit-cost win.
+2. The hidden value is **same-day diagnosis and treatment**, which a **24–72 hour send-out can't deliver**.
+3. Speed matters most for **3 markers**: progesterone, cPL, NT-proBNP.
+4. The reference lab still wins for **3 types of work**: low-volume, esoteric, and specialist-interpretation.
+5. Your break-even is **1 number** — your own monthly volume, not the vendor's assumptions.
 
 ## References
 

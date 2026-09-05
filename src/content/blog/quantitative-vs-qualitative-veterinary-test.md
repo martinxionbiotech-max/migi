@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the difference between quantitative and qualitative testing?", "a": "A qualitative test answers 'is it present?' with a yes/no result. A quantitative test measures 'how much?' and returns a numerical concentration. For biomarkers where the quantity determines the clinical decision, quantitative is the difference between guessing and knowing."}, {"q": "Which veterinary markers need quantitative testing?", "a": "Progesterone for breeding timing, cPL for pancreatitis, NT-proBNP for cardiac staging, and SDMA for kidney function are the classic examples — each has established cut-offs where the specific number changes the clinical action."}, {"q": "Can a qualitative progesterone test time breeding?", "a": "No, not reliably. Breeding timing hinges on whether progesterone is 2, 5 or 8 ng/mL, and a yes/no strip can't distinguish those. Semi-quantitative kits give broad bands (low/medium/high) but lack the resolution needed for frozen-semen timing."}, {"q": "Why is trend monitoring only possible with quantitative results?", "a": "A trend requires numbers to compare — is the biomarker rising or falling, and by how much? A qualitative test gives you 'positive' twice in a row, which tells you nothing about direction or magnitude."}, {"q": "What is an equivocal zone?", "a": "A grey band between clearly normal and clearly abnormal. For example, cPL of 201–400 µg/L is equivocal for pancreatitis — neither normal nor diagnostic — and warrants re-testing. Quantitative results are what make equivocal zones interpretable at all."}, {"q": "Is a qualitative test ever sufficient?", "a": "Yes, for truly binary questions like 'is this antigen present?' where a yes/no answer is all you need and the stakes of a wrong answer are low. The test should match the question, not the other way around."}]
 ---
 
-> **TL;DR:** A qualitative test answers "is it there?" A quantitative test answers "how much?" — and for biomarkers like progesterone, cPL and NT-proBNP, the specific number is the diagnosis. Quantitative results are what let you stage disease, time breeding, and monitor trends. The test should match the clinical question: binary question, binary test; numerical question, numerical test.
+> **TL;DR:** A qualitative test answers "is it there?" A quantitative test answers "how much?" For progesterone, the difference between **2, 5 and 8 ng/mL** is the decision; for cPL, **201–400 µg/L** is the equivocal zone you can only see with a number. The test should match the question: binary question, binary test; numerical question, numerical test.
 
 The single most underappreciated distinction in veterinary diagnostics is the one between knowing that something is present and knowing how much of it there is. It sounds academic. It's the difference between a correct and an incorrect clinical decision, every single day.
 
@@ -91,35 +91,35 @@ In practice, the analyzer is justified by the menu of tests where the quantity i
 
 ### What is the difference between quantitative and qualitative testing?
 
-A qualitative test answers 'is it present?' with a yes/no result. A quantitative test measures 'how much?' and returns a numerical concentration. For biomarkers where the quantity determines the clinical decision, quantitative is the difference between guessing and knowing.
+**2 answers, 2 tests**: qualitative gives yes/no; quantitative measures 'how much?' and returns a numerical concentration. When the quantity determines the decision, quantitative is the difference between guessing and knowing.
 
 ### Which veterinary markers need quantitative testing?
 
-Progesterone for breeding timing, cPL for pancreatitis, NT-proBNP for cardiac staging, and SDMA for kidney function are the classic examples — each has established cut-offs where the specific number changes the clinical action.
+**4 classic markers** — progesterone, cPL, NT-proBNP and SDMA — each have established cut-offs where the specific number changes the clinical action.
 
 ### Can a qualitative progesterone test time breeding?
 
-No, not reliably. Breeding timing hinges on whether progesterone is 2, 5 or 8 ng/mL, and a yes/no strip can't distinguish those. Semi-quantitative kits give broad bands (low/medium/high) but lack the resolution needed for frozen-semen timing.
+No — **breeding hinges on 2, 5 or 8 ng/mL**, and a yes/no strip can't distinguish those. Semi-quantitative kits give broad bands but lack the resolution needed for frozen-semen timing.
 
 ### Why is trend monitoring only possible with quantitative results?
 
-A trend requires numbers to compare — is the biomarker rising or falling, and by how much? A qualitative test gives you 'positive' twice in a row, which tells you nothing about direction or magnitude.
+**1 number to another** is what defines a trend — is the biomarker rising or falling, and by how much? A qualitative test gives 'positive' twice and tells you nothing about direction or magnitude.
 
 ### What is an equivocal zone?
 
-A grey band between clearly normal and clearly abnormal. For example, cPL of 201–400 µg/L is equivocal for pancreatitis — neither normal nor diagnostic — and warrants re-testing. Quantitative results are what make equivocal zones interpretable at all.
+**1 grey band** between normal and abnormal — for example, **cPL 201–400 µg/L** — is equivocal for pancreatitis and warrants re-testing. Quantitative results are what make equivocal zones interpretable at all.
 
 ### Is a qualitative test ever sufficient?
 
-Yes, for truly binary questions like 'is this antigen present?' where a yes/no answer is all you need and the stakes of a wrong answer are low. The test should match the question, not the other way around.
+Yes — for **1 type of question** (truly binary, low-stakes antigen presence), a yes/no answer is all you need. The test should match the question, not the other way around.
 
 ## Key Takeaways
 
-1. Qualitative tests answer "is it there?"; quantitative tests answer "how much?" — and for key biomarkers, the quantity is the diagnosis.
-2. Progesterone, cPL, NT-proBNP and SDMA all have cut-offs where the number changes the clinical action.
-3. Equivocal zones only exist — and only matter — when you have a number to interpret.
-4. Trend monitoring is impossible with qualitative results; it's the whole point of quantitative ones.
-5. Semi-quantitative kits are less accurate and often capped at 5 ng/mL — blind exactly where frozen-semen breeding needs them.
+1. Qualitative answers "is it there?"; quantitative answers "how much?" — **1 number** is often the diagnosis.
+2. **4 markers** — progesterone, cPL, NT-proBNP, SDMA — have cut-offs where the number changes the action.
+3. Equivocal zones only exist with a number — **201–400 µg/L cPL** is the interpretable grey band.
+4. Trend monitoring is impossible with **2 identical "positives"**; it's the whole point of quantitative results.
+5. Semi-quantitative kits often cap at **5 ng/mL** — blind exactly where frozen-semen breeding needs them.
 
 ## References
 

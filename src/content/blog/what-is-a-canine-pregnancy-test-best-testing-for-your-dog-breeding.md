@@ -130,11 +130,11 @@ Frozen semen lives about 12 hours. A semi-quantitative strip capped at 5 ng/mL c
 
 ### Which test confirms pregnancy — progesterone or relaxin?
 
-Relaxin. It's the only hormone produced solely by the placenta, so it appears only in pregnancy and is reliably detectable from ~day 21–28 post-ovulation, reaching 95–100% by day 30. Progesterone is high during every cycle, pregnant or not, so it times ovulation but cannot confirm conception.
+Relaxin is the **1 pregnancy-only hormone**: produced solely by the placenta, so it appears only in pregnancy and is reliably detectable from **~day 21–28**, reaching **95–100% by day 30**. Progesterone times ovulation but cannot confirm conception.
 
 ### How early can I test for pregnancy?
 
-Not before about three weeks. Relaxin needs a placenta to exist, and implantation hasn't happened before roughly day 21. The earliest reliable detection is ~day 25 in some dogs, with near-total reliability by day 30. A negative on day 15 is "too early," not "not pregnant."
+Not before **~3 weeks** — relaxin needs a placenta, and implantation hasn't happened before roughly **day 21**. The earliest reliable detection is ~day 25 in some dogs, with near-total reliability by day 30.
 
 ### Why do I need a number instead of a positive/negative strip?
 
@@ -150,11 +150,11 @@ Semi-quantitative brackets progesterone into coarse bands (often capped near 5 n
 
 ### Can progesterone confirm a pregnancy?
 
-No. Progesterone rises in every oestrous cycle whether the bitch conceives or not. It is a timing marker, not a pregnancy marker. Only relaxin (placental) confirms pregnancy.
+No — **1 timing marker, 0 pregnancy confirmation**: progesterone rises in every oestrous cycle whether the bitch conceives or not; only relaxin (placental) confirms pregnancy.
 
 ### What equipment do I need to run these tests?
 
-A fluorescence immunoassay analyzer. The single-channel FIA680 suits breeders and small clinics; the six-channel FIA880 handles busy hospitals running multiple panels concurrently. Both read the full Migibio reagent menu, not just reproduction.
+**1 analyzer, 2 channel options**: the single-channel FIA680 suits breeders and small clinics; the six-channel FIA880 handles busy hospitals running multiple panels concurrently. Both read the full Migibio reagent menu.
 
 ---
 

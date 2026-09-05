@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the difference between a Snap-style and a fluorescence feline triple test?", "a": "A Snap-style lateral-flow test gives a qualitative line you read by eye — positive or negative. A fluorescence test gives a quantitative number (a titre) read by an analyzer. The difference is between a line and a number."}, {"q": "Why does a quantitative titre matter for FPV/FCV/FHV?", "a": "A number lets you distinguish weak from strong positives and track titre changes over time — after vaccination, or across a shelter intake. A qualitative line can't show trend or strength."}, {"q": "Is a fluorescence result always more accurate?", "a": "More objective and more informative — a numeric titre removes visual interpretation error and enables trend tracking. But accuracy depends on validation, not just the detection method; a poorly validated quantitative test can still mislead."}, {"q": "Which should I choose?", "a": "For a fast yes/no screen, a qualitative test is quick and simple. For immunity assessment, titre tracking or monitoring response, the quantitative fluorescence test is the better tool."}]
 ---
 
-> **TL;DR** — The difference between a Snap-style feline triple test and a fluorescence FPV/FCV/FHV test is the difference between a **line and a number**. A lateral-flow test gives you a yes/no you read by eye; a fluorescence analyzer gives you a titre — and a titre is what lets you compare immunity, track changes after vaccination, and spot a weak positive. The honest version of "which is cheaper" is: the strip costs less per test but tells you less; the analyzer costs more upfront but returns data you can actually act on.
+> **TL;DR** — The difference is **1 line vs 1 number**: a Snap-style test gives a yes/no you read by eye; a fluorescence analyzer gives a titre across **3 viruses** (FPV/FCV/FHV). A titre is what lets you compare immunity, track changes after vaccination, and spot a weak positive. Cheaper per strip buys less information; more upfront buys data you can act on.
 
 Both tests look at the same three viruses — FPV (panleukopenia), FHV-1 (herpes) and FCV (calicivirus). The real difference isn't *what* they detect, it's *how much information* the answer carries. This guide compares them honestly, without the marketing.
 
@@ -84,29 +84,29 @@ So when you compare these two, ask the same question of both: **where's the vali
 
 ### What's the difference between a Snap-style and a fluorescence feline triple test?
 
-A Snap-style test gives a qualitative line you read by eye; a fluorescence test gives a quantitative titre read by an analyzer. It's a line versus a number.
+**1 line vs 1 number**: a Snap-style test gives a qualitative line read by eye; a fluorescence test gives a quantitative titre read by an analyzer.
 
 ### Why does a quantitative titre matter for FPV/FCV/FHV?
 
-A number distinguishes weak from strong positives and tracks titre changes over time — after vaccination or across a shelter intake. A line can't show trend or strength.
+**3 things a line can't show**: a number distinguishes weak from strong positives and tracks titre changes over time — after vaccination or across shelter intake.
 
 ### Is a fluorescence result always more accurate?
 
-More objective and informative, yes — but accuracy depends on validation, not the method. A poorly validated quantitative test can still mislead.
+More objective and informative, yes — but **accuracy depends on validation, not the method**; **1 poorly validated quantitative test** can still mislead.
 
 ### Which should I choose?
 
-For a fast yes/no screen, a qualitative test is quick and simple. For immunity assessment, titre tracking or monitoring, the quantitative test is the better tool.
+Choose by **2 jobs**: for a fast yes/no screen, qualitative is quick and simple; for immunity assessment, titre tracking or monitoring, quantitative is the better tool.
 
 ---
 
 ## Key Takeaways
 
-1. **Line vs number** — a Snap-style test gives yes/no; fluorescence gives a titre you can trend.
-2. **A number is actionable** — weak/strong distinction, trend tracking, threshold-based booster decisions.
-3. **The line is fine for binary screening** — cheap, simple, low-stakes questions.
-4. **Total cost per answer, not per test** — the strip is cheaper per test but buys less information.
-5. **"Fluorescence" isn't a quality guarantee** — validation (sensitivity + specificity) is what matters.
+1. **1 line vs 1 number** — Snap-style gives yes/no; fluorescence gives a titre you can trend.
+2. **A number is actionable** — **3 uses**: weak/strong distinction, trend tracking, threshold-based booster decisions.
+3. **The line is fine for 1 binary screen** — cheap, simple, low-stakes questions.
+4. **Total cost per answer, not per test** — **1 cheaper strip buys less information**; the analyzer buys actionable data.
+5. **"Fluorescence" isn't a quality guarantee** — **2 numbers** (sensitivity + specificity) from validation are what matter.
 
 ---
 

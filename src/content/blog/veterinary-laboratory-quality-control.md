@@ -8,7 +8,7 @@ faq: [{"q": "What is the difference between internal and external quality contro
 ---
 
 
-> **TL;DR** — A diagnostic result is only as trustworthy as the quality control behind it. QC rests on two pillars: **internal controls** (run every day, on every batch) and **external assessment** (periodic proficiency testing). Calibration, lot management, storage and operator training are the supporting walls — and they're what separate a number you can act on from a number you can't.
+> **TL;DR** — A diagnostic result is only as trustworthy as the QC behind it, and QC rests on **2 pillars**: internal controls (run every day, on every batch) and external proficiency testing. Calibration, lot management, storage and operator training are the supporting walls — they're what separate **1 number you can act on** from **1 number you can't**.
 
 A diagnostic test is only as valuable as the confidence you can place in its result. In veterinary point-of-care testing, where decisions about treatment, isolation, and even euthanasia may hinge on a number displayed on a screen, **quality control (QC)** is not a bureaucratic afterthought — it is the foundation of trustworthy medicine. This guide explains the principles of quality control and how to build a robust QC programme.
 
@@ -113,29 +113,29 @@ Quality control is what separates reliable diagnostics from guesswork. By pairin
 
 ## Key Takeaways
 
-1. **QC has two pillars** — internal controls (daily, every batch) and external assessment (proficiency testing).
-2. **Calibration and lot management** keep the instrument honest across reagent batches.
-3. **Storage and handling** are where results quietly die — temperature and expiry matter.
-4. **Operator training is the human pillar** — a standardised technique is a reproducible result.
-5. **Standards (ISO9001/GMP) are the floor, not the ceiling** — they signal a QC system, not proof of every result.
+1. QC has **2 pillars** — internal controls (daily, every batch) and external proficiency testing.
+2. **Calibration and lot management** keep **1 standard curve** honest across reagent batches.
+3. **Storage and handling** are where results quietly die — **2 errors** (temperature, expiry) matter.
+4. **Operator training is the human pillar** — **1 standardised technique** produces a reproducible result.
+5. **Standards (ISO9001/GMP) are the floor, not the ceiling** — **1 certificate** is not proof of every result.
 
 ## FAQ
 
 ### What are the two pillars of QC?
 
-Internal controls — run daily and on every batch to catch drift immediately — and external assessment, like periodic proficiency testing against known samples.
+**2 pillars**: internal controls run daily on every batch to catch drift immediately, and external assessment via periodic proficiency testing against known samples.
 
 ### Why does calibration matter?
 
-Because a quantitative result is only meaningful against a correct standard curve; calibration and lot management keep that curve accurate across reagent batches.
+Because **1 quantitative result** is only meaningful against a correct standard curve; calibration and lot management keep that curve accurate across reagent batches.
 
 ### What's the most overlooked QC factor?
 
-Storage and handling — temperature and expiry errors silently degrade reagents and produce results that look normal but aren't.
+Storage and handling — **2 silent killers**, temperature and expiry errors, degrade reagents and produce results that look normal but aren't.
 
 ### Does ISO9001/GMP guarantee accurate results?
 
-No — certification signals a QC system exists, but every result still depends on daily controls and correct handling.
+No — **1 certificate** signals a QC system exists, but every result still depends on daily controls and correct handling.
 
 ## References
 

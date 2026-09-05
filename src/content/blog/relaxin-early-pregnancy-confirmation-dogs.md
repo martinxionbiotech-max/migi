@@ -78,7 +78,7 @@ By day 30 post-ovulation, a validated relaxin test detects pregnancy in 95–100
 
 ### Can a negative relaxin test rule out pregnancy?
 
-Not before the detection window. If the test is run too early (before ~21–28 days post-ovulation), a negative result may simply mean the placenta hasn't developed enough relaxin yet. A negative in the correct window is strong evidence of non-pregnancy, but timing is everything.
+Not before **~21–28 days post-ovulation**. If the test is run too early, a negative result may simply mean the placenta hasn't developed enough relaxin yet; a negative in the correct window is strong evidence of non-pregnancy.
 
 ### Does relaxin distinguish a real pregnancy from a false pregnancy?
 
@@ -86,19 +86,19 @@ Yes — this is one of relaxin's main clinical values. Relaxin is produced by th
 
 ### How does relaxin compare to ultrasound for pregnancy confirmation?
 
-Relaxin is a blood test confirming pregnancy from ~21–28 days; ultrasound visualises gestational structures from ~21–25 days and also assesses viability and litter size. They're complementary — relaxin for the earliest yes/no, ultrasound for visual confirmation and detail.
+Two tools, two jobs: relaxin is a blood test confirming pregnancy from **~21–28 days**; ultrasound visualises gestational structures from **~21–25 days** and also assesses viability and litter size. They're complementary.
 
 ### Can relaxin remain detectable after a failed pregnancy?
 
-Relaxin remains detectable throughout gestation and can persist into the post-partum period. After foetal loss, levels may take time to fall, so a single positive relaxin is not proof of ongoing viability — pair it with ultrasound when viability is in question.
+Yes — **1 positive relaxin is not proof of ongoing viability**: relaxin can remain detectable throughout gestation and after foetal loss, so pair it with ultrasound when viability is in question.
 
 ## Key Takeaways
 
 1. Relaxin is the earliest blood-based confirmation of pregnancy, detectable ~21–28 days post-ovulation.
 2. Detection reaches 95–100% by day 30 — schedule the test deliberately, not on impatience.
 3. A negative result before the window is inconclusive; after day 28–30 it's strong evidence of non-pregnancy.
-4. Relaxin distinguishes real pregnancy from false pregnancy — its most useful daily application.
-5. A positive relaxin confirms pregnancy was established, but ultrasound is still needed to assess viability.
+4. Relaxin distinguishes real pregnancy from false pregnancy — **1 placental signal**, its most useful daily application.
+5. A positive relaxin confirms **1 thing**: pregnancy was established — ultrasound is still needed for viability.
 
 ## References
 

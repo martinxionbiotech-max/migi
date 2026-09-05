@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is a reference range and how do I use it?", "a": "A reference range is the interval of values expected in healthy animals, typically the central 95% of a healthy population. A value outside the range suggests abnormality, but reference ranges are population-based — always interpret the number in the context of the individual patient, its history and its clinical signs."}, {"q": "What is the difference between a reference range and a cut-off?", "a": "A reference range describes a healthy population. A cut-off is a clinical decision threshold — the value above which a specific action is indicated. For example, cPL ≥400 µg/L is consistent with pancreatitis, while the reference interval for healthy dogs is <200 µg/L."}, {"q": "What does CV (coefficient of variation) mean on a test result?", "a": "The coefficient of variation measures precision — how much repeated measurements of the same sample vary. A CV below 10% means results are tightly reproducible, which is what makes serial trend monitoring meaningful."}, {"q": "What is the difference between LOD and a reference range?", "a": "The limit of detection (LOD) is the lowest concentration the assay can reliably distinguish from zero. The reference range is the interval of values seen in healthy animals. LOD is about analytical sensitivity; the reference range is about clinical normality."}, {"q": "What is an equivocal zone?", "a": "A grey band between clearly normal and clearly abnormal. For cPL, 201–400 µg/L is equivocal and warrants re-testing in 2–3 weeks. A quantitative result is what lets you recognise an equivocal zone and respond with re-testing instead of a premature diagnosis."}, {"q": "How do I interpret a borderline result?", "a": "A value near the upper end of the reference range, or just over it, is often the earliest sign of developing disease — but it's also where pre-analytical noise lives. Confirm with re-measurement and integrate with the clinical picture rather than over-reacting to a single point."}]
 ---
 
-> **TL;DR:** A quantitative result is a number — but a number only becomes a diagnosis when you know the reference range, the cut-offs, and the assay's precision. Learn the equivocal zones (like cPL 201–400 µg/L), trust a trend only when the CV supports it, and always read the number against the individual patient, not against the population average alone.
+> **TL;DR:** A number only becomes a diagnosis when you know **2 contexts**: the reference range and the cut-off. Learn the equivocal zones — **cPL 201–400 µg/L** — and trust a trend only when **CV is below 10%**. Then read the number against the individual patient, not the population average.
 
 A quantitative test result is a number — but a number only becomes a diagnosis when you know how to read it. This guide covers the concepts that govern interpretation: the reference range, clinical cut-offs, equivocal zones, the coefficient of variation (CV), and the limit of detection (LOD) — plus the errors that turn a good number into a bad decision.
 
@@ -92,35 +92,35 @@ In practice, training on interpretation protects the analyzer investment and tur
 
 ### What is a reference range and how do I use it?
 
-A reference range is the interval of values expected in healthy animals, typically the central 95% of a healthy population. A value outside the range suggests abnormality, but reference ranges are population-based — always interpret the number in the context of the individual patient, its history and its clinical signs.
+A reference range is the interval of values expected in healthy animals, typically the **central 95%** of a healthy population. A value outside suggests abnormality, but always interpret it against the individual patient, history and clinical signs.
 
 ### What is the difference between a reference range and a cut-off?
 
-A reference range describes a healthy population. A cut-off is a clinical decision threshold — the value above which a specific action is indicated. For example, cPL ≥400 µg/L is consistent with pancreatitis, while the reference interval for healthy dogs is <200 µg/L.
+A reference range describes **healthy animals**; a cut-off is a decision threshold — for example, **cPL ≥400 µg/L** means pancreatitis while the healthy reference is **<200 µg/L**.
 
 ### What does CV (coefficient of variation) mean on a test result?
 
-The coefficient of variation measures precision — how much repeated measurements of the same sample vary. A CV below 10% means results are tightly reproducible, which is what makes serial trend monitoring meaningful.
+The coefficient of variation is **1 precision metric** — how much repeated measurements of the same sample vary. A **CV below 10%** means results are tightly reproducible, which is what makes serial trend monitoring meaningful.
 
 ### What is the difference between LOD and a reference range?
 
-The limit of detection (LOD) is the lowest concentration the assay can reliably distinguish from zero. The reference range is the interval of values seen in healthy animals. LOD is about analytical sensitivity; the reference range is about clinical normality.
+The limit of detection (LOD) is the **lowest concentration** the assay can distinguish from zero; the reference range is the interval seen in healthy animals — **2 different concepts**.
 
 ### What is an equivocal zone?
 
-A grey band between clearly normal and clearly abnormal. For cPL, 201–400 µg/L is equivocal and warrants re-testing in 2–3 weeks. A quantitative result is what lets you recognise an equivocal zone and respond with re-testing instead of a premature diagnosis.
+An equivocal zone is a grey band — **cPL 201–400 µg/L** is neither normal nor diagnostic and warrants re-testing in **2–3 weeks**.
 
 ### How do I interpret a borderline result?
 
-A value near the upper end of the reference range, or just over it, is often the earliest sign of developing disease — but it's also where pre-analytical noise lives. Confirm with re-measurement and integrate with the clinical picture rather than over-reacting to a single point.
+**1 borderline value** is often the earliest sign of developing disease — but it's also where pre-analytical noise lives. Confirm with **re-measurement** rather than reacting to 1 point.
 
 ## Key Takeaways
 
-1. Know the reference range for the species and life stage — they differ (e.g., SDMA 14 vs 16 µg/dL for adults vs puppies).
-2. Cut-offs are decision thresholds, distinct from reference ranges — learn the ones for the markers you run.
-3. Equivocal zones (like cPL 201–400 µg/L) are where over-reading happens — respond with re-testing.
-4. Trust a trend only if the assay's CV (precision) supports it.
-5. LOD governs early detection; the trajectory of serial results usually matters more than any single point.
+1. Know the reference range for species and life stage — **SDMA 14 vs 16 µg/dL** for adults vs puppies.
+2. Cut-offs are decision thresholds — **cPL ≥400 µg/L** means pancreatitis, distinct from the healthy **<200 µg/L** range.
+3. Equivocal zones are where over-reading happens — **cPL 201–400 µg/L** means re-test, not diagnose.
+4. Trust a trend only when **CV <10%** supports it.
+5. LOD governs early detection — **1 trajectory** of serial results matters more than any single point.
 
 ## References
 

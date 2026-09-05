@@ -104,7 +104,7 @@ Start around day 5 of heat and test every 1–3 days, increasing frequency as th
 
 ### Does the rate of progesterone rise matter?
 
-Yes. Research on over 1,400 cycles found that a slow rise with frozen semen produced an average of 3.9 puppies versus 5.6 with a fast rise. Track both the value and the rate of change.
+Yes — **over 1,400 cycles** show the rate matters: a slow rise with frozen semen averaged **3.9 puppies versus 5.6** with a fast rise. Track both the value and the rate of change.
 
 ### How do I convert progesterone units?
 
@@ -112,7 +112,7 @@ ng/mL × 3.18 = nmol/L, and nmol/L ÷ 3.18 = ng/mL. Always confirm which unit yo
 
 ### Can I time breeding with a semi-quantitative progesterone kit?
 
-For fresh-semen natural breeding, a broad-band kit may be enough to schedule a veterinary blood draw. For chilled or frozen semen, semi-quantitative kits are inadequate — their measurement range is often capped at 5 ng/mL, while frozen-semen timing requires 10–20 ng/mL.
+For **2 semen types** the answer changes: fresh-semen natural breeding can use a broad-band kit to schedule a veterinary blood draw, but chilled or frozen semen demands quantitative precision — semi-quantitative kits often cap at **5 ng/mL** while frozen-semen timing needs **10–20 ng/mL**.
 
 ## Key Takeaways
 

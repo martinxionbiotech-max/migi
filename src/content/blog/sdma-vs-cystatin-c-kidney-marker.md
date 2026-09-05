@@ -154,7 +154,7 @@ Because it stays "normal" until 60–75% of function is gone — and muscle mass
 
 ### Is the 14 µg/dL SDMA cut-off trustworthy?
 
-It's the IDEXX reference limit, but independent work (McKenna 2020) found it produced false positives in ~50% of non-azotemic dogs, and 18 µg/dL was more accurate (90% sensitivity, 83% specificity). Treat a single borderline value as a flag to recheck, not a diagnosis.
+No — **14 µg/dL is softer than marketed**: independent work (McKenna 2020) found false positives in ~50% of non-azotemic dogs, and **18 µg/dL** was more accurate (**90% sensitivity / 83% specificity**). Treat a single borderline value as a flag to recheck.
 
 ### What's the normal SDMA range for cats and dogs?
 
@@ -162,11 +162,11 @@ It's the IDEXX reference limit, but independent work (McKenna 2020) found it pro
 
 ### Can cystatin C replace creatinine?
 
-Not as a standalone. Its interval is assay-dependent and it can be shifted by thyroid disease, steroids and inflammation. Use it alongside SDMA as a second, independent number.
+No — **2 confounders block it as a standalone**: its interval is assay-dependent and it can shift with thyroid disease, steroids and inflammation. Use it alongside SDMA as a second, independent number.
 
 ### Is early kidney screening worth stocking in a clinic?
 
-Yes — it's a billable senior-panel add that produces a same-visit result, converts patients into long-term serial-monitoring relationships, and prevents the low-margin late-stage emergency nobody profits from.
+Yes — **3 payoffs make it worth stocking**: same-visit senior-panel revenue, long-term serial-monitoring relationships, and fewer low-margin late-stage emergencies.
 
 ---
 

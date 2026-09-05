@@ -100,7 +100,7 @@ In practice, the value is precision and continuity: progesterone numbers set the
 
 ### What tests are used to manage canine breeding?
 
-The core tools are serial progesterone measurement to time ovulation, relaxin testing to confirm pregnancy, and ultrasound to visualise pregnancy. Progesterone answers 'when to breed'; relaxin and ultrasound answer 'is she pregnant'; used together they cover the whole breeding cycle.
+Three tools cover the whole breeding cycle: serial progesterone measurement to time ovulation, relaxin testing to confirm pregnancy, and ultrasound to visualise pregnancy. Progesterone answers 'when to breed'; relaxin and ultrasound answer 'is she pregnant'.
 
 ### When should I start progesterone testing?
 
@@ -112,7 +112,7 @@ Relaxin becomes detectable in blood around 21–28 days after ovulation, making 
 
 ### Why does ovulation timing require quantitative progesterone?
 
-Because the number is the decision. Progesterone around 2–3 ng/mL signals the LH surge, ~5 ng/mL signals ovulation, and 8–15 ng/mL marks the optimal breeding window. A qualitative strip can't distinguish these — only a quantitative measurement can.
+Because the decision lives in 3 numbers: progesterone around 2–3 ng/mL signals the LH surge, ~5 ng/mL signals ovulation, and 8–15 ng/mL marks the optimal breeding window. A qualitative strip can't distinguish these — only a quantitative measurement can.
 
 ### Does the rate of progesterone rise affect litter size?
 

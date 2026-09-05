@@ -126,31 +126,31 @@ As with all our kits, these are sold B2B — to clinics, distributors and facili
 
 ### How is parvovirus detected?
 
-By antigen testing on a faecal or rectal swab. It detects virus shed in stool and can read positive within 3–7 days of exposure. Antibody testing on blood answers a different question — whether the dog has immunity — not whether it is actively infected.
+By antigen testing on a faecal or rectal swab, which can read positive within **3–7 days** of exposure. It detects virus shed in stool; antibody testing on blood answers a different question — immunity, not active infection.
 
 ### Can a parvo test be a false positive after vaccination?
 
-Yes, and it's the most common cause of a positive in a healthy dog. A modified-live vaccine sheds vaccine virus in stool for roughly 5–15 days, and antigen tests can't distinguish it from wild virus. Check vaccination history before acting on any positive.
+Yes — this is the **5–15 day** false-positive window and the most common cause of a positive in a healthy dog. A modified-live vaccine sheds vaccine virus in stool, and antigen tests can't distinguish it from wild virus, so check vaccination history before acting.
 
 ### How fast can I get a result?
 
-A quantitative fluorescence antigen test returns a number in 3–11 minutes on an analyzer. That's the difference that matters, because untreated parvo kills 91% of puppies while fast treatment saves ~90%.
+A quantitative fluorescence antigen test returns a number in **3–11 minutes**, versus a 24-hour lab wait. That gap matters because untreated parvo kills **91%** of puppies while fast treatment saves **~90%**.
 
 ### Why does a quantitative number matter for parvo?
 
-Viral load tracks severity and treatment response. A falling number after 48 hours means the dog is responding; a flat or rising number means the plan needs to change. A positive/negative line gives none of that.
+Viral load tracks severity, peaking around **14 weeks of age**. A falling number after **48 hours** means the dog is responding; a flat or rising number means the plan needs to change. A positive/negative line gives none of that.
 
 ### What's the role of CRP in parvo?
 
-CRP is the prognosis number. Above ~92.4 mg/L it predicts ~91% of deaths; sustained above 150 mg/L, survival drops below 15%. Pairing CPV antigen with CRP on one analyzer gives you both diagnosis and prognosis.
+CRP is the prognosis number: above **~92.4 mg/L** it predicts **~91%** of deaths, and sustained above **150 mg/L** drops survival below **15%**. Pairing CPV antigen with CRP on one analyzer gives you diagnosis and prognosis.
 
 ### Should I test a dog that just got vaccinated?
 
-Wait if you can. Within 5–15 days of an MLV vaccine, a positive antigen result may simply be vaccine-virus shedding, not infection. If the dog is sick with classic signs, treat the positive as real regardless of vaccine timing.
+Wait if you can: within **5–15 days** of an MLV vaccine, a positive antigen result may simply be vaccine-virus shedding. If the dog is sick with classic signs, treat the positive as real regardless of vaccine timing.
 
 ### What disinfectant actually kills parvo?
 
-Bleach diluted about 1:30, or accelerated hydrogen peroxide. Most everyday disinfectants don't inactivate parvovirus, which is why environmental decontamination is a core part of outbreak control.
+Bleach diluted about **1:30**, or accelerated hydrogen peroxide. Most everyday disinfectants don't inactivate parvovirus, so decontamination has to be a core part of outbreak control.
 
 ---
 
@@ -161,7 +161,7 @@ Bleach diluted about 1:30, or accelerated hydrogen peroxide. Most everyday disin
 3. **Vaccines cause a 5–15 day false-positive window** — MLV vaccine virus sheds in stool and looks identical to wild virus on an antigen test.
 4. **A number beats a line** — viral load tracks severity and response; the highest loads sit at ~14 weeks of age.
 5. **Add CRP for the prognosis** — above ~92.4 mg/L predicts ~91% of deaths, and it runs on the same analyzer as the CPV test.
-6. **Disinfect with bleach, not hope** — parvovirus survives months in the environment and shrugs off generic disinfectants.
+6. **Disinfect with 1:30 bleach, not hope** — parvovirus survives months in the environment and shrugs off generic disinfectants.
 
 ---
 

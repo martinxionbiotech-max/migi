@@ -128,7 +128,7 @@ The commercial value is the ongoing monitoring relationship: thyroid cases requi
 
 ## Key Takeaways
 
-1. Cats go **hyper**thyroid, dogs go **hypo**thyroid — opposite directions, same test panel.
+1. Cats go **hyper**thyroid, dogs go **hypo**thyroid — 2 species, 1 panel, opposite directions.
 2. **Feline hyperthyroidism:** total T4 >4.0 µg/dL (grey zone 2.5–4.0 → free T4).
 3. **Canine hypothyroidism:** T4 <1.0 µg/dL, ideally with elevated TSH — but ~20–30% of hypothyroid dogs have normal TSH.
 4. **Measure both T4 and TSH** — the pattern is the diagnosis, not any single value.

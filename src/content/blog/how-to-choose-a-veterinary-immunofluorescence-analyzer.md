@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What's the most important specification when choosing an analyzer?", "a": "Channel count — how many samples run simultaneously. A single-channel unit suits small clinics and breeders running one test at a time; a six-channel unit suits busy hospitals where multiple clinicians test concurrently without queuing."}, {"q": "Should I choose based on throughput?", "a": "Throughput matters, but match it to real peak demand, not marketing numbers. A single-channel FIA680 handles up to 200 tests/hour; a six-channel FIA880 up to 300 — but the six-channel's real advantage is eliminating queueing when several clinicians test at once."}, {"q": "What's the biggest hidden cost?", "a": "Reagent cost per result, not the instrument price. The analyzer is a one-time purchase; reagents are recurring. Evaluate total cost per result across your expected test volume, not the upfront number alone."}, {"q": "Does the test menu matter more than the hardware?", "a": "Often yes. The analyzer is only as useful as the menu it runs — the more biomarkers (infectious, hormone, kidney, cardiac) one instrument covers, the more value it returns per square foot of bench space."}, {"q": "What about support and validation?", "a": "Ask for sensitivity and specificity from a real validation study for the assays you'll run, and confirm calibration, controls and support terms. A cheap instrument with unvalidated reagents is expensive."}]
 ---
 
-> **TL;DR** — Buying a fluorescence analyzer isn't a spec-sheet exercise; it's four decisions: **channel count** (how many samples run at once), **test menu** (how many biomarkers one box covers), **total cost per result** (reagent cost, not just the instrument price), and **validation/support** (real sensitivity and specificity, not the detection-method name). Get those four right and the analyzer pays for itself; get any one wrong and it's an expensive bench ornament.
+> **TL;DR** — Buying a fluorescence analyzer is **4 decisions, not a spec sheet**: channel count (**1 vs 6 samples at once**), test menu, total cost per result, and validation/support. Get the **4** right and it pays for itself; get any **1** wrong and it's an expensive bench ornament.
 
 The analyzer is one of the most consequential equipment decisions a veterinary practice makes — it determines turnaround speed, patient capacity, and how confidently you can act on the numbers it produces. But most buyers get lost in spec sheets. The decision actually reduces to four questions.
 
@@ -81,33 +81,33 @@ For a head-to-head on the two Migibio analyzers specifically — throughput, tem
 
 ### What's the most important specification?
 
-Channel count — how many samples run simultaneously. Single-channel suits small clinics; six-channel suits busy hospitals with concurrent testing.
+Channel count — **1 sample at a time vs 6 simultaneously**; single-channel suits small clinics, six-channel suits busy hospitals with concurrent testing.
 
 ### Should I choose by throughput?
 
-Match throughput to real peak demand. The multi-channel unit's real advantage is eliminating queuing, not the headline number.
+Answer **1 question** — real peak demand: the multi-channel unit's advantage is eliminating queuing, not the headline number.
 
 ### What's the biggest hidden cost?
 
-Reagent cost per result. The instrument is one-time; reagents recur. Evaluate total cost per result across your volume.
+Reagent cost per result — **1-time hardware vs recurring reagents**; evaluate total cost per result across your volume.
 
 ### Does the test menu matter more than hardware?
 
-Often yes — the analyzer is only as useful as the menu it runs. A broad menu returns more value per square foot.
+Often yes — **the menu bounds the value**: 1 broad menu returns more value per square foot than a cheaper box with few tests.
 
 ### What about support and validation?
 
-Demand sensitivity/specificity from a real study, and confirm calibration, controls and support terms. Unvalidated reagents are the expensive mistake.
+Demand **2 things**: sensitivity/specificity from a real study and confirmed calibration/controls/support terms; unvalidated reagents are the expensive mistake.
 
 ---
 
 ## Key Takeaways
 
-1. **Four decisions, not a spec sheet** — channels, menu, cost-per-result, and validation.
-2. **Match channels to your own peak hour** — the multi-channel unit's real value is no queuing.
-3. **The menu bounds the value** — more biomarkers per box means more utility per bench.
-4. **Judge by cost per result** — reagents recur; the instrument doesn't.
-5. **"Fluorescence" isn't validation** — demand sensitivity and specificity from a real study.
+1. **4 decisions, not a spec sheet** — channels, menu, cost-per-result, validation.
+2. **Match channels to your own peak hour** — **1 vs 6 concurrent samples** decides workflow, not total volume.
+3. **The menu bounds the value** — **1 more biomarker per box** means more utility per bench.
+4. **Judge by cost per result** — **1-time hardware, recurring reagents**.
+5. **"Fluorescence" isn't validation** — demand **2 numbers** (sensitivity and specificity) from a real study.
 
 ---
 

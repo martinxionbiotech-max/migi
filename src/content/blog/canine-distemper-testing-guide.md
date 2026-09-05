@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is canine distemper?", "a": "Canine distemper virus (CDV) is a highly contagious morbillivirus — a relative of human measles — that attacks the respiratory, gastrointestinal and nervous systems. It progresses in three stages, and the neurological stage is often irreversible and frequently fatal."}, {"q": "How is distemper detected?", "a": "By antigen testing during the early viraemic phase (conjunctival, nasal or blood samples), which confirms active infection. Antibody testing on blood answers a different question — whether the dog has immunity from vaccination or prior exposure."}, {"q": "Why is distemper hard to diagnose on symptoms alone?", "a": "Its early signs — fever, cough, nasal discharge — look like kennel cough, and its later neurological signs can be confused with other conditions. By the time the classic signs are obvious, the disease is often advanced."}, {"q": "Antigen or antibody testing for distemper?", "a": "Antigen testing for a sick dog — it confirms active infection and guides treatment. Antibody testing for a healthy dog — it verifies vaccine response and immunity. They answer different questions."}, {"q": "Does the vaccine prevent distemper?", "a": "The distemper vaccine is a core vaccine and highly effective, which is why the disease is now rare in well-vaccinated pets and concentrated in unvaccinated puppies and shelter populations. Antibody testing confirms whether vaccination has taken."}]
 ---
 
-> **TL;DR** — Canine distemper is a morbillivirus (measles' cousin) that progresses through three stages — respiratory, gastrointestinal, then neurological — and by the neurological stage it's often irreversible and frequently fatal. The reason testing matters so much is that distemper is a great imitator: early signs look like kennel cough, and late signs look like other neurological disease. **Antigen testing confirms active infection during the early viraemic phase; antibody testing checks immunity.** Getting the antigen test in early is the single biggest factor in the outcome.
+> **TL;DR** — Distemper runs through **3 stages** — respiratory, gastrointestinal, then neurological — and the third is often irreversible and frequently fatal. **2 test types answer 2 different questions**: antigen confirms active infection in the early viraemic phase, antibody checks immunity. The trap is the imitator: early signs look like kennel cough, late signs like other neurological disease, so the antigen test has to land before the nervous system does.
 
 Canine distemper is the disease where "test early" isn't a nicety — it's the difference between a recoverable infection and a neurological catastrophe. This guide explains the two tests, what each result means, and why timing is everything.
 
@@ -91,33 +91,33 @@ Both run on the FIA680 or FIA880 fluorescence analyzer, returning a quantitative
 
 ### What is canine distemper?
 
-A highly contagious morbillivirus (measles' relative) that attacks the respiratory, gastrointestinal and nervous systems in three stages — the neurological stage is often irreversible and frequently fatal.
+A 3-stage morbillivirus (measles' relative) that attacks the respiratory, gastrointestinal and nervous systems in sequence — the neurological stage is often irreversible and frequently fatal.
 
 ### How is distemper detected?
 
-By antigen testing during the early viraemic phase (conjunctival, nasal or blood samples) for active infection, or antibody testing on blood for immunity.
+Two sample questions, two test types: antigen testing during the early viraemic phase (conjunctival, nasal or blood samples) for active infection, or antibody testing on blood for immunity.
 
 ### Why is distemper hard to diagnose on symptoms alone?
 
-Early signs mimic kennel cough, and later neurological signs mimic other diseases. By the time signs are obvious, the disease is often advanced.
+Two mimicked presentations explain why: early signs look like kennel cough and later neurological signs look like other diseases. By the time signs are obvious, the disease is often advanced.
 
 ### Antigen or antibody testing?
 
-Antigen for a sick dog — it confirms active infection. Antibody for a healthy dog — it verifies vaccine response. Different questions.
+Two rules: antigen for a sick dog confirms active infection, antibody for a healthy dog verifies vaccine response. Different questions, different tests.
 
 ### Does the vaccine prevent distemper?
 
-Yes — it's a core, highly effective vaccine, which is why the disease is now concentrated in unvaccinated puppies and shelter populations.
+Yes — it is a core, highly effective vaccine, which is why 1 of every 2 core-vaccination gaps (unvaccinated puppies and shelter populations) is where the disease now concentrates.
 
 ---
 
 ## Key Takeaways
 
-1. **Distemper is a great imitator** — early signs look like kennel cough, late signs like other neurological disease.
-2. **Three stages** — respiratory → gastrointestinal → neurological (often irreversible).
-3. **Antigen = active infection, antibody = immunity** — two tests, two questions.
-4. **Early antigen testing is the whole game** — supportive care only works before the nervous system is involved.
-5. **Vaccination has pushed it to the margins** — now concentrated in unvaccinated and shelter populations.
+1. **Distemper is a great imitator** — **2 mimics** (kennel cough early, neurological disease late) are why signs alone mislead.
+2. **3 stages, 1 hard deadline** — respiratory → gastrointestinal → neurological; the third is often irreversible.
+3. **Antigen = active infection, antibody = immunity** — **2 tests, 2 questions**, and swapping them changes the diagnosis.
+4. **Early antigen testing is the whole game** — **1 antigen result before nervous-system signs** is the window where supportive care still helps.
+5. **Vaccination has pushed it to the margins** — **2 populations** (unvaccinated and shelter) now concentrate the disease, so testing there must be routine.
 
 ---
 

@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What's the difference between an antigen and an antibody test?", "a": "An antigen test detects the pathogen itself — a viral or bacterial protein — so it answers 'is the infection here right now?' An antibody test detects the immune system's response, so it answers 'has this animal been exposed or vaccinated?' Different questions, different uses."}, {"q": "When do I use an antigen test?", "a": "To diagnose active infection in a sick animal, to screen new intakes, or to confirm an outbreak. Antigen tests are the diagnostic workhorse for parvo, FeLV, panleukopenia and distemper."}, {"q": "When do I use an antibody test?", "a": "To assess immunity — verifying a vaccine response, checking protection before breeding or travel, or screening a population's exposure. Antibody tests don't tell you if an animal is sick now."}, {"q": "Can a vaccine cause a false positive?", "a": "Yes, for antigen tests. A modified-live vaccine can shed vaccine virus for days, producing a positive antigen result in a healthy animal. And vaccination produces antibodies, so antibody positives are expected in vaccinated pets."}, {"q": "Why can't an antibody test diagnose an active infection?", "a": "Antibodies persist long after the pathogen is gone, and vaccine antibodies look identical to infection antibodies. A high titre can mean protected, recovered, or actively infected — the antibody test alone can't distinguish them."}]
 ---
 
-> **TL;DR** — There are two kinds of infectious-disease test, and confusing them is the single most common diagnostic mistake in veterinary medicine. An **antigen test** detects the pathogen itself and answers *"is the infection here right now?"* An **antibody test** detects the immune response and answers *"has this animal been exposed or vaccinated?"* Antigen = diagnose active disease. Antibody = assess immunity. Every specific disease guide on this site — parvo, FeLV, distemper, panleukopenia, the feline triple — is just this two-question framework applied to one pathogen.
+> **TL;DR** — There are **2 kinds** of infectious-disease test, and confusing them is the single most common diagnostic mistake in veterinary medicine. **1 detects the pathogen** ("is it here now?"), **1 detects the immune response** ("exposed or vaccinated?"). Every disease guide on this site — parvo, FeLV, distemper, panleukopenia, the feline triple — is the same **2-question framework applied to 1 pathogen**.
 
 If you understand one thing about infectious-disease testing, make it this split. It resolves most of the confusion people have about test results, and it's the foundation every other guide here is built on.
 
@@ -81,33 +81,33 @@ The pattern is always the same: **sick animal → antigen test. Healthy animal �
 
 ### What's the difference between antigen and antibody tests?
 
-Antigen detects the pathogen itself ("is it here now?"); antibody detects the immune response ("exposed or vaccinated?"). Different questions, different uses.
+Two questions, two molecules: antigen detects the pathogen itself ("is it here now?"), while antibody detects the immune response ("exposed or vaccinated?"). Different questions, different uses.
 
 ### When do I use an antigen test?
 
-To diagnose active infection in a sick animal, screen new intakes, or confirm an outbreak.
+Use it for 1 job — diagnosing active infection in a sick animal, screening new intakes, or confirming an outbreak.
 
 ### When do I use an antibody test?
 
-To assess immunity — verifying vaccine response, checking protection, or screening population exposure.
+Use it for 1 different job — assessing immunity, whether verifying vaccine response, checking protection, or screening population exposure.
 
 ### Can a vaccine cause a false positive?
 
-Yes — a modified-live vaccine can shed vaccine virus (false antigen positive), and vaccination produces antibodies (expected antibody positive).
+Yes — and the false positive works on both sides: 1 modified-live vaccine can shed vaccine virus (false antigen positive) and produce antibodies (an expected antibody positive).
 
 ### Why can't an antibody test diagnose infection?
 
-Antibodies persist after the pathogen is gone, and vaccine antibodies look like infection antibodies — so a titre can't distinguish protected from recovered from actively infected.
+Two indistinguishable sources break it: antibodies persist after the pathogen is gone, and vaccine antibodies look like infection antibodies — so a titre can't distinguish protected from recovered from actively infected.
 
 ---
 
 ## Key Takeaways
 
 1. **Two tests, two questions** — antigen asks "is it here now?", antibody asks "exposed or vaccinated?"
-2. **Antigen = diagnose active disease; antibody = assess immunity.**
-3. **Vaccines cause false positives on both sides** — vaccine virus (antigen) and vaccine antibody.
-4. **Antibodies can't diagnose active infection** — they persist after the pathogen is gone.
-5. **The rule of thumb: sick animal → antigen; healthy animal → antibody.**
+2. **1 test diagnoses, 1 test assesses immunity** — antigen finds active disease; antibody finds protection or exposure.
+3. **Vaccines cause false positives on both sides** — **2 vaccine effects** (shed virus and induced antibody) each mimic infection.
+4. **Antibodies can't diagnose active infection** — they persist after the pathogen is gone, leaving **3 possibilities**: protected, recovered, or shedding.
+5. **The rule of thumb: 1 sick animal → antigen; 1 healthy animal → antibody.**
 
 ---
 

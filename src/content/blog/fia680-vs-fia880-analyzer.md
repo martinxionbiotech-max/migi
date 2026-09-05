@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the difference between the FIA680 and FIA880?", "a": "The FIA680 is a single-channel analyzer that runs one sample at a time, ideal for small clinics. The FIA880 has six independent channels running six samples simultaneously, built for hospitals and reference laboratories with higher, concurrent test volume."}, {"q": "Which analyzer has higher throughput?", "a": "The FIA880 achieves up to 300 tests per hour across six channels, while the FIA680 achieves up to 200 tests per hour on a single channel. Both deliver quantitative results in minutes with picogram-level sensitivity and CV below 10%."}, {"q": "How do I decide between single-channel and six-channel?", "a": "Choose based on concurrent demand, not just total volume. If multiple clinicians run tests at the same time and queuing would slow workflow, the FIA880's six channels remove the bottleneck. If testing is sequential and volume is modest, the FIA680 is the more economical choice."}, {"q": "Why does the FIA880 include constant-temperature control?", "a": "Fluorescence immunochromatographic reactions are temperature-sensitive — binding kinetics and signal intensity shift with temperature. Constant-temperature incubation holds the reaction at an optimal temperature, improving reproducibility and helping keep CV below 10% under heavy use."}, {"q": "Do both analyzers run the same tests?", "a": "Yes. Both use the same Migibio fluorescence immunochromatographic reagent menu — canine and feline infectious disease antigens/antibodies, hormones, and inflammatory and organ biomarkers. The difference is throughput and workflow, not test availability."}, {"q": "Which analyzer is better for a mobile or small practice?", "a": "The FIA680. It's single-channel, compact and portable, with a lower acquisition cost and three-step operation. For sequential point-of-care testing in a lower-volume setting, a single channel is simply the economical choice."}]
 ---
 
-> **TL;DR:** The FIA680 and FIA880 are the same quantitative fluorescence engine in two body styles. The FIA680 is single-channel, compact and economical — built for sequential testing in small clinics. The FIA880 is six-channel with constant-temperature control — built for concurrent, high-throughput work in hospitals. The deciding variable isn't total volume; it's how many tests need to run *at the same time*.
+> **TL;DR:** The FIA680 and FIA880 are the same quantitative fluorescence engine in **2 body styles**: **1 channel** vs **6 channels**. Throughput splits to **200 vs 300 tests/hour**, and the FIA880 adds constant-temperature control to keep **CV below 10%** under load. The deciding variable isn't total volume—it's how many tests must run at the same time.
 
 When a practice moves to quantitative point-of-care testing, one of the first practical decisions is which analyzer to choose. Migibio's two readers — the **FIA680** and the **FIA880** — share the same core technology but are built for different volumes and workflows. The choice is less about "which is better" and more about "which matches how my clinic actually operates."
 
@@ -90,35 +90,35 @@ In practice, the FIA680 suits lower-volume, sequential and mobile use; the FIA88
 
 ### What is the difference between the FIA680 and FIA880?
 
-The FIA680 is a single-channel analyzer that runs one sample at a time, ideal for small clinics. The FIA880 has six independent channels running six samples simultaneously, built for hospitals and reference laboratories with higher, concurrent test volume.
+**1 channel vs 6 channels**: the FIA680 runs one sample at a time for small clinics; the FIA880 runs six samples simultaneously for hospitals and reference laboratories with concurrent volume.
 
 ### Which analyzer has higher throughput?
 
-The FIA880 achieves up to 300 tests per hour across six channels, while the FIA680 achieves up to 200 tests per hour on a single channel. Both deliver quantitative results in minutes with picogram-level sensitivity and CV below 10%.
+The FIA880 does **up to 300 tests/hour** across six channels; the FIA680 does **up to 200 tests/hour** on one channel. Both deliver quantitative results in minutes with **CV below 10%**.
 
 ### How do I decide between single-channel and six-channel?
 
-Choose based on concurrent demand, not just total volume. If multiple clinicians run tests at the same time and queuing would slow workflow, the FIA880's six channels remove the bottleneck. If testing is sequential and volume is modest, the FIA680 is the more economical choice.
+Choose on concurrent demand, not total volume: if multiple clinicians test at once, **6 channels** remove the bottleneck; otherwise **1 channel** is the more economical choice.
 
 ### Why does the FIA880 include constant-temperature control?
 
-Fluorescence immunochromatographic reactions are temperature-sensitive — binding kinetics and signal intensity shift with temperature. Constant-temperature incubation holds the reaction at an optimal temperature, improving reproducibility and helping keep CV below 10% under heavy use.
+Because temperature shifts binding kinetics and signal intensity, constant-temperature incubation improves reproducibility and helps keep **CV below 10%** under heavy use.
 
 ### Do both analyzers run the same tests?
 
-Yes. Both use the same Migibio fluorescence immunochromatographic reagent menu — canine and feline infectious disease antigens/antibodies, hormones, and inflammatory and organ biomarkers. The difference is throughput and workflow, not test availability.
+Yes — both run the same **1 reagent menu** (infectious disease antigens/antibodies, hormones, inflammatory and organ biomarkers). The difference is throughput and workflow, not test availability.
 
 ### Which analyzer is better for a mobile or small practice?
 
-The FIA680. It's single-channel, compact and portable, with a lower acquisition cost and three-step operation. For sequential point-of-care testing in a lower-volume setting, a single channel is simply the economical choice.
+The FIA680 — **1 channel**, compact and portable, with lower acquisition cost and 3-step operation. For sequential point-of-care testing, a single channel is the economical choice.
 
 ## Key Takeaways
 
-1. Both analyzers share the same FICT engine and reagent menu — the difference is throughput, not test quality.
-2. Choose the FIA680 for sequential, lower-volume, cost-sensitive testing.
-3. Choose the FIA880 for concurrent demand and constant-temperature reproducibility under load.
-4. The deciding variable is concurrency: how many tests need to run at the same time.
-5. The wrong choice isn't a quality problem — it's a workflow mismatch.
+1. Both analyzers share **1 FICT engine and 1 reagent menu** — the difference is throughput, not test quality.
+2. Choose the FIA680 for sequential testing — **1 channel** is economical at lower volume.
+3. Choose the FIA880 for concurrent demand — **6 channels** plus constant-temperature control protect reproducibility.
+4. The deciding variable is concurrency: **1 vs 6 channels at once**, not total volume.
+5. The wrong choice is a workflow mismatch — **1 quality platform, 2 body styles**, matched the wrong way.
 
 ## References
 

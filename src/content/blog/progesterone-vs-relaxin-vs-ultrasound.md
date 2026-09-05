@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the difference between progesterone, relaxin and ultrasound?", "a": "Progesterone answers 'when to breed' by tracking ovulation timing. Relaxin answers 'is she pregnant' as the earliest blood-based confirmation. Ultrasound answers 'is she pregnant and is it viable' with visual evidence. Each answers a different question at a different stage."}, {"q": "Can I replace ultrasound with relaxin testing?", "a": "For a simple yes/no pregnancy confirmation, relaxin can substitute for early ultrasound. But ultrasound adds viability, foetal count and progression that a blood test can't show. For a complete picture, use both."}, {"q": "Can I replace progesterone with ultrasound for timing?", "a": "No. Ultrasound visualises structures already present — it cannot predict ovulation in advance the way serial progesterone can. Progesterone is the only one of the three that answers the forward-looking 'when' question."}, {"q": "Which tool should a new breeder start with?", "a": "Progesterone, because timing is the highest-stakes step and the one that determines whether a cycle succeeds at all. Once breeding is done, add relaxin or ultrasound for confirmation. Start with the 'when,' then confirm the 'whether.'"}, {"q": "How do the three tools combine into a full protocol?", "a": "Serial progesterone times the breeding; relaxin or ultrasound confirms pregnancy a few weeks later; ultrasound assesses viability and litter size as the pregnancy progresses. Used in sequence, they cover the entire cycle."}, {"q": "Which is the earliest pregnancy test?", "a": "Relaxin is the earliest blood-based confirmation, detectable from ~21–28 days post-ovulation and 95–100% reliable by day 30. Ultrasound visualises structures from ~21–25 days, at a similar time point but with visual rather than hormonal evidence."}]
 ---
 
-> **TL;DR:** Progesterone, relaxin and ultrasound aren't competitors — they answer different questions. Progesterone is the only one that predicts ovulation (the forward-looking "when"). Relaxin is the earliest blood "yes" for pregnancy, and it's pregnancy-specific. Ultrasound adds viability and count. The right protocol uses them in sequence: progesterone to time, relaxin to confirm, ultrasound to visualise.
+> **TL;DR:** Progesterone, relaxin and ultrasound aren't competitors — they answer **3 different questions**. Progesterone is the only **1 that predicts ovulation** (the forward-looking "when"). Relaxin is the earliest blood "yes" for pregnancy, detectable from **21–28 days** and **95–100% reliable by day 30**. Ultrasound adds viability and count from about **21–25 days**. Use them in sequence: time, confirm, visualise.
 
 Breeders and clinicians sometimes treat progesterone, relaxin and ultrasound as interchangeable options. They're not. Each answers a distinct question at a distinct point in the cycle, and using the wrong tool at the wrong time is how cycles get missed and pregnancies get mismanaged.
 
@@ -78,35 +78,35 @@ In practice, clinics that offer progesterone plus relaxin (and ultrasound where 
 
 ### What is the difference between progesterone, relaxin and ultrasound?
 
-Progesterone answers 'when to breed' by tracking ovulation timing. Relaxin answers 'is she pregnant' as the earliest blood-based confirmation. Ultrasound answers 'is she pregnant and is it viable' with visual evidence. Each answers a different question at a different stage.
+**3 tools, 3 questions**: progesterone answers 'when to breed' by tracking ovulation timing; relaxin answers 'is she pregnant' as the earliest blood-based confirmation; ultrasound answers 'is it viable' with visual evidence.
 
 ### Can I replace ultrasound with relaxin testing?
 
-For a simple yes/no pregnancy confirmation, relaxin can substitute for early ultrasound. But ultrasound adds viability, foetal count and progression that a blood test can't show. For a complete picture, use both.
+For **1 question** — simple yes/no pregnancy confirmation — relaxin can substitute for early ultrasound. But ultrasound adds viability, foetal count and progression that a blood test can't show.
 
 ### Can I replace progesterone with ultrasound for timing?
 
-No. Ultrasound visualises structures already present — it cannot predict ovulation in advance the way serial progesterone can. Progesterone is the only one of the three that answers the forward-looking 'when' question.
+No — **2 timing tools differ**: ultrasound visualises structures already present, but only serial progesterone can predict ovulation in advance. Progesterone is the only 1 of the 3 that answers the forward-looking 'when' question.
 
 ### Which tool should a new breeder start with?
 
-Progesterone, because timing is the highest-stakes step and the one that determines whether a cycle succeeds at all. Once breeding is done, add relaxin or ultrasound for confirmation. Start with the 'when,' then confirm the 'whether.'
+Start with **1 tool**: progesterone, because timing is the highest-stakes step and determines whether a cycle succeeds at all. Once breeding is done, add relaxin or ultrasound for confirmation.
 
 ### How do the three tools combine into a full protocol?
 
-Serial progesterone times the breeding; relaxin or ultrasound confirms pregnancy a few weeks later; ultrasound assesses viability and litter size as the pregnancy progresses. Used in sequence, they cover the entire cycle.
+Use **3 tools in sequence**: serial progesterone times the breeding; relaxin or ultrasound confirms pregnancy a few weeks later; ultrasound assesses viability and litter size as the pregnancy progresses.
 
 ### Which is the earliest pregnancy test?
 
-Relaxin is the earliest blood-based confirmation, detectable from ~21–28 days post-ovulation and 95–100% reliable by day 30. Ultrasound visualises structures from ~21–25 days, at a similar time point but with visual rather than hormonal evidence.
+Relaxin is the earliest blood-based confirmation, detectable from **~21–28 days** post-ovulation and **95–100% reliable by day 30**. Ultrasound visualises structures from **~21–25 days**, at a similar time point but with visual rather than hormonal evidence.
 
 ## Key Takeaways
 
-1. Progesterone is the only forward-looking tool — it predicts ovulation, which is why it's the foundation.
-2. Relaxin is the earliest blood "yes" for pregnancy, and it's pregnancy-specific.
-3. Ultrasound adds viability, count and progression that hormones can't show.
-4. The tools are a sequence, not a menu: time with progesterone, confirm with relaxin, visualise with ultrasound.
-5. Skip the forward-looking step and everything downstream becomes a guess.
+1. Progesterone is the only **1 forward-looking tool** — it predicts ovulation, which is why it's the foundation.
+2. Relaxin is the earliest blood "yes" for pregnancy — **21–28 days**, **95–100% by day 30**, and pregnancy-specific.
+3. Ultrasound adds **3 things hormones can't show**: viability, count, progression.
+4. The tools are a **3-step sequence**, not a menu: time with progesterone, confirm with relaxin, visualise with ultrasound.
+5. Skip **1 forward-looking step** and everything downstream becomes a guess.
 
 ## References
 

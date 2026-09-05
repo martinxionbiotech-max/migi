@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is a typical MOQ for veterinary test kits?", "a": "MOQ varies by product and manufacturer. Analyzers are usually 1–10 units with a consumable commitment; reagent kits often start at a few hundred to a few thousand tests. The MOQ should balance your cash flow against the manufacturer's production economics."}, {"q": "Where does a distributor's margin come from?", "a": "Margin lives primarily in reagent cost, not analyzer price. The analyzer is a one-time purchase, while reagents are a recurring revenue stream. Negotiate reagent cost hard — a small per-test saving compounds across every reorder."}, {"q": "How do I plan inventory for test kits?", "a": "Plan around reorder lead time plus a safety buffer, watch expiry dates (room-temperature kits simplify this), and start with a pilot order to measure real demand before committing to volume. Cold-chain items need extra buffer for transit risk."}, {"q": "What costs are hidden in bulk ordering?", "a": "The hidden costs are shipping, customs duties, cold-chain logistics (if any reagents need refrigeration), spoilage/expiry, and financing the inventory while it sits. Total cost of ownership includes all of these, not just the unit price."}]
 ---
 
-> **TL;DR** — Distributor margin lives in reagent cost, not analyzer price. Understand MOQ and pricing tiers before you negotiate, model total cost of ownership (unit price + shipping + customs + cold chain + spoilage), and start with a pilot order to measure real demand. The distributors who win in this market are the ones who plan inventory around lead times, not hunches.
+> **TL;DR** — Distributor margin lives in reagent cost, not analyzer price: pricing tiers run from **−10–15%** for small distributors to **−25–40%** for regional exclusives. Model total cost of ownership and plan around a **30-day reorder lead time**; a cheaper unit price is worthless if **20%** of the order expires unsold.
 
 ---
 
@@ -107,11 +107,11 @@ The buyer perspective is to anchor on landed cost per test at the volume you can
 
 ## Key Takeaways
 
-1. **Margin lives in reagent cost, not analyzer price** — this is a razor-and-blades business.
-2. Understand **MOQ and pricing tiers**, and commit to a tier you can actually sell.
-3. Model **total cost of ownership**: unit price + freight + customs + cold chain + spoilage.
-4. **Start with a pilot order**, measure real demand, then scale — don't front-load on a forecast.
-5. Negotiate in order of impact: reagent cost → lead time → payment terms → branding → analyzer price.
+1. **Margin lives in reagent cost, not analyzer price** — the analyzer is a 1-time purchase; every reorder pays the margin.
+2. **Commit to a real pricing tier** — small distributors get −10–15%, mid −15–25%, regional exclusives −25–40%; over-committing to hit a discount you can't sell is the trap.
+3. **Model total cost of ownership** — unit price + freight + customs + cold chain + spoilage; 20% expiry can erase the cheap unit price.
+4. **Plan inventory around a 30-day lead time** — hold at least 30 days of demand plus a safety buffer, and start with a pilot order before scaling.
+5. **Negotiate in order of impact** — **5 steps**: reagent cost → lead time → payment terms → branding → analyzer price.
 
 ---
 

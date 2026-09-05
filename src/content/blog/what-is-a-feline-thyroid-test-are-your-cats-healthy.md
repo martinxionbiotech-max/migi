@@ -108,11 +108,11 @@ As with all Migibio products, these are B2B — sold to clinics and distributors
 
 ### What does a feline thyroid test measure?
 
-Total T4 in serum — the primary marker for hyperthyroidism. An elevated T4 with compatible signs confirms the diagnosis in most cases.
+**1 primary marker**: total T4 in serum. An elevated T4 with compatible signs confirms hyperthyroidism in most cases.
 
 ### Can a cat have hyperthyroidism with a normal T4?
 
-Yes. About 90% of hyperthyroid cats have elevated T4, so up to 10% test normal — from early/mild disease or from concurrent illness (especially kidney disease) suppressing T4.
+Yes — **90% elevated, up to 10% normal**: early/mild disease or concurrent illness (especially kidney disease) can leave total T4 in the normal range.
 
 ### Why do older cats need screening?
 
@@ -124,22 +124,22 @@ FT4 is ~98.5% sensitive, so it's excellent for ruling hyperthyroidism out when t
 
 ### Why isn't TSH used for cats?
 
-Feline hyperthyroidism is diagnosed on T4, not TSH — the opposite of canine hypothyroidism, where TSH is central. Feline TSH testing has limited value here.
+**2 species, 2 markers**: feline hyperthyroidism is diagnosed on T4, not TSH — the opposite of canine hypothyroidism, where TSH is central. Feline TSH testing has limited value here.
 
 ### How is the test performed?
 
-A blood sample is drawn, serum separated, and T4 measured quantitatively on an immunofluorescence analyzer, returning a numeric concentration with a reference range.
+**1 blood sample, 1 analyzer**: serum is separated and T4 measured quantitatively on an immunofluorescence analyzer, returning a numeric concentration with a reference range.
 
 ---
 
 ## Key Takeaways
 
-1. **Hyperthyroidism is the most common endocrine disease of older cats** — weight loss despite a big appetite is the hallmark.
+1. **Hyperthyroidism is the most common endocrine disease of older cats** — **1 hallmark sign** is weight loss despite a big appetite.
 2. **T4 misses up to 10% of cases** — early/mild disease and daily variability can leave it normal.
-3. **Kidney disease can hide hyperthyroidism** — sick euthyroid suppression drags T4 back to normal in cats with CKD.
-4. **FT4 resolves the grey zone** — ~98.5% sensitive for ruling out, but not a standalone diagnostic.
-5. **Cats and dogs are mirror images** — hyperthyroidism/T4 in cats, hypothyroidism/TSH in dogs.
-6. **Senior screening is high-yield** — a treatable, long-term management case on every positive.
+3. **Kidney disease can hide hyperthyroidism** — **1 suppressive effect** (sick euthyroid) drags T4 back to normal in cats with CKD.
+4. **FT4 resolves the grey zone** — **~98.5% sensitive** for ruling out, but not a standalone diagnostic.
+5. **Cats and dogs are mirror images** — **2 species, 2 patterns**: hyperthyroidism/T4 in cats, hypothyroidism/TSH in dogs.
+6. **Senior screening is high-yield** — **1 positive** starts a treatable, long-term management case.
 
 ---
 

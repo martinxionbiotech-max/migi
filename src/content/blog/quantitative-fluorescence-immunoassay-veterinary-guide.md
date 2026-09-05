@@ -104,35 +104,35 @@ A quantitative analyzer earns its keep on the tests where the quantity is the di
 
 ### What is a fluorescence immunoassay in veterinary diagnostics?
 
-Fluorescence immunoassay (FIA) is a quantitative point-of-care method. Fluorescent-labelled antibodies bind a target biomarker in the specimen, and an analyzer measures the emitted fluorescence intensity, converting it into a numerical concentration rather than a simple positive or negative line.
+FIA is **1 quantitative method**: fluorescent-labelled antibodies bind a target biomarker, and an analyzer measures emitted fluorescence intensity, converting it into a numerical concentration rather than a positive/negative line.
 
 ### Why is quantitative better than qualitative for veterinary tests?
 
-A quantitative result lets you track trends, stage disease, monitor treatment response, and compare against a reference range — none of which a positive-or-negative line can do. For markers like progesterone, cPL or NT-proBNP, the actual number is clinically decisive.
+**4 things a line can't do**: a quantitative result lets you track trends, stage disease, monitor treatment response, and compare against a reference range. For progesterone, cPL or NT-proBNP, the number is clinically decisive.
 
 ### How accurate are fluorescence immunoassay analyzers?
 
-Modern veterinary FIA analyzers achieve picogram-per-millilitre sensitivity and a coefficient of variation below 10%. Accuracy depends on following the correct workflow — proper sample preparation, timing and storage — and on routine quality control and calibration.
+Modern veterinary FIA analyzers achieve **picogram-per-millilitre sensitivity** and a **coefficient of variation below 10%**. Accuracy depends on the correct workflow and routine QC/calibration.
 
 ### What is the difference between FIA and colloidal gold lateral flow?
 
-Colloidal gold lateral-flow tests produce a visual, qualitative line. Fluorescence immunoassay excites a fluorophore and measures emitted light intensity, producing a quantitative concentration. FIA is more sensitive and enables trend monitoring, while lateral flow is simpler and cheaper.
+**1 line vs 1 number**: colloidal gold lateral-flow produces a visual qualitative line, while fluorescence immunoassay measures emitted light intensity to produce a quantitative concentration. FIA enables trend monitoring; lateral flow is simpler and cheaper.
 
 ### Are all fluorescence immunoassay tests the same quality?
 
-No. Real-world comparison studies show wide variation between manufacturers. One AVMA-published study of cryptococcal antigen LFAs found one brand with 100% specificity and another with only 20% — an 80% false-positive rate. The method matters less than the validation behind the specific assay.
+No — **100% vs 20% specificity** is the gap: one AVMA-published cryptococcal antigen LFA study found one brand at 100% and another at 20%, an **80% false-positive rate**. The method matters less than the validation behind the specific assay.
 
 ### What makes a quantitative result trustworthy?
 
-Clean sample handling, correct timing within the assay's validated window, temperature control, and routine calibration with internal quality control. A well-designed analyzer reduces operator burden with a short workflow, automatic rejection of invalid samples, and cloud-downloadable standard curves.
+**4 controls make it trustworthy**: clean sample handling, correct timing within the assay's validated window, temperature control, and routine calibration with internal QC. A well-designed analyzer further reduces operator burden.
 
 ## Key Takeaways
 
-1. FIA turns the point-of-care test from a yes/no answer into a number you can trend, stage and defend.
-2. Fluorescent labels deliver higher sensitivity than visual colloidal-gold readout — down to pg/mL LODs.
-3. The technology is the easy part; the validation behind each specific assay is what determines accuracy.
-4. Real-world studies show wide quality variation between FIA brands — a reminder to demand validation data.
-5. A trustworthy number requires clean sample handling, correct timing, temperature control, and routine QC.
+1. FIA turns **1 yes/no** into a number you can trend, stage and defend.
+2. Fluorescent labels deliver **1 number down to pg/mL LODs** — higher sensitivity than visual colloidal-gold readout.
+3. The technology is the easy part — **1 validation package per assay** is what determines accuracy.
+4. Real-world spread is wide — **100% vs 20% specificity** in one cryptococcal LFA comparison; demand validation data.
+5. A trustworthy number needs **4 controls**: sample handling, timing, temperature, routine QC.
 
 ## References
 

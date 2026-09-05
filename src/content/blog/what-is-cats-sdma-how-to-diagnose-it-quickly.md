@@ -81,11 +81,11 @@ As with all Migibio products, the SDMA kit is sold **B2B** to clinics and distri
 
 ### What is SDMA in cats?
 
-A kidney-function marker that rises much earlier than creatinine — at 25–40% function loss versus 60–75% — catching kidney disease at its earliest, most treatable stage.
+A kidney-function marker with **2 advantages**: it rises at **25–40%** function loss versus creatinine's **60–75%**, catching CKD at its earliest, most treatable stage.
 
 ### Why does creatinine miss early kidney disease?
 
-It only rises after most function is gone and is affected by muscle mass, so a thin aging cat can have significant disease with a normal creatinine. SDMA rises earlier and ignores muscle mass.
+Because creatinine has **2 blind spots** — it rises after most function is gone and is affected by muscle mass. SDMA rises earlier and ignores muscle mass.
 
 ### What's a normal SDMA level for a cat?
 
@@ -93,11 +93,11 @@ It only rises after most function is gone and is affected by muscle mass, so a t
 
 ### Why screen senior cats with SDMA?
 
-CKD is one of the most common diseases of cats over 10, and its early signs are easy to miss. SDMA catches decline a year or more before creatinine.
+CKD is one of the most common diseases of cats over **10 years**, and its early signs are easy to miss. SDMA catches decline **a year or more** before creatinine.
 
 ### Is SDMA affected by muscle mass or diet?
 
-No — it's largely independent of both, which is why it's more reliable than creatinine for early detection in aging cats.
+No — **2 confounders avoided**: SDMA is largely independent of muscle mass and diet, which is why it's more reliable than creatinine for early detection in aging cats.
 
 ---
 
@@ -106,8 +106,8 @@ No — it's largely independent of both, which is why it's more reliable than cr
 1. **Creatinine is late** — it waits until 60–75% of kidney function is gone and is distorted by muscle mass.
 2. **SDMA rises at 25–40% loss** — often a year or more of lead time, independent of muscle mass.
 3. **0–14 µg/dL is the reference interval** — a persistent elevation with normal creatinine is Stage 1 CKD.
-4. **The trend is the diagnosis** — a single borderline value is a flag to recheck, not a verdict.
-5. **It's a senior-cat essential** — early detection is what lets diet and management still slow progression.
+4. **The trend is the diagnosis** — **1 borderline value** is a flag to recheck, not a verdict.
+5. **It's a senior-cat essential** — catching CKD at **25–40% loss instead of 60–75%** is what lets diet and management slow progression.
 
 ---
 

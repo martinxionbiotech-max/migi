@@ -8,7 +8,7 @@ faq: [{"q": "What are the most common feline infectious diseases?", "a": "The co
 ---
 
 
-> **TL;DR** — Cats hide illness, so feline infectious disease is found by testing, not by waiting for obvious signs. The framework is antigen (active infection) versus antibody (immunity), applied across panleukopenia, herpes, calicivirus, coronavirus/FIP, FeLV and FIV. A sick cat needs an antigen test; a healthy cat's vaccine check needs an antibody test.
+> **TL;DR** — Cats hide illness, so feline infectious disease is found by testing, not by waiting for obvious signs. The framework is **2 tests, 2 questions** — antigen for active infection, antibody for immunity — applied across **6 pathogens** (panleukopenia, herpes, calicivirus, coronavirus/FIP, FeLV and FIV). **1 rule** simplifies the rest: a sick cat gets an antigen test; a vaccine check gets an antibody test.
 
 Cats are masters at hiding illness, and many feline infectious diseases produce subtle or overlapping signs. Routine, targeted testing is the clinician's most reliable tool for early detection. This guide covers the major feline infectious diseases, the tests available, and how to interpret results.
 
@@ -114,29 +114,29 @@ Feline infectious diseases are diverse, but rapid, quantitative testing brings c
 
 ## Key Takeaways
 
-1. **Cats hide illness** — testing, not observation, is what catches feline infectious disease early.
-2. **Antigen = active infection, antibody = immunity** — the two-question framework.
-3. **FeLV antigen and FIV antibody are the two retrovirus tests** — different questions, different meaning.
-4. **Panleukopenia is the urgent one** — early antigen testing saves kittens.
-5. **Match the test to the question** — sick cat → antigen; vaccine check → antibody.
+1. **Cats hide illness** — 2 test types find what observation misses, so testing catches disease early.
+2. **Antigen = active infection, antibody = immunity** — the 2-question framework.
+3. **FeLV antigen and FIV antibody are the 2 retrovirus tests** — different questions, different meaning.
+4. **Panleukopenia is the 1 urgent one** — early antigen testing saves kittens.
+5. **Match the test to the question** — 1 sick cat gets antigen; 1 vaccine check gets antibody.
 
 ## FAQ
 
 ### What does feline infectious-disease testing cover?
 
-Panleukopenia (FPV), herpes (FHV-1), calicivirus (FCV), coronavirus/FIP, FeLV and FIV — using antigen tests for active infection and antibody tests for immunity.
+Six pathogens — panleukopenia (FPV), herpes (FHV-1), calicivirus (FCV), coronavirus/FIP, FeLV and FIV — using **2 test types**: antigen for active infection and antibody for immunity.
 
 ### Which test for a sick cat?
 
-An antigen test — it detects the pathogen directly and confirms active infection.
+One rule for a sick cat: an antigen test, because it detects the pathogen directly and confirms active infection.
 
 ### Which test checks vaccine protection?
 
-An antibody test — it measures the immune response from vaccination or prior exposure.
+One rule for vaccine protection: an antibody test, because it measures the immune response from vaccination or prior exposure.
 
 ### Why are the retrovirus tests different?
 
-FeLV is tested by antigen (virus present now) and FIV by antibody (immune response) — which is why their positive results mean different things.
+The retrovirus tests differ by **2 analytes**: FeLV is tested by antigen (virus present now) and FIV by antibody (immune response), so their positive results mean different things.
 
 ## References
 

@@ -7,7 +7,7 @@ category: "blog"
 faq: [{"q": "What is the core difference between FIA and lateral flow?", "a": "Lateral flow produces a visual line you read by eye — a qualitative yes/no. Fluorescence immunoassay excites a fluorophore and measures emitted light intensity with a reader, producing a numerical concentration. The difference is between a line and a number."}, {"q": "Is fluorescence immunoassay more sensitive than lateral flow?", "a": "Yes. Fluorescent labels deliver higher analytical sensitivity than visual colloidal-gold readout, reaching picogram-per-millilitre limits of detection. That extra sensitivity matters for catching early or subtle biomarker changes."}, {"q": "When is a lateral flow test the right choice?", "a": "For cheap, rapid, qualitative screening where a yes/no answer is enough — and where the consequence of missing a subtle change is low. Lateral flow wins on cost and simplicity when the clinical question is genuinely binary."}, {"q": "When should I choose fluorescence immunoassay?", "a": "When the number matters — breeding timing (progesterone), pancreatitis staging (cPL), cardiac staging (NT-proBNP), or any situation where you need to trend a biomarker over time or compare against a cut-off."}, {"q": "Can a lateral flow test be quantitative?", "a": "Conventional colloidal-gold lateral flow is read visually and is qualitative, though some readers digitise the line intensity. Fluorescence-based lateral flow is the variant designed for true quantitative readout, using a reader to measure emitted light rather than your eye."}, {"q": "Does the higher sensitivity of FIA always mean better clinical results?", "a": "Not automatically. Sensitivity is only useful if the assay is also specific and was properly validated. A highly sensitive but poorly specific test produces false positives — the clinical value depends on the whole validation package, not sensitivity alone."}]
 ---
 
-> **TL;DR:** The difference between fluorescence immunoassay and conventional lateral flow is the difference between a line and a number. Lateral flow answers "is it there?" cheaply and fast. FIA answers "how much?" — and that number is what lets you stage disease, time breeding, and track trends. Neither is universally better; the right choice depends on whether your clinical question is binary or quantitative.
+> **TL;DR:** The difference between fluorescence immunoassay and conventional lateral flow is **1 line vs 1 number**. Lateral flow answers "is it there?" cheaply and fast; FIA answers "how much?" with **pg/mL-level sensitivity**. Choose lateral flow only for **binary, low-stakes screening**; choose FIA when a cut-off, stage, or trend is the decision.
 
 Two point-of-care technologies dominate veterinary in-clinic testing, and they look deceptively similar — both are cartridge-based, both run in minutes, both use antibodies. But they answer different questions, and confusing them leads to clinical and financial mistakes.
 
@@ -80,35 +80,35 @@ Lateral flow still earns its place for binary, low-stakes screening; FIA earns i
 
 ### What is the core difference between FIA and lateral flow?
 
-Lateral flow produces a visual line you read by eye — a qualitative yes/no. Fluorescence immunoassay excites a fluorophore and measures emitted light intensity with a reader, producing a numerical concentration. The difference is between a line and a number.
+**1 line vs 1 number**: lateral flow gives a visual yes/no; fluorescence immunoassay excites a fluorophore and measures light intensity with a reader to produce a numerical concentration.
 
 ### Is fluorescence immunoassay more sensitive than lateral flow?
 
-Yes. Fluorescent labels deliver higher analytical sensitivity than visual colloidal-gold readout, reaching picogram-per-millilitre limits of detection. That extra sensitivity matters for catching early or subtle biomarker changes.
+Yes — **1 key advantage**: fluorescent labels reach **picogram-per-millilitre** limits of detection, higher than visual colloidal-gold readout. That extra sensitivity matters for early or subtle biomarker changes.
 
 ### When is a lateral flow test the right choice?
 
-For cheap, rapid, qualitative screening where a yes/no answer is enough — and where the consequence of missing a subtle change is low. Lateral flow wins on cost and simplicity when the clinical question is genuinely binary.
+Choose lateral flow for **1 scenario**: cheap, rapid, qualitative screening where yes/no is enough and the consequence of missing a subtle change is low.
 
 ### When should I choose fluorescence immunoassay?
 
-When the number matters — breeding timing (progesterone), pancreatitis staging (cPL), cardiac staging (NT-proBNP), or any situation where you need to trend a biomarker over time or compare against a cut-off.
+Choose FIA for **1 type of question** — when the number is the decision, such as breeding timing, pancreatitis staging, cardiac staging, or any cut-off/trend.
 
 ### Can a lateral flow test be quantitative?
 
-Conventional colloidal-gold lateral flow is read visually and is qualitative, though some readers digitise the line intensity. Fluorescence-based lateral flow is the variant designed for true quantitative readout, using a reader to measure emitted light rather than your eye.
+**1 variant** changes the answer: conventional colloidal-gold lateral flow is qualitative, but fluorescence-based lateral flow is designed for true quantitative readout using a reader.
 
 ### Does the higher sensitivity of FIA always mean better clinical results?
 
-Not automatically. Sensitivity is only useful if the assay is also specific and was properly validated. A highly sensitive but poorly specific test produces false positives — the clinical value depends on the whole validation package, not sensitivity alone.
+Not automatically — **sensitivity is only 1 half**; without specificity it produces false positives. Clinical value depends on the whole validation package, not sensitivity alone.
 
 ## Key Takeaways
 
-1. Lateral flow gives a line; FIA gives a number — and the number is what stages and trends.
-2. Fluorescent labels deliver higher analytical sensitivity than visual colloidal gold, down to pg/mL.
-3. Sensitivity without specificity is worthless — a poorly validated FIA can be worse than a good lateral flow.
-4. Choose lateral flow for truly binary, low-stakes screening; choose FIA when the quantity is the diagnosis.
-5. Always ask for the validation study — the detection method name is not a substitute for it.
+1. Lateral flow gives **1 line**; FIA gives **1 number** — the number is what stages and trends.
+2. Fluorescent labels deliver **1 number down to pg/mL** — higher analytical sensitivity than visual colloidal gold.
+3. Sensitivity without specificity is worthless — **1 poorly validated FIA** can be worse than a good lateral flow.
+4. Choose lateral flow for **1 binary, low-stakes question**; choose FIA when quantity is the diagnosis.
+5. Always ask for **1 validation study** — the detection-method name is not a substitute.
 
 ## References
 
