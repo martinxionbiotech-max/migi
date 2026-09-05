@@ -120,10 +120,10 @@ The value is neutral due diligence: the comparison documents the differences so 
 ## Key Takeaways
 
 1. **48 vs 22 launched projects** — a broader menu and a signal of ongoing R&D.
-2. **All room-temperature storage vs six refrigerated analytes** — cold chain is a permanent cost and risk.
+2. **All room-temperature storage vs six 2–8°C refrigerated analytes** — cold chain is a permanent cost and failure risk.
 3. **No SDMA preprocessing vs a 5-minute centrifuge step** — real labor on the most common senior assay.
 4. **A4 customizable reports, online updates, and cloud-based customizable standard curves** — flexibility the comparison brand doesn't offer.
-5. **Single + six-channel analyzers vs single-channel only** — an upgrade path as your volume grows.
+5. **Single (200 tests/hr) + six-channel (300 tests/hr) analyzers vs single-channel only** — an upgrade path as your volume grows.
 
 ---
 

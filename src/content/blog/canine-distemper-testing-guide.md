@@ -95,15 +95,15 @@ A 3-stage morbillivirus (measles' relative) that attacks the respiratory, gastro
 
 ### How is distemper detected?
 
-Two sample questions, two test types: antigen testing during the early viraemic phase (conjunctival, nasal or blood samples) for active infection, or antibody testing on blood for immunity.
+Two sample questions, two test types: antigen testing during the early viraemic phase (conjunctival, nasal or blood samples) for active infection, or antibody testing on blood for immunity. Antigen catches the virus in stage 1 of 3 (the early viraemic phase); antibody checks vaccine protection.
 
 ### Why is distemper hard to diagnose on symptoms alone?
 
-Two mimicked presentations explain why: early signs look like kennel cough and later neurological signs look like other diseases. By the time signs are obvious, the disease is often advanced.
+Two mimicked presentations explain why: early signs look like kennel cough and later neurological signs look like other diseases. By the time signs are obvious, the disease is often at stage 3 of 3 (neurological) — which is why an early antigen test, not symptom-watching, is what saves dogs.
 
 ### Antigen or antibody testing?
 
-Two rules: antigen for a sick dog confirms active infection, antibody for a healthy dog verifies vaccine response. Different questions, different tests.
+Two rules: antigen for a sick dog confirms active infection, antibody for a healthy dog verifies vaccine response. The antigen test matters most in week 1, before the virus reaches the nervous system.
 
 ### Does the vaccine prevent distemper?
 

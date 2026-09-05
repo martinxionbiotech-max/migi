@@ -81,7 +81,7 @@ The pattern is always the same: **sick animal → antigen test. Healthy animal �
 
 ### What's the difference between antigen and antibody tests?
 
-Two questions, two molecules: antigen detects the pathogen itself ("is it here now?"), while antibody detects the immune response ("exposed or vaccinated?"). Different questions, different uses.
+Two questions, two molecules: antigen detects the pathogen itself ("is it here now?"), while antibody detects the immune response ("exposed or vaccinated?"). The trap: a modified-live vaccine can make an antigen test read positive for 5–15 days.
 
 ### When do I use an antigen test?
 
@@ -97,13 +97,13 @@ Yes — and the false positive works on both sides: 1 modified-live vaccine can 
 
 ### Why can't an antibody test diagnose infection?
 
-Two indistinguishable sources break it: antibodies persist after the pathogen is gone, and vaccine antibodies look like infection antibodies — so a titre can't distinguish protected from recovered from actively infected.
+Two indistinguishable sources break it: antibodies persist after the pathogen is gone, and vaccine antibodies look like infection antibodies — so a titre can't distinguish protected from recovered from actively infected. Only an antigen (or PCR) answers "is it here now?" — and a recent vaccine can flip that antigen positive for 5–15 days.
 
 ---
 
 ## Key Takeaways
 
-1. **Two tests, two questions** — antigen asks "is it here now?", antibody asks "exposed or vaccinated?"
+1. **Two tests, two questions** — antigen asks "is it here now?", antibody asks "exposed or vaccinated?" A modified-live vaccine can flip an antigen test positive for 5–15 days.
 2. **1 test diagnoses, 1 test assesses immunity** — antigen finds active disease; antibody finds protection or exposure.
 3. **Vaccines cause false positives on both sides** — **2 vaccine effects** (shed virus and induced antibody) each mimic infection.
 4. **Antibodies can't diagnose active infection** — they persist after the pathogen is gone, leaving **3 possibilities**: protected, recovered, or shedding.

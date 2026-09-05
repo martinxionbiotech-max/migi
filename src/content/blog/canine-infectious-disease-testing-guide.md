@@ -127,11 +127,11 @@ Four major canine viral pathogens — parvo, distemper, coronavirus and adenovir
 
 ### Which test should I use for a sick dog?
 
-One choice for a sick dog: an antigen test, because it detects the pathogen directly and confirms active infection — which is what a symptomatic dog needs.
+One choice for a sick dog: an antigen test, because it detects the pathogen directly and confirms active infection — which is what a symptomatic dog needs. A positive in a dog vaccinated within 5–15 days needs a second look.
 
 ### Which test checks protection?
 
-One choice for protection checks: an antibody test, because it measures the immune response from vaccination or prior exposure.
+One choice for protection checks: an antibody test, because it measures the immune response from vaccination or prior exposure. A low titre — not a positive — is the actionable signal to revaccinate (e.g. an FPV titre below ~40).
 
 ### Why test instead of treating on signs?
 

@@ -157,7 +157,7 @@ Bleach diluted about **1:30**, or accelerated hydrogen peroxide. Most everyday d
 ## Key Takeaways
 
 1. **Speed is the survival curve** — parvo kills 91% untreated but 90% survive with fast treatment; a 3–11 minute quantitative result beats a 24-hour lab turnaround.
-2. **Two tests, two questions** — antigen answers "is the virus here now," antibody answers "is the dog protected." Don't swap them.
+2. **Two tests, two questions** — antigen answers "is the virus here now," antibody answers "is the dog protected." Vaccinated within 5–15 days? A positive antigen may just be vaccine virus.
 3. **Vaccines cause a 5–15 day false-positive window** — MLV vaccine virus sheds in stool and looks identical to wild virus on an antigen test.
 4. **A number beats a line** — viral load tracks severity and response; the highest loads sit at ~14 weeks of age.
 5. **Add CRP for the prognosis** — above ~92.4 mg/L predicts ~91% of deaths, and it runs on the same analyzer as the CPV test.

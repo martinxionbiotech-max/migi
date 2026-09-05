@@ -94,11 +94,11 @@ Only for about 2 jobs they're genuinely suited to — urine strips and glucose/t
 
 ### Which tests are genuinely suitable for home use?
 
-Three tools are genuinely home-safe: urine dipsticks, blood-glucose monitoring for diabetic pets, and observations like temperature or weight — screening where one number or a yes/no is enough.
+3 tools are genuinely home-safe: urine dipsticks, blood-glucose monitoring for diabetic pets, and observations like temperature or weight — screening where one number or a yes/no is enough. Quantitative blood work (SDMA, NT-proBNP) and infectious antigen tests still need a clinic analyzer.
 
 ### Why can't I test for parvo or FeLV reliably at home?
 
-Two traps make home parvo/FeLV kits unreliable — the diseases need a quantitative readout, and a recent vaccine can cause a false positive. A home strip gives a line, not a diagnosis.
+Two traps make home parvo/FeLV kits unreliable — the diseases need a quantitative readout (viral load, not present/absent), and a recent modified-live vaccine can cause a false positive for 5–15 days. A home strip gives a line, not a diagnosis.
 
 ### What's the difference between a home test and a clinic test?
 

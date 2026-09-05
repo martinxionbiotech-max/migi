@@ -138,9 +138,9 @@ Test at **4 moments**: acquisition, before introduction to other cats, after a b
 
 ## Key Takeaways
 
-1. **Two viruses, two tests** — FeLV is an antigen test, FIV is an antibody test, and that distinction explains the traps.
+1. **Two viruses, two tests** — FeLV is an antigen test, FIV is an antibody test; that's why a kitten's FIV positive under 6 months is often just maternal antibody.
 2. **A kitten's FIV positive is often maternal antibody** — retest every 60 days until 6 months before concluding anything.
-3. **FeLV has three outcomes** — many cats clear the virus, some contain it and live normally, only a minority progress.
+3. **FeLV has three outcomes** — many cats clear the virus, some contain it and live normally, only a minority progress (median survival ~2.5 years).
 4. **Survival splits hard** — progressive FeLV ≈ 2.5 years median; regressive often means a normal lifespan.
 5. **Age is the biggest risk factor** — kittens under 4 months are most vulnerable; adult cats are largely resistant.
 6. **Neither virus infects humans** — **2 feline-specific viruses**, but the concern is transmission to other cats.

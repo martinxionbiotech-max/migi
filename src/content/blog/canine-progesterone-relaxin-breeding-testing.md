@@ -119,7 +119,7 @@ Yes — it survives ~12 hours, so you need to pinpoint 10–20 ng/mL, above the 
 
 ## Key Takeaways
 
-1. **Two biomarkers, two jobs** — progesterone times the breeding, relaxin confirms it.
+1. **Two biomarkers, two jobs** — progesterone times the breeding (breed at 8–15 ng/mL), relaxin confirms it (reliable from day 28–30).
 2. **Test early and often** — the 2→8 ng/mL rise can happen in 48 hours.
 3. **8–15 ng/mL is the breeding window** — a number, not a "positive" line.
 4. **Frozen semen demands quantitative** — 10–20 ng/mL is above strip ceilings.

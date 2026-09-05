@@ -128,11 +128,11 @@ Six pathogens — panleukopenia (FPV), herpes (FHV-1), calicivirus (FCV), corona
 
 ### Which test for a sick cat?
 
-One rule for a sick cat: an antigen test, because it detects the pathogen directly and confirms active infection.
+One rule for a sick cat: an antigen test, because it detects the pathogen directly and confirms active infection. A positive FeLV antigen is the exception to read carefully — it needs a repeat test 60 days later, because some cats clear the virus.
 
 ### Which test checks vaccine protection?
 
-One rule for vaccine protection: an antibody test, because it measures the immune response from vaccination or prior exposure.
+One rule for vaccine protection: an antibody test, because it measures the immune response from vaccination or prior exposure. For FPV a low titre (below ~40) is a solid revaccination signal; for FCV it's a weaker one.
 
 ### Why are the retrovirus tests different?
 

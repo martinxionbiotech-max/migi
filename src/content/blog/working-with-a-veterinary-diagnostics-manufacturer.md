@@ -189,7 +189,7 @@ Add analyzer cost + expected reagent spend over 2–3 years + shipping + customs
 ## Key Takeaways
 
 1. The veterinary diagnostics market is growing at **~10% CAGR**, with reagents and kits as the recurring-revenue core.
-2. Evaluate on **five pillars**: performance, certifications, manufacturing quality, OEM/ODM flexibility, and post-sale support.
+2. Evaluate on **five pillars**: performance, certifications (ISO9001/GMP), manufacturing quality, OEM/ODM flexibility, and post-sale support — against 30+ export-country proof, not a brochure.
 3. **Certifications** (ISO 9001, ISO 13485, CE IVDR, FDA CVM) are the shortcut to trust — check the *scope*, not just the certificate.
 4. **Reagent cost and supply continuity beat analyzer price** — **1 recurring reagent stream** outweighs **1 one-time analyzer purchase** in total cost of ownership.
 5. Use a **10-point qualification checklist** — a manufacturer that scores well on all ten is rare and worth a long-term relationship.

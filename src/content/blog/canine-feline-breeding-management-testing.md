@@ -100,7 +100,7 @@ In practice, the value is precision and continuity: progesterone numbers set the
 
 ### What tests are used to manage canine breeding?
 
-Three tools cover the whole breeding cycle: serial progesterone measurement to time ovulation, relaxin testing to confirm pregnancy, and ultrasound to visualise pregnancy. Progesterone answers 'when to breed'; relaxin and ultrasound answer 'is she pregnant'.
+Three tools cover the whole breeding cycle: serial progesterone measurement to time ovulation (breed at 8–15 ng/mL), relaxin testing to confirm pregnancy (reliable from day 28–30), and ultrasound to visualise it. Progesterone answers 'when to breed'; relaxin and ultrasound answer 'is she pregnant'.
 
 ### When should I start progesterone testing?
 
@@ -124,7 +124,7 @@ Fresh semen survives roughly 4–6 days, chilled semen about 3 days, and frozen 
 
 ## Key Takeaways
 
-1. Breeding runs on two questions — timing and pregnancy — answered by progesterone and relaxin/ultrasound respectively.
+1. Breeding runs on two questions — timing (progesterone, breed at 8–15 ng/mL) and pregnancy (relaxin from day 21–28, or ultrasound) — answered by three tools working together.
 2. Progesterone reference points: LH surge ~2–3 ng/mL, ovulation ~5 ng/mL, optimal window 8–15 ng/mL.
 3. The rate of progesterone rise predicts litter size — a slow rise with frozen semen averaged 3.9 puppies vs 5.6 for a fast rise.
 4. Semen type changes the timing precision you need: frozen semen survives only ~12 hours.

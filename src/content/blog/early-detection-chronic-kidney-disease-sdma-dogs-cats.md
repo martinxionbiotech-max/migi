@@ -104,7 +104,7 @@ No — it needs **2 numbers together**. Creatinine still helps with staging and 
 1. **Creatinine is late** — it waits for 60–70% function loss and is distorted by muscle mass.
 2. **SDMA rises at 25–40% loss** — a year or more of lead time, in dogs and cats alike.
 3. **0–14 µg/dL is the interval** — a persistent elevation with normal creatinine is the early-stage signature.
-4. **The trend is the diagnosis** — one borderline value is a re-check flag, not a verdict.
+4. **The trend is the diagnosis** — a single 15–17 µg/dL SDMA is a re-check flag, not a verdict.
 5. **Earlier intervention is the payoff** — a renal diet at Stage 1 slows progression far more than at Stage 3.
 
 ---

@@ -103,7 +103,7 @@ Only partly — a low FPV titre is 1 solid reason to revaccinate, but the FCV an
 
 ### Why can't the antibody test diagnose infection?
 
-Two sources — vaccination and past infection — produce antibodies that look identical to infection antibodies, and antibodies persist after the virus clears. A high titre can't distinguish protected, recovered, or shedding.
+Two sources — vaccination and past infection — produce antibodies that look identical to infection antibodies, and antibodies persist after the virus clears. A high titre can't distinguish protected, recovered, or shedding — and the panel's 3 viruses aren't equal: FPV antibodies predict protection reliably, FCV antibodies don't (strain diversity).
 
 ### When is the triple test most useful?
 
