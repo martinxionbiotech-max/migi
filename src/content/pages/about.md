@@ -15,10 +15,14 @@ Guangzhou Magic Biotech Co., Ltd., established in **November 2017** and headquar
 | Founded | November 2017 |
 | Headquarters | Guangzhou Science City, Huangpu District, Guangzhou, China |
 | Facility | Standardized 2,000 m² R&D and production workshop |
-| Certifications | ISO9001 (quality management) and GMP (Good Manufacturing Practice) |
+| Certifications | ISO9001, Veterinary GMP certificate (兽药 GMP) + veterinary drug production license |
 | Intellectual Property | 30 core patents |
 | Global Reach | Products sold in 30+ countries and regions |
 | Technology | Proprietary Fluorescence Immunochromatographic Technology (FICT) |
+| Legal name | 广州敏捷生物技术有限公司 (Guangzhou Minjie Bio-technology Co., Ltd.) |
+| Legal representative | Tang Yongping (汤永平) |
+| Registered capital | RMB 11,111,111 (paid-in 7,861,111) |
+| Unified social credit code | 440108000232201 |
 
 ## Who We Serve
 
@@ -40,6 +44,17 @@ Our standardized **2,000 m² production workshop** operates under an ISO9001-cer
 - Industrial-grade rotary dehumidification system — controlled-environment drying
 
 Every production batch undergoes internal quality control and lot-release testing. Raw materials, intermediates, and finished products are fully traceable through our manufacturing records — a core requirement of our quality commitment.
+
+## Credentials & Recognition
+
+Migibio is recognised by Chinese government and industry authorities as:
+
+- **National High-Tech Enterprise** (国家高新技术企业)
+- **Guangdong Province Specialised & Sophisticated SME** (广东省专精特新中小企业)
+- **Guangdong Province Innovative SME** (广东省创新型中小企业)
+- **Veterinary GMP certificate + Veterinary Drug Production License** (兽药 GMP 证书 + 兽药生产许可证)
+
+The company also won the **2018 China Innovation & Entrepreneurship Competition**, Biomedical Industry (startup category), at both the Guangzhou municipal and Guangdong provincial levels.
 
 ## Proprietary Technology — FICT
 

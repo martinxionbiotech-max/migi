@@ -6,11 +6,11 @@ description: "Dr. Tang is the veterinary diagnostics specialist who authors Migi
 
 # About the Author: Dr. Tang
 
-Dr. Tang is a veterinary diagnostics specialist with a doctoral background in immunoassay technology and point-of-care diagnostics. As the author of Migibio's technical blog, Dr. Tang translates diagnostic science into practical, clinically relevant guidance for veterinarians, laboratory professionals, and distributors.
+Dr. Tang — **Tang Yongping (汤永平)** — is the founder and legal representative of Guangzhou Magic Biotech Co., Ltd. (Migibio). A veterinary diagnostics specialist with a doctoral background in immunoassay technology and point-of-care diagnostics, Dr. Tang authors Migibio's technical blog, translating diagnostic science into practical, clinically relevant guidance for veterinarians, laboratory professionals, and distributors.
 
 ## Professional Background
 
-Dr. Tang holds a doctoral degree (PhD) from Southern Medical University and serves as a graduate supervisor. His expertise spans fluorescence immunochromatography (FICT), lateral-flow assay development, and the clinical application of quantitative biomarkers in canine and feline medicine — grounding every article in both rigorous academic science and real-world diagnostic practice.
+Dr. Tang holds a doctoral degree (PhD) from Southern Medical University and serves as a graduate supervisor. As the legal representative of Guangzhou Magic Biotech Co., Ltd., he leads a team that develops fluorescence immunochromatography (FICT), lateral-flow assays, and the clinical application of quantitative biomarkers in canine and feline medicine — grounding every article in both rigorous academic science and real-world diagnostic practice. This direct connection between the author and the manufacturing company is deliberate: the technical articles on this site are written by the person responsible for the products they describe.
 
 ## Areas of Expertise
 

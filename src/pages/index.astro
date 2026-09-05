@@ -22,11 +22,13 @@ const siteSchema = {
       '@type': 'Organization',
       '@id': 'https://migibio.net/#organization',
       name: 'Guangzhou Magic Biotech Co., Ltd.',
+      legalName: '广州敏捷生物技术有限公司',
       alternateName: 'Migibio',
       url: 'https://migibio.net',
       email: 'martinwang2024@gmail.com',
       telephone: '+86 13323237275',
-      foundingDate: '2017-11',
+      foundingDate: '2017-11-07',
+      founder: { '@type': 'Person', name: 'Tang Yongping (汤永平)', jobTitle: 'Founder & Legal Representative' },
       address: {
         '@type': 'PostalAddress',
         streetAddress: 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road',
@@ -43,7 +45,9 @@ const siteSchema = {
       ],
       hasCertification: [
         { '@type': 'Certification', name: 'ISO9001 Quality Management System' },
-        { '@type': 'Certification', name: 'GMP (Good Manufacturing Practice)' },
+        { '@type': 'Certification', name: 'Veterinary GMP Certificate (兽药 GMP)' },
+        { '@type': 'Certification', name: 'Veterinary Drug Production License (兽药生产许可证)' },
+        { '@type': 'Certification', name: 'National High-Tech Enterprise (国家高新技术企业)' },
       ],
       knowsAbout: [
         'Fluorescence Immunochromatography',
