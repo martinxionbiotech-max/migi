@@ -93,6 +93,14 @@ Both are 10-test boxes with room-temperature storage and a 2-year shelf life, so
 
 ---
 
+## A Note on Cats: The Protocol Does Not Transfer
+
+Do not transplant this protocol to cats. Queens are **induced ovulators** — they do not ovulate on a fixed cycle like bitches; ovulation is triggered by mating itself. That means serial progesterone timing has no feline equivalent, and the "breed at 8–15 ng/mL" concept simply does not apply to a queen. Feline breeding management leans on behavioural signs and vaginal cytology to confirm oestrus, with pregnancy confirmed later by ultrasound or a relaxin test.
+
+The practical rule for anyone breeding both species: keep the two biologies separate. The progesterone number that means "breed now" in a bitch means nothing in a queen — and applying the dog protocol to a cat is how you miss a queen entirely.
+
+---
+
 ## FAQ
 
 ### When should I start progesterone testing?

@@ -10,7 +10,11 @@ faq: [{"q": "What are the most common feline infectious diseases?", "a": "The co
 
 > **TL;DR** — Cats hide illness, so feline infectious disease is found by testing, not by waiting for obvious signs. The framework is **2 tests, 2 questions** — antigen for active infection, antibody for immunity — applied across **6 pathogens** (panleukopenia, herpes, calicivirus, coronavirus/FIP, FeLV and FIV). **1 rule** simplifies the rest: a sick cat gets an antigen test; a vaccine check gets an antibody test.
 
-Cats are masters at hiding illness, and many feline infectious diseases produce subtle or overlapping signs. Routine, targeted testing is the clinician's most reliable tool for early detection. This guide covers the major feline infectious diseases, the tests available, and how to interpret results.
+## In Plain Terms
+
+A cat will not tell you it feels unwell — it will hide, groom normally, and purr right up until it can't. That is why feline infectious disease is found by **testing, not by waiting for signs**, and why the antigen-vs-antibody distinction matters so much: a positive FeLV antigen means the virus is in the cat right now, while a positive FPV antibody usually just means the cat is protected. Get those two confused and you will isolate a healthy vaccinated cat, or miss a persistently infected one.
+
+This guide is the hub for the six core feline pathogens — panleukopenia, herpes, calicivirus, coronavirus/FIP, FeLV and FIV. Follow the links for the deep dives.
 
 ## Antigen vs. Antibody: The Foundation
 
@@ -48,6 +52,17 @@ FHV-1 causes feline viral rhinotracheitis — upper-respiratory disease with sne
 Antigen testing confirms active infection during clinical episodes. Antibody testing is less commonly used for acute diagnosis but useful for population screening. See [Does My Cat Need a Feline Herpes (FHV-1) Test?](/blog/does-my-cat-should-do-the-feline-herpes-test).
 
 **Related products:** [FHV-Ag Antigen Test](/reagents/migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit) · [FHV-Ab Antibody Test](/reagents/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit)
+
+## Feline Chlamydia (Chlamydia felis)
+
+### The Disease
+*Chlamydia felis* is a bacterial pathogen that targets the eyes — the classic presentation is persistent conjunctivitis, often in young cats or multi-cat households, sometimes with mild nasal signs. It is distinct from the viral upper-respiratory pathogens in that the eye, not the airway, is the primary site.
+
+### Testing
+**Antigen or PCR testing** on conjunctival swabs confirms active infection. Because conjunctivitis has several causes (FHV-1, calicivirus, Chlamydia, Mycoplasma), testing is what tells them apart rather than treating blindly.
+
+### Interpretation
+A positive result justifies targeted therapy (and note that *Chlamydia felis* is a different organism from the human one — the zoonotic risk is minimal). In shelters and catteries, testing guides isolation to stop conjunctivitis sweeping through the population.
 
 ## Feline Calicivirus (FCV)
 
@@ -153,5 +168,6 @@ The retrovirus tests differ by **2 analytes**: FeLV is tested by antigen (virus 
 
 - [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing)
 - [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test)
+- [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing)
 - [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test)
 - [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

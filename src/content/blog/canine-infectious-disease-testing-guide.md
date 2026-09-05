@@ -10,7 +10,11 @@ faq: [{"q": "What are the most common canine infectious diseases tested for?", "
 
 > **TL;DR** — Canine infectious disease shows up as **3 shared signs** — fever, vomiting, diarrhoea — so testing is what names the culprit. The framework is always **2 tests, 2 questions**: antigen detects the pathogen (active infection), antibody detects immunity (vaccination or exposure). At least **4 viral culprits** — parvo, distemper, corona and adenovirus — each need a different test, and the one you pick depends on whether the dog is sick or being screened for protection.
 
-Infectious disease is among the most common reasons dogs present to veterinary clinics, yet the signs are frequently vague — fever, lethargy, vomiting, diarrhoea — and shared across many diseases. Targeted, rapid testing is therefore essential to identify the causative agent and guide treatment. This guide covers the major canine infectious diseases, the tests used to detect them, and how to interpret results.
+## In Plain Terms
+
+A vomiting puppy and a coughing dog look like two different problems, but they share one trap: the signs are vague and overlap heavily across diseases. Fever, vomiting, diarrhoea and lethargy could be parvovirus, coronavirus, or something else entirely — and the treatment, isolation and prognosis differ sharply between them. Testing is what names the culprit, and it has to happen fast, because the diseases that matter most (parvo, distemper) are exactly the ones where a day of delay changes the outcome.
+
+This guide is the hub: it covers the major canine infectious diseases, the antigen-vs-antibody framework, and how to read results. For the deep dives, follow the links to the parvo and distemper pages.
 
 ## The Test Landscape: Antigen vs. Antibody
 
@@ -31,7 +35,7 @@ Canine parvovirus causes severe, often fatal gastroenteritis, primarily in puppi
 - **CPV antibody test** — measures vaccine response or exposure; useful for assessing immunity and vaccination protocols.
 
 ### Interpretation
-A positive antigen test in a symptomatic dog confirms parvovirus and warrants immediate isolation and intensive supportive care. A negative result in a strongly symptomatic puppy should be interpreted cautiously — very early or very late in the disease, viral shedding may be intermittent.
+A positive antigen test in a symptomatic dog confirms parvovirus and warrants immediate isolation and intensive supportive care. The stakes are high: untreated clinical parvovirus carries a reported mortality around **91%**, while intensive supportive care brings survival up to roughly **90%** — which is why early antigen testing changes the outcome. A negative result in a strongly symptomatic puppy should be interpreted cautiously — very early or very late in the disease, viral shedding may be intermittent. See the [parvo testing guide](/blog/canine-parvovirus-testing-guide) for the full picture.
 
 **Related product:** [CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test](/reagents/migi-dog-cpv-ag-canine-parvovirus-antigen-rapid-quantitative-test)
 
@@ -68,6 +72,17 @@ Canine adenovirus type 1 causes infectious canine hepatitis; type 2 contributes 
 **CAV antibody testing** assesses vaccine response and immunity status. Combined panels (CDV/CPV/CAV) are convenient for verifying core-vaccine immunity.
 
 **Related product:** [CDV/CPV/CAV Antibody Combo Test](/reagents/migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit)
+
+## Canine Influenza (CIV)
+
+### The Disease
+Two strains matter: **H3N8** (jumped from horses in 2004) and **H3N2** (arrived from Asia in 2015). Canine influenza causes an acute respiratory syndrome that looks nearly identical to kennel cough — cough, fever, nasal discharge — but spreads faster and hits harder, with a small proportion developing severe pneumonia.
+
+### Testing
+**Antigen or PCR testing** on nasal/pharyngeal swabs detects active infection. Because signs mimic kennel cough so closely, testing is what distinguishes influenza from the far milder Bordetella/adenovirus complex.
+
+### Interpretation
+A positive test in an outbreak setting justifies immediate isolation — canine influenza is highly transmissible in boarding, shelter and daycare settings. Antibody testing confirms exposure after the fact.
 
 ## Leishmaniasis (Leishmania)
 
@@ -149,7 +164,7 @@ Because 3 clinical signs overlap heavily, while treatment, isolation and prognos
 
 ## Continue exploring
 
+- [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)
+- [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide)
 - [Cat Infectious Disease Testing: What One Panel Can Catch](/blog/feline-infectious-disease-testing-guide)
-- [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing)
-- [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test)
 - [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)
