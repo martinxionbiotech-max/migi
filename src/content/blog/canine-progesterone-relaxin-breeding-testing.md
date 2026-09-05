@@ -1,68 +1,140 @@
 ---
-title: "Canine Progesterone and Relaxin Testing for Breeding"
+title: "Dog Breeding Tests: A Progesterone and Relaxin Protocol, Step by Step"
 slug: "canine-progesterone-relaxin-breeding-testing"
-description: "A guide to canine progesterone and relaxin testing for breeding: timing ovulation with progesterone, confirming pregnancy with relaxin, and how quantitative testing improves breeding outcomes."
-pubDate: "2025-04"
+description: "The breeder's working protocol: test progesterone every 1–2 days to catch the LH surge and ovulation, breed at 8–15 ng/mL, then confirm with relaxin around day 28–30. Here's the exact sequence."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "How does progesterone testing help time breeding?", "a": "Progesterone rises predictably around ovulation, so serial quantitative progesterone measurements pinpoint the fertile window for optimal mating or artificial insemination. This is far more reliable than behavioural signs or vaginal cytology alone."}, {"q": "What does relaxin detect?", "a": "Relaxin is a hormone produced by the placenta after implantation, making it a specific marker of pregnancy in dogs. A positive relaxin test confirms pregnancy approximately 21–30 days after mating, earlier than reliable palpation or radiography."}, {"q": "When is the best time to test?", "a": "Progesterone testing should begin a few days after the onset of oestrus and be repeated every 1–2 days until ovulation is identified. Relaxin testing is performed around day 21–30 post-mating to confirm pregnancy."}]
+faq: [{"q": "When should I start progesterone testing a breeding bitch?", "a": "A few days after the start of oestrus, or when she first accepts the male — then test every 1–2 days until ovulation is confirmed. Testing too late or too infrequently is the most common cause of missed breeding windows."}, {"q": "What progesterone level means it's time to breed?", "a": "The optimal breeding window is roughly 8–15 ng/mL. The LH surge sits around 2–3 ng/mL and ovulation around 4–10 ng/mL, with the oocytes needing 2–3 more days to mature. A quantitative number is essential — a yes/no strip can't distinguish these."}, {"q": "When do I confirm pregnancy with relaxin?", "a": "Around day 28–30 post-ovulation, when relaxin is reliably detectable (95–100% by day 30). Testing before ~day 21 is meaningless — there's no placenta yet, so there's no relaxin."}, {"q": "How many progesterone tests does one cycle take?", "a": "Typically 5–8 serial tests, run every 1–2 days from early oestrus through ovulation, plus one or two relaxin tests around day 28–30. Budget roughly one box of progesterone reagent per cycle."}, {"q": "Does frozen semen change the protocol?", "a": "Yes — frozen semen survives only ~12 hours, so you need to pinpoint 10–20 ng/mL, which is above the ceiling of most semi-quantitative strips. Frozen-semen breeding requires a quantitative reader."}]
 ---
 
-For dog breeders, timing is everything. Whether breeding naturally or via artificial insemination, success hinges on precisely identifying ovulation and confirming pregnancy. Two biomarkers — progesterone and relaxin — make this possible with quantitative point-of-care testing. This guide explains how to use them.
+# Dog Breeding Tests: A Progesterone and Relaxin Protocol, Step by Step
 
-## Progesterone: Timing Ovulation
+> **TL;DR** — The working protocol is: start progesterone testing a few days into oestrus, test every 1–2 days until you catch the LH surge (~2–3 ng/mL) and ovulation (~4–10 ng/mL), breed during the 8–15 ng/mL window, then confirm pregnancy with a relaxin test around day 28–30. Two biomarkers, two jobs — progesterone times the breeding, relaxin confirms it — and both need a quantitative number, not a line.
 
-### Why It Matters
-Canine reproduction has a unique challenge: the bitch ovulates immature oocytes that require 2–3 additional days to mature and become fertilisable. Timing insemination to this window is the single most important factor in breeding success.
+This is the operational version of what the [dog pregnancy test guide](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding) explains conceptually. If you want the *why*, read that. If you want the *how* — the exact sequence — this is it.
 
-Progesterone measurement tracks the oestrous cycle with precision, because progesterone rises in a predictable pattern around ovulation.
+---
 
-### How to Use It
-1. **Begin testing** a few days after the start of oestrus (or when the bitch first accepts the male).
-2. **Test every 1–2 days** as progesterone begins to rise.
-3. **Identify the surge** — progesterone rising above a threshold (typically ~2 ng/mL, or 4–6 ng/mL depending on the reference used) marks ovulation.
-4. **Time breeding** — natural mating or artificial insemination is performed 2–4 days after the progesterone surge, when oocytes are mature.
+## The Protocol at a Glance
 
-### Why Quantitative Testing Is Essential
-Progesterone values rise from baseline (<1 ng/mL) through ovulation (2–10+ ng/mL) to luteal-phase highs. This is a **continuum**, not a yes/no — only a quantitative test can pinpoint where the bitch is in the cycle. Visual (qualitative) tests cannot provide the precise timing that modern breeding demands.
+| Stage | What you do | What you're looking for |
+|---|---|---|
+| Early oestrus | Begin progesterone testing | Baseline (<1 ng/mL) |
+| LH surge | Test every 1–2 days | ~2–3 ng/mL |
+| Ovulation | Continue daily testing | ~4–10 ng/mL (≈5 typical) |
+| Breeding window | Breed / inseminate | **8–15 ng/mL** |
+| Confirmation | Relaxin test | ~day 28–30 post-ovulation |
 
-**Related product:** [Canine Progesterone Test](/reagents/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit)
+The whole thing hangs on one discipline: **test early enough and often enough.** The rise from 2 ng/mL to 8 ng/mL can happen inside 48 hours, so a test every two days is the *minimum* cadence, and daily is safer once you see movement.
 
-## Relaxin: Confirming Pregnancy
+---
 
-### Why It Matters
-After breeding, the next question is: "Did it take?" Relaxin — a hormone produced by the developing placenta — provides the answer.
+## Step 1: Time Ovulation with Progesterone
 
-### How to Use It
-- **Test from ~day 21–28 post-ovulation** (relaxin becomes reliably detectable).
-- **A positive result** confirms pregnancy.
-- **A negative result** suggests non-pregnancy or testing too early — repeat if in doubt.
+Progesterone is the timing instrument. It rises in a predictable pattern around ovulation, and the number maps directly to a decision:
 
-### Why Relaxin Beats Other Methods
-- **Distinguishes true pregnancy from pseudopregnancy** — a common source of confusion in bitches.
-- **Non-invasive** — a simple blood test, no imaging equipment needed.
-- **Early** — earlier than reliable palpation or radiography.
+| Progesterone (ng/mL) | What it means | What to do |
+|---|---|---|
+| < 1 | Too early | Retest in 1–2 days |
+| 2–3 | LH surge | Switch to daily testing |
+| 4–10 | Ovulation | Note the date — oocytes mature over the next 2–3 days |
+| 8–15 | **Breeding window** | Breed or inseminate now |
+| 15–40 | Peak fertility | Late natural mating; consider assisted |
+| > 20 | Late | May need TCI or surgical insemination |
 
-**Related product:** [Canine Relaxin Test](/reagents/migi-dog-canine-relaxin-crelaxin-rapid-quantitative-test-kit)
+The reason this must be quantitative: a strip that says "progesterone present" tells you nothing, because every cycling bitch has progesterone. The decision lives in the *number*.
 
-## The Breeding Workflow
+For the deeper argument — and the semi-quantitative trap where strips cap at 5 ng/mL, blind exactly where frozen-semen timing lives — see [quantitative vs qualitative progesterone](/blog/quantitative-vs-qualitative-progesterone).
 
-A complete, modern breeding programme uses both biomarkers:
+---
 
-1. **Progesterone** — to time ovulation and insemination precisely.
-2. **Relaxin** — to confirm pregnancy ~3–4 weeks later.
-3. **(Optional) imaging** — ultrasound or radiography for litter confirmation and count.
+## Step 2: Match Precision to Semen Type
 
-## Benefits of Point-of-Care Testing for Breeders
+How precisely you need to pin the number depends on what you're inseminating with:
 
-- **Speed** — results in minutes, enabling same-day breeding decisions.
-- **Precision** — quantitative values, not guesses.
-- **Convenience** — no laboratory delay for time-sensitive ovulation timing.
-- **Cost-effectiveness** — reduced repeat-breeding cycles and missed opportunities.
+| Semen | Survival in the bitch | Precision needed |
+|---|---|---|
+| Fresh | 4–6 days | Coarse — a day early still works |
+| Chilled | ~3 days | Moderate |
+| Frozen | **~12 hours** | **Quantitative, 10–20 ng/mL range** |
 
-## In the Bigger Picture
+Frozen semen is the case that forces a quantitative reader: it lives about 12 hours, so you need to land insemination in a narrow window that a 5 ng/mL-capped strip can't see. The stakes aren't abstract — a 1,400-cycle study found a **1.7-puppy difference per litter** (5.6 vs 3.9) between correctly-timed and mistimed frozen-semen breedings.
 
-Progesterone and relaxin are part of the broader biomarker toolkit. For a full overview, see [Veterinary Biomarker Monitoring](/blog/veterinary-biomarker-monitoring-kidney-cardiac).
+---
 
-## Conclusion
+## Step 3: Confirm with Relaxin
 
-Quantitative progesterone and relaxin testing has transformed canine breeding from an art into a science. By timing ovulation precisely and confirming pregnancy early, breeders can maximise litter success and reduce the uncertainty that has long plagued the field.
+Progesterone tells you *when* to breed; relaxin tells you *whether* it worked. Relaxin is the pregnancy-only hormone, produced by the placenta after implantation.
+
+| Timing (post-ovulation) | Relaxin status |
+|---|---|
+| Day 0–20 | Not detectable (no placenta yet) |
+| Day 21–28 | First reliable detection |
+| Day 28–30 | **95–100% detection — the confirmation window** |
+| Through term | Stays elevated |
+
+Two practical rules:
+
+1. **Don't test too early.** Before ~day 21 there's no placenta and therefore no relaxin — a negative means "too early," not "not pregnant."
+2. **One confirmatory test around day 28–30 is usually enough**, when levels are comfortably above the detection floor.
+
+For the full relaxin detail — detection windows, false-pregnancy distinction, and the "positive doesn't always mean viable" caveat — see the [relaxin guide](/blog/relaxin-early-pregnancy-confirmation-dogs).
+
+---
+
+## What One Cycle Costs in Testing
+
+Plan the program, not the kit. A typical cycle runs:
+
+- **5–8 serial progesterone tests** (every 1–2 days from early oestrus through ovulation) — roughly one box of progesterone reagent.
+- **1–2 relaxin tests** around day 28–30.
+
+Both are 10-test boxes with room-temperature storage and a 2-year shelf life, sold B2B with pricing quoted against volume and terms. A single mistimed frozen-semen insemination costs far more than the entire testing program for that cycle — which is the real economic case for doing the protocol properly.
+
+**Related products:** [Canine Progesterone Test](/reagents/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit) (MG-CA-R020) · [Canine Relaxin Test](/reagents/migi-dog-canine-relaxin-crelaxin-rapid-quantitative-test-kit) (MG-CA-R021).
+
+---
+
+## FAQ
+
+### When should I start progesterone testing?
+
+A few days into oestrus (or when she first accepts the male), then every 1–2 days until ovulation is confirmed.
+
+### What level means it's time to breed?
+
+8–15 ng/mL. LH surge is ~2–3, ovulation ~4–10, and oocytes need 2–3 more days to mature.
+
+### When do I confirm pregnancy?
+
+Around day 28–30 post-ovulation, when relaxin is reliably detectable. Before day 21 there's nothing to detect.
+
+### How many tests per cycle?
+
+5–8 serial progesterone tests plus 1–2 relaxin tests — roughly one box of progesterone reagent per cycle.
+
+### Does frozen semen change things?
+
+Yes — it survives ~12 hours, so you need to pinpoint 10–20 ng/mL, above the ceiling of semi-quantitative strips.
+
+---
+
+## Key Takeaways
+
+1. **Two biomarkers, two jobs** — progesterone times the breeding, relaxin confirms it.
+2. **Test early and often** — the 2→8 ng/mL rise can happen in 48 hours.
+3. **8–15 ng/mL is the breeding window** — a number, not a "positive" line.
+4. **Frozen semen demands quantitative** — 10–20 ng/mL is above strip ceilings.
+5. **Confirm at day 28–30** — relaxin is 95–100% detectable by then.
+
+---
+
+## References
+
+- dvm360. "Breeding Management 102 — It's All in the Timing (Proceedings)."
+- Kunanusont N, et al. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
+- Buff S, et al. (2001). Relaxin detection for early canine pregnancy confirmation (as cited in PMC7126177).
+
+---
+
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary guidance — work with your veterinarian for insemination timing. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

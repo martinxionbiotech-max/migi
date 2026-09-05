@@ -1,82 +1,116 @@
 ---
-title: "Feline Calicivirus and Herpesvirus Testing: A Complete Guide"
+title: "Feline Calicivirus vs Herpesvirus: How Testing Tells the Two 'Cat Flu' Causes Apart"
 slug: "feline-calicivirus-herpesvirus-testing"
-description: "A complete guide to feline calicivirus (FCV) and herpesvirus (FHV-1) testing: antigen vs antibody tests, when to test, interpreting results, and the value of the feline triple test."
-pubDate: "2025-03"
+description: "Calicivirus (FCV) and herpesvirus (FHV-1) both cause 'cat flu' — but they behave differently. FCV causes mouth ulcers and has many strains; herpes goes latent for life and flares under stress. Here's how testing tells them apart."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "What is the difference between FCV and FHV-1?", "a": "Feline calicivirus (FCV) and feline herpesvirus-1 (FHV-1) are the two main viral causes of feline upper respiratory disease. FCV classically causes oral ulcers and can have limping or virulent systemic forms, while FHV-1 causes sneezing, conjunctivitis, and corneal ulcers with lifelong latency."}, {"q": "Antigen or antibody — which test should I use?", "a": "Use antigen testing on swabs when a cat has active respiratory signs, to identify the current pathogen. Use antibody testing in serum/plasma to assess vaccination status or past exposure. Quantitative tests can combine both to give a complete picture."}, {"q": "Why distinguish FCV from FHV-1?", "a": "Although the clinical signs overlap, management differs — FHV-1 patients may benefit from antiviral therapy, while FCV is managed supportively with strict hygiene due to its environmental hardiness. Accurate identification guides treatment and infection control."}]
+faq: [{"q": "What's the difference between calicivirus and herpesvirus in cats?", "a": "Both cause upper-respiratory disease, but differently: herpesvirus (FHV-1) causes conjunctivitis, corneal ulcers and goes latent for life (reactivating under stress), while calicivirus (FCV) causes mouth ulcers, has many strains, and in rare cases a severe systemic form."}, {"q": "How do I tell which virus a cat has?", "a": "Clinical signs point the way — corneal/eye involvement suggests herpes, oral ulcers suggest calicivirus — but the two frequently co-infect. Antigen or PCR testing on ocular, nasal or oral swabs confirms which virus is actively shedding."}, {"q": "Why does herpes keep coming back?", "a": "Because FHV-1 goes latent in nerve tissue after the first infection and reactivates under stress — boarding, moving, illness. The same virus resurfaces, which is why flare-ups recur."}, {"q": "Why isn't calicivirus vaccine protection complete?", "a": "Because FCV has many antigenically distinct strains, and antibodies to the vaccine strain may not neutralise the strain a cat meets in the field. It reduces severity but doesn't guarantee protection against every strain."}, {"q": "Do I need to test both viruses?", "a": "In an outbreak or a cat with recurrent signs, yes — because they present similarly and co-infect, and management differs. In routine practice, the clinical picture plus testing when signs are active is usually sufficient."}]
 ---
 
-Feline calicivirus (FCV) and feline herpesvirus-1 (FHV-1) are the two most common causes of upper-respiratory disease in cats. Together, they account for the vast majority of "cat flu" cases. Because their signs overlap heavily, accurate testing is essential to identify the culprit and guide treatment. This guide covers testing for both viruses.
+# Feline Calicivirus vs Herpesvirus: How Testing Tells the Two 'Cat Flu' Causes Apart
+
+> **TL;DR** — "Cat flu" is almost always one of two viruses: feline herpesvirus (FHV-1) or feline calicivirus (FCV). They look similar but behave differently: **herpes** causes eye problems and goes latent for life (flaring under stress); **calicivirus** causes mouth ulcers and exists in many strains that can dodge vaccine protection. Testing — antigen or PCR on a swab during active signs — is how you tell which one you're dealing with, and the answer changes management.
+
+When a cat sneezes and gets congested, the cause is usually "cat flu" — and "cat flu" is almost always one of two specific viruses. Telling them apart matters, because they don't behave the same way, and the distinction changes what you expect and how you manage it.
+
+---
 
 ## The Two Viruses at a Glance
 
-### Feline Herpesvirus-1 (FHV-1)
-- **Causes:** feline viral rhinotracheitis (FVR).
-- **Signs:** sneezing, nasal discharge, conjunctivitis, ocular discharge, fever.
-- **Key trait:** becomes **latent** after infection and reactivates during stress — a lifelong infection.
+| | Feline Herpesvirus (FHV-1) | Feline Calicivirus (FCV) |
+|---|---|---|
+| Main signs | Sneezing, conjunctivitis, corneal ulcers | Mouth ulcers, drooling, upper-respiratory signs |
+| The defining trait | **Goes latent for life**, reactivates under stress | **Many strains**, some highly virulent |
+| Recurrence pattern | The same virus flares again and again | Reinfection with a different strain possible |
+| Vaccine | Reduces severity, doesn't prevent latency | Reduces severity, doesn't cover every strain |
 
-### Feline Calicivirus (FCV)
-- **Causes:** oral ulceration, salivation, upper-respiratory signs.
-- **Signs:** mouth ulcers, drooling, sneezing, nasal discharge, limping (in some strains).
-- **Key trait:** a severe systemic form can be highly fatal.
+The overlap is real — both cause sneezing, nasal discharge and fever — which is exactly why clinical signs alone often can't settle it, and why the two frequently co-infect.
 
-The two frequently co-infect, producing a combined clinical picture.
+---
 
-## Antigen vs. Antibody Testing
+## Herpesvirus: The Virus That Hides
 
-### Antigen Testing (Active Infection)
-Detects the virus directly in ocular, nasal, or oral swabs.
+FHV-1 is the one that explains the recurring, eye-focused flare-ups.
 
-- **Best for:** confirming active infection during a clinical episode.
-- **Answers:** "Is the virus present right now?"
+After the first infection — usually as a kitten — the virus goes **latent**, hiding in the trigeminal nerve for the cat's entire life. Then, under stress (boarding, moving, illness, a new pet), it reactivates, and the cat starts shedding again with the same sneezing and conjunctivitis as before.
 
-### Antibody Testing (Exposure/Immunity)
-Detects the cat's immune response.
+The practical signature of herpes is **recurrence without reinfection**: the cat isn't catching it again — the same virus is resurfacing. That's also why a negative test between flare-ups means little (the cat isn't shedding at that moment), and why eye involvement — conjunctivitis, corneal ulcers — points toward herpes rather than calicivirus.
 
-- **Best for:** population screening and immunity assessment.
-- **Answers:** "Has the cat been exposed or vaccinated?"
+For the full picture on herpes, see the dedicated [FHV-1 guide](/blog/does-my-cat-should-do-the-feline-herpes-test).
 
-**Related products:**
-- [FHV-Ag Antigen Test](/reagents/migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit)
-- [FHV-Ab Antibody Test](/reagents/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit)
-- [FCV-Ag Antigen Test](/reagents/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit)
-- [FCV-Ab Antibody Test](/reagents/migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit)
+---
 
-## The Feline Triple Test
+## Calicivirus: The Many-Strain Virus
 
-Because FHV-1, FCV, and panleukopenia virus (FPV) all cause upper-respiratory or systemic signs, a **triple test** that screens for all three in one step is highly convenient. It allows a clinician to rule in or out the three most common feline viral pathogens from a single sample.
+FCV is the one that explains the mouth ulcers — and the vaccine's imperfect track record.
 
-For more, see [A Feline Triple Test: One Simple Step to Check for Three Common Viruses](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses).
+The classic calicivirus signs are **oral ulceration** (sores on the tongue, gums and palate), drooling, and upper-respiratory signs. Some cats also limp, and a rare severe systemic form can be highly fatal.
 
-## When Should You Test?
+Calicivirus's defining problem is **strain diversity**. FCV exists as many antigenically distinct strains, and the vaccine strain doesn't cover all of them — field studies have found the vaccine strains are poorly matched to the field strains in circulation. So vaccination reduces severity and shedding, but an antibody to one strain may not neutralise the strain your cat actually meets. That's why FCV immunity is the unreliable one of the "cat flu" pair, and why mouth-ulcer cats sometimes test "protected" yet still get sick.
 
-- **Upper-respiratory signs** (sneezing, discharge, conjunctivitis) — test for FHV-1 and FCV.
-- **Oral ulcers or drooling** — suspect FCV.
-- **New cats entering a multi-cat household or shelter** — screen before introduction.
-- **Recurrent respiratory episodes** — FHV-1 reactivation.
+---
 
-## Interpreting Results
+## How Testing Tells Them Apart
 
-### Positive Antigen Test
-Confirms active infection. Note that FHV-1 can reactivate and shed intermittently, so a positive result reflects current shedding.
+Because the signs overlap and the two co-infect, testing is the reliable way to name the culprit:
 
-### Positive Antibody Test
-Indicates exposure or vaccination. Because FHV-1 is lifelong, most adult cats have antibodies — this does not indicate current disease.
+| Test | What it answers |
+|---|---|
+| **Antigen / PCR** on ocular, nasal or oral swab | "Which virus is shedding *right now*?" |
+| **Antibody** (serum) | "Has the cat been *exposed*?" (not which is active) |
 
-### Negative Results
-A negative antigen test during a clinical episode may mean the signs are caused by the *other* virus (or a non-viral cause). Testing both viruses — or using the triple test — improves diagnostic yield.
+The rules that matter:
 
-## Treatment and Management Implications
+1. **Test during active signs.** Both viruses shed intermittently, so a negative swab between flare-ups is a snapshot, not a clean bill.
+2. **Antigen/PCR tells you the active virus; antibody only tells you exposure.** Given how common both viruses are, most adult cats are antibody-positive for both — which is why antibody panels don't distinguish "sick now" from "met it before."
+3. **The clinical picture still guides you.** Eye and corneal involvement leans herpes; oral ulcers lean calicivirus. The test confirms what the signs suggest.
 
-- **FHV-1** — antivirals (e.g., famciclovir), supportive care, and stress reduction (to prevent reactivation).
-- **FCV** — supportive care; the systemic form requires intensive treatment.
-- **Both** — isolation of affected cats and good hygiene to prevent spread.
+For the antibody-immunity angle across all three core feline viruses, see the [feline triple test guide](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses).
 
-## In the Bigger Picture
+**Related products:** [FHV Antigen Test](/reagents/migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit) (MG-CA-R007) · [FCV Antigen Test](/reagents/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit) (MG-CA-R008) — both quantitative, run on the FIA680/FIA880.
 
-FCV and FHV-1 are two of the six major feline infectious diseases. For the complete landscape, see [Feline Infectious Disease Testing: The Complete Guide](/blog/feline-infectious-disease-testing-guide).
+---
 
-## Conclusion
+## FAQ
 
-Feline calicivirus and herpesvirus are the workhorses of "cat flu." Rapid, targeted testing — whether individual antigen/antibody tests or the convenient triple test — helps clinicians identify the cause, treat appropriately, and protect the feline population.
+### What's the difference between calicivirus and herpesvirus?
+
+Both cause upper-respiratory disease, but herpes causes eye problems and goes latent for life; calicivirus causes mouth ulcers and has many strains.
+
+### How do I tell which virus a cat has?
+
+Clinical signs point the way — eye involvement suggests herpes, oral ulcers suggest calicivirus — but antigen/PCR on a swab during active signs confirms it.
+
+### Why does herpes keep coming back?
+
+It goes latent in nerve tissue and reactivates under stress — the same virus resurfaces, not a new infection.
+
+### Why isn't calicivirus vaccine protection complete?
+
+FCV has many strains, and antibodies to the vaccine strain may not neutralise the strain a cat meets in the field.
+
+### Do I need to test both viruses?
+
+In an outbreak or recurrent-signs cat, yes — they present similarly, co-infect, and management differs.
+
+---
+
+## Key Takeaways
+
+1. **"Cat flu" = herpes or calicivirus** — two viruses, similar signs, different behaviour.
+2. **Herpes goes latent for life** — recurring eye flare-ups, triggered by stress.
+3. **Calicivirus has many strains** — which is why its vaccine protection is imperfect.
+4. **Test during active signs** — antigen/PCR names the active virus; antibody only shows exposure.
+5. **The signs guide you** — eyes lean herpes, mouth ulcers lean calicivirus.
+
+---
+
+## References
+
+- European Advisory Board on Cat Diseases (ABCD). "Guideline for Feline Calicivirus Infection." — strain diversity and antibody-testing limits.
+- Gaskell R, et al. "Feline herpesvirus." *Veterinary Research.* 2007;38(2):337–354.
+- Thiry E, et al. "Feline herpesvirus infection: ABCD guidelines." *J Feline Med Surg.* 2009;11(7):547–555.
+
+---
+
+*This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a cat with respiratory disease should be seen by a veterinarian. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
