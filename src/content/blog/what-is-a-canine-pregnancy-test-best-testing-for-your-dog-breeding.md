@@ -1,102 +1,182 @@
 ---
-title: "What is a Canine Pregnancy Test? Best Testing for Your Dog Breeding"
+title: "Dog Pregnancy Tests: Relaxin to Confirm, Progesterone to Time the Breeding"
 slug: "what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding"
-description: "Pregnancy testing allows dog breeders and owners to accurately determine if their bitch is pregnant after breeding. While some physical signs can indicate pregn"
-pubDate: "2024-09"
+description: "Two hormones do two different jobs in dog breeding: progesterone times ovulation, relaxin confirms pregnancy from ~day 21–28. Here's the cut-off table breeders actually use, and why a semi-quantitative strip is blind exactly where frozen-semen timing lives."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "How is canine pregnancy detected?", "a": "Pregnancy can be detected by relaxin testing (a placental hormone) from about day 21–30 post-mating, by palpation (around day 28), ultrasound (day 25+), or radiography (day 45+ when skeletons mineralise). Relaxin testing is the earliest reliable blood test."}, {"q": "Progesterone or relaxin — which test for pregnancy?", "a": "They serve different purposes. Progesterone is measured serially to time ovulation and mating; relaxin confirms pregnancy after implantation. Use progesterone to breed optimally and relaxin to confirm conception."}, {"q": "When is the best time to test?", "a": "For pregnancy confirmation, test relaxin around day 21–30 after mating. For ovulation timing, begin progesterone testing a few days into oestrus and repeat daily or every other day until the surge and ovulation are identified."}]
+faq: [{"q": "Which test confirms a dog is pregnant — progesterone or relaxin?", "a": "Relaxin. It is the only hormone produced solely by the placenta, so it appears only in pregnancy and is reliably detectable from ~day 21–28 post-ovulation (95–100% by day 30). Progesterone is elevated during every oestrous cycle, pregnant or not, so it cannot confirm pregnancy — it is used to time ovulation and mating."}, {"q": "How early can a dog pregnancy test work?", "a": "Relaxin becomes reliably detectable from about 21–28 days after ovulation (earliest ~25 days in some dogs, with near-total reliability by day 30). Before implantation the placenta does not exist, so there is nothing for the test to detect."}, {"q": "Why does a breeder need a progesterone number instead of a positive/negative strip?", "a": "Every cycling bitch has progesterone, so 'positive' tells you nothing about timing. The decision lives in the number: ~2–3 ng/mL is the LH surge, ~5 ng/mL is ovulation, 8–15 ng/mL is the breeding window. Semi-quantitative strips are capped around 5 ng/mL — blind exactly where frozen-semen timing (10–20 ng/mL) happens."}, {"q": "How many progesterone tests does one breeding cycle take?", "a": "Typically 5–8 serial tests, run every 1–2 days from early oestrus until ovulation is confirmed. Testing too late or too infrequently is the single biggest cause of missed windows, because the 2–8 ng/mL rise can happen over 48 hours."}, {"q": "What equipment reads these quantitative tests?", "a": "A fluorescence immunoassay (FIA) analyzer. Migibio's FIA680 is a single-channel unit (3–11 min, up to 200 tests/hour) for smaller clinics and breeders; the FIA880 has six independent channels (up to 300 tests/hour, constant-temperature) for busy hospitals and reference labs."}]
 ---
 
-Pregnancy testing allows dog breeders and owners to accurately determine if their bitch is pregnant after breeding. While some physical signs can indicate pregnancy, diagnostic tests provide definite results and help plan for the upcoming litter. Canine pregnancy test kits evaluate biomarkers like relaxin and progesterone in the dog’s system. Let’s explore the different diagnostic testing options available, how they work, what they indicate, the costs, and how to accurately perform them at home for your breeding dogs.
+> **TL;DR** — Two hormones, two jobs. **Progesterone** tells you *when* to breed: it climbs from <1 ng/mL through a 2–3 ng/mL LH surge, ~5 ng/mL ovulation, and an 8–15 ng/mL optimal window. **Relaxin** tells you *whether* it worked: it's the only pregnancy-only hormone and is reliably detectable from ~day 21–28. A strip that just says "progesterone present" is useless — every cycling bitch has progesterone. And a semi-quantitative strip capped at 5 ng/mL is blind precisely where frozen-semen timing (10–20 ng/mL) lives.
 
+Most confusion in dog breeding comes from treating progesterone and relaxin as interchangeable "pregnancy hormones." They're not. One is a timing instrument, the other is a confirmation instrument, and confusing them costs litters.
 
-## Are canine DNA tests accurate?
+---
 
+## The Two Hormones People Keep Confusing
 
-DNA tests for determining parentage in dogs are very accurate when performed by reputable laboratories. The tests analyze genetic markers in the DNA of both parents and puppies to determine relative percentages of each parent’s contribution. With today’s technology, DNA tests can accurately identify the sire and dam of puppies with over 99% accuracy (Dreger et al., 2021). This allows breeders and owners certainty in verifying parentage when puppies are born, preventing doubts about stud dog accuracy or genetic mixing between litters.
+Here's the split in one paragraph, because it resolves about 80% of the wrong-test problems we see from breeders:
 
+- **Progesterone** is produced by the ovary during *every* oestrous cycle — pregnant or not. It rises through proestrus, peaks around ovulation, and stays high through diestrus. That means it is superb for *locating* ovulation in time, and useless for *confirming* pregnancy. A "high progesterone" result two weeks after mating tells you the dog cycled. It does not tell you she conceived.
+- **Relaxin** is produced by the placenta — and only the placenta. No placenta, no relaxin. It first appears after implantation and climbs steadily through gestation. That makes it the definitive blood marker for "yes, she's actually pregnant."
 
-## Are there any other ways to test if your dog is pregnant?
+If you remember one thing, remember this: **progesterone times the breeding, relaxin confirms the pregnancy.** Using one for the other's job is how breeders end up either breeding blind or celebrating a false positive.
 
+---
 
-In addition to diagnostic tests, some signs an owner can check for physical indicators of pregnancy in dogs include enlarged or swollen nipples, weight gain, increased appetite, and the eventual development of a mammary gland mass as gestation progresses. However, these signs do not appear until later in the pregnancy. Diagnostic testing allows for earlier confirmation within a few weeks of breeding rather than waiting over a month for physical changes. Ultrasound is another option but requires veterinary equipment and expertise beyond a home pregnancy test (Peterson et al., 2020).
+## Progesterone: The Timing Hormone
 
+### Why "Positive" Is a Useless Answer
 
-## How does a canine pregnancy test work?
+A qualitative strip that returns "progesterone present" answers a question nobody asked. Every intact bitch in oestrus has progesterone. The value you need is *how much*, because the quantity maps directly onto a decision:
 
+| Progesterone (ng/mL) | What it means | What to do |
+|---|---|---|
+| < 1 | Anoestrus / too early | Wait, retest in 1–2 days |
+| 2–3 | **LH surge** | Increase testing frequency to daily |
+| 4–10 | **Ovulation** (~5 typical) | Note the date; canine oocytes need 2–3 more days to mature |
+| 8–15 | **Optimal breeding window** | Breed / inseminate now |
+| 15–40 | Peak fertility | Late natural mating; consider assisted |
+| > 20 | Late | May need transcervical (TCI) or surgical insemination |
 
-Most canine pregnancy test kits examine levels of the hormone relaxin or progesterone in a urine or blood sample. Relaxin surges briefly around 5-9 days after ovulation and breeding in pregnant dogs. Progesterone steadily rises throughout pregnancy. The tests are immunoassays that detect these hormone levels, producing a coloured reaction if levels indicate pregnancy. Results are available within 10-15 minutes without needing a vet visit. This early confirmation allows breeders to plan whelping care and owner expectations.
+The gap between 2 ng/mL and 8 ng/mL is the gap between "not yet" and "breed now" — and it can close inside 48 hours. That's the entire argument for a quantitative number over a yes/no line.
 
+### The Semi-Quantitative Trap (This Is the Part Most Guides Skip)
 
-## Is Relaxin the only indicator for dog pregnancy?
+Between a pure yes/no strip and a full quantitative analyzer sits the "semi-quantitative" kit — a visual band that brackets progesterone into a few ranges. Here's the problem nobody advertises:
 
+**Semi-quantitative progesterone strips typically cap around 5 ng/mL.** For a natural mating with fresh semen that's borderline workable, because fresh semen survives 4–6 days in the bitch and you have slack. But for **frozen semen — which survives roughly 12 hours — you need to pin down 10–20 ng/mL**, and a strip that maxes out at 5 can't see that region at all. It's not a small accuracy gap; it's a structural blind spot exactly where the stakes are highest.
 
-While relaxin provides a very early detection, its levels fall off after 2 weeks. Progesterone provides a more reliable indicator throughout gestation since its levels remain elevated the entire pregnancy. Most veterinary clinics and professional home testing kits will monitor progesterone. This allows testing later than relaxin if the exact breeding date is unknown. Some dogs also naturally produce low relaxin levels whether pregnant or not, so progesterone gives more definitive results long-term.
+There's real data behind why this matters. A study across **1,400+ breeding cycles** found that bitches with a slow progesterone rise inseminated with frozen semen produced **3.9 puppies** on average, versus **5.6** for a normal ("fast") rise with correct timing. That's a 1.7-puppy difference per litter — driven almost entirely by whether the progesterone number was read precisely enough to time insemination to the short frozen-semen window.
 
+> The takeaway: if you breed with fresh semen you can tolerate a coarse test. The moment frozen or chilled semen enters the picture, you need a quantitative number, and a 5 ng/mL ceiling is no longer acceptable.
 
-## Is the pregnancy testing safe? Does your dog hurt during the testing?
+---
 
+## Relaxin: The Confirmation Hormone
 
-The diagnostic tests for canine pregnancy are non-invasive and painless for the dog. They simply involve collecting urine or small blood samples, which most dogs tolerate well with little or no stress. The tests do not require needles or medical procedures. Owners can test calmly at home without veterinary involvement beyond obtaining the test kit itself.
+Relaxin's value is that it's unambiguous. It is secreted by the developing placenta after implantation, so a positive relaxin result means placental tissue exists — which means pregnancy.
 
+### The Detection Timeline
 
-## Are dogs scared before they do testing?
+| Timing (post-ovulation) | Relaxin status |
+|---|---|
+| Day 0–20 | Not detectable (no placenta yet) |
+| ~Day 21–28 | First reliable detection (earliest ~25 days in some dogs) |
+| Day 30 | 95–100% detection rate |
+| Through term | Remains elevated until parturition |
 
+Two practical consequences fall out of this table:
 
-Dogs will not typically exhibit fear related to pregnancy testing itself since it does not involve painful procedures. However, dogs can sense if their owner is nervous or anxious about the testing which may transfer fear responses. Owners should stay calm and treat the process casually to avoid stressing their dogs. Most dogs will readily provide urine samples with little or no coaxing if the owner is relaxed.
+1. **You cannot test earlier than ~3 weeks.** Before implantation there is no placenta and therefore no relaxin. A negative result on day 15 means nothing — it's a "too early," not a "not pregnant."
+2. **Relaxin does not "disappear after two weeks."** That's a myth we see repeated in old guides. Relaxin stays elevated for the entire pregnancy. What *is* true is that the best *window for a single confirmatory test* is day 28–35, when levels are comfortably above the detection floor and a single draw gives you a clear answer.
 
+---
 
-## What we should prepare for a dog before testing?
+## How These Tests Actually Work
 
+Both progesterone and relaxin kits on Migibio's platform use **fluorescence immunochromatography (FICT)** rather than the colloidal-gold strips people picture. The difference matters for two reasons:
 
-Have the testing kit and any needed sample collection materials like cups or swabs ready ahead of time. Make sure your dog has ample opportunity to urinate within an hour before the planned testing time. It may help to provide plenty of water before the test so your dog has a full bladder. Keep testing away from young children or other animals that could disrupt the process. Staying calm and acting casually will help reassure your dog.
+1. **It's quantitative.** Fluorescent intensity is directly proportional to analyte concentration, so the reader returns a number (ng/mL, pg/mL) — not a subjective "how dark is the line." This is what makes the cut-off table above usable.
+2. **It's read by an instrument, not by eye.** Sensitivity reaches pg/mL level with a CV (coefficient of variation) under 10%, so the number you get at 2 ng/mL is as trustworthy as the one at 15 ng/mL.
 
+On the hardware side, breeders and clinics have two choices:
 
-## Do we have a product that can work for canine breeding?
+| | FIA680 | FIA880 |
+|---|---|---|
+| Channels | 1 (single) | 6 (parallel) |
+| Result time | 3–11 min | 3–15 min |
+| Throughput | Up to 200 tests/hour | Up to 300 tests/hour |
+| Temperature control | Standard | Constant-temperature |
+| Best for | Small clinics, breeders, mobile vets | Hospitals, reference labs, multi-user |
 
+For a breeder running serial progesterone curves on one bitch, a single-channel FIA680 is the economical choice. For a busy clinic running progesterone, thyroid and cardiac panels across several rooms at once, the FIA880's six channels mean nobody queues.
 
-Our company produces reliable canine pregnancy testing kits that are Veterinary immunofluorescence quantitative analyzer kits for both relaxin and progesterone detection. The progesterone kit (item MG-CA-R020) provides testing of 50μl samples within 15 minutes to monitor pregnancy status. These professional kits are used worldwide by breeders and veterinary clinics for accurate confirmation of pregnancies without needing an office visit.
+---
 
+## What a Breeder Actually Needs to Buy
 
-## What does the canine progesterone test indicate?
+This is where the "test" and the "testing program" part ways. A single progesterone number is nearly worthless; a **series** is what times a breeding. So budget for the program, not the kit.
 
+**The reagents:**
+- **cProgesterone** (cat. MG-CA-R020) — for ovulation timing
+- **cRelaxin** (cat. MG-CA-R021) — for pregnancy confirmation
 
-A canine progesterone test measures the level of progesterone hormones in the bitch’s system. Elevated progesterone confirms the presence of corpora lutea, which form after ovulation during each oestrous cycle. If the bitch has mated and conceived, the corpus luteum persists longer than a non-pregnant cycle, keeping progesterone levels high as it supports early embryonic development. A positive progesterone test between 18-30 days after breeding confirms pregnancy in dogs.
+Both are 10-test boxes, store at room temperature, and carry a 2-year shelf life.
 
+**The rough math on one cycle:**
 
-## How much does this progesterone kit cost? For how many samples?
+A typical breeding cycle runs **5–8 serial progesterone tests** — you start a few days into oestrus and test every 1–2 days until the surge and ovulation are confirmed, then run one or two relaxin tests around day 28–30 to confirm. So plan for roughly **one box of progesterone reagent per cycle**, plus a relaxin test or two. It's a small line item next to the cost of a missed window — a single mistimed frozen-semen insemination wastes more than the entire testing program for that cycle.
 
+One honest note for anyone coming from retail pet sites: Migibio is a manufacturer, and these kits are sold B2B — typically to veterinary clinics, distributors and professional breeders, with a minimum order around 10 boxes. We don't publish a fixed per-box retail price for the same reason your clinic's supplier doesn't put one on a public page: it depends on volume, region and OEM/private-label terms. If you're a breeder buying for one dog, the practical route is through your vet or a distributor; if you're a clinic or importer running volume, the number you care about is the **per-test landed cost at your MOQ**, which is a quote, not a list price.
 
-This company’s Canine Progesterone (MG-CA-R020) kit costs around $55 and provides materials to test 10 samples. Given that breeding usually produces a single pregnancy, one kit would confirm or rule out pregnancy in a single-bred bitch. Additional samples could check for returning to estrus if initial testing was inconclusive or verify multiple breedings. The affordable per-test cost and convenience of home testing make this an efficient option for breeders and pet owners.
+---
 
+## Frozen Semen Changes the Math
 
-## Does pet insurance cover the testing expense?
+Everything above about "semi-quantitative is fine for fresh semen" collapses the moment you freeze. Put the numbers side by side and the risk becomes obvious:
 
+| | Fresh semen | Chilled | Frozen |
+|---|---|---|---|
+| Sperm survival in the bitch | 4–6 days | ~3 days | ~12 hours |
+| Timing tolerance | Wide — breed a day "early" and it still works | Moderate | Near-zero — hours matter |
+| Progesterone precision needed | Coarse (strip acceptable) | Moderate | **Quantitative, 10–20 ng/mL range** |
 
-Some pet insurance policies aimed at breeding dogs may help cover routine reproductive health costs like pregnancy confirmation tests. Owners would need to check their policy terms to see if testing expenses or any veterinary diagnostic services are included. Basic health and accident plans usually do not cover breeding-related costs. The affordable cost of reliable home test kits makes self-pay an accessible option as well.
+Frozen semen lives about 12 hours. A semi-quantitative strip capped at 5 ng/mL cannot see the 10–20 ng/mL region where frozen-semen insemination must land — which is why frozen-semen programs are the one scenario where we tell every breeder, without exception, to use a quantitative reader. The 1.7-puppy gap from the 1,400-cycle study isn't theoretical; it's the cost of reading the number too coarsely.
 
+---
 
-## Can we do a test for our dog with a progesterone kit at home?
+## FAQ
 
+### Which test confirms pregnancy — progesterone or relaxin?
 
-Yes, the progesterone kit is designed for convenient at-home use without requiring a vet visit. The instructions and materials provided allow any dog owner to collect and prepare a urine sample safely at home. The kit includes simple step-by-step directions to perform the immunoassay test and interpret results within 15 minutes. This professional-grade kit allows accurate confirmation without needing veterinary involvement beyond the initial purchase.
+Relaxin. It's the only hormone produced solely by the placenta, so it appears only in pregnancy and is reliably detectable from ~day 21–28 post-ovulation, reaching 95–100% by day 30. Progesterone is high during every cycle, pregnant or not, so it times ovulation but cannot confirm conception.
 
+### How early can I test for pregnancy?
 
-## Does the progesterone testing kit tell false-negative /false-positive pregnancy?
+Not before about three weeks. Relaxin needs a placenta to exist, and implantation hasn't happened before roughly day 21. The earliest reliable detection is ~day 25 in some dogs, with near-total reliability by day 30. A negative on day 15 is "too early," not "not pregnant."
 
+### Why do I need a number instead of a positive/negative strip?
 
-Like any diagnostic test, false results are possible but rare with a reliable progesterone kit used as directed. The main causes of inaccuracies include testing too early before progesterone is accurately elevated, using an inadequate or compromised sample, or not following directions properly. When utilized 17-30 days after the suspected breeding, the test accuracy approaches 100%. Re-testing a week later resolves any questionable early results. Overall, this progesterone test is considered the canine pregnancy confirmation gold standard for reliability when used correctly.
+Because the breeding decision lives in the number: 2–3 ng/mL is the LH surge, ~5 ng/mL is ovulation, 8–15 ng/mL is the window. A "positive" strip tells you the dog is cycling — which you already knew. And if the strip caps at 5 ng/mL, it can't see the 10–20 ng/mL range frozen-semen timing requires.
 
+### How many tests does one breeding cycle actually take?
 
-## Why we do not use rapid test kits? Which one is better?
+Five to eight serial progesterone tests, run every 1–2 days from early oestrus through ovulation, plus one or two relaxin tests around day 28–30 to confirm. Treat it as roughly one box of progesterone reagent per cycle.
 
+### What's the difference between a semi-quantitative and a quantitative test?
 
-While rapid in-clinic tests exist for dogs, they have lower sensitivity compared to quantitative progesterone testing. Rapid tests rely on qualitative detection of relaxin, which disappears too quickly, or basic yes/no indicators of pregnancy status without confirming levels. Professional veterinary-grade progesterone immunoassays provide a quantitative measurement to precisely determine the threshold confirming a dog’s pregnant state versus normal cycles. The greater accuracy and reliability of quantitative progesterone kits make them preferred by professional breeders over domestic rapid tests.
+Semi-quantitative brackets progesterone into coarse bands (often capped near 5 ng/mL); quantitative returns an exact concentration with pg/mL sensitivity and CV under 10%. For fresh-semen natural mating the coarse bands can work; for frozen or chilled semen you need the exact number.
 
+### Can progesterone confirm a pregnancy?
+
+No. Progesterone rises in every oestrous cycle whether the bitch conceives or not. It is a timing marker, not a pregnancy marker. Only relaxin (placental) confirms pregnancy.
+
+### What equipment do I need to run these tests?
+
+A fluorescence immunoassay analyzer. The single-channel FIA680 suits breeders and small clinics; the six-channel FIA880 handles busy hospitals running multiple panels concurrently. Both read the full Migibio reagent menu, not just reproduction.
+
+---
+
+## Key Takeaways
+
+1. **Two hormones, two jobs** — progesterone times ovulation, relaxin confirms pregnancy. Confusing them is the #1 cause of wrong-test problems in breeding.
+2. **"Positive" is not a result** — every cycling bitch has progesterone; the decision lives in the number (2–3 ng/mL surge, ~5 ovulation, 8–15 window).
+3. **Relaxin is the only pregnancy-only marker** — reliably positive from ~day 21–28, 95–100% by day 30; before implantation there's nothing to detect.
+4. **Semi-quantitative caps at ~5 ng/mL** — blind in the 10–20 ng/mL range that frozen semen (12-hour survival) demands.
+5. **Precision pays** — a 1,400-cycle study showed a 1.7-puppy gap (5.6 vs 3.9) between correctly-timed and mistimed frozen-semen breedings.
+6. **Budget the program, not the kit** — plan 5–8 progesterone tests plus 1–2 relaxin tests per cycle, roughly one reagent box.
+
+---
 
 ## References
 
+- dvm360. "Breeding Management 102 — It's All in the Timing (Proceedings)." Veterinary conference proceedings on progesterone thresholds and breeding-window timing.
+- Kunanusont N, et al. "A comparison of progesterone determination methods in bitches." *Vet World* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
+- Buff S, et al. (2001). Relaxin detection for early canine pregnancy confirmation (ReproCHEK ELISA), as cited in PMC7126177.
+- Texas A&M Veterinary Medical Diagnostic Laboratory (TVMDL). "Relaxin (Lateral Flow)" test guidance — detection windows and interpretation.
+- PMC8924395. Comparative evaluation of three quantitative progesterone measurement methods in dogs.
 
-Dreger, D. L., Sutherland, R. J., & Friesen, K. G. (2021). The accuracy of canine DNA tests: A review of methodologies and applications in breeding. Journal of Veterinary Diagnostics and Investigation, 33(3), 446-452.
+---
 
-Peterson, R. M., & Haines, D. M. (2020). Diagnostic imaging in veterinary reproductive medicine. Veterinary Clinics of North America: Small Animal Practice, 50(5), 1091-1104.
+*This content is for educational and product-selection purposes only. Test results are one input to a breeding decision — always work with your veterinarian for diagnosis and insemination timing. Product specifications (cat. numbers, packaging, shelf life) are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may be updated; confirm with a sales representative before ordering.*

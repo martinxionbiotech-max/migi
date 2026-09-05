@@ -1,7 +1,7 @@
 ---
-title: "Canine cPL and Feline fPL: Diagnosing Pancreatitis with Confidence"
+title: "Pancreatitis Tests for Dogs and Cats: cPL, fPL and Reading the Grey Zone"
 slug: "canine-cpl-feline-fpl-pancreatitis-testing"
-description: "A practical guide to canine cPL and feline fPL testing for pancreatitis: reference ranges, grey-zone interpretation, why amylase and lipase fail, and how quantitative immunoassay improves diagnosis."
+description: "Pancreatitis hides behind vague signs — vomiting, inappetence, just not right. cPL (>400 µg/L in dogs) and fPL (≥5.4 µg/L in cats) catch it specifically. Here are the cut-offs, the grey zone, and why a 10–20 minute number beats the old markers."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
@@ -9,7 +9,7 @@ category: "blog"
 faq: [{"q": "What is cPL and how is it different from fPL?", "a": "cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific pancreatic lipase immunoreactivity tests. cPL is used in dogs, fPL in cats, and they are not interchangeable — each measures the pancreas-specific lipase of that species."}, {"q": "What is a normal cPL level in dogs?", "a": "A cPL below 200 µg/L is normal, 200–400 µg/L is equivocal, and above 400 µg/L is consistent with pancreatitis. Values above 400 µg/L have roughly 93% sensitivity for moderate to severe pancreatitis."}, {"q": "What is a normal fPL level in cats?", "a": "An fPL of 3.5 µg/L or lower is normal, 3.6–5.3 µg/L is equivocal, and 5.4 µg/L or higher is consistent with pancreatitis. Grey-zone results may warrant repeat testing or abdominal ultrasound."}, {"q": "Why are amylase and lipase unreliable for pancreatitis?", "a": "Amylase and lipase are not pancreas-specific and are affected by many non-pancreatic conditions, so they have poor sensitivity and specificity for pancreatitis. Pancreatic lipase immunoreactivity (cPL/fPL) is far more accurate."}, {"q": "Can I use cPL on a cat or fPL on a dog?", "a": "No. cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific assays and are not interchangeable. Running a dog assay on a cat sample, or vice versa, produces an invalid result. Always use the assay matched to the species."}, {"q": "How fast is a cPL or fPL result?", "a": "Quantitative immunofluorescence analyzers like the Migibio FIA680 and FIA880 return cPL and fPL results in about 10–20 minutes from serum or plasma, so pancreatitis can be ruled in or out during the same visit."}]
 ---
 
-# Canine cPL and Feline fPL: Diagnosing Pancreatitis with Confidence
+# Pancreatitis Tests for Dogs and Cats: cPL, fPL and Reading the Grey Zone
 
 > **TL;DR** — Pancreatitis is under-diagnosed because the old markers, amylase and lipase, are unreliable. Species-specific pancreatic lipase immunoreactivity fixes that: canine cPL >400 µg/L and feline fPL ≥5.4 µg/L are consistent with pancreatitis. Quantitative immunoassay returns a number in 10–20 minutes, and the magnitude tracks severity — so you can diagnose *and* monitor with one test.
 
@@ -95,6 +95,18 @@ The opposite trap is equally common: a very high cPL/fPL with no clinical signs.
 
 ---
 
+## What a 10-Minute Pancreatitis Answer Is Worth
+
+For a clinic, pancreatitis is one of the highest-frequency rule-in/rule-out calls in small-animal practice, and the economics line up on both ends:
+
+- **It resolves the vague presentation same-visit.** A vomiting dog or a "just not right" cat gets a definitive cPL/fPL number in 10–20 minutes — no overnight reference-lab wait, no treating on a guess. That turns an ambiguous workup into a same-day diagnosis.
+- **It prevents the two costly mistakes.** Missed pancreatitis means a patient sent home to deteriorate; over-diagnosed "pancreatitis" means unnecessary antibiotics and hospitalization. A specific number avoids both.
+- **It's a high-frequency billable test.** Vomiting, abdominal pain and inappetence are among the most common presenting complaints in practice — which makes cPL/fPL a recurring revenue line, not an occasional one-off.
+
+For the owner, the framing is simple: one blood test that tells us, in about fifteen minutes, whether it's the pancreas or something else — so we stop guessing and start treating the right thing.
+
+---
+
 ## How the Test Works
 
 cPL and fPL are run from serum or plasma on a quantitative immunofluorescence analyzer:
@@ -130,7 +142,7 @@ Because the output is a number, you can trend it — a falling cPL over 48–72 
 - Steiner JM, et al. *Vet Ther.* 2008;9(4):263–273. PMID 19177332
 - Forman MA, et al. *J Vet Intern Med.* 2004;18(6):807–815. PMID 15638262
 
-*This article is for veterinary professional education. Reference ranges vary by assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a vomiting or inappetent animal should be seen by a veterinarian. Reference ranges vary by assay; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 

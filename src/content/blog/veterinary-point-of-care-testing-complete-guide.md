@@ -1,5 +1,5 @@
 ---
-title: "Veterinary Point-of-Care Testing (POCT): The Complete Guide"
+title: "Point-of-Care Testing in Veterinary Clinics: Speed, Revenue and Payback"
 slug: "veterinary-point-of-care-testing-complete-guide"
 description: "A complete guide to veterinary point-of-care testing (POCT): what it is, how lateral-flow and fluorescence immunoassay technologies work, the benefits and limitations, and how to build a POCT workflow in your practice."
 pubDate: "2025-04"

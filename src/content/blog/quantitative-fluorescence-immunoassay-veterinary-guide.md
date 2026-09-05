@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Fluorescence Immunoassay (FIA) in Veterinary Medicine: The Definitive Guide"
+title: "Fluorescence Immunoassay (FIA) in Veterinary Practice: Why a Number Beats a Line"
 slug: "quantitative-fluorescence-immunoassay-veterinary-guide"
 description: "A complete guide to quantitative fluorescence immunoassay (FIA) in veterinary diagnostics — how FICT works, why quantitative beats qualitative, and how to read and trust the numbers."
 pubDate: "2026-09"

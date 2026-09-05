@@ -1,5 +1,5 @@
 ---
-title: "Canine Distemper (CDV) Testing: A Practical Guide"
+title: "Distemper Tests for Dogs: Antigen vs Antibody and What Each Result Means"
 slug: "canine-distemper-testing-guide"
 description: "A practical guide to canine distemper virus (CDV) testing: antigen vs antibody tests, when to test, interpreting results, and how quantitative testing helps diagnose this challenging disease."
 pubDate: "2025-03"

@@ -1,5 +1,5 @@
 ---
-title: "Feline Infectious Disease Testing: The Complete Guide"
+title: "Cat Infectious Disease Testing: Which Viruses One Panel Can Catch"
 slug: "feline-infectious-disease-testing-guide"
 description: "A complete guide to feline infectious disease testing: panleukopenia (FPV), herpesvirus (FHV-1), calicivirus (FCV), coronavirus (FCoV/FIP), leukemia virus (FeLV), and immunodeficiency virus (FIV). Learn when to test and how to interpret results."
 pubDate: "2025-04"

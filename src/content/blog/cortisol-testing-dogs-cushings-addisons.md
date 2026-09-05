@@ -1,7 +1,7 @@
 ---
-title: "Cortisol Testing in Dogs: Diagnosing Cushing's and Addison's Disease"
+title: "Dog Cortisol Tests: Cushing's, Addison's and Why a Single Number Can't Diagnose"
 slug: "cortisol-testing-dogs-cushings-addisons"
-description: "A practical guide to cortisol testing in dogs: basal cortisol, the ACTH stimulation test, the low-dose dexamethasone suppression test (LDDST), and how to diagnose Cushing's syndrome and Addison's disease."
+description: "A single resting cortisol can't diagnose Cushing's — you need a dynamic test. ACTH stimulation (post-ACTH >22 µg/dL = Cushing's, <2 = Addison's) and LDDST (8-hour >1.4 µg/dL) are the workhorses. Here's the two-test rule and what a same-day workup is worth."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
@@ -9,7 +9,7 @@ category: "blog"
 faq: [{"q": "Can a single cortisol test diagnose Cushing's disease?", "a": "No. Cortisol is pulsatile and stress-responsive, so a single resting value overlaps between normal, stressed, and hyperadrenocorticoid dogs. Diagnosing Cushing's requires dynamic testing — the ACTH stimulation test or the low-dose dexamethasone suppression test (LDDST)."}, {"q": "What is the ACTH stimulation test?", "a": "The ACTH stimulation test measures cortisol before and about one hour after injecting synthetic ACTH. A post-ACTH cortisol above 22 µg/dL supports Cushing's disease (17–22 µg/dL is equivocal), while a value below 2 µg/dL confirms Addison's disease."}, {"q": "How is Addison's disease screened?", "a": "A basal (resting) cortisol below 2 µg/dL is highly suggestive of Addison's disease and warrants an ACTH stimulation test to confirm. A basal cortisol above 2 µg/dL makes Addison's unlikely, so further testing is usually unnecessary."}, {"q": "What is the LDDST?", "a": "The low-dose dexamethasone suppression test (LDDST) administers a low dose of dexamethasone and measures cortisol at 0, 4, and 8 hours. An 8-hour cortisol above 1.4 µg/dL indicates failure to suppress and is consistent with Cushing's disease."}, {"q": "Why can't a single cortisol test diagnose Cushing's disease?", "a": "Cortisol is pulsatile and stress-responsive, so one resting value overlaps between normal, stressed, and hyperadrenocorticoid dogs. Cushing's diagnosis requires dynamic testing — the ACTH stimulation test or the low-dose dexamethasone suppression test — which measures the adrenal gland's response to a challenge."}, {"q": "How long does a cortisol workup take?", "a": "With in-clinic quantitative immunofluorescence testing, the ACTH stimulation test (two samples) or LDDST (three timed samples) can be completed the same day, with each cortisol value returning in about 15 minutes. This avoids shipping samples to a reference laboratory."}]
 ---
 
-# Cortisol Testing in Dogs: Diagnosing Cushing's and Addison's Disease
+# Dog Cortisol Tests: Cushing's, Addison's and Why a Single Number Can't Diagnose
 
 > **TL;DR** — A single resting cortisol can't diagnose Cushing's; you need dynamic testing. The ACTH stimulation test (post-ACTH >22 µg/dL = Cushing's; <2 µg/dL = Addison's) and the low-dose dexamethasone suppression test (8-hour cortisol >1.4 µg/dL = Cushing's) are the workhorses. Addison's is screened with a basal cortisol <2 µg/dL. Quantitative immunoassay returns these values in ~15 minutes, so the whole workup can happen in a day.
 
@@ -123,6 +123,18 @@ The lesson: cortisol testing is a protocol, not a single draw. Getting the proto
 
 ---
 
+## What a Same-Day Cortisol Workup Is Worth
+
+Adrenal testing is one of the few diagnostic areas where the *protocol* — not just the result — drives the clinic's value:
+
+- **Addison's is a life-or-death screen.** A collapsed, hyperkalemic dog with a basal cortisol <2 µg/dL is an emergency that a 15-minute number turns from a mystery into a treatable disease. Few tests pay for themselves in saved lives this directly.
+- **Cushing's is a long-term monitoring relationship.** Once diagnosed, a Cushing's patient on trilostane or mitotane needs serial ACTH stimulation tests to titrate the dose — typically every few months, for the rest of the dog's life. That's a recurring, protocol-driven revenue stream, not a one-off test.
+- **Same-day dynamic testing keeps the workup in-house.** The ACTH stimulation (2 samples) and LDDST (3 timed samples) would each mean multiple reference-lab submissions and a wait. On an in-clinic analyzer, each cortisol value returns in ~15 minutes, so the whole dynamic test finishes the same day — and the revenue stays in the practice.
+
+For the owner, the framing is straightforward: a hormone test that tells us whether your dog's drinking, pot belly and hair loss are Cushing's — and, once we know, lets us tune the medication to the right dose over time.
+
+---
+
 ## How the Test Works
 
 Cortisol is measured from serum or plasma on a quantitative immunofluorescence analyzer:
@@ -153,7 +165,7 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 - Cornell eClinPath — Adrenal function testing: https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/
 - MSD Veterinary Manual — Hyperadrenocorticism: https://www.msdvetmanual.com/endocrine-system/pituitary-disorders/hyperadrenocorticism
 
-*This article is for veterinary professional education. Reference ranges and cutoffs vary by assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any dog with suspected adrenal disease should be evaluated by a veterinarian. Reference ranges and cutoffs vary by assay; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 

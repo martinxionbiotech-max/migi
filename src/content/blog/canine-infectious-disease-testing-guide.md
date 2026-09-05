@@ -1,5 +1,5 @@
 ---
-title: "Canine Infectious Disease Testing: The Complete Guide"
+title: "Dog Infectious Disease Testing: One Panel for Parvo, Distemper and Corona"
 slug: "canine-infectious-disease-testing-guide"
 description: "A complete guide to canine infectious disease testing: parvovirus, distemper, coronavirus, adenovirus, Leishmania, and Toxoplasma. Learn antigen vs antibody testing, when to test, and how to interpret results."
 pubDate: "2025-04"
