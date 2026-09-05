@@ -133,3 +133,10 @@ They're small per test but not zero — **2 cost buckets** (controlled storage a
 3. IRIS (International Renal Interest Society). CKD Guidelines, incorporating SDMA. 2015.
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Veterinary Immunofluorescence Analyzer: Four Key Decisions](/blog/how-to-choose-a-veterinary-immunofluorescence-analyzer)
+- [Bulk Ordering & Distributor Pricing: How It Works](/blog/bulk-ordering-distributor-pricing-veterinary-diagnostics)
+- [Veterinary Diagnostic OEM/ODM: What You Need to Know](/blog/veterinary-diagnostic-oem-odm)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

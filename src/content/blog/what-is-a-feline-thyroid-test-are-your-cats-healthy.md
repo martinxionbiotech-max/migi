@@ -155,3 +155,10 @@ FT4 is ~98.5% sensitive, so it's excellent for ruling hyperthyroidism out when t
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis or treatment — a cat with suspected thyroid disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Cornell eClinPath — Adrenal Function](https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/)
 - [MSD Veterinary Manual](https://www.msdvetmanual.com/)
+
+## Continue exploring
+
+- [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons)
+- [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing)
+- [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

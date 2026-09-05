@@ -7,11 +7,35 @@ catNo: "MG-CA-R011"
 image: "/images/migi-cat-feline-panleukopenia-virus-antibody-fpv-ab-rapid-quantitative-test.png"
 order: 15
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test", "CAT No.": "MG-CA-R011", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test?", "a": "The FPV-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of panleukopenia virus antibodies (FPV-Ab) in serum or plasma. This test can be used to assess the level of FPV-Ab titer following pet vaccination, helping to determine whether a booster vaccination is necessary. Additionally, it aids in the diagnosis and monitoring of feline panleukopenia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test use?", "a": "The test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal is proportional to the amount of FPV-Ab captured, and the concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test between 18–28°C after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of FPV-Ab in Canine Serum or Plasma: Detection Range: 4.5–640 Tu/ml Reference Range: Item Result (Tu/ml) Level Suggestion ≤ 9 0 No antibody protection; vaccination recommended. 9 – 50 1 Weak antibody protection; supplementary immunization or adjusted immunization program advised. 50 – 150 2 Weak antibody protection; supplementary immunization or adjusted immunization program advised. 150 – 300 3 Moderate antibody protection; monitor antibody levels every 6 months. 300 – 500 4 Moderate antibody protection; monitor antibody levels every 6 months. > 500 5 Strong antibody protection; annual testing recommended to ensure timely vaccine protection. Note: If the pet has not been vaccinated but shows a level above 1, it may indicate past infection. Each laboratory should establish a reference range appropriate to the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test?", "a": "The FPV-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of panleukopenia virus antibodies (FPV-Ab) in serum or plasma. This test can be used to assess the level of FPV-Ab titer following pet vaccination, helping to determine whether a booster vaccination is necessary. Additionally, it aids in the diagnosis and monitoring of feline panleukopenia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test use?", "a": "The test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal is proportional to the amount of FPV-Ab captured, and the concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test between 18–28°C after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of FPV-Ab in Canine Serum or Plasma: Detection Range: 4.5–640 Tu/ml Reference Range: Item Result (Tu/ml) Level Suggestion ≤ 9 0 No antibody protection; vaccination recommended. 9 – 50 1 Weak antibody protection; supplementary immunization or adjusted immunization program advised. 50 – 150 2 Weak antibody protection; supplementary immunization or adjusted immunization program advised. 150 – 300 3 Moderate antibody protection; monitor antibody levels every 6 months. 300 – 500 4 Moderate antibody protection; monitor antibody levels every 6 months. > 500 5 Strong antibody protection; annual testing recommended to ensure timely vaccine protection. Note: If the pet has not been vaccinated but shows a level above 1, it may indicate past infection. Each laboratory should establish a reference range appropriate to the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test is suitable for serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R011`  
+> **TL;DR** — The **Feline Panleukopenia Virus Antibody (FPV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Panleukopenia Virus Antibody (FPV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Feline Panleukopenia Virus Antibody (FPV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test is suitable for serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

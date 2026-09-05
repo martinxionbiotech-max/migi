@@ -150,3 +150,10 @@ Because the output is a number, you can trend it — a falling cPL over 48–72 
 - **Review:** Reference ranges and cutoffs cross-checked against IDEXX Spec cPL/fPL, Texas A&M GI Lab, and peer-reviewed literature (References above).
 - **Last updated:** 2026-08-29.
 - **Note:** Sensitivity/specificity figures vary by study population and are marked "approximate".
+
+## Continue exploring
+
+- [Feline Hyperthyroidism: The T4 Test and Its Misses](/blog/what-is-a-feline-thyroid-test-are-your-cats-healthy)
+- [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons)
+- [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

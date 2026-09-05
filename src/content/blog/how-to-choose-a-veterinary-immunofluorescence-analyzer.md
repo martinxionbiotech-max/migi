@@ -121,3 +121,10 @@ Demand **2 things**: sensitivity/specificity from a real study and confirmed cal
 *This content is for educational and product-selection purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
 - [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 - [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
+
+## Continue exploring
+
+- [Bulk Ordering & Distributor Pricing: How It Works](/blog/bulk-ordering-distributor-pricing-veterinary-diagnostics)
+- [Veterinary Diagnostic OEM/ODM: What You Need to Know](/blog/veterinary-diagnostic-oem-odm)
+- [Veterinary Diagnostic Certifications: CE, ISO and QC](/blog/veterinary-diagnostic-certifications-ce-iso-qc)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

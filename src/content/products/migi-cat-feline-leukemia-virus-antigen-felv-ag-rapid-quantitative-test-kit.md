@@ -7,11 +7,35 @@ catNo: "MG-CA-R028"
 image: "/images/migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit.png"
 order: 12
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R028", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit?", "a": "The FeLV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of leukemia virus antigen (FeLV-Ag) in feline serum or plasma. It is used as an aid in diagnosing and monitoring feline leukemia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of FeLV-Ag captured, and the concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, complete the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FeLV-Ag in Feline Serum or Plasma: Detection Range: 5.0–320 Tu/ml Result (Tu/ml) Interpretation Suggestion ≤ 10 Negative (-) 10–13 Suspected (±) 13–25 Weak Positive (+) 25–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit?", "a": "The FeLV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of leukemia virus antigen (FeLV-Ag) in feline serum or plasma. It is used as an aid in diagnosing and monitoring feline leukemia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of FeLV-Ag captured, and the concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, complete the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FeLV-Ag in Feline Serum or Plasma: Detection Range: 5.0–320 Tu/ml Result (Tu/ml) Interpretation Suggestion ≤ 10 Negative (-) 10–13 Suspected (±) 13–25 Weak Positive (+) 25–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R028`  
+> **TL;DR** — The **Feline Leukemia Virus Antigen（FeLV-Ag）** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 15-minute Quick Test result. For clinical interpretation, see [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Leukemia Virus Antigen（FeLV-Ag） results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where Feline Leukemia Virus Antigen（FeLV-Ag） is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using serum or plasma.
 
 ## Product Specifications
 

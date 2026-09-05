@@ -146,3 +146,10 @@ Because 3 clinical signs overlap heavily, while treatment, isolation and prognos
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a sick dog should be seen by a veterinarian.*
 - [Wikipedia — Canine parvovirus](https://en.wikipedia.org/wiki/Canine_parvovirus)
 - [Morris Animal Foundation — Parvovirus](https://www.morrisanimalfoundation.org/article/canine-parvovirus)
+
+## Continue exploring
+
+- [Cat Infectious Disease Testing: What One Panel Can Catch](/blog/feline-infectious-disease-testing-guide)
+- [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing)
+- [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

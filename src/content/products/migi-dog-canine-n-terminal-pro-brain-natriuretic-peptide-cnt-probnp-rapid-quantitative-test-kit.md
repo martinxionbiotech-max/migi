@@ -7,11 +7,35 @@ catNo: "MG-CA-R019"
 image: "/images/migi-dog-canine-n-terminal-pro-brain-natriuretic-peptide-cnt-probnp-rapid-quantitative-test-kit.png"
 order: 25
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R019", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit?", "a": "The cNT-proBNP test is a fluorescence immunoassay designed for the quantitative determination of N-terminal pro-brain natriuretic peptide (cNT-proBNP) concentration in canine serum or plasma. It aids in evaluating the risk of cardiac failure in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cNT-proBNP captured. Results are expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the pouch. Once the pouch is opened, the test should be used within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 450 ~ 10,000 pmol/L Conversion Factor : 1 pmol/L = 8.457 pg/ml Reference Ranges : Result (pmol/L) Suggestion ≤ 900 Normal 900 – 1800 Suspected (SUS) > 1800 Abnormal Each laboratory should establish its own reference range based on the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit?", "a": "The cNT-proBNP test is a fluorescence immunoassay designed for the quantitative determination of N-terminal pro-brain natriuretic peptide (cNT-proBNP) concentration in canine serum or plasma. It aids in evaluating the risk of cardiac failure in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cNT-proBNP captured. Results are expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the pouch. Once the pouch is opened, the test should be used within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 450 ~ 10,000 pmol/L Conversion Factor : 1 pmol/L = 8.457 pg/ml Reference Ranges : Result (pmol/L) Suggestion ≤ 900 Normal 900 – 1800 Suspected (SUS) > 1800 Abnormal Each laboratory should establish its own reference range based on the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "This test can be performed using serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R019`  
+> **TL;DR** — The **Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & emergency hospitals** — same-visit quantitative Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) results for cardiac screening and triage.
+- **Animal hospitals** — serial monitoring of heart-disease patients.
+- **Reference labs & multi-vet hospitals** — batch testing for cardiology panels.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+This test can be performed using serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

@@ -129,3 +129,10 @@ For **2 semen types** the answer changes: fresh-semen natural breeding can use a
 3. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Progesterone vs Relaxin vs Ultrasound for Breeding](/blog/progesterone-vs-relaxin-vs-ultrasound)
+- [Relaxin for Early Canine Pregnancy Confirmation](/blog/relaxin-early-pregnancy-confirmation-dogs)
+- [Quantitative vs Qualitative Progesterone for Breeding](/blog/quantitative-vs-qualitative-progesterone)
+- [Dog and Cat Breeding Management: Progesterone to Ultrasound](/blog/canine-feline-breeding-management-testing)

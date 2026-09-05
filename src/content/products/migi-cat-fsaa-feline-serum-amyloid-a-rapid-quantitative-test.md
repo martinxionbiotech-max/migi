@@ -7,11 +7,35 @@ catNo: "MG-CA-R002"
 image: "/images/migi-cat-fsaa-feline-serum-amyloid-a-rapid-quantitative-test.png"
 order: 18
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "fSAA Feline Serum Amyloid A Rapid Quantitative Test", "CAT No.": "MG-CA-R002", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test?", "a": "The fSAA test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline serum amyloid A (fSAA) concentration in whole blood, serum, or plasma specimens. This test helps in confirming underlying inflammation and monitoring response to therapy, as well as post-operative effects and recovery. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of fSAA captured, with results expressed in mg/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. The test should be conducted at 18–28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of fSAA in Feline Serum, Plasma, or Whole Blood: Detection Range: 5–300 mg/L Reference Range: Result (mg/L) Interpretation ≤ 10 Normal (-) 10–30 Mild Inflammation (+) 30–100 Moderate Inflammation (++) > 100 Serious Inflammation (+++) Each laboratory should establish a reference range appropriate for the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test?", "a": "The fSAA test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline serum amyloid A (fSAA) concentration in whole blood, serum, or plasma specimens. This test helps in confirming underlying inflammation and monitoring response to therapy, as well as post-operative effects and recovery. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of fSAA captured, with results expressed in mg/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. The test should be conducted at 18–28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of fSAA in Feline Serum, Plasma, or Whole Blood: Detection Range: 5–300 mg/L Reference Range: Result (mg/L) Interpretation ≤ 10 Normal (-) 10–30 Mild Inflammation (+) 30–100 Moderate Inflammation (++) > 100 Serious Inflammation (+++) Each laboratory should establish a reference range appropriate for the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed with serum, plasma, or whole blood, though serum or plasma is recommended."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R002`  
+> **TL;DR** — The **fSAA Feline Serum Amyloid A** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 3-minute Quick Test result. For clinical interpretation, see [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative fSAA Feline Serum Amyloid A results to support inflammation detection and therapy monitoring.
+- **Shelters & rescue groups** — intake wellness screening where inflammatory markers are indicated.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed with serum, plasma, or whole blood, though serum or plasma is recommended.
 
 ## Product Specifications
 

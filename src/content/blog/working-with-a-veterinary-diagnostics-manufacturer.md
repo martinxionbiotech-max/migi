@@ -214,3 +214,10 @@ Add analyzer cost + expected reagent spend over 2–3 years + shipping + customs
 - **Review:** Market figures cross-checked against Nova One Advisor and GM Insights (References above); regulatory content reviewed against EU IVDR and ISO documentation.
 - **Last updated:** 2026-08-29.
 - **Note:** Market sizes vary by scope (products vs services) and source; figures are cited to their specific report.
+
+## Continue exploring
+
+- [10 Questions to Ask Before Choosing a Pet Test Kit Supplier](/blog/questions-to-ask-pet-test-kit-supplier)
+- [Migibio vs a Well-Known Chinese Brand: FIA Compared](/blog/migibio-vs-a-well-known-chinese-brand-comparison-of-pet-fluorescence-detection-systems)
+- [FIA680 vs FIA880: Which Analyzer Fits Your Practice](/blog/fia680-vs-fia880-analyzer)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

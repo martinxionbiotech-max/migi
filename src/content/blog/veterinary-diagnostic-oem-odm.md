@@ -150,3 +150,10 @@ In practice, clarify scope, timelines and regulatory responsibility early, and t
 - **Author:** Dr. Tang — veterinary diagnostics specialist.
 - **Review:** OEM/ODM process and regulatory references cross-checked against EU IVDR and ISO documentation.
 - **Last updated:** 2026-08-29.
+
+## Continue exploring
+
+- [Veterinary Diagnostic Certifications: CE, ISO and QC](/blog/veterinary-diagnostic-certifications-ce-iso-qc)
+- [Working with a Veterinary Diagnostics Manufacturer](/blog/working-with-a-veterinary-diagnostics-manufacturer)
+- [10 Questions to Ask Before Choosing a Pet Test Kit Supplier](/blog/questions-to-ask-pet-test-kit-supplier)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

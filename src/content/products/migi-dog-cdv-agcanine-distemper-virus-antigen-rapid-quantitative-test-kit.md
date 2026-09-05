@@ -7,11 +7,35 @@ catNo: "MG-CA-R004"
 image: "/images/migi-dog-cdv-agcanine-distemper-virus-antigen-rapid-quantitative-test-kit.png"
 order: 34
 attributes: {"Place of Origin": "China", "Product name": "CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R004", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit?", "a": "The CDV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure distemper virus antigen (CDV-Ag) in canine nasopharyngeal or ocular swabs. It is used to aid in diagnosing and monitoring canine distemper virus infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of CDV-Ag captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. After opening the Test Device, operate the test between 18°C and 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: 4.0 ~ 640 Tu/ml Reference range: ≤8 Tu/ml: Negative (-) 8–15 Tu/ml: Suspected (±) 15–40 Tu/ml: Weak Positive (+) 40–200 Tu/ml: Medium Positive (++) 200 Tu/ml: Strong Positive (+++) Each laboratory should establish a reference range suited to the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit?", "a": "The CDV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure distemper virus antigen (CDV-Ag) in canine nasopharyngeal or ocular swabs. It is used to aid in diagnosing and monitoring canine distemper virus infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of CDV-Ag captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. After opening the Test Device, operate the test between 18°C and 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: 4.0 ~ 640 Tu/ml Reference range: ≤8 Tu/ml: Negative (-) 8–15 Tu/ml: Suspected (±) 15–40 Tu/ml: Weak Positive (+) 40–200 Tu/ml: Medium Positive (++) 200 Tu/ml: Strong Positive (+++) Each laboratory should establish a reference range suited to the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using a nasopharyngeal or ocular swab."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R004`  
+> **TL;DR** — The **CDV-AgCanine Distemper Virus Antigen** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative CDV-AgCanine Distemper Virus Antigen results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where CDV-AgCanine Distemper Virus Antigen is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using a nasopharyngeal or ocular swab.
 
 ## Product Specifications
 

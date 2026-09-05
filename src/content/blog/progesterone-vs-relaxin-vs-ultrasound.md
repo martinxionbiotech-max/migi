@@ -115,3 +115,10 @@ Relaxin is the earliest blood-based confirmation, detectable from **~21–28 day
 3. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Relaxin for Early Canine Pregnancy Confirmation](/blog/relaxin-early-pregnancy-confirmation-dogs)
+- [Quantitative vs Qualitative Progesterone for Breeding](/blog/quantitative-vs-qualitative-progesterone)
+- [Dog and Cat Breeding Management: Progesterone to Ultrasound](/blog/canine-feline-breeding-management-testing)
+- [Dog Pregnancy Tests: Relaxin and Progesterone Explained](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding)

@@ -192,3 +192,10 @@ Yes — **3 payoffs make it worth stocking**: same-visit senior-panel revenue, l
 ---
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected kidney disease should be evaluated by a veterinarian. Reference ranges vary by assay; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Early Kidney Disease Detection in Dogs and Cats: SDMA](/blog/early-detection-chronic-kidney-disease-sdma-dogs-cats)
+- [SDMA in Cats: Catching Kidney Disease Early](/blog/what-is-cats-sdma-how-to-diagnose-it-quickly)
+- [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

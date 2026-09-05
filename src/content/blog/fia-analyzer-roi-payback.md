@@ -138,3 +138,10 @@ Use **1 honest number — profit (margin), not revenue** — gross revenue flatt
 2. McCord K, et al. Spec cPL for Diagnosis of Canine Pancreatitis. *Clinician's Brief.* [https://www.cliniciansbrief.com/article/spec-cpl-diagnosis-canine-pancreatitis](https://www.cliniciansbrief.com/article/spec-cpl-diagnosis-canine-pancreatitis)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Choosing a Veterinary Analyzer: Total Cost of Ownership](/blog/choosing-veterinary-analyzer-total-cost-ownership)
+- [In-House vs Reference Lab Testing: Cost and Revenue](/blog/in-house-vs-reference-lab-veterinary-testing-cost)
+- [The Real Cost of In-House Veterinary Diagnostics](/blog/in-house-veterinary-diagnostics-roi-guide)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

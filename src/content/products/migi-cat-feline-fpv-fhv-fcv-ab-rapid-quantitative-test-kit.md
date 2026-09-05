@@ -7,11 +7,35 @@ catNo: "MG-CA-R033"
 image: "/images/migi-cat-feline-fpv-fhv-fcv-ab-rapid-quantitative-test-kit.png"
 order: 4
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R033", "Package": "Box", "Appearance": "liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit?", "a": "The Feline FPV/FHV/FCV Ab test is a quantitative assay used with an Immunofluorescence Analyzer to measure antibodies for feline panleukopenia virus (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) in serum or plasma."}, {"q": "What detection principle does the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit use?", "a": "This test uses a double antigen sandwich fluorescence method. The intensity of the fluorescent signal indicates the concentration of antibodies, expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store at 4-30°C until the expiration date. Perform tests at 18-28°C after opening. Use the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "FPV-Ab : 4.5–640 Tu/ml FHV-Ab : 5.0–640 Tu/ml FCV-Ab : 5.0–640 Tu/ml Refer to the results table for interpretation based on antibody levels."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit?", "a": "The Feline FPV/FHV/FCV Ab test is a quantitative assay used with an Immunofluorescence Analyzer to measure antibodies for feline panleukopenia virus (FPV), feline herpesvirus (FHV), and feline calicivirus (FCV) in serum or plasma."}, {"q": "What detection principle does the Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit use?", "a": "This test uses a double antigen sandwich fluorescence method. The intensity of the fluorescent signal indicates the concentration of antibodies, expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store at 4-30°C until the expiration date. Perform tests at 18-28°C after opening. Use the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "FPV-Ab : 4.5–640 Tu/ml FHV-Ab : 5.0–640 Tu/ml FCV-Ab : 5.0–640 Tu/ml Refer to the results table for interpretation based on antibody levels."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Use serum or plasma (EDTA recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R033`  
+> **TL;DR** — The **Feline FPV/FHV/FCV Ab** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 2-year shelf life, an MOQ of 10, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline FPV/FHV/FCV Ab results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Feline FPV/FHV/FCV Ab is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10; shelf life is 2 years.
+
+**What sample does it use?**
+
+Use serum or plasma (EDTA recommended).
 
 ## Product Specifications
 

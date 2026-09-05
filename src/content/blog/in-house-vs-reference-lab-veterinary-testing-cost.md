@@ -127,3 +127,10 @@ Compare **1 fully loaded in-house cost per test** against the reference-lab fee 
 3. Raffan E, et al. The Cardiac Biomarker NT-proBNP Is Increased in Dogs. *J Vet Intern Med.* 2009. doi:10.1111/j.1939-1676.2009.0373.x
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [The Real Cost of In-House Veterinary Diagnostics](/blog/in-house-veterinary-diagnostics-roi-guide)
+- [Hidden Costs of In-House Veterinary Diagnostics](/blog/hidden-costs-veterinary-diagnostics)
+- [Veterinary Immunofluorescence Analyzer: Four Key Decisions](/blog/how-to-choose-a-veterinary-immunofluorescence-analyzer)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

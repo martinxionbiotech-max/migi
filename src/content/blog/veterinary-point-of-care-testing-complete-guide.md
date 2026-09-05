@@ -148,3 +148,10 @@ No — **2 roles**: it screens and monitors; confirmatory, specialised or unusua
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 - [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
+
+## Continue exploring
+
+- [Fluorescence Immunochromatography (FICA): How It Works](/blog/what-is-fluorescence-immunochromatography-fica)
+- [Veterinary Laboratory Quality Control: Two Pillars](/blog/veterinary-laboratory-quality-control)
+- [Veterinary Immunofluorescence Analyzer: Four Key Decisions](/blog/how-to-choose-a-veterinary-immunofluorescence-analyzer)
+- [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)

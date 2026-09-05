@@ -156,3 +156,10 @@ For **2 jobs** — finding shedders in multi-cat households and shelters, and gu
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any cat with suspected FIP should be evaluated by a veterinarian. Test results must be interpreted alongside clinical findings. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Wikipedia — Feline infectious peritonitis](https://en.wikipedia.org/wiki/Feline_infectious_peritonitis)
 - [ABCD — Feline Coronavirus Guidelines](https://www.abcdcatsvets.org/)
+
+## Continue exploring
+
+- [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test)
+- [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test)
+- [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

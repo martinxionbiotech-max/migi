@@ -7,11 +7,35 @@ catNo: "MG-CA-R026"
 image: "/images/migi-dog-canine-toxoplasma-gondii-antibody-ctoxo-ab-rapid-quantitative-test-kit.png"
 order: 32
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R026", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit?", "a": "The cTOXO-Ab test is a fluorescence immunoassay designed for the quantitative determination of Toxoplasma gondii antibodies in canine serum or plasma. It aids in diagnosing and monitoring canine Toxoplasma gondii infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity reflects the amount of cTOXO-Ab captured, and the concentration is expressed in IU/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once opened, use the Test Device within 30 minutes."}, {"q": "How are the results interpreted?", "a": "The detection range of cTOXO-Ab in canine serum or plasma is 2.5–320 IU/ml. Result (IU/ml) Interpretation ≤ 5 Negative (-) 5–10 Suspicious (±) 10–25 Weak Positive (+) 25–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of its population."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit?", "a": "The cTOXO-Ab test is a fluorescence immunoassay designed for the quantitative determination of Toxoplasma gondii antibodies in canine serum or plasma. It aids in diagnosing and monitoring canine Toxoplasma gondii infections. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Toxoplasma Gondii Antibody(cTOXO-Ab)Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity reflects the amount of cTOXO-Ab captured, and the concentration is expressed in IU/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once opened, use the Test Device within 30 minutes."}, {"q": "How are the results interpreted?", "a": "The detection range of cTOXO-Ab in canine serum or plasma is 2.5–320 IU/ml. Result (IU/ml) Interpretation ≤ 5 Negative (-) 5–10 Suspicious (±) 10–25 Weak Positive (+) 25–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of its population."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R026`  
+> **TL;DR** — The **Canine Toxoplasma Gondii Antibody(cTOXO-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine Toxoplasma Gondii Antibody(cTOXO-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Canine Toxoplasma Gondii Antibody(cTOXO-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

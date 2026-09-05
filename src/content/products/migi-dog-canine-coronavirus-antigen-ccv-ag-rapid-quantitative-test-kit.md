@@ -7,11 +7,35 @@ catNo: "MG-CA-R005"
 image: "/images/migi-dog-canine-coronavirus-antigen-ccv-ag-rapid-quantitative-test-kit.png"
 order: 20
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R005", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit?", "a": "The CCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure the concentration of canine coronavirus (CCV) antigen in rectal or fecal swabs from dogs. This test aids in diagnosing and monitoring canine coronavirus infections and assessing the effectiveness of vaccination. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of CCV antigen captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. After opening the Test Device, operate at 18–28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range for CCV-Ag in Canine Rectal Swabs: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Suggestion ≤ 8 Negative (-) 8 – 15 Suspected (±) 15 – 40 Weak Positive (+) 40 – 200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish its own reference ranges based on the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit?", "a": "The CCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure the concentration of canine coronavirus (CCV) antigen in rectal or fecal swabs from dogs. This test aids in diagnosing and monitoring canine coronavirus infections and assessing the effectiveness of vaccination. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of CCV antigen captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. After opening the Test Device, operate at 18–28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range for CCV-Ag in Canine Rectal Swabs: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Suggestion ≤ 8 Negative (-) 8 – 15 Suspected (±) 15 – 40 Weak Positive (+) 40 – 200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish its own reference ranges based on the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using rectal swabs."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R005`  
+> **TL;DR** — The **Canine Coronavirus Antigen (CCV-Ag)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine Coronavirus Antigen (CCV-Ag) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where Canine Coronavirus Antigen (CCV-Ag) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using rectal swabs.
 
 ## Product Specifications
 

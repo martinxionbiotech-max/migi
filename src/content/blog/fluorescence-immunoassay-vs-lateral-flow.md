@@ -117,3 +117,10 @@ Not automatically — **sensitivity is only 1 half**; without specificity it pro
 3. Diagnostic performance of lateral flow antigen tests versus fluorescent immunoassay for cryptococcosis in dogs and cats. *Am J Vet Res.* 2025;87(1). [https://avmajournals.avma.org/view/journals/ajvr/87/1/ajvr.25.06.0227.pdf](https://avmajournals.avma.org/view/journals/ajvr/87/1/ajvr.25.06.0227.pdf)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Fluorescence Immunoassay (FIA): Why a Number Beats a Line](/blog/quantitative-fluorescence-immunoassay-veterinary-guide)
+- [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)
+- [How to Read Quantitative Veterinary Test Results](/blog/reading-quantitative-test-results)
+- [Veterinary Laboratory Quality Control: Two Pillars](/blog/veterinary-laboratory-quality-control)

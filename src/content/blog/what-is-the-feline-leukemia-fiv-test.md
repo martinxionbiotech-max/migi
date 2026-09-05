@@ -160,3 +160,10 @@ Test at **4 moments**: acquisition, before introduction to other cats, after a b
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any cat with suspected retrovirus infection should be evaluated by a veterinarian. A positive screening result must be confirmed with follow-up testing per current guidelines. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Wikipedia — Feline leukemia virus](https://en.wikipedia.org/wiki/Feline_leukemia_virus)
 - [Cornell Feline Health Center — FeLV](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-leukemia-virus)
+
+## Continue exploring
+
+- [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test)
+- [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test)
+- [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

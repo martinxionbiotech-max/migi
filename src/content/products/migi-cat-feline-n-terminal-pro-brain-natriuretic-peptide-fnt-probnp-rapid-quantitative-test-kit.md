@@ -7,11 +7,35 @@ catNo: "MG-CA-R023"
 image: "/images/migi-cat-feline-n-terminal-pro-brain-natriuretic-peptide-fnt-probnp-rapid-quantitative-test-kit.png"
 order: 13
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R023", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit?", "a": "The fNT-proBNP test is a fluorescence immunoassay designed for the quantitative measurement of feline N-terminal pro-brain natriuretic peptide levels in feline serum or plasma samples. It is intended to aid in assessing the risk of cardiac failure. Note: For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay method. The intensity of the fluorescent signal correlates with the amount of fNT-proBNP captured, and the concentration is expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test between 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after the pouch is opened."}, {"q": "How are the results interpreted?", "a": "Detection range: 25 ~ 1600 pmol/L Conversion factor: 1 pmol/L = 8.457 pg/ml Reference Range: ≤ 50 pmol/L: Normal 50 – 100 pmol/L: Suspected > 100 pmol/L: Abnormal Note: Each laboratory should establish a reference range based on the specific population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit?", "a": "The fNT-proBNP test is a fluorescence immunoassay designed for the quantitative measurement of feline N-terminal pro-brain natriuretic peptide levels in feline serum or plasma samples. It is intended to aid in assessing the risk of cardiac failure. Note: For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay method. The intensity of the fluorescent signal correlates with the amount of fNT-proBNP captured, and the concentration is expressed in pmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test between 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after the pouch is opened."}, {"q": "How are the results interpreted?", "a": "Detection range: 25 ~ 1600 pmol/L Conversion factor: 1 pmol/L = 8.457 pg/ml Reference Range: ≤ 50 pmol/L: Normal 50 – 100 pmol/L: Suspected > 100 pmol/L: Abnormal Note: Each laboratory should establish a reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be conducted using serum or plasma (EDTA anticoagulant is recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R023`  
+> **TL;DR** — The **Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 15-minute Quick Test result. For clinical interpretation, see [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & emergency hospitals** — same-visit quantitative Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) results for cardiac screening and triage.
+- **Animal hospitals** — serial monitoring of heart-disease patients.
+- **Reference labs & multi-vet hospitals** — batch testing for cardiology panels.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 
 ## Product Specifications
 

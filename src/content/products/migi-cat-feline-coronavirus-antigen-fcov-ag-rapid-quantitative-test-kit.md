@@ -7,11 +7,35 @@ catNo: "MG-CA-R029"
 image: "/images/migi-cat-feline-coronavirus-antigen-fcov-ag-rapid-quantitative-test-kit.png"
 order: 7
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R029", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit?", "a": "The FCoV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline coronavirus antigen concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline coronavirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FCoV-Ag captured, with the concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCoV-Ag in feline rectal swabs: Detection range: 5.0 ~ 320 Tu/ml Reference range: Result (Tu/ml) Interpretation Suggestion ≤ 10 Negative (-) 10 ~ 12 Suspected (±) 12 ~ 20 Weak Positive (+) 20 ~ 80 Medium Positive (++) > 80 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit?", "a": "The FCoV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline coronavirus antigen concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline coronavirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FCoV-Ag captured, with the concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCoV-Ag in feline rectal swabs: Detection range: 5.0 ~ 320 Tu/ml Reference range: Result (Tu/ml) Interpretation Suggestion ≤ 10 Negative (-) 10 ~ 12 Suspected (±) 12 ~ 20 Weak Positive (+) 20 ~ 80 Medium Positive (++) > 80 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test is performed using a rectal swab."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R029`  
+> **TL;DR** — The **Feline Coronavirus Antigen (FCoV-Ag)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Coronavirus Antigen (FCoV-Ag) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where Feline Coronavirus Antigen (FCoV-Ag) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test is performed using a rectal swab.
 
 ## Product Specifications
 

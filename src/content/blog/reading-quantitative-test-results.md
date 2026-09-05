@@ -130,3 +130,10 @@ An equivocal zone is a grey band — **cPL 201–400 µg/L** is neither normal n
 4. IRIS (International Renal Interest Society). CKD Guidelines. 2015.
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Quantitative vs Qualitative Vet Testing: When Numbers Count](/blog/quantitative-vs-qualitative-veterinary-test)
+- [Fluorescence Immunochromatography (FICA): How It Works](/blog/what-is-fluorescence-immunochromatography-fica)
+- [Fluorescence Immunoassay vs Lateral Flow: Why It Matters](/blog/fluorescence-immunoassay-vs-lateral-flow)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

@@ -7,11 +7,35 @@ catNo: "MG-CA-R001"
 image: "/images/migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test.png"
 order: 33
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine C-reactive Protein (cCRP)", "CAT No.": "MG-CA-R001", "Package": "Box", "Appearance": "Test cassette", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test?", "a": "It assists in identifying underlying inflammation and monitoring therapy response, post-operative effects, and recovery. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test use?", "a": "Double antibody sandwich fluorescence immunoassay technique."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Operate the test at 18°C to 28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCRP in canine serum, plasma, or whole blood: Detection range: 5–300 mg/L Reference range: ≤10 mg/L: Normal (-) 10–30 mg/L: Mild inflammation (+) 30–100 mg/L: Moderate inflammation (++) 100 mg/L: Severe inflammation (+++) Each laboratory should establish its reference range."}]
+faq: [{"q": "What is the intended use of the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test?", "a": "It assists in identifying underlying inflammation and monitoring therapy response, post-operative effects, and recovery. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test use?", "a": "Double antibody sandwich fluorescence immunoassay technique."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Operate the test at 18°C to 28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCRP in canine serum, plasma, or whole blood: Detection range: 5–300 mg/L Reference range: ≤10 mg/L: Normal (-) 10–30 mg/L: Mild inflammation (+) 30–100 mg/L: Moderate inflammation (++) 100 mg/L: Severe inflammation (+++) Each laboratory should establish its reference range."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed with serum, plasma, or whole blood (serum or plasma is recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R001`  
+> **TL;DR** — The **Canine C-reactive Protein (cCRP)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 3-minute Quick Test result. For clinical interpretation, see [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine C-reactive Protein (cCRP) results to support inflammation detection and therapy monitoring.
+- **Shelters & rescue groups** — intake wellness screening where inflammatory markers are indicated.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed with serum, plasma, or whole blood (serum or plasma is recommended).
 
 ## Product Specifications
 

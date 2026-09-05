@@ -7,11 +7,35 @@ catNo: "MG-CA-R006"
 image: "/images/migi-cat-feline-panleukopenia-virus-antigen-fpv-ag-rapid-quantitative-test-kit.png"
 order: 16
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R006", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit?", "a": "The FPV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure panleukopenia virus antigen (FPV-Ag) concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline panleukopenia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FPV-Ag captured, with concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test between 18–28°C after opening the Test Device. Use the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of FPV-Ag in Feline Rectal Swab: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Interpretation ≤ 8 Negative (-) 8–15 Suspected (±) 15–40 Weak Positive (+) 40–200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range that is appropriate for the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit?", "a": "The FPV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure panleukopenia virus antigen (FPV-Ag) concentration in feline rectal swabs. It serves as an aid in the diagnosis and monitoring of feline panleukopenia virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Panleukopenia Virus Antigen (FPV-Ag) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FPV-Ag captured, with concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test between 18–28°C after opening the Test Device. Use the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range of FPV-Ag in Feline Rectal Swab: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Interpretation ≤ 8 Negative (-) 8–15 Suspected (±) 15–40 Weak Positive (+) 40–200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range that is appropriate for the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test is performed using a rectal swab."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R006`  
+> **TL;DR** — The **Feline Panleukopenia Virus Antigen (FPV-Ag)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Panleukopenia Virus Antigen (FPV-Ag) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where Feline Panleukopenia Virus Antigen (FPV-Ag) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test is performed using a rectal swab.
 
 ## Product Specifications
 

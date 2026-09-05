@@ -185,3 +185,10 @@ About **10–20 minutes** on a quantitative immunofluorescence analyzer like the
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected heart disease should be evaluated by a veterinarian. Reference ranges are platform-dependent; always use the intervals validated for your specific analyzer. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Cornell Feline Health Center](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center)
+
+## Continue exploring
+
+- [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker)
+- [Early Kidney Disease Detection in Dogs and Cats: SDMA](/blog/early-detection-chronic-kidney-disease-sdma-dogs-cats)
+- [SDMA in Cats: Catching Kidney Disease Early](/blog/what-is-cats-sdma-how-to-diagnose-it-quickly)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

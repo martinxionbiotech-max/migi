@@ -7,11 +7,35 @@ catNo: "MG-CA-R012"
 image: "/images/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit.png"
 order: 11
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R012", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit?", "a": "The FHV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline herpes virus (FHV) antibody concentrations in serum or plasma. This test is useful for assessing the FHV-Ab titer level after pet vaccination, indicating if revaccination is necessary. It also aids in diagnosing and monitoring feline herpes virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FHV-Ab captured, with the concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, complete the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FHV-Ab in Feline Serum or Plasma: Detection Range: 5.0–640 Tu/ml Level Result (Tu/ml) Interpretation 0 ≤ 10 No antibody protection; vaccination recommended. 1 10–15 Weak antibody protection; supplementary immunization or adjustment advised. 2 15–45 Weak antibody protection; supplementary immunization or adjustment advised. 3 45–100 Moderate antibody protection; monitor antibody levels every 6 months. 4 100–150 Moderate antibody protection; monitor antibody levels every 6 months. 5 > 150 Strong antibody protection; test annually to ensure timely vaccine protection. Note: If the pet has not been vaccinated but the test result shows a level above 1, it may indicate a past infection. Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit?", "a": "The FHV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine feline herpes virus (FHV) antibody concentrations in serum or plasma. This test is useful for assessing the FHV-Ab titer level after pet vaccination, indicating if revaccination is necessary. It also aids in diagnosing and monitoring feline herpes virus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of FHV-Ab captured, with the concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, complete the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FHV-Ab in Feline Serum or Plasma: Detection Range: 5.0–640 Tu/ml Level Result (Tu/ml) Interpretation 0 ≤ 10 No antibody protection; vaccination recommended. 1 10–15 Weak antibody protection; supplementary immunization or adjustment advised. 2 15–45 Weak antibody protection; supplementary immunization or adjustment advised. 3 45–100 Moderate antibody protection; monitor antibody levels every 6 months. 4 100–150 Moderate antibody protection; monitor antibody levels every 6 months. 5 > 150 Strong antibody protection; test annually to ensure timely vaccine protection. Note: If the pet has not been vaccinated but the test result shows a level above 1, it may indicate a past infection. Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R012`  
+> **TL;DR** — The **Feline Herpes Virus Antibody (FHV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Herpes Virus Antibody (FHV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Feline Herpes Virus Antibody (FHV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using serum or plasma.
 
 ## Product Specifications
 

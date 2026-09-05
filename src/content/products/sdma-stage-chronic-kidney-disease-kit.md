@@ -6,11 +6,36 @@ category: "canine-feline"
 image: "/images/sdma-stage-chronic-kidney-disease-kit.png"
 order: 37
 attributes: {"Tests": "10", "Place of Origin": "China", "Storage": "RT", "Shelf life": "2 Years"}
-faq: [{"q": "What is the intended use of the Migibio SDMA Rapid Quantitative Test Kit?", "a": "The SDMA test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of symmetric dimethylarginine (SDMA) in canine or feline serum/plasma. It is intended as an aid in the early detection and staging of chronic kidney disease (CKD). For in vitro diagnostic use only."}, {"q": "What detection principle does the SDMA test use?", "a": "The test uses a quantitative fluorescence immunoassay. Fluorescent-labelled antibodies bind SDMA in the specimen; the fluorescence signal intensity is measured by the analyzer and converted into an SDMA concentration value."}, {"q": "Why is SDMA better than creatinine for early kidney disease detection?", "a": "SDMA increases when as little as 25–40% of kidney function is lost, well before creatinine rises. It is also largely independent of muscle mass, making it more reliable in young, geriatric, or cachectic patients."}, {"q": "How are SDMA results interpreted?", "a": "Results are reported in µg/dL. Each laboratory should establish its own reference range. Persistently elevated SDMA values above the reference interval support a diagnosis of chronic kidney disease and guide IRIS staging and therapy decisions."}]
+faq: [{"q": "What is the intended use of the Migibio SDMA Rapid Quantitative Test Kit?", "a": "The SDMA test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of symmetric dimethylarginine (SDMA) in canine or feline serum/plasma. It is intended as an aid in the early detection and staging of chronic kidney disease (CKD). For in vitro diagnostic use only."}, {"q": "What detection principle does the SDMA test use?", "a": "The test uses a quantitative fluorescence immunoassay. Fluorescent-labelled antibodies bind SDMA in the specimen; the fluorescence signal intensity is measured by the analyzer and converted into an SDMA concentration value."}, {"q": "Why is SDMA better than creatinine for early kidney disease detection?", "a": "SDMA increases when as little as 25–40% of kidney function is lost, well before creatinine rises. It is also largely independent of muscle mass, making it more reliable in young, geriatric, or cachectic patients."}, {"q": "How are SDMA results interpreted?", "a": "Results are reported in µg/dL. Each laboratory should establish its own reference range. Persistently elevated SDMA values above the reference interval support a diagnosis of chronic kidney disease and guide IRIS staging and therapy decisions."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the shelf life and storage?", "a": "Shelf life is 2 years; storage is RT."}, {"q": "What sample does it use?", "a": "The test is performed using serum or plasma."}]
 ---
 
 
 The **Migibio SDMA Rapid Quantitative Test Kit** measures symmetric dimethylarginine (SDMA) — a sensitive, muscle-mass-independent biomarker of glomerular filtration rate — for the early detection and staging of chronic kidney disease (CKD) in dogs and cats.
+
+> **TL;DR** — The **SDMA** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, and a quantitative analyzer result. For clinical interpretation, see [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative SDMA results for early kidney screening.
+- **Animal hospitals** — serial monitoring of renal biomarkers in at-risk and senior patients.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B distributors** — room-temperature storage and a 2-year shelf life simplify stocking.
+
+See also: [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the shelf life and storage?**
+
+Shelf life is 2 years; storage is RT.
+
+**What sample does it use?**
+
+The test is performed using serum or plasma.
 
 ## Product Specifications
 

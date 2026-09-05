@@ -7,11 +7,35 @@ catNo: "MG-CA-R002"
 image: "/images/migi-dog-cpv-ag-canine-parvovirus-antigen-rapid-quantitative-test.png"
 order: 36
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test", "CAT No.": "MG-CA-R002", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test?", "a": "The CPV-Ag test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative determination of canine parvovirus antigen concentration in rectal swabs. It aids in the diagnosis and monitoring of canine parvovirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of CPV-Ag captured. The concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30°C up to the expiration date. Test should operate at 18～28°C after the Test Device is opened. Once the pouch is opened, perform the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Detection Range: 4.0 ~ 640 Tu/ml Reference Range: Result (Tu/ml) Suggestion ≤ 8 Negative (-) 8 ~ 15 Suspected (±) 15 ~ 40 Weak Positive (+) 40 ~ 200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range that is representative of the population to be evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test?", "a": "The CPV-Ag test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative determination of canine parvovirus antigen concentration in rectal swabs. It aids in the diagnosis and monitoring of canine parvovirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CPV-Ag Canine Parvovirus Antigen Rapid Quantitative Test use?", "a": "This test utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal correlates with the amount of CPV-Ag captured. The concentration is expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30°C up to the expiration date. Test should operate at 18～28°C after the Test Device is opened. Once the pouch is opened, perform the test within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Detection Range: 4.0 ~ 640 Tu/ml Reference Range: Result (Tu/ml) Suggestion ≤ 8 Negative (-) 8 ~ 15 Suspected (±) 15 ~ 40 Weak Positive (+) 40 ~ 200 Medium Positive (++) > 200 Strong Positive (+++) Each laboratory should establish a reference range that is representative of the population to be evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using a rectal swab."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R002`  
+> **TL;DR** — The **CPV-Ag Canine Parvovirus Antigen** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative CPV-Ag Canine Parvovirus Antigen results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where CPV-Ag Canine Parvovirus Antigen is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using a rectal swab.
 
 ## Product Specifications
 

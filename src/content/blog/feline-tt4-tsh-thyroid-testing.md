@@ -152,3 +152,10 @@ The commercial value is the ongoing monitoring relationship: thyroid cases requi
 - **Review:** Reference ranges and interpretation cross-checked against Cornell eClinPath and the MSD Veterinary Manual (References above).
 - **Last updated:** 2026-08-29.
 - **Note:** Reference intervals vary by laboratory; confirm against your analyzer's validated ranges.
+
+## Continue exploring
+
+- [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing)
+- [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing)
+- [Feline Hyperthyroidism: The T4 Test and Its Misses](/blog/what-is-a-feline-thyroid-test-are-your-cats-healthy)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

@@ -138,3 +138,10 @@ Yes — it survives ~12 hours, so you need to pinpoint 10–20 ng/mL, above the 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary guidance — work with your veterinarian for insemination timing. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [dvm360 — Breeding Management Proceedings](https://www.dvm360.com/)
 - [PubMed — Kunanusont et al. Vet World 2021](https://pubmed.ncbi.nlm.nih.gov/)
+
+## Continue exploring
+
+- [Progesterone Testing for Canine Breeding Timing](/blog/progesterone-testing-optimal-breeding-timing)
+- [Progesterone vs Relaxin vs Ultrasound for Breeding](/blog/progesterone-vs-relaxin-vs-ultrasound)
+- [Relaxin for Early Canine Pregnancy Confirmation](/blog/relaxin-early-pregnancy-confirmation-dogs)
+- [Quantitative vs Qualitative Progesterone for Breeding](/blog/quantitative-vs-qualitative-progesterone)

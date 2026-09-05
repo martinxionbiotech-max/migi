@@ -156,3 +156,10 @@ The commercial value is the monitoring relationship: serial draws for treatment 
 - **Review:** Reference ranges and kinetics cross-checked against Cornell University and peer-reviewed literature (Cerón 2005 — References above).
 - **Last updated:** 2026-08-29.
 - **Note:** Normal cutoffs differ slightly between laboratories (e.g., feline SAA <5 vs <10 µg/mL); confirm against your analyzer's validated range.
+
+## Continue exploring
+
+- [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing)
+- [Feline Hyperthyroidism: The T4 Test and Its Misses](/blog/what-is-a-feline-thyroid-test-are-your-cats-healthy)
+- [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

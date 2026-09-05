@@ -138,3 +138,10 @@ Fresh semen survives roughly 4–6 days, chilled semen about 3 days, and frozen 
 4. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Dog Pregnancy Tests: Relaxin and Progesterone Explained](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding)
+- [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing)
+- [Progesterone Testing for Canine Breeding Timing](/blog/progesterone-testing-optimal-breeding-timing)
+- [Progesterone vs Relaxin vs Ultrasound for Breeding](/blog/progesterone-vs-relaxin-vs-ultrasound)

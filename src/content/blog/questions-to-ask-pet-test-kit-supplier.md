@@ -147,3 +147,10 @@ The practical worth is avoiding supplier risk — ask for performance data, cert
 - **Author:** Dr. Tang — veterinary diagnostics specialist.
 - **Review:** Due-diligence criteria aligned with ISO 13485 and GMP quality-system expectations.
 - **Last updated:** 2026-08-29.
+
+## Continue exploring
+
+- [Migibio vs a Well-Known Chinese Brand: FIA Compared](/blog/migibio-vs-a-well-known-chinese-brand-comparison-of-pet-fluorescence-detection-systems)
+- [FIA680 vs FIA880: Which Analyzer Fits Your Practice](/blog/fia680-vs-fia880-analyzer)
+- [FIA Analyzer ROI: Payback on an Immunofluorescence Reader](/blog/fia-analyzer-roi-payback)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

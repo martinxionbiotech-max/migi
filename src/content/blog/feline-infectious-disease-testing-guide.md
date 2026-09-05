@@ -148,3 +148,10 @@ The retrovirus tests differ by **2 analytes**: FeLV is tested by antigen (virus 
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a sick cat should be seen by a veterinarian.*
 - [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
 - [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)
+
+## Continue exploring
+
+- [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing)
+- [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test)
+- [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-is-the-feline-panleukopenia-test)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

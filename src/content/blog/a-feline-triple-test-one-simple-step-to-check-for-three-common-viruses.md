@@ -134,3 +134,9 @@ Use it for 3 immunity decisions — kitten vaccine-response checks, shelter inta
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a sick cat should be seen by a veterinarian, and active infection should be confirmed with antigen or PCR testing. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
 - [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)
+
+## Continue exploring
+
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)
+- [Feline Triple Test: Snap Line vs Fluorescence Number](/blog/what-are-the-differences-between-the-snap-feline-triple-test-and-fluorescence-fpv-fcv-fhv)
+- [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)

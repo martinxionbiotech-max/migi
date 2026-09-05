@@ -296,3 +296,10 @@ No. Biomarkers localize and quantify a problem; imaging (ultrasound, echo, radio
 - **Review:** Reference ranges and thresholds cross-checked against IDEXX, IRIS, Cornell eClinPath, and peer-reviewed veterinary literature (References above).
 - **Last updated:** 2026-08-29.
 - **Note:** Figures marked "approximate" or "assay-dependent" vary by laboratory and method; always confirm against your analyzer's validated intervals.
+
+## Continue exploring
+
+- [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease)
+- [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker)
+- [Early Kidney Disease Detection in Dogs and Cats: SDMA](/blog/early-detection-chronic-kidney-disease-sdma-dogs-cats)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

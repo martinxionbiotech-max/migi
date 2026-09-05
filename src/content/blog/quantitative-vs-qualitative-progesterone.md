@@ -115,3 +115,10 @@ For **1 semen type**, yes: fresh-semen natural breeding can use a broad-band kit
 3. dvm360. Breeding Management 102 — It's All in the Timing (Proceedings). [https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings](https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Dog and Cat Breeding Management: Progesterone to Ultrasound](/blog/canine-feline-breeding-management-testing)
+- [Dog Pregnancy Tests: Relaxin and Progesterone Explained](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding)
+- [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing)
+- [Progesterone Testing for Canine Breeding Timing](/blog/progesterone-testing-optimal-breeding-timing)

@@ -7,11 +7,35 @@ catNo: "MG-CA-R018"
 image: "/images/migi-dog-canine-cortisol-ccortisol-rapid-quantitative-test-kit.png"
 order: 21
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Cortisol (cCortisol) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R018", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit?", "a": "The cCortisol test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure cCortisol levels in canine serum or plasma specimens. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity corresponds to the amount of cCortisol present, and the concentration is reported in μg/dL or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. The test should be conducted between 18°C and 28°C once the pouch is opened. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCortisol in canine serum or plasma: ACTH Stimulation Test ACTH Before Use (nmol/L) Suggestion ACTH After Use (nmol/L) Suggestion < 55 Possible adrenal insufficiency < 55 Possible adrenal insufficiency 55 - 166 Normal 55 - 166 Suspected > 166 High 166 - 498 Normal 498 - 663 Suspected > 663 Hyperadrenocorticism"}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit?", "a": "The cCortisol test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure cCortisol levels in canine serum or plasma specimens. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity corresponds to the amount of cCortisol present, and the concentration is reported in μg/dL or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit between 4°C and 30°C until the expiration date. The test should be conducted between 18°C and 28°C once the pouch is opened. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCortisol in canine serum or plasma: ACTH Stimulation Test ACTH Before Use (nmol/L) Suggestion ACTH After Use (nmol/L) Suggestion < 55 Possible adrenal insufficiency < 55 Possible adrenal insufficiency 55 - 166 Normal 55 - 166 Suspected > 166 High 166 - 498 Normal 498 - 663 Suspected > 663 Hyperadrenocorticism"}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Suitable specimens: serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R018`  
+> **TL;DR** — The **Canine Cortisol (cCortisol)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative Canine Cortisol (cCortisol) results for endocrine screening and monitoring.
+- **Animal hospitals** — track treatment response with serial quantitative values.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+Suitable specimens: serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

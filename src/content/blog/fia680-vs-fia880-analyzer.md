@@ -129,3 +129,10 @@ The FIA680 — **1 channel**, compact and portable, with lower acquisition cost 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 - [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
+
+## Continue exploring
+
+- [FIA Analyzer ROI: Payback on an Immunofluorescence Reader](/blog/fia-analyzer-roi-payback)
+- [Choosing a Veterinary Analyzer: Total Cost of Ownership](/blog/choosing-veterinary-analyzer-total-cost-ownership)
+- [In-House vs Reference Lab Testing: Cost and Revenue](/blog/in-house-vs-reference-lab-veterinary-testing-cost)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

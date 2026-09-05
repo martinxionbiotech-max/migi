@@ -7,11 +7,35 @@ catNo: "MG-CA-R030"
 image: "/images/migi-cat-feline-cystatin-c-fcys-c-rapid-quantitative-test-kit.png"
 order: 8
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Cystatin C(fCys C) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R030", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit?", "a": "The fCys C test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine cystatin C concentration in feline serum or plasma. It is intended for diagnosing and monitoring renal failure in felines. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of fCys C captured, with concentration expressed in mg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be performed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for fCys C in Feline Serum or Plasma: Detection Range: 3.5–50 mg/dL Conversion Factor: 1 mg/dL = 0.1 mg/L Result (mg/dL) Interpretation ≤ 7.0 Negative (-) 7.0–10 Suspected kidney injury (+) > 10 Indicated kidney injury (++) Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit?", "a": "The fCys C test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine cystatin C concentration in feline serum or plasma. It is intended for diagnosing and monitoring renal failure in felines. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of fCys C captured, with concentration expressed in mg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be performed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for fCys C in Feline Serum or Plasma: Detection Range: 3.5–50 mg/dL Conversion Factor: 1 mg/dL = 0.1 mg/L Result (mg/dL) Interpretation ≤ 7.0 Negative (-) 7.0–10 Suspected kidney injury (+) > 10 Indicated kidney injury (++) Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed with serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R030`  
+> **TL;DR** — The **Feline Cystatin C(fCys C)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative Feline Cystatin C(fCys C) results for early kidney screening.
+- **Animal hospitals** — serial monitoring of renal biomarkers in at-risk and senior patients.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B distributors** — room-temperature storage and a 2-year shelf life simplify stocking.
+
+See also: [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed with serum or plasma.
 
 ## Product Specifications
 

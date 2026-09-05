@@ -147,3 +147,10 @@ No — **1 number is not proof**: the method returns a concentration, but accura
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [MDPI Sensors — Lateral Flow Reader Technologies (2022)](https://www.mdpi.com/1424-8220/22/19/7398)
 - [Wikipedia — Immunoassay](https://en.wikipedia.org/wiki/Immunoassay)
+
+## Continue exploring
+
+- [Fluorescence Immunoassay vs Lateral Flow: Why It Matters](/blog/fluorescence-immunoassay-vs-lateral-flow)
+- [Fluorescence Immunoassay (FIA): Why a Number Beats a Line](/blog/quantitative-fluorescence-immunoassay-veterinary-guide)
+- [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

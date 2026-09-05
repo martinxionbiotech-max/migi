@@ -7,11 +7,35 @@ catNo: "MG-CA-R014"
 image: "/images/migi-dog-canine-pancreatic-lipase-cpl-rapid-quantitative-test-kit.png"
 order: 26
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R014", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit?", "a": "The cPL test is a fluorescence immunoassay designed for the quantitative determination of pancreatic lipase concentration in canine serum or plasma. It is used to aid in the diagnosis and monitoring of pancreatic lipase levels in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of cPL captured. Results are expressed in ng/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the Test Device. Once the pouch is opened, the test should be performed within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 50 ~ 3200 ng/ml Reference Ranges : Result (ng/ml) Risk Level ≤ 100 Low risk 100 – 300 Medium risk > 300 High risk Each laboratory should establish its own reference range based on the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit?", "a": "The cPL test is a fluorescence immunoassay designed for the quantitative determination of pancreatic lipase concentration in canine serum or plasma. It is used to aid in the diagnosis and monitoring of pancreatic lipase levels in dogs. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity corresponds to the amount of cPL captured. Results are expressed in ng/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Perform the test at 18–28℃ after opening the Test Device. Once the pouch is opened, the test should be performed within 30 minutes ."}, {"q": "How are the results interpreted?", "a": "Detection Range : 50 ~ 3200 ng/ml Reference Ranges : Result (ng/ml) Risk Level ≤ 100 Low risk 100 – 300 Medium risk > 300 High risk Each laboratory should establish its own reference range based on the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be conducted using serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R014`  
+> **TL;DR** — The **Canine Pancreatic Lipase (cPL)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative Canine Pancreatic Lipase (cPL) results for pancreatitis workups.
+- **Animal hospitals & referral practices** — monitor pancreatitis cases with serial quantitative values.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be conducted using serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

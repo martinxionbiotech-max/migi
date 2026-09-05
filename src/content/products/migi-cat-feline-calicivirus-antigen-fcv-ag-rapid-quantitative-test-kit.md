@@ -7,11 +7,35 @@ catNo: "MG-CA-R008"
 image: "/images/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit.png"
 order: 6
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R008", "Package": "Box", "Appearance": "liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10", "Grade": "Reagent Grade", "Suitable for": "Veterinary"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit?", "a": "The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antigen (FCV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline calicivirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ag in feline nasopharyngeal or ocular swabs. Detection range: 4.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Suggestion ≤ 10 Negative (-) 10 ~ 14 Suspected (±) 14 ~ 30 Weak Positive (+) 30 ~ 150 Medium Positive (++) > 150 Strong Positive (+++) Each laboratory should establish a reference range that represents the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit?", "a": "The FCV-Ag test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antigen (FCV-Ag) in feline nasopharyngeal or ocular swabs. This test aids in the diagnosis and monitoring of feline calicivirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FCV-Ag captured. The concentration is expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ag in feline nasopharyngeal or ocular swabs. Detection range: 4.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Suggestion ≤ 10 Negative (-) 10 ~ 14 Suspected (±) 14 ~ 30 Weak Positive (+) 30 ~ 150 Medium Positive (++) > 150 Strong Positive (+++) Each laboratory should establish a reference range that represents the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test is performed using a nasopharyngeal or ocular swab."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R008`  
+> **TL;DR** — The **Feline Calicivirus Antigen (FCV-Ag)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Calicivirus Antigen (FCV-Ag) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and early detection and outbreak monitoring where Feline Calicivirus Antigen (FCV-Ag) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test is performed using a nasopharyngeal or ocular swab.
 
 ## Product Specifications
 

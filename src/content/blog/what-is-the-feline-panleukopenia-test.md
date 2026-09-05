@@ -139,3 +139,10 @@ FPV survives **months to years** in the environment and concentrates in unvaccin
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a cat with suspected panleukopenia needs immediate veterinary care. Test results must be interpreted alongside clinical findings. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
 - [Wikipedia — Feline panleukopenia](https://en.wikipedia.org/wiki/Feline_panleukopenia)
 - [ABCD — Feline Panleukopenia Guidelines](https://www.abcdcatsvets.org/)
+
+## Continue exploring
+
+- [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test)
+- [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing)
+- [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

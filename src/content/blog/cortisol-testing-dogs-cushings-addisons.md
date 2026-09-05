@@ -173,3 +173,10 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 - **Review:** Protocols and cutoffs cross-checked against Cornell eClinPath and the MSD Veterinary Manual (References above).
 - **Last updated:** 2026-08-29.
 - **Note:** Equivocal cutoffs vary slightly by source (e.g., 17–22 vs 18–22 µg/dL); confirm against your analyzer's validated intervals.
+
+## Continue exploring
+
+- [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing)
+- [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing)
+- [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

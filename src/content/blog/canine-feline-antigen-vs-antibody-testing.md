@@ -121,3 +121,10 @@ Two indistinguishable sources break it: antibodies persist after the pathogen is
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — any sick animal should be seen by a veterinarian, and screening results should be confirmed per current guidelines.*
 - [Wikipedia — Canine parvovirus](https://en.wikipedia.org/wiki/Canine_parvovirus)
 - [Morris Animal Foundation — Parvovirus](https://www.morrisanimalfoundation.org/article/canine-parvovirus)
+
+## Continue exploring
+
+- [Feline Triple Test: Snap Line vs Fluorescence Number](/blog/what-are-the-differences-between-the-snap-feline-triple-test-and-fluorescence-fpv-fcv-fhv)
+- [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)
+- [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide)
+- [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide)

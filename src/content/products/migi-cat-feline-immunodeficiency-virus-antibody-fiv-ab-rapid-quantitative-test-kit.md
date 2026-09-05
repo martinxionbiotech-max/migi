@@ -7,11 +7,35 @@ catNo: "MG-CA-R027"
 image: "/images/migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit.png"
 order: 10
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R027", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit?", "a": "The FIV-Ab test is a fluorescence immunoassay designed for the quantitative determination of feline immunodeficiency virus antibodies in serum or plasma specimens. This test assists in diagnosing and monitoring feline immunodeficiency virus (FIV) infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FIV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be completed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FIV-Ab in Feline Serum or Plasma: Detection Range: 4.5–320 Tu/ml Result (Tu/ml) Interpretation ≤ 9 Negative (-) 9–11 Suspected (±) 11–20 Weak Positive (+) 20–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit?", "a": "The FIV-Ab test is a fluorescence immunoassay designed for the quantitative determination of feline immunodeficiency virus antibodies in serum or plasma specimens. This test assists in diagnosing and monitoring feline immunodeficiency virus (FIV) infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit use?", "a": "This test uses a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of FIV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Once the pouch is opened, the test should be completed within 30 minutes."}, {"q": "How are the results interpreted?", "a": "Reference Range for FIV-Ab in Feline Serum or Plasma: Detection Range: 4.5–320 Tu/ml Result (Tu/ml) Interpretation ≤ 9 Negative (-) 9–11 Suspected (±) 11–20 Weak Positive (+) 20–100 Medium Positive (++) > 100 Strong Positive (+++) Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R027`  
+> **TL;DR** — The **Feline Immunodeficiency Virus Antibody (FIV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 15-minute Quick Test result. For clinical interpretation, see [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Immunodeficiency Virus Antibody (FIV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Feline Immunodeficiency Virus Antibody (FIV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using serum or plasma.
 
 ## Product Specifications
 

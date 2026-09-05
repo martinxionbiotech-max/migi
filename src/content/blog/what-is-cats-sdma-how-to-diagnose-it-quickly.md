@@ -120,3 +120,10 @@ No — **2 confounders avoided**: SDMA is largely independent of muscle mass and
 ---
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a cat with suspected kidney disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker)
+- [Early Kidney Disease Detection in Dogs and Cats: SDMA](/blog/early-detection-chronic-kidney-disease-sdma-dogs-cats)
+- [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease)
+- [SDMA and NT-proBNP: Kidney and Heart Markers in Pets](/blog/veterinary-biomarker-monitoring-kidney-cardiac)

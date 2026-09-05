@@ -7,11 +7,35 @@ catNo: "MG-CA-R013"
 image: "/images/migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit.png"
 order: 3
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R013", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit?", "a": "The FCV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antibody in serum or plasma. The test may serve as a reference for FCV-Ab titer levels following vaccination and help determine if additional immunization is needed. It can also assist in the diagnosis and monitoring of feline calicivirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The fluorescent signal intensity reflects the amount of FCV-Ab captured, with concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ab in feline serum or plasma: Detection range: 5.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Level Suggestion ≤ 10 0 No antibody protection, vaccination recommended. 10 – 30 1 Weak antibody protection; supplementary immunization or adjustment of the immunization program is recommended. 30 – 90 2 Weak antibody protection; supplementary immunization or adjustment of the immunization program is recommended. 90 – 200 3 Moderate antibody protection; strengthen antibody level monitoring, approximately every 6 months. 200 – 300 4 Moderate antibody protection; strengthen antibody level monitoring, approximately every 6 months. > 300 5 Strong antibody protection; test the antibody level annually to ensure timely vaccine protection. Note: If the pet has not been vaccinated but the test results indicate a level above 1, this may suggest a previous infection. Each laboratory should establish a reference range representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit?", "a": "The FCV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively determine the concentration of feline calicivirus antibody in serum or plasma. The test may serve as a reference for FCV-Ab titer levels following vaccination and help determine if additional immunization is needed. It can also assist in the diagnosis and monitoring of feline calicivirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The fluorescent signal intensity reflects the amount of FCV-Ab captured, with concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test at 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range of FCV-Ab in feline serum or plasma: Detection range: 5.0 ~ 640 Tu/ml Reference range: Result (Tu/ml) Level Suggestion ≤ 10 0 No antibody protection, vaccination recommended. 10 – 30 1 Weak antibody protection; supplementary immunization or adjustment of the immunization program is recommended. 30 – 90 2 Weak antibody protection; supplementary immunization or adjustment of the immunization program is recommended. 90 – 200 3 Moderate antibody protection; strengthen antibody level monitoring, approximately every 6 months. 200 – 300 4 Moderate antibody protection; strengthen antibody level monitoring, approximately every 6 months. > 300 5 Strong antibody protection; test the antibody level annually to ensure timely vaccine protection. Note: If the pet has not been vaccinated but the test results indicate a level above 1, this may suggest a previous infection. Each laboratory should establish a reference range representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test is performed using serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R013`  
+> **TL;DR** — The **Feline Calicivirus Antibody (FCV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Feline Calicivirus Antibody (FCV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Feline Calicivirus Antibody (FCV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test is performed using serum or plasma.
 
 ## Product Specifications
 

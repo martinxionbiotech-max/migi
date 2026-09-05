@@ -115,3 +115,10 @@ In practice, match the certificate to the product class and market, and verify s
 - **Author:** Dr. Tang — veterinary diagnostics specialist.
 - **Review:** Regulatory content reviewed against EU IVDR, ISO 9001/13485, and FDA CVM documentation.
 - **Last updated:** 2026-08-29.
+
+## Continue exploring
+
+- [Working with a Veterinary Diagnostics Manufacturer](/blog/working-with-a-veterinary-diagnostics-manufacturer)
+- [10 Questions to Ask Before Choosing a Pet Test Kit Supplier](/blog/questions-to-ask-pet-test-kit-supplier)
+- [Migibio vs a Well-Known Chinese Brand: FIA Compared](/blog/migibio-vs-a-well-known-chinese-brand-comparison-of-pet-fluorescence-detection-systems)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

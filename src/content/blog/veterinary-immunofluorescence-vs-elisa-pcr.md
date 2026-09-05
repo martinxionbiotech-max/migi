@@ -133,3 +133,10 @@ They complement — **1 point-of-care screen** often leads to **1 PCR confirmati
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [MDPI Sensors — Lateral Flow Reader Technologies (2022)](https://www.mdpi.com/1424-8220/22/19/7398)
 - [Wikipedia — Immunoassay](https://en.wikipedia.org/wiki/Immunoassay)
+
+## Continue exploring
+
+- [How to Read Quantitative Veterinary Test Results](/blog/reading-quantitative-test-results)
+- [Quantitative vs Qualitative Vet Testing: When Numbers Count](/blog/quantitative-vs-qualitative-veterinary-test)
+- [Fluorescence Immunochromatography (FICA): How It Works](/blog/what-is-fluorescence-immunochromatography-fica)
+- [Veterinary Laboratory Quality Control: Two Pillars](/blog/veterinary-laboratory-quality-control)

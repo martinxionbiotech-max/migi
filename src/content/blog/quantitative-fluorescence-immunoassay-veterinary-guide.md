@@ -142,3 +142,10 @@ No — **100% vs 20% specificity** is the gap: one AVMA-published cryptococcal a
 4. Mordor Intelligence. *Veterinary Point of Care Diagnostics Market (2026–2031).* [https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)
+- [How to Read Quantitative Veterinary Test Results](/blog/reading-quantitative-test-results)
+- [Quantitative vs Qualitative Vet Testing: When Numbers Count](/blog/quantitative-vs-qualitative-veterinary-test)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

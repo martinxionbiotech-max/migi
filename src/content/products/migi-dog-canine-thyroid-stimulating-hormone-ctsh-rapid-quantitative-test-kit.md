@@ -7,11 +7,35 @@ catNo: "MG-CA-R017"
 image: "/images/migi-dog-canine-thyroid-stimulating-hormone-ctsh-rapid-quantitative-test-kit.png"
 order: 30
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R017", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 yars", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit?", "a": "The cTSH test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure thyroid-stimulating hormone (TSH) levels in canine serum or plasma. This test is intended for professional use only and for in vitro diagnostic purposes."}, {"q": "What detection principle does the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cTSH captured, with results expressed in mIU/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. After opening, operate the test at 18–28℃ . Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 9.0 ~ 600 mIU/L Result (mIU/L) Significance ≤ 37 Normal > 37 High Each laboratory should establish its own reference range based on the specific population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit?", "a": "The cTSH test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure thyroid-stimulating hormone (TSH) levels in canine serum or plasma. This test is intended for professional use only and for in vitro diagnostic purposes."}, {"q": "What detection principle does the Migi (Dog) Canine Thyroid Stimulating Hormone (cTSH) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double antibody sandwich fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cTSH captured, with results expressed in mIU/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. After opening, operate the test at 18–28℃ . Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 9.0 ~ 600 mIU/L Result (mIU/L) Significance ≤ 37 Normal > 37 High Each laboratory should establish its own reference range based on the specific population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed on serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R017`  
+> **TL;DR** — The **Canine Thyroid Stimulating Hormone (cTSH)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative Canine Thyroid Stimulating Hormone (cTSH) results for endocrine screening and monitoring.
+- **Animal hospitals** — track treatment response with serial quantitative values.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed on serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

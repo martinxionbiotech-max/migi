@@ -121,3 +121,10 @@ Choose by **2 jobs**: for a fast yes/no screen, qualitative is quick and simple;
 *This content is for educational and product-selection purposes only. Test results must be interpreted alongside clinical findings by a veterinarian. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
 - [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
 - [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)
+
+## Continue exploring
+
+- [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)
+- [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide)
+- [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

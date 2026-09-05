@@ -129,3 +129,10 @@ Compute the **fully loaded cost per test** for each — hardware amortised plus 
 2. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement compared with chemiluminescent microparticle immunoassay. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+
+## Continue exploring
+
+- [In-House vs Reference Lab Testing: Cost and Revenue](/blog/in-house-vs-reference-lab-veterinary-testing-cost)
+- [The Real Cost of In-House Veterinary Diagnostics](/blog/in-house-veterinary-diagnostics-roi-guide)
+- [Hidden Costs of In-House Veterinary Diagnostics](/blog/hidden-costs-veterinary-diagnostics)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

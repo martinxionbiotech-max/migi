@@ -7,11 +7,35 @@ catNo: "MG-CA-R022"
 image: "/images/migi-dog-canine-adenovirus-antibody-cav-ab-rapid-quantitative-test-kit.png"
 order: 19
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R022", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit?", "a": "The CAV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure adenovirus antibody (CAV-Ab) levels in serum or plasma. This test assists in evaluating the effectiveness of pet vaccinations, determining the need for re-vaccination, and monitoring canine adenovirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal indicates the amount of CAV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test at 18–28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range for CAV-Ab in Canine Serum or Plasma: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Level Interpretation ≤ 8 0 No antibody protection; vaccination recommended. 8 – 18 1 Weak antibody protection; consider supplementary immunization or adjust vaccination program. 18 – 40 2 Moderate antibody protection. 40 – 80 3 Moderate antibody protection; monitor antibody levels every 6 months. 80 – 160 4 Strong antibody protection; test annually to assess vaccine effectiveness. > 160 5 Strong antibody protection; annual testing recommended. Note: If the pet has not been vaccinated but the result exceeds Level 1, it may indicate past infection. Each laboratory should establish reference ranges that are representative of the population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit?", "a": "The CAV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure adenovirus antibody (CAV-Ab) levels in serum or plasma. This test assists in evaluating the effectiveness of pet vaccinations, determining the need for re-vaccination, and monitoring canine adenovirus infection. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit use?", "a": "The test utilizes a quantitative double antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal indicates the amount of CAV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Operate the test at 18–28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference Range for CAV-Ab in Canine Serum or Plasma: Detection Range: 4.0–640 Tu/ml Reference Range: Result (Tu/ml) Level Interpretation ≤ 8 0 No antibody protection; vaccination recommended. 8 – 18 1 Weak antibody protection; consider supplementary immunization or adjust vaccination program. 18 – 40 2 Moderate antibody protection. 40 – 80 3 Moderate antibody protection; monitor antibody levels every 6 months. 80 – 160 4 Strong antibody protection; test annually to assess vaccine effectiveness. > 160 5 Strong antibody protection; annual testing recommended. Note: If the pet has not been vaccinated but the result exceeds Level 1, it may indicate past infection. Each laboratory should establish reference ranges that are representative of the population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed on serum or plasma."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R022`  
+> **TL;DR** — The **Canine Adenovirus Antibody(CAV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine Adenovirus Antibody(CAV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Canine Adenovirus Antibody(CAV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed on serum or plasma.
 
 ## Product Specifications
 

@@ -130,3 +130,10 @@ The buyer perspective is to anchor on landed cost per test at the volume you can
 - **Author:** Dr. Tang — veterinary diagnostics specialist.
 - **Review:** Cost-structure and MOQ guidance reflects standard B2B export purchasing practice.
 - **Last updated:** 2026-08-29.
+
+## Continue exploring
+
+- [Veterinary Diagnostic OEM/ODM: What You Need to Know](/blog/veterinary-diagnostic-oem-odm)
+- [Veterinary Diagnostic Certifications: CE, ISO and QC](/blog/veterinary-diagnostic-certifications-ce-iso-qc)
+- [Working with a Veterinary Diagnostics Manufacturer](/blog/working-with-a-veterinary-diagnostics-manufacturer)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

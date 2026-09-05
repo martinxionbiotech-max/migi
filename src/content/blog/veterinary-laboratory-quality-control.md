@@ -146,3 +146,10 @@ No — **1 certificate** signals a QC system exists, but every result still depe
 
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [WOAH — Veterinary Laboratory Quality](https://www.woah.org/en/what-we-do/standards/)
+
+## Continue exploring
+
+- [Fluorescence Immunochromatography (FICA): How It Works](/blog/what-is-fluorescence-immunochromatography-fica)
+- [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)
+- [How to Read Quantitative Veterinary Test Results](/blog/reading-quantitative-test-results)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

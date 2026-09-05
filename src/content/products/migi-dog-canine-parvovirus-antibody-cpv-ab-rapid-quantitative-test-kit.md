@@ -7,11 +7,35 @@ catNo: "MG-CA-R009"
 image: "/images/migi-dog-canine-parvovirus-antibody-cpv-ab-rapid-quantitative-test-kit.png"
 order: 27
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R009", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit?", "a": "The CPV-Ab test is a fluorescence immunoassay used with an Immunofluorescence Analyzer to quantitatively determine parvovirus antibody (CPV-Ab) concentration in canine serum or plasma. This test aids in assessing the CPV-Ab titer after vaccination, providing guidance on the necessity for re-vaccination. It is also useful for diagnosing and monitoring canine parvovirus infection. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The fluorescent signal intensity indicates the amount of CPV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 4.5 ~ 640 Tu/ml Reference Ranges : Result (Tu/ml) Level Recommendation ≤ 9 0 No antibody protection; vaccination recommended. 9 - 50 1 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 50 - 150 2 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 150 - 300 3 Moderate antibody protection; monitor antibody levels every 6 months. 300 - 500 4 Moderate antibody protection; monitor antibody levels every 6 months. > 500 5 Strong antibody protection; test antibody levels annually to ensure continued protection. Note: If the test result shows a level above Level 1 in an unvaccinated pet, it may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit?", "a": "The CPV-Ab test is a fluorescence immunoassay used with an Immunofluorescence Analyzer to quantitatively determine parvovirus antibody (CPV-Ab) concentration in canine serum or plasma. This test aids in assessing the CPV-Ab titer after vaccination, providing guidance on the necessity for re-vaccination. It is also useful for diagnosing and monitoring canine parvovirus infection. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Parvovirus Antibody (CPV-Ab) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The fluorescent signal intensity indicates the amount of CPV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 4.5 ~ 640 Tu/ml Reference Ranges : Result (Tu/ml) Level Recommendation ≤ 9 0 No antibody protection; vaccination recommended. 9 - 50 1 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 50 - 150 2 Weak antibody protection; consider supplementary immunization or adjustment of vaccination program. 150 - 300 3 Moderate antibody protection; monitor antibody levels every 6 months. 300 - 500 4 Moderate antibody protection; monitor antibody levels every 6 months. > 500 5 Strong antibody protection; test antibody levels annually to ensure continued protection. Note: If the test result shows a level above Level 1 in an unvaccinated pet, it may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Suitable for use with serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R009`  
+> **TL;DR** — The **Canine Parvovirus Antibody (CPV-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine Parvovirus Antibody (CPV-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Canine Parvovirus Antibody (CPV-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+Suitable for use with serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

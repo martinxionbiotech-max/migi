@@ -146,3 +146,9 @@ No — **1 infection makes a lifetime carrier**. Treatment (vet-directed) manage
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis or treatment — a cat with ocular or respiratory disease should be seen by a veterinarian, and any medication must be prescribed by one. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
 - [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)
+
+## Continue exploring
+
+- [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing)
+- [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

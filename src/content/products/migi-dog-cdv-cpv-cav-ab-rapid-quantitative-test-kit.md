@@ -7,11 +7,35 @@ catNo: "MG-CA-R032"
 image: "/images/migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit.png"
 order: 35
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "CDV/CPV/CAV Ab Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R032", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit?", "a": "The CDV/CPV/CAV Ab test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative measurement of antibodies against canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) in serum or plasma samples. This test can provide reference levels of antibody titers after vaccination to determine whether revaccination is necessary. It is also used as an aid in diagnosing and monitoring infections of CDV, CPV, and CAV. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity corresponds to the amount of CDV-Ab, CPV-Ab, and CAV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Once opened, operate the test device at 18°C to 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: CPV-Ab: 4.5–640 Tu/ml CDV-Ab: 5.0–640 Tu/ml CAV-Ab: 4.0–640 Tu/ml Reference Range: CPV-Ab (Tu/ml) CDV-Ab (Tu/ml) CAV-Ab (Tu/ml) Level Suggestion ≤9 ≤10 ≤8 0 No antibody protection, vaccination recommended. 9–50 10–20 8–18 1 Weak antibody protection, consider booster vaccination. 50–150 20–50 18–40 2 Moderate protection, monitor antibody levels every 6 months. 150–300 50–100 40–80 3 Moderate antibody protection, and strengthen antibody level monitoring, once every 6 months or so. 300-500 100-200 80-160 4 >500 >200 >160 5 Strongest protection, annual testing recommended. Note: If the pet has not been vaccinated but shows antibody levels above level 1, it may indicate past infection. Antibody levels may vary due to individual immune responses to vaccination."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit?", "a": "The CDV/CPV/CAV Ab test is a fluorescence immunoassay used in conjunction with an Immunofluorescence Analyzer for the quantitative measurement of antibodies against canine distemper virus (CDV), canine parvovirus (CPV), and canine adenovirus (CAV) in serum or plasma samples. This test can provide reference levels of antibody titers after vaccination to determine whether revaccination is necessary. It is also used as an aid in diagnosing and monitoring infections of CDV, CPV, and CAV. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antigen sandwich fluorescence immunoassay. The fluorescent signal intensity corresponds to the amount of CDV-Ab, CPV-Ab, and CAV-Ab captured, with the concentration expressed as Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Once opened, operate the test device at 18°C to 28°C. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: CPV-Ab: 4.5–640 Tu/ml CDV-Ab: 5.0–640 Tu/ml CAV-Ab: 4.0–640 Tu/ml Reference Range: CPV-Ab (Tu/ml) CDV-Ab (Tu/ml) CAV-Ab (Tu/ml) Level Suggestion ≤9 ≤10 ≤8 0 No antibody protection, vaccination recommended. 9–50 10–20 8–18 1 Weak antibody protection, consider booster vaccination. 50–150 20–50 18–40 2 Moderate protection, monitor antibody levels every 6 months. 150–300 50–100 40–80 3 Moderate antibody protection, and strengthen antibody level monitoring, once every 6 months or so. 300-500 100-200 80-160 4 >500 >200 >160 5 Strongest protection, annual testing recommended. Note: If the pet has not been vaccinated but shows antibody levels above level 1, it may indicate past infection. Antibody levels may vary due to individual immune responses to vaccination."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be conducted using serum or plasma (EDTA anticoagulant is recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R032`  
+> **TL;DR** — The **CDV/CPV/CAV Ab** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative CDV/CPV/CAV Ab results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where CDV/CPV/CAV Ab is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 
 ## Product Specifications
 

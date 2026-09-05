@@ -7,11 +7,35 @@ catNo: "MG-CA-R020"
 image: "/images/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit.png"
 order: 28
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R020", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit?", "a": "The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or the timing of a Cesarean section. Detecting reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 1.0 ~ 50 ng/ml Conversion Factor : 1 ng/ml = 3.18 nmol/L Result (ng/ml) Result (nmol/L) Level Suggestion ≤ 1.0 ≤ 3.18 Negative Non-estrus phase 1.0 - 5.0 3.18 - 15.9 Low Preovulation phase 5.0 - 10.0 15.9 - 31.8 Medium+ Oviposition phase 10.0 - 20.0 31.8 - 63.6 Medium++ Optimal fertility phase > 20.0 > 63.6 High+++ Ootid senescence phase Note: A result above Level 1 in an unvaccinated pet may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit?", "a": "The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or the timing of a Cesarean section. Detecting reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 1.0 ~ 50 ng/ml Conversion Factor : 1 ng/ml = 3.18 nmol/L Result (ng/ml) Result (nmol/L) Level Suggestion ≤ 1.0 ≤ 3.18 Negative Non-estrus phase 1.0 - 5.0 3.18 - 15.9 Low Preovulation phase 5.0 - 10.0 15.9 - 31.8 Medium+ Oviposition phase 10.0 - 20.0 31.8 - 63.6 Medium++ Optimal fertility phase > 20.0 > 63.6 High+++ Ootid senescence phase Note: A result above Level 1 in an unvaccinated pet may indicate past infection. Each laboratory should establish its own reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Suitable for use with serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R020`  
+> **TL;DR** — The **Canine Progesterone (cProgesterone)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing).
+
+## Applications & Who It's For
+
+- **Breeders & reproduction centers** — quantitative Canine Progesterone (cProgesterone) results for breeding timing and pregnancy confirmation.
+- **Veterinary reproduction clinics** — same-visit hormonal monitoring during consultations.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+Suitable for use with serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

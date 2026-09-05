@@ -7,11 +7,35 @@ catNo: "MG-CA-R024"
 image: "/images/migi-dog-canine-leishmania-antibody-clsh-ab-rapid-quantitative-test-kit.png"
 order: 24
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R024", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit?", "a": "The cLSH-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer. It quantitatively determines the concentration of leishmania antibodies in serum or plasma specimens, aiding in the diagnosis and monitoring of canine leishmania infection. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of cLSH-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the kit at 4–30℃ up to the expiration date. Operate the test between 18–28℃ after opening the pouch. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 3.0 ~ 320 Tu/ml Reference Ranges : Result (Tu/ml) Suggestion ≤ 6 Negative (-) 6 – 12 Suspected (±) 12 – 25 Weak Positive (+) 25 – 100 Medium Positive (++) > 100 Strong Positive (+++) Note : Each laboratory should establish its own reference range based on the population being tested."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit?", "a": "The cLSH-Ab test is a fluorescence immunoassay intended for use with an Immunofluorescence Analyzer. It quantitatively determines the concentration of leishmania antibodies in serum or plasma specimens, aiding in the diagnosis and monitoring of canine leishmania infection. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Leishmania Antibody (cLSH-Ab) Rapid Quantitative Test Kit use?", "a": "This test utilizes a quantitative double-antigen sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal reflects the amount of cLSH-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the kit at 4–30℃ up to the expiration date. Operate the test between 18–28℃ after opening the pouch. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 3.0 ~ 320 Tu/ml Reference Ranges : Result (Tu/ml) Suggestion ≤ 6 Negative (-) 6 – 12 Suspected (±) 12 – 25 Weak Positive (+) 25 – 100 Medium Positive (++) > 100 Strong Positive (+++) Note : Each laboratory should establish its own reference range based on the population being tested."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be performed using serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R024`  
+> **TL;DR** — The **Canine Leishmania Antibody (cLSH-Ab)** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## Applications & Who It's For
+
+- **Veterinary clinics & animal hospitals** — same-visit quantitative Canine Leishmania Antibody (cLSH-Ab) results to support diagnosis and case management.
+- **Shelters & catteries** — intake screening and vaccination or immunity screening where Canine Leishmania Antibody (cLSH-Ab) is part of the admission panel.
+- **Breeders & kennels** — monitor infection or immunity status in breeding and boarding groups.
+- **Reference labs & multi-vet hospitals** — batch multiple devices on the analyzer for high-throughput reporting.
+
+See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be performed using serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

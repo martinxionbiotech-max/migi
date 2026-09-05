@@ -182,3 +182,10 @@ No — **1 timing marker, 0 pregnancy confirmation**: progesterone rises in ever
 *This content is for educational and product-selection purposes only. Test results are one input to a breeding decision — always work with your veterinarian for diagnosis and insemination timing. Product specifications (cat. numbers, packaging, shelf life) are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may be updated; confirm with a sales representative before ordering.*
 - [dvm360 — Breeding Management Proceedings](https://www.dvm360.com/)
 - [PubMed — Kunanusont et al. Vet World 2021](https://pubmed.ncbi.nlm.nih.gov/)
+
+## Continue exploring
+
+- [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing)
+- [Progesterone Testing for Canine Breeding Timing](/blog/progesterone-testing-optimal-breeding-timing)
+- [At-Home Pet Tests: What Works and What Needs a Vet](/blog/at-home-diagnostic-kits-for-pet-health-a-convenient-and-reliable-solution-for-pet-owners)
+- [Progesterone vs Relaxin vs Ultrasound for Breeding](/blog/progesterone-vs-relaxin-vs-ultrasound)

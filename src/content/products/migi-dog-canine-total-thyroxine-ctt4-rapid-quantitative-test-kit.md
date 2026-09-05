@@ -7,11 +7,35 @@ catNo: "MG-CA-R016"
 image: "/images/migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit.png"
 order: 31
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R016", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit?", "a": "The cTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantifies the concentration of pancreatic lipase in canine serum or plasma, assisting in the diagnosis and monitoring of pancreatic lipase levels. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit use?", "a": "This assay uses a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cTT4 captured. The results are expressed in nmol/L or µg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Use the Test Device within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "The detection range of cTT4 in canine serum or plasma is 7.5–192 nmol/L (1 nmol/L = 0.0777 µg/dL). Result (nmol/L) Result (µg/dL) Interpretation ≤ 15 ≤ 1.17 Low 15–60 1.17–4.67 Normal > 60 > 4.67 High Each laboratory should establish a reference range specific to its population."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit?", "a": "The cTT4 test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantifies the concentration of pancreatic lipase in canine serum or plasma, assisting in the diagnosis and monitoring of pancreatic lipase levels. For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit use?", "a": "This assay uses a quantitative competitive fluorescence immunoassay technique. The fluorescence intensity is proportional to the amount of cTT4 captured. The results are expressed in nmol/L or µg/dL."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30°C until the expiration date. Perform the test at 18–28°C after opening the Test Device. Use the Test Device within 30 minutes after opening the pouch."}, {"q": "How are the results interpreted?", "a": "The detection range of cTT4 in canine serum or plasma is 7.5–192 nmol/L (1 nmol/L = 0.0777 µg/dL). Result (nmol/L) Result (µg/dL) Interpretation ≤ 15 ≤ 1.17 Low 15–60 1.17–4.67 Normal > 60 > 4.67 High Each laboratory should establish a reference range specific to its population."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be used with serum or plasma (EDTA anticoagulant recommended)."}]
 ---
 
 
 **Catalog Number:** `MG-CA-R016`  
+> **TL;DR** — The **Canine Total Thyroxine（cTT4）** is a quantitative fluorescence immunoassay used with a Migibio Immunofluorescence Analyzer. It ships as a 10-test/box kit, a 2-year shelf life, an MOQ of 10 boxes, and a 10-minute Quick Test result. For clinical interpretation, see [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing).
+
+## Applications & Who It's For
+
+- **Veterinary clinics** — same-visit quantitative Canine Total Thyroxine（cTT4） results for endocrine screening and monitoring.
+- **Animal hospitals** — track treatment response with serial quantitative values.
+- **Reference labs & multi-vet hospitals** — high-throughput batch testing on the analyzer.
+- **B2B buyers** — order in 10-box minimum quantities with a 2-year shelf life.
+
+See also: [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing).
+
+## FAQ
+
+**Which analyzer does this run on?**
+
+It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
+
+**What is the MOQ and shelf life?**
+
+The listed MOQ is 10 boxes; shelf life is 2 years.
+
+**What sample does it use?**
+
+The test can be used with serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

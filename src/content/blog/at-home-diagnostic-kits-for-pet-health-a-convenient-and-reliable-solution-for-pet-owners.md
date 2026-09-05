@@ -131,3 +131,10 @@ No — home testing covers 1 job (screening/monitoring), not diagnosis. An abnor
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — any unwell pet should be seen by a veterinarian. Migibio manufactures clinic-grade equipment and reagents sold B2B to veterinary practices and distributors; we do not market consumer home-test kits.*
 - [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 - [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
+
+## Continue exploring
+
+- [Dog Pregnancy Tests: Relaxin and Progesterone Explained](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding)
+- [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)
+- [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing)
+- [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide)

@@ -145,3 +145,10 @@ The value is neutral due diligence: the comparison documents the differences so 
 - **Author:** Dr. Tang — veterinary diagnostics specialist.
 - **Review:** Product specifications cross-checked against Migibio FIA680/FIA880 documentation.
 - **Last updated:** 2026-08-29.
+
+## Continue exploring
+
+- [FIA680 vs FIA880: Which Analyzer Fits Your Practice](/blog/fia680-vs-fia880-analyzer)
+- [FIA Analyzer ROI: Payback on an Immunofluorescence Reader](/blog/fia-analyzer-roi-payback)
+- [Choosing a Veterinary Analyzer: Total Cost of Ownership](/blog/choosing-veterinary-analyzer-total-cost-ownership)
+- [Point-of-Care Testing in Vet Clinics: Speed and Payback](/blog/veterinary-point-of-care-testing-complete-guide)

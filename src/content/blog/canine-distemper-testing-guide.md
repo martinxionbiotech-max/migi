@@ -131,3 +131,10 @@ Yes — it is a core, highly effective vaccine, which is why 1 of every 2 core-v
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a dog with suspected distemper needs immediate veterinary care. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [MSD Veterinary Manual — Canine Distemper](https://www.msdvetmanual.com/generalized-conditions/canine-distemper/canine-distemper)
 - [Wikipedia — Canine distemper](https://en.wikipedia.org/wiki/Canine_distemper)
+
+## Continue exploring
+
+- [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide)
+- [Cat Infectious Disease Testing: What One Panel Can Catch](/blog/feline-infectious-disease-testing-guide)
+- [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)

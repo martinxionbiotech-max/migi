@@ -114,3 +114,9 @@ Yes — test both in **2 scenarios**: outbreaks and recurrent-signs cats, becaus
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a cat with respiratory disease should be seen by a veterinarian. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 - [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
 - [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)
+
+## Continue exploring
+
+- [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)
+- [Feline Triple Test: Snap Line vs Fluorescence Number](/blog/what-are-the-differences-between-the-snap-feline-triple-test-and-fluorescence-fpv-fcv-fhv)

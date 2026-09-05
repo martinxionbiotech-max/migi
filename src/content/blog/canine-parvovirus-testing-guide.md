@@ -178,3 +178,10 @@ Bleach diluted about **1:30**, or accelerated hydrogen peroxide. Most everyday d
 *This content is for educational and product-selection purposes only. Parvovirus is a life-threatening disease — any suspected case should be seen by a veterinarian immediately. Test results are one input to clinical judgment; always combine them with vaccination history and physical examination. Product specifications (cat. numbers, packaging, shelf life) are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
 - [Wikipedia — Canine parvovirus](https://en.wikipedia.org/wiki/Canine_parvovirus)
 - [Morris Animal Foundation — Parvovirus](https://www.morrisanimalfoundation.org/article/canine-parvovirus)
+
+## Continue exploring
+
+- [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide)
+- [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide)
+- [Cat Infectious Disease Testing: What One Panel Can Catch](/blog/feline-infectious-disease-testing-guide)
+- [Antigen vs Antibody Tests in Pets: Which One Answers](/blog/canine-feline-antigen-vs-antibody-testing)
