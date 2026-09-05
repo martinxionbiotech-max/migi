@@ -105,6 +105,25 @@ Canine leishmaniasis, caused by the protozoan *Leishmania infantum* and transmit
 
 **Related product:** [Canine Toxoplasma Gondii Antibody Test](/reagents/migi-dog-canine-toxoplasma-gondii-antibody-ctoxo-ab-rapid-quantitative-test-kit)
 
+## Corona vs Parvo: The Differential That Matters
+
+Both cause vomiting and diarrhoea in puppies, but the management differs sharply, and the tests tell them apart:
+
+| | Canine parvovirus (CPV) | Canine coronavirus (CCV) |
+|---|---|---|
+| Severity | Severe, often fatal | Usually milder |
+| Untreated mortality | ~91% | Low |
+| Treatment survival | ~90% with supportive care | Most recover |
+| Co-infection | — | Worsens parvo |
+
+Because they overlap clinically and can co-infect, the two antigen tests are usually run together. A positive CPV antigen in a symptomatic puppy is a different emergency than a positive CCV antigen — and the quantitative number tells you which you are dealing with.
+
+## Vaccination and the False-Positive Window
+
+The antigen-vs-antibody framework has one practical trap every clinician hits: **a modified-live vaccine can make an antigen test read positive for 5–15 days.** A puppy vaccinated days ago, then tested "positive" for parvo antigen, may be shedding vaccine virus, not infected.
+
+The rule: interpret a positive antigen in a recently vaccinated dog with caution, and lean on the quantitative level plus clinical signs. A low-level positive in a healthy, recently vaccinated dog is not the same as a high-level positive in a sick one — which is exactly why a number, not a line, is what separates the two.
+
 ## When Should You Test?
 
 - **Acute gastrointestinal signs** — test for CPV and CCV immediately.

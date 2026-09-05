@@ -141,6 +141,16 @@ The cost side of this — bulk pricing, MOQ, and distributor margins — is cove
 
 ---
 
+## The Regulatory and Logistics Layer
+
+A diagnostics manufacturer relationship is also a regulatory and logistics relationship. Three things matter beyond the product itself:
+
+- **Import compliance** — veterinary devices do NOT require CE marking in the EU (that is a human-IVD rule); the US routes veterinary products through the FDA's CVM. Each market classifies the product differently (device vs medicinal product vs biologic), and that classification decides legal entry. See [import regulations](/blog/veterinary-ivd-import-regulations-ce-fda).
+- **Cold chain** — reagents that need 2–8°C storage carry a permanent freight and failure cost; room-temperature-stable reagents eliminate it. See [cold chain](/blog/cold-chain-logistics-veterinary-reagents).
+- **Distribution economics** — this is a razor-and-blades business: the analyzer wins the account, the recurring reagent stream is the durable revenue. See [distributor economics](/blog/distributor-profit-model-reagent-kit).
+
+A supplier that is credible on all three — regulatory, logistics, and commercial — is worth more than one that is strong on product alone.
+
 ## Where Migibio Fits
 
 I'll state the bias up front: this guide is published by Migibio, a veterinary diagnostics manufacturer — so of course we think you should consider us. But the case we'd make is the same one this guide tells you to look for:

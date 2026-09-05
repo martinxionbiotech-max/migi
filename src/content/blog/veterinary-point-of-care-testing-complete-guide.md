@@ -11,6 +11,10 @@ faq: [{"q": "What is veterinary point-of-care testing (POCT)?", "a": "POCT refer
 
 > **TL;DR** — POCT means running diagnostics in-clinic instead of shipping out — same-visit results, same-visit decisions. The market logic is concrete: **USD 2.23B in 2025 → 3.77B in 2031, a 9.18% CAGR**. The value is speed plus revenue; the catch is limits — POCT screens and monitors, it doesn't replace the lab for everything.
 
+## In Plain Terms
+
+Point-of-care testing is the difference between "come back tomorrow for the result" and "I have the answer right now." A vet used to ship blood out and wait for a lab to call; now a single drop of blood, loaded into a benchtop analyzer, returns a quantitative number in 10–20 minutes. That one change reshapes the entire consult — the diagnosis, the treatment plan, and the owner's confidence all happen in the same visit, not across two appointments and a phone call.
+
 Point-of-care testing (POCT) has transformed how veterinary medicine is practised. Where clinicians once waited hours or days for reference-laboratory results, they can now obtain diagnostic data in minutes, at the cage-side, and act on it during the same consultation. This guide explains what POCT is, the technologies behind it, and how to integrate it effectively into a veterinary practice.
 
 ## What Is Veterinary Point-of-Care Testing?
@@ -99,6 +103,46 @@ Modern POCT goes beyond "is it infected?" to "how is the patient functioning?" Q
 - **Progesterone and relaxin** — reproductive management.
 
 For a deeper exploration, see [Veterinary Biomarker Monitoring: Kidney, Cardiac, and More](/blog/veterinary-biomarker-monitoring-kidney-cardiac).
+
+## The ROI: How POCT Pays for Itself
+
+The clinical case for POCT is obvious; the financial case is what makes practices adopt it. The math is straightforward:
+
+- **Every test you run in-house is a test you are not paying the reference lab for** — and it is a test you bill the client for at a margin.
+- **Same-visit diagnosis converts a "wait" into a "treat now"** — treatment revenue happens today, not next week.
+- **One analyzer runs many analytes** — a single capital purchase unlocks a whole menu of billable tests.
+
+The payback is measured in months, not years, for most practices: an analyzer that runs even a modest daily volume of quantitative tests recovers its cost quickly, because the reagent margin on a recurring test stream compounds. For the detailed payback math, see [FIA Analyzer ROI](/blog/fia-analyzer-roi-payback).
+
+---
+
+## POCT vs the Reference Lab: A Clean Division of Labor
+
+Treat them as complements, not competitors:
+
+| Question | Run in-house (POCT) | Send to lab |
+|---|---|---|
+| "Is this parvo, now?" | ✓ (antigen, 10–20 min) | — |
+| "How bad is the inflammation?" | ✓ (CRP/SAA) | — |
+| "Is she ovulating?" | ✓ (progesterone) | — |
+| Confirmatory / unusual tests | — | ✓ (PCR, histopath) |
+| High-complexity panels | — | ✓ |
+
+The rule: **screen and monitor in-house, confirm and specialise at the lab.** The two together give you both the speed of a same-visit answer and the depth of a reference laboratory.
+
+---
+
+## Quality Control: The Non-Negotiable
+
+A quantitative analyzer is only as trustworthy as its last calibration and its daily QC. The minimum discipline:
+
+- **Daily QC** — run a control sample and plot it on a Levey-Jennings chart.
+- **Triggered calibration** — recalibrate on a new reagent lot, after maintenance, or after a failed QC.
+- **Document everything** — unplotted QC is QC that did not happen.
+
+A drifted analyzer fails silently — results stay plausible while moving off-target. Daily QC is the only thing standing between you and a quietly wrong result. See the [POCT QC SOP](/blog/poct-quality-control-sop-clinic) for the full protocol.
+
+---
 
 ## Limitations to Understand
 

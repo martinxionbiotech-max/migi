@@ -10,6 +10,10 @@ faq: [{"q": "What should I look at beyond the analyzer's sticker price?", "a": "
 
 > **TL;DR:** Choosing an analyzer on sticker price is the fastest way to make an expensive mistake. Compare instruments on **total cost of ownership over 3 years** — hardware, cartridges, QC, maintenance, training and wastage — and price a **2-week repair turnaround** as a cost, not an inconvenience. For a targeted, time-sensitive menu, a dedicated **single-parameter immunoassay reader** is frequently the lowest-TCO choice precisely because it does **1 thing cheaply**.
 
+## In Plain Terms
+
+The analyzer is the cheap part. The expensive part is everything that comes after: the cartridges you reorder every month, the controls you run every day, the maintenance contract, and the cartridges that expire on the shelf because you bought a panel you didn't need. Buy on the sticker price and you buy blind; price the whole three years and the choice usually makes itself.
+
 Every analyzer looks good in a brochure. The differences that matter show up months later, in the cartridge invoices and the expired stock on the shelf. This checklist is the questions to ask before you sign anything — organised by the cost categories that actually decide TCO.
 
 ## 1. Hardware
@@ -77,6 +81,48 @@ TCO (3 years) =
 ```
 
 Then divide by the total number of tests over three years to get a **true cost per test**. Compare instruments on that number, not on the purchase price.
+
+## Single-Channel vs Multi-Channel: The Real Decision
+
+The sharpest fork in analyzer selection is channel count, because it sets the cost ceiling:
+
+| | Single-channel (e.g. FIA680) | Multi-channel (e.g. FIA880) |
+|---|---|---|
+| Throughput | ~200 tests/hr | ~300 tests/hr |
+| Menu | One analyte per run | Multiple analytes in parallel |
+| Cost | Lower | Higher |
+| Best fit | Targeted menus, moderate volume | High-volume, mixed menus |
+
+The decision is not "bigger is better" — it is "does my volume justify the parallel throughput?" A clinic running targeted tests (progesterone, cPL, NT-proBNP) at moderate volume gets nothing from six channels except a higher invoice. A busy hospital running mixed panels does. Match channels to your actual daily volume, not your aspiration.
+
+---
+
+## Beyond Purchase: Maintenance and Calibration
+
+The TCO category most people forget is the ongoing discipline that keeps the number honest. A quantitative analyzer drifts silently — aging optics, dust, reagent-lot changes — so two habits are non-negotiable:
+
+- **Daily QC** — run a control, plot it on a Levey-Jennings chart, investigate any drift.
+- **Triggered calibration** — recalibrate on a new lot, after maintenance, or after a failed QC.
+
+A cartridge-based FIA reader has no fluidics, so it has genuinely fewer failure points than a full chemistry platform — but the QC discipline still applies, because the number is the diagnosis. See the [maintenance & calibration SOP](/blog/immunofluorescence-analyzer-maintenance-calibration) for the full routine.
+
+---
+
+## A Worked TCO Example
+
+To make the scorecard concrete, consider a clinic running 10 quantitative tests a week — progesterone, cPL and NT-proBNP across a year (roughly 500 tests):
+
+| Line item | Annual estimate |
+|---|---|
+| Hardware (amortised over 3 yrs) | 1/3 of purchase price |
+| Cartridges (500 × cost/test) | The dominant line |
+| QC + calibration materials | Small but real |
+| Maintenance | Lower for a no-fluidics reader |
+| Wastage | Driven by ordering discipline |
+
+The point is not the specific numbers — it is that the **cartridge line dominates everything else**, so the cost-per-cartridge and the wastage rate matter more than the hardware price. A reader that lets you order single tests in small batches, with a 2-year shelf life, is cheaper to own than a slightly-cheaper reader that forces bulk panels.
+
+---
 
 ## The Decision Pattern Worth Internalising
 

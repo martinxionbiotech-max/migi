@@ -97,6 +97,30 @@ Reliable FICA results depend on disciplined quality control:
 - **Expiry dating** must be respected; degraded conjugates produce falsely low signals.
 - **External controls** should be run periodically per the laboratory's quality-management plan.
 
+## The Technology Landscape: FICA in Context
+
+FICA is not the only quantitative immunoassay technology — it sits in a spectrum:
+
+| Technology | Result | Time | Cost | Best for |
+|---|---|---|---|---|
+| Colloidal-gold LFA | Qualitative | 5–15 min | Lowest | Screening |
+| FICA (fluorescence) | Quantitative | 10–20 min | Low | POCT, in-clinic |
+| CLIA (chemiluminescence) | Quantitative | Minutes | High | Reference lab, ultra-low limits |
+| ELISA | Quantitative | 1–4 h | Moderate | Batch, reference |
+| PCR | Qualitative/quantitative | 2–6 h | High | Pathogen confirmation |
+
+The reason FICA wins the in-clinic slot is the combination: **quantitative + fast + low cost + compact**. CLIA reaches lower detection limits but costs 4–6× more and lives in a lab; PCR is more sensitive for pathogens but is too slow and expensive for a same-visit answer. FICA occupies the exact point where "a number in 10 minutes, at cage-side" matters. See [FIA vs CLIA](/blog/fluorescence-immunoassay-vs-chemiluminescence) for the full cost comparison.
+
+## Reading the Numbers: LOD, LOQ and CV
+
+A quantitative result is only as trustworthy as three spec-sheet numbers:
+
+- **LOD (limit of detection)** — the faintest amount the test can see.
+- **LOQ (limit of quantitation)** — the faintest it can measure accurately (always higher than LOD).
+- **CV (coefficient of variation)** — reproducibility, as a percentage; under ~10% is the working bar for a good POCT.
+
+The trap is confusing LOD with LOQ: a test can *detect* an analyte long before it can *quantify* it, and you make decisions on the LOQ, not the LOD. A CV under 10% is what makes a quantitative result a *monitoring* tool — precise enough to tell a real change from random scatter. See [LOD, LOQ and CV](/blog/lod-loq-cv-reading-quantitative-specs) for the full guide.
+
 ## Why the Analyzer Matters
 
 The test strip and the reader form a single calibrated system. A high-quality analyzer provides:

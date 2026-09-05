@@ -119,6 +119,19 @@ Heart testing is one of the cleanest medicine-plus-revenue cases in small-animal
 
 ---
 
+## Beyond MMVD and HCM: The Wider Cardiac Map
+
+MMVD (dog) and HCM (cat) dominate, but they are not the whole map:
+
+| Disease | Species | Test | Notes |
+|---|---|---|---|
+| MMVD | Dog | Auscultation → NT-proBNP → echo | 85% of small dogs by 13 |
+| DCM | Dog (large breeds) | Echo + NT-proBNP | Dobermans, Boxers, Great Danes |
+| HCM | Cat | NT-proBNP → echo | ~15% of cats |
+| Congenital | Puppy/kitten | Echo | Murmur in a young animal |
+
+The screening protocol is the same shape across all of them: auscultation flags, NT-proBNP quantifies the strain, echo characterises the disease, and serial NT-proBNP tracks progression. A rising NT-proBNP trend across annual screens — even inside the normal range — is the earliest warning that a progressor is emerging. See [heart screening](/blog/heart-disease-screening-dogs-cats) for the full protocol.
+
 ## How the Test Runs
 
 1. Draw serum or plasma (check kit whole-blood compatibility).

@@ -5,7 +5,7 @@ description: "A plain-English guide to veterinary diagnostic certifications — 
 pubDate: "2026-08"
 author: "Dr. Tang"
 category: "blog"
-faq: [{"q": "What certification does a veterinary diagnostics manufacturer need for Europe?", "a": "CE marking under the EU IVDR (In Vitro Diagnostic Regulation 2017/746) is required to sell in the European market. The IVDR, which replaced the older IVDD, tightened requirements including more stringent clinical evidence and post-market surveillance."}, {"q": "What is the difference between ISO 9001 and ISO 13485?", "a": "ISO 9001 is a general quality-management standard applicable to any industry. ISO 13485 is specific to medical devices and diagnostics, adding requirements for risk management, traceability, and regulatory compliance. For diagnostics, ISO 13485 is the stronger signal."}, {"q": "Are veterinary diagnostics regulated by the FDA like human tests?", "a": "Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs. Requirements differ by product type and intended use, so confirm the specific product's status."}, {"q": "How do I verify a certification is real and current?", "a": "Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another."}]
+faq: [{"q": "What certification does a veterinary diagnostics manufacturer need for Europe?", "a": "CE marking under the EU IVDR (In Vitro Diagnostic Regulation 2017/746) is required to sell in the European market. The IVDR, which replaced the older IVDD, tightened requirements including more stringent clinical evidence and post-market surveillance."}, {"q": "What is the difference between ISO 9001 and ISO 13485?", "a": "ISO 9001 is a general quality-management standard applicable to any industry. ISO 13485 is specific to medical devices and diagnostics, adding requirements for risk management, traceability, and regulatory compliance. For diagnostics, ISO 13485 is the stronger signal."}, {"q": "Are veterinary diagnostics regulated by the FDA like human tests?", "a": "Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs (which use 510(k)/PMA). Requirements differ by product type and intended use, so confirm the specific product's status."}, {"q": "How do I verify a certification is real and current?", "a": "Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate (e.g. ISO 13485) covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another."}]
 ---
 
 > **TL;DR** — Certifications are the shortcut to trusting a factory you can't visit: **5 frameworks** do the heavy lifting — CE IVDR (Europe), FDA CVM (US), NMPA (China), ISO 9001 and ISO 13485. The catch: **1 certificate** only matters if its scope covers the products you're buying, so verify the number and scope rather than the logo.
@@ -111,11 +111,11 @@ ISO 9001 is a general quality-management standard applicable to any industry. IS
 
 ### Are veterinary diagnostics regulated by the FDA like human tests?
 
-Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs. Requirements differ by product type and intended use, so confirm the specific product's status.
+Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs (which use 510(k)/PMA). Requirements differ by product type and intended use, so confirm the specific product's status.
 
 ### How do I verify a certification is real and current?
 
-Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another.
+Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate (e.g. ISO 13485) covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another.
 
 ## References
 

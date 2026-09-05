@@ -6,7 +6,7 @@ pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
 category: "blog"
-faq: [{"q": "What are CRP and SAA?", "a": "C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation. CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment."}, {"q": "What is a normal CRP level in dogs?", "a": "A canine CRP below 10 mg/L is considered normal, 10–35 mg/L indicates low-grade or mild inflammation, and above 35 mg/L indicates active systemic inflammation. CRP rises within 4–24 hours and peaks around 24–48 hours."}, {"q": "What is a normal SAA level in cats?", "a": "A feline SAA below 10 µg/mL is considered normal, and above 10 µg/mL indicates active inflammation. Levels are often graded 10–50 µg/mL mild, 50–100 µg/mL moderate, and above 100 µg/mL severe. SAA rises within 6–12 hours."}, {"q": "Do CRP and SAA identify the cause of inflammation?", "a": "No. They are non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease."}, {"q": "Which is better for monitoring treatment, CRP or SAA?", "a": "Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly once therapy is effective — a falling value confirms the treatment is working before the patient looks better."}, {"q": "Can CRP or SAA tell me the cause of the inflammation?", "a": "No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL or fPL to find the underlying problem."}]
+faq: [{"q": "What are CRP and SAA?", "a": "C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation (rising within hours, peaking at 24–48 h). CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment."}, {"q": "What is a normal CRP level in dogs?", "a": "A canine CRP below 10 mg/L is considered normal, 10–35 mg/L indicates low-grade or mild inflammation, and above 35 mg/L indicates active systemic inflammation. CRP rises within 4–24 hours and peaks around 24–48 hours."}, {"q": "What is a normal SAA level in cats?", "a": "A feline SAA below 10 µg/mL is considered normal, and above 10 µg/mL indicates active inflammation. Levels are often graded 10–50 µg/mL mild, 50–100 µg/mL moderate, and above 100 µg/mL severe. SAA rises within 6–12 hours."}, {"q": "Do CRP and SAA identify the cause of inflammation?", "a": "No. They are 2 non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease."}, {"q": "Which is better for monitoring treatment, CRP or SAA?", "a": "Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly (within 4–24 h) once therapy is effective — a falling value confirms the treatment is working before the patient looks better."}, {"q": "Can CRP or SAA tell me the cause of the inflammation?", "a": "No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL (>400 µg/L) or fPL (≥5.4 µg/L) to find the underlying problem."}]
 ---
 
 > **TL;DR** — CRP and SAA are speed markers, not cause finders: canine CRP rises in **4–24 hours** and peaks at **24–48 hours**, feline SAA rises in **6–12 hours**. Normal is canine CRP <10 mg/L and feline SAA <10 µg/mL; a CRP falling **120→60→18 mg/L over 3 days** is proof the antibiotic is working. The trap: a CRP of **80 mg/L** doesn't name the disease, only the inflammation.
@@ -112,6 +112,28 @@ Acute-phase proteins are fast in and fast out — which also means they can be l
 
 ---
 
+## The Species Split: CRP for Dogs, SAA for Cats
+
+Acute-phase proteins are not interchangeable across species — and using the wrong one under-reads the disease:
+
+| | Dog | Cat |
+|---|---|---|
+| Primary marker | CRP | SAA |
+| Dynamic range (severe) | up to ~900 mg/L | up to >2,700 mg/L |
+| Response | Fast, high | Faster, higher |
+
+A clinic that runs CRP on a cat is effectively blind to feline inflammation — the feline CRP response is weak. Match the marker to the species: CRP for dogs, SAA for cats. See [Feline SAA](/blog/feline-saa-acute-phase-protein) for the full detail.
+
+## Post-Operative Monitoring: The Curve Is the Contract
+
+Surgery is controlled inflammation, so a post-op rise in CRP/SAA is expected — up, peak at 24–48 h, then down. The diagnostic value is in *deviations* from that curve:
+
+- **Failure to fall** beyond 48–72 h → investigate.
+- **Secondary rise** after day 2–3 → suspect infection or dehiscence.
+- **Disproportionate persistence** → look harder.
+
+A marker that follows the expected curve is reassuring; one that plateaus or climbs flags a complication days before the wound is red and hot. See [post-op monitoring](/blog/postoperative-infection-monitoring-crp-saa) for the full protocol.
+
 ## How the Test Works
 
 CRP and SAA run from serum or plasma on a quantitative immunofluorescence analyzer. They're among the fastest biomarker assays — typically returning in **5–15 minutes**, with ~10 minutes being common. The workflow:
@@ -143,7 +165,7 @@ The commercial value is the monitoring relationship: serial draws for treatment 
 
 ### What are CRP and SAA?
 
-C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation. CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment.
+C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation (rising within hours, peaking at 24–48 h). CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment.
 
 ### What is a normal CRP level in dogs?
 
@@ -155,15 +177,15 @@ A feline SAA below 10 µg/mL is considered normal, and above 10 µg/mL indicates
 
 ### Do CRP and SAA identify the cause of inflammation?
 
-No. They are non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease.
+No. They are 2 non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease.
 
 ### Which is better for monitoring treatment, CRP or SAA?
 
-Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly once therapy is effective — a falling value confirms the treatment is working before the patient looks better.
+Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly (within 4–24 h) once therapy is effective — a falling value confirms the treatment is working before the patient looks better.
 
 ### Can CRP or SAA tell me the cause of the inflammation?
 
-No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL or fPL to find the underlying problem.
+No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL (>400 µg/L) or fPL (≥5.4 µg/L) to find the underlying problem.
 
 ## References
 

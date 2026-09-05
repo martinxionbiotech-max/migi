@@ -115,6 +115,30 @@ A positive FIV antibody test indicates infection (or maternal antibodies in very
 
 **Related product:** [FIV-Ab Antibody Test](/reagents/migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit)
 
+## The Feline Triple Test: Three Viruses, One Panel
+
+Upper-respiratory disease in cats is usually one of three viruses — FPV, FHV-1 or FCV — and they co-infect so often that a combined panel is the practical default. But the three antibodies are not equal in what they tell you:
+
+| Virus | Positive antigen means | Positive antibody means |
+|---|---|---|
+| FPV | Active panleukopenia (urgent) | Reliable protection (single serotype) |
+| FHV-1 | Active shedding | Exposure — but the virus goes latent for life |
+| FCV | Active infection | Exposure — but many strains dodge vaccine |
+
+The key nuance: **FPV antibodies predict protection reliably, FCV antibodies do not.** FHV-1 goes latent, so a positive antibody says "exposed," not "immune." A single panel answers three questions at once, but the three answers mean different things — read them separately.
+
+## A Diagnostic Decision Tree
+
+Work through the presenting sign, and the test picks itself:
+
+1. **Vomiting + diarrhoea, especially a kitten** → FPV antigen immediately (mortality ~90–100% untreated).
+2. **Sneezing, ocular/nasal discharge** → FHV-1/FCV panel (antigen for active, antibody for immunity).
+3. **Chronic conjunctivitis** → Chlamydia/Mycoplasma antigen or PCR.
+4. **Weight loss, fever, anaemia, lymphoma** → FeLV antigen + FIV antibody (the retrovirus pair).
+5. **Effusion / neurological signs** → FCoV antibody titre + clinical picture for FIP.
+
+The discipline is the same as canine testing: a sick cat gets an antigen test (is it here now?), a healthy cat gets an antibody test (is it protected?). The difference in cats is the added complexity — retroviruses with three outcomes, a coronavirus that only sometimes becomes FIP, and a herpesvirus that never leaves — which is why a quantitative number, not a line, is what separates "exposed" from "sick."
+
 ## When Should You Test?
 
 - **New kittens or adopted cats** — screen for FeLV and FIV before introduction to a household.

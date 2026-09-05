@@ -5,7 +5,7 @@ description: "A guide to veterinary diagnostic OEM and ODM manufacturing — the
 pubDate: "2026-08"
 author: "Dr. Tang"
 category: "blog"
-faq: [{"q": "What is the difference between OEM and ODM?", "a": "OEM (original equipment manufacturing) means the factory builds a product to your specification under your brand. ODM (original design manufacturing) means the factory designs and builds the product, and you rebrand it as your own. Most new brands start with ODM (rebrand an existing line) and move to OEM for custom menus."}, {"q": "How long does OEM/ODM take?", "a": "Rebranding an existing ODM line typically takes 1–3 months (branding, packaging, registration files). Custom OEM development — a new reagent panel or analyzer modification — takes 6–12 months including validation. Add regulatory registration time for your target market."}, {"q": "Can I customize the reagent menu?", "a": "Yes, most manufacturers offer menu customization. You can select a subset of analytes, add new panels, or bundle tests for a specific market. Menu changes may require validation and, in some cases, regulatory re-registration."}, {"q": "What is the minimum order quantity for private label?", "a": "MOQ varies. Analyzers are usually 1–10 units with a consumable commitment; private-label reagent kits often start at a few hundred to a few thousand tests. Confirm MOQ, per-unit branding cost, and reorder lead time before committing."}]
+faq: [{"q": "What is the difference between OEM and ODM?", "a": "2 models: OEM (original equipment manufacturing) means the factory builds a product to your specification under your brand. ODM (original design manufacturing) means the factory designs and builds the product, and you rebrand it as your own. Most new brands start with ODM (rebrand an existing line) and move to OEM for custom menus."}, {"q": "How long does OEM/ODM take?", "a": "Rebranding an existing ODM line typically takes 1–3 months (branding, packaging, registration files). Custom OEM development — a new reagent panel or analyzer modification — takes 6–12 months including validation. Add regulatory registration time for your target market."}, {"q": "Can I customize the reagent menu?", "a": "Yes, most manufacturers offer menu customization. You can select a subset of analytes (e.g. 10–20 tests), add new panels, or bundle tests for a specific market. Menu changes may require validation and, in some cases, regulatory re-registration."}, {"q": "What is the minimum order quantity for private label?", "a": "MOQ varies. Analyzers are usually 1–10 units with a consumable commitment; private-label reagent kits often start at a few hundred to a few thousand tests. Confirm MOQ, per-unit branding cost, and reorder lead time before committing."}]
 ---
 
 > **TL;DR** — OEM means the factory builds to your spec; ODM means you rebrand a factory-designed product. Most distributors start with ODM (rebrand an existing analyzer and reagent line, 1–3 months) and graduate to OEM for custom menus (6–12 months with validation). The value of OEM/ODM is brand ownership — you build equity instead of reselling someone else's. But it only works if the factory has real customization depth, not just a logo printer.
@@ -140,7 +140,7 @@ In practice, clarify scope, timelines and regulatory responsibility early, and t
 
 ### What is the difference between OEM and ODM?
 
-OEM (original equipment manufacturing) means the factory builds a product to your specification under your brand. ODM (original design manufacturing) means the factory designs and builds the product, and you rebrand it as your own. Most new brands start with ODM (rebrand an existing line) and move to OEM for custom menus.
+2 models: OEM (original equipment manufacturing) means the factory builds a product to your specification under your brand. ODM (original design manufacturing) means the factory designs and builds the product, and you rebrand it as your own. Most new brands start with ODM (rebrand an existing line) and move to OEM for custom menus.
 
 ### How long does OEM/ODM take?
 
@@ -148,7 +148,7 @@ Rebranding an existing ODM line typically takes 1–3 months (branding, packagin
 
 ### Can I customize the reagent menu?
 
-Yes, most manufacturers offer menu customization. You can select a subset of analytes, add new panels, or bundle tests for a specific market. Menu changes may require validation and, in some cases, regulatory re-registration.
+Yes, most manufacturers offer menu customization. You can select a subset of analytes (e.g. 10–20 tests), add new panels, or bundle tests for a specific market. Menu changes may require validation and, in some cases, regulatory re-registration.
 
 ### What is the minimum order quantity for private label?
 

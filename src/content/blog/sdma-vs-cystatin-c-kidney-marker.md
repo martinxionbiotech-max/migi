@@ -125,6 +125,18 @@ For the owner, the pitch is simple: a blood test that can catch kidney disease a
 
 ---
 
+## The Full Kidney Panel: Creatinine, SDMA and UPC
+
+The three markers answer three different questions, and the complete picture needs all of them:
+
+| Marker | Rises when | Answers |
+|---|---|---|
+| Creatinine | ~75% GFR loss | Late, but anchors IRIS staging |
+| SDMA | ~40% (as early as 25%) | Early, muscle-mass-independent |
+| UPC | Protein leak | Prognosis — the progression driver |
+
+The integration: creatinine anchors the stage, SDMA catches the early and the thin, and UPC predicts progression (a dog UPC >1.0 carries ~3× uremic-crisis risk). The independent caveat: one head-to-head study found SDMA and creatinine had the same overall accuracy — SDMA's edge is muscle-mass independence and earlier acute rise, not fundamentally better accuracy. See [Creatinine vs SDMA](/blog/creatinine-vs-sdma-kidney-marker) and [UPC](/blog/upc-urine-protein-creatinine-ratio).
+
 ## A Practical Decision Guide
 
 | Scenario | Recommendation |

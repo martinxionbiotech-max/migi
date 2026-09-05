@@ -105,6 +105,23 @@ Thyroid results are among the most commonly misinterpreted — and most of the m
 
 ---
 
+## Beyond Thyroid: The Wider Endocrine Panel
+
+The thyroid is the most-tested endocrine organ, but it is not the only one. The same quantitative platform covers:
+
+| Condition | Test | Key numbers |
+|---|---|---|
+| Hyperthyroidism (cat) | T4 | Suppressed/low |
+| Hypothyroidism (dog) | T4 + TSH | Low T4 + high TSH |
+| Cushing's (dog) | Cortisol (LDDST/ACTH) | 85–100% sens LDDST |
+| Addison's (dog) | Cortisol (ACTH stim) | Low baseline + flat stim |
+
+The Cushing's case is where the thyroid lesson generalises: **no single test is definitive.** The LDDST catches 85–100% but over-calls (specificity 44–73%); the ACTH stim is cleaner but misses 20–40%. The pattern — screen with one, confirm with the other, monitor serially — is the same discipline across every endocrine axis. See [Cushing's testing](/blog/canine-cushings-testing-lddst-acth) and [Free T4 vs Total T4](/blog/free-t4-vs-total-t4).
+
+## The Free T4 Fallback
+
+When total T4 is low but the picture is muddied — an elderly dog, a sighthound (naturally low T4), or a patient with non-thyroidal illness — the total T4 can lie. Free T4 by equilibrium dialysis measures only the active fraction and is far less distorted by illness. The sequencing is: total T4 first (cheap, >95% sensitive), free T4 second (only when the cheap test is confounded). See [Free T4 vs Total T4](/blog/free-t4-vs-total-t4) for the full logic.
+
 ## How the Test Works
 
 T4 and TSH are measured from serum or plasma on a quantitative immunofluorescence analyzer:

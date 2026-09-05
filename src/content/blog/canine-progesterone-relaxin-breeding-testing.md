@@ -10,6 +10,12 @@ faq: [{"q": "When should I start progesterone testing a breeding bitch?", "a": "
 
 > **TL;DR** — The working protocol is: start progesterone testing a few days into oestrus, test every 1–2 days until you catch the LH surge (~2–3 ng/mL) and ovulation (~4–10 ng/mL), breed during the 8–15 ng/mL window, then confirm pregnancy with a relaxin test around day 28–30. Two biomarkers, two jobs — progesterone times the breeding, relaxin confirms it — and both need a quantitative number, not a line.
 
+## In Plain Terms
+
+Breeding a bitch is a timing problem disguised as a fertility problem. The eggs are only fertilisable for a narrow window after ovulation, and the semen — depending on how it is stored — survives anywhere from **12 hours to 6 days**. Get the two windows to overlap and you get a litter; miss by a day and you get an empty cycle. Progesterone is the clock that tells you when the eggs will be ready; relaxin is the confirmation, weeks later, that the whole sequence worked.
+
+The reason this guide exists as its own page is that the failure points are all in the *timing*, not the fertility. A perfectly healthy bitch and a perfectly good stud can produce nothing if the insemination lands a day too early or too late. The protocol below is the discipline that keeps the timing right.
+
 This is the operational version of what the [dog pregnancy test guide](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding) explains conceptually. If you want the *why*, read that. If you want the *how* — the exact sequence — this is it.
 
 ---
@@ -78,6 +84,47 @@ Two practical rules:
 2. **One confirmatory test around day 28–30 is usually enough**, when levels are comfortably above the detection floor.
 
 For the full relaxin detail — detection windows, false-pregnancy distinction, and the "positive doesn't always mean viable" caveat — see the [relaxin guide](/blog/relaxin-early-pregnancy-confirmation-dogs).
+
+---
+
+## Why Breeding Fails: The Five Common Errors
+
+Most "failed breedings" are not fertility problems — they are timing errors. The five to diagnose first:
+
+1. **Testing too late.** Start a few days into oestrus, not when you "notice" she's ready — by then the LH surge (2–3 ng/mL) may already be past.
+2. **Testing too sparsely.** The climb from 2 ng/mL to 8 ng/mL fits inside **48 hours**. A test every 3–4 days routinely misses the window; every 1–2 days is the minimum.
+3. **Relying on a semi-quantitative strip.** A strip that caps at **5 ng/mL** is blind exactly where the breeding window (8–15) and frozen-semen timing (10–20) live. It can't see the number that matters.
+4. **Mistiming frozen semen.** Frozen semen survives ~**12 hours**; landing insemination a day off means a dead straw and an empty cycle.
+5. **Confirming too early.** A relaxin test before day 21 reads "negative" because there is no placenta yet — not because she is not pregnant. Test at day 28–30.
+
+Notice that every one of these is a *process* failure, not a biological one. The fix is not a better stud or a different bitch — it is a tighter testing discipline.
+
+---
+
+## The Full Cycle: From Breeding to Whelping
+
+The protocol does not end at insemination. The same two biomarkers carry you through the whole pregnancy:
+
+| Phase | Marker | What you watch |
+|---|---|---|
+| Pre-ovulation | Progesterone | The rise: 2–3 → 8–15 ng/mL |
+| Insemination | Progesterone | Land inside the breeding window |
+| Early pregnancy | Relaxin (day 28–30) | Confirm pregnancy |
+| Mid-late pregnancy | Progesterone (optional) | The plateau — should hold >~5 ng/mL |
+| Pre-whelping | Progesterone | Falls sharply ~24–48 h before labour |
+
+The mid-late pregnancy step is where serial monitoring earns its keep for at-risk bitches: a corpus luteum that is failing shows a progesterone curve falling toward ~**2 ng/mL** days before the pregnancy is lost — the window when supplementation can still rescue the litter. For a healthy first-time bitch this step is optional; for a bitch with a history of loss it is the difference between a litter and a resorption. See the [pregnancy progesterone curve guide](/blog/progesterone-curve-pregnancy-monitoring) for the full detail.
+
+---
+
+## A Decision Tree for the Busy Breeder
+
+Work through these in order and the protocol runs itself:
+
+1. **What semen are you using?** Fresh (4–6 days) → a coarse window is fine. Chilled (~3 days) → moderate precision. Frozen (~12 hours) → quantitative, no exceptions.
+2. **What is the current progesterone?** Below 1 ng/mL → retest in 1–2 days. 2–3 → switch to daily. 4–10 → ovulation noted, oocytes maturing. 8–15 → breed now.
+3. **Is the rise moving fast?** A 24-hour jump of 3–4 ng/mL after ~4 ng/mL confirms ovulation and tells you to tighten the cadence.
+4. **Confirm at day 28–30** with relaxin — and only then start planning the whelping box.
 
 ---
 

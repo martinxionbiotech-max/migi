@@ -5,7 +5,7 @@ description: "Ten questions every buyer should ask before choosing a test kit su
 pubDate: "2026-08"
 author: "Dr. Tang"
 category: "blog"
-faq: [{"q": "What is the most important question to ask a test kit supplier?", "a": "Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing."}, {"q": "How do I check a supplier's certifications are real?", "a": "Ask for the certificate number and the exact scope, then verify with the issuing body. A certificate that doesn't cover the specific products you're buying — or an expired one — is common. Check ISO 9001/13485 and CE scope carefully."}, {"q": "What is a red flag when choosing a supplier?", "a": "Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale."}, {"q": "Should I ask about OEM/private label before I need it?", "a": "Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later. Switching factories to get OEM capability mid-stream is disruptive and expensive."}]
+faq: [{"q": "What is the most important question to ask a test kit supplier?", "a": "Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%, ideally <10%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing."}, {"q": "How do I check a supplier's certifications are real?", "a": "Ask for the certificate number and the exact scope, then verify with the issuing body. A certificate that doesn't cover the specific products you're buying — or an expired one — is common. Check ISO 9001/13485 and CE scope carefully."}, {"q": "What is a red flag when choosing a supplier?", "a": "Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements (2–8°C) that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale."}, {"q": "Should I ask about OEM/private label before I need it?", "a": "Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later (2 stages: ODM first, OEM later). Switching factories to get OEM capability mid-stream is disruptive and expensive."}]
 ---
 
 > **TL;DR** — Choosing a supplier comes down to **10 questions across 5 areas**: performance, certifications, manufacturing quality, logistics, and the relationship. The single most important is **#1: will you share your analytical performance data?** A supplier that hesitates on that is telling you everything you need to know.
@@ -138,7 +138,7 @@ The practical worth is avoiding supplier risk — ask for performance data, cert
 
 ### What is the most important question to ask a test kit supplier?
 
-Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing.
+Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%, ideally <10%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing.
 
 ### How do I check a supplier's certifications are real?
 
@@ -146,11 +146,11 @@ Ask for the certificate number and the exact scope, then verify with the issuing
 
 ### What is a red flag when choosing a supplier?
 
-Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale.
+Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements (2–8°C) that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale.
 
 ### Should I ask about OEM/private label before I need it?
 
-Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later. Switching factories to get OEM capability mid-stream is disruptive and expensive.
+Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later (2 stages: ODM first, OEM later). Switching factories to get OEM capability mid-stream is disruptive and expensive.
 
 ## References
 
