@@ -277,12 +277,12 @@ No. Biomarkers localize and quantify a problem; imaging (ultrasound, echo, radio
 
 ## References
 
-- IDEXX SDMA test — reference interval & clinical utility: https://www.idexx.com/en/veterinary/reference-laboratories/sdma/
-- International Renal Interest Society (IRIS) CKD Staging Guidelines: http://www.iris-kidney.com/guidelines/staging.html
-- IDEXX Cardiopet proBNP: https://www.idexx.com/en/veterinary/reference-laboratories/cardiopet-probnp/
-- IDEXX Spec cPL / Spec fPL: https://www.idexx.com/en/veterinary/reference-laboratories/spec-cpl-test/
-- Texas A&M GI Laboratory — Pancreatic Lipase Immunoreactivity: https://vetmed.tamu.edu/gilab/
-- Cornell eClinPath — SDMA / Adrenal / Thyroid: https://eclinpath.com/chemistry/kidney/sdma/
+- [IDEXX SDMA test — reference interval & clinical utility](https://www.idexx.com/en/veterinary/reference-laboratories/sdma/)
+- [International Renal Interest Society (IRIS) CKD Staging Guidelines](http://www.iris-kidney.com/guidelines/staging.html)
+- [IDEXX Cardiopet proBNP](https://www.idexx.com/en/veterinary/reference-laboratories/cardiopet-probnp/)
+- [IDEXX Spec cPL / Spec fPL](https://www.idexx.com/en/veterinary/reference-laboratories/spec-cpl-test/)
+- [Texas A&M GI Laboratory — Pancreatic Lipase Immunoreactivity](https://vetmed.tamu.edu/gilab/)
+- [Cornell eClinPath — SDMA / Adrenal / Thyroid](https://eclinpath.com/chemistry/kidney/sdma/)
 - Ghys LFE, et al. Cystatin C: A New Renal Marker. *J Vet Intern Med.* 2014;28(4):1151–1164.
 - Cerón JJ, et al. Acute-phase proteins in dogs and cats. *Vet Clin Pathol.* 2005;34(2):85–99.
 

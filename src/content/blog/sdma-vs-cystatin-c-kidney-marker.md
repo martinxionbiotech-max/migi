@@ -184,8 +184,8 @@ Yes — **3 payoffs make it worth stocking**: same-visit senior-panel revenue, l
 
 - McKenna M, et al. Clinical performance of SDMA in non-azotemic dogs. (2020) — via Cornell eClinPath SDMA review.
 - IDEXX. "Interpreting SDMA Test Results for Cats and Dogs."
-- IRIS CKD Staging Guidelines: http://www.iris-kidney.com/guidelines/staging.html
-- Cornell eClinPath — SDMA: https://eclinpath.com/chemistry/kidney/sdma/
+- [IRIS CKD Staging Guidelines](http://www.iris-kidney.com/guidelines/staging.html)
+- [Cornell eClinPath — SDMA](https://eclinpath.com/chemistry/kidney/sdma/)
 - Ghys LFE, et al. "Cystatin C: A New Renal Marker." *J Vet Intern Med.* 2014;28(4):1151–1164.
 - Hall JA, et al. "SDMA and creatinine in cats with reduced renal mass." *Am J Vet Res.* 2014;75(7):589–601.
 

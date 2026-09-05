@@ -131,6 +131,7 @@ They're small per test but not zero — **2 cost buckets** (controlled storage a
 1. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement compared with chemiluminescent microparticle immunoassay. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 2. McCord K, et al. Spec cPL for Diagnosis of Canine Pancreatitis. *Clinician's Brief.* [https://www.cliniciansbrief.com/article/spec-cpl-diagnosis-canine-pancreatitis](https://www.cliniciansbrief.com/article/spec-cpl-diagnosis-canine-pancreatitis)
 3. IRIS (International Renal Interest Society). CKD Guidelines, incorporating SDMA. 2015.
+- [IDEXX — In-House Diagnostics](https://www.idexx.com/en/veterinary/)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

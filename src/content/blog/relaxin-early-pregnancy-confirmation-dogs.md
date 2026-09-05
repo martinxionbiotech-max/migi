@@ -104,6 +104,7 @@ Yes — **1 positive relaxin is not proof of ongoing viability**: relaxin can re
 
 1. Buff S, et al. Detection of canine relaxin in maternal peripheral blood using the ReproCHEK ELISA. 2001. (cited in *J Zoo Wildl Med*, PMC7126177)
 2. Texas A&M Veterinary Medical Diagnostic Laboratory. Relaxin (Lateral Flow) test description. [https://tvmdl.tamu.edu/tests/relaxin-lateral-flow](https://tvmdl.tamu.edu/tests/relaxin-lateral-flow)
+- [PubMed — Relaxin Early Pregnancy](https://pubmed.ncbi.nlm.nih.gov/?term=relaxin+canine+pregnancy)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

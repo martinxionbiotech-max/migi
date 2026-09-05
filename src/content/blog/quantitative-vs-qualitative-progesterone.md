@@ -113,6 +113,7 @@ For **1 semen type**, yes: fresh-semen natural breeding can use a broad-band kit
 1. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
 2. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 3. dvm360. Breeding Management 102 — It's All in the Timing (Proceedings). [https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings](https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings)
+- [IDEXX — Progesterone Testing](https://www.idexx.com/en/veterinary/)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

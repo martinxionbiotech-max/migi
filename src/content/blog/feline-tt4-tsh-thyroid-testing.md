@@ -138,9 +138,9 @@ The commercial value is the ongoing monitoring relationship: thyroid cases requi
 
 ## References
 
-- Cornell eClinPath — Thyroid gland: https://eclinpath.com/chemistry/thyroid-gland/
-- MSD Veterinary Manual — Hypothyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hypothyroidism
-- MSD Veterinary Manual — Hyperthyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hyperthyroidism
+- [Cornell eClinPath — Thyroid gland](https://eclinpath.com/chemistry/thyroid-gland/)
+- [MSD Veterinary Manual — Hypothyroidism](https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hypothyroidism)
+- [MSD Veterinary Manual — Hyperthyroidism](https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hyperthyroidism)
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

@@ -114,8 +114,8 @@ No — **2 confounders avoided**: SDMA is largely independent of muscle mass and
 ## References
 
 - IDEXX. "Interpreting SDMA Test Results for Cats and Dogs."
-- IRIS CKD Staging Guidelines: http://www.iris-kidney.com/guidelines/staging.html
-- Cornell eClinPath — SDMA: https://eclinpath.com/chemistry/kidney/sdma/
+- [IRIS CKD Staging Guidelines](http://www.iris-kidney.com/guidelines/staging.html)
+- [Cornell eClinPath — SDMA](https://eclinpath.com/chemistry/kidney/sdma/)
 
 ---
 

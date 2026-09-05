@@ -178,7 +178,7 @@ About **10–20 minutes** on a quantitative immunofluorescence analyzer like the
 
 - Oyama MA, et al. "Clinical utility of NT-proBNP in dogs." *J Am Vet Med Assoc.* 2013;242(12):1719–1724. PMID 23725432
 - Fox PR, et al. "NT-proBNP in feline respiratory distress." *J Vet Intern Med.* 2011;25(5):1010–1016. PMID 21848947
-- IDEXX Cardiopet proBNP reference values: https://www.idexx.com/en/veterinary/reference-laboratories/cardiopet-probnp/
+- [IDEXX Cardiopet proBNP reference values](https://www.idexx.com/en/veterinary/reference-laboratories/cardiopet-probnp/)
 - Raffan E, et al. NT-proBNP in canine mitral valve disease. *J Vet Intern Med.* 2009. doi:10.1111/j.1939-1676.2009.0373.x
 
 ---

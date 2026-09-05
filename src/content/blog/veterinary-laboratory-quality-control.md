@@ -139,8 +139,9 @@ No — **1 certificate** signals a QC system exists, but every result still depe
 
 ## References
 
-- ISO 9001 quality management standard. https://www.iso.org
+- [ISO 9001 quality management standard](https://www.iso.org)
 - Greene CE. *Infectious Diseases of the Dog and Cat.* 4th ed. Elsevier. — laboratory quality-control principles.
+- [Westgard QC — Basic QC Practices](https://www.westgard.com/)
 
 ---
 

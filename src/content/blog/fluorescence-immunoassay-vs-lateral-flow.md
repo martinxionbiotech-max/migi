@@ -115,6 +115,7 @@ Not automatically — **sensitivity is only 1 half**; without specificity it pro
 1. Park J, et al. Lateral Flow Immunoassay Reader Technologies for Quantitative Point-of-Care Testing. *Sensors.* 2022;22(19):7398. doi:10.3390/s22197398
 2. Wang J, et al. Development of a quantitative fluorescence-based lateral flow assay. *Scand J Lab Anim Sci.* 2018. doi:10.1080/09540105.2017.1359498
 3. Diagnostic performance of lateral flow antigen tests versus fluorescent immunoassay for cryptococcosis in dogs and cats. *Am J Vet Res.* 2025;87(1). [https://avmajournals.avma.org/view/journals/ajvr/87/1/ajvr.25.06.0227.pdf](https://avmajournals.avma.org/view/journals/ajvr/87/1/ajvr.25.06.0227.pdf)
+- [IDEXX — Quantitative vs Qualitative Testing](https://www.idexx.com/en/veterinary/)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

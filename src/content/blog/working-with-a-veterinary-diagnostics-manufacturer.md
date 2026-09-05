@@ -198,11 +198,11 @@ Add analyzer cost + expected reagent spend over 2–3 years + shipping + customs
 
 ## References
 
-- Nova One Advisor — Veterinary Diagnostics Market (USD 10.85B in 2024 → 28.27B by 2034, CAGR 10.05%): https://www.novaoneadvisor.com/report/veterinary-diagnostics-market
-- GM Insights — Veterinary Diagnostic Services Market (USD 36.1B in 2023): https://www.gminsights.com/industry-analysis/veterinary-diagnostic-services-market
-- EU IVDR — Regulation (EU) 2017/746 on in vitro diagnostic medical devices: https://health.ec.europa.eu/medical-devices-sector_en
-- ISO 13485 — Medical devices quality management systems: https://www.iso.org/iso-13485-medical-devices.html
-- FDA Center for Veterinary Medicine: https://www.fda.gov/animal-veterinary
+- [Nova One Advisor — Veterinary Diagnostics Market (USD 10.85B in 2024 → 28.27B by 2034, CAGR 10.05%)](https://www.novaoneadvisor.com/report/veterinary-diagnostics-market)
+- [GM Insights — Veterinary Diagnostic Services Market (USD 36.1B in 2023)](https://www.gminsights.com/industry-analysis/veterinary-diagnostic-services-market)
+- [EU IVDR — Regulation (EU) 2017/746 on in vitro diagnostic medical devices](https://health.ec.europa.eu/medical-devices-sector_en)
+- [ISO 13485 — Medical devices quality management systems](https://www.iso.org/iso-13485-medical-devices.html)
+- [FDA Center for Veterinary Medicine](https://www.fda.gov/animal-veterinary)
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

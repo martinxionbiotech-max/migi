@@ -113,6 +113,7 @@ Relaxin is the earliest blood-based confirmation, detectable from **~21–28 day
 1. dvm360. Breeding Management 102 — It's All in the Timing (Proceedings). [https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings](https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings)
 2. Buff S, et al. Detection of canine relaxin in maternal peripheral blood. 2001. (cited in PMC7126177)
 3. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
+- [dvm360 — Breeding Management](https://www.dvm360.com/)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

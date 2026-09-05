@@ -136,6 +136,7 @@ Fresh semen survives roughly 4–6 days, chilled semen about 3 days, and frozen 
 2. dvm360. Breeding Management 102 — It's All in the Timing (Proceedings). [https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings](https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings)
 3. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 4. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
+- [PubMed — Canine Theriogenology](https://pubmed.ncbi.nlm.nih.gov/?term=canine+progesterone+ovulation)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

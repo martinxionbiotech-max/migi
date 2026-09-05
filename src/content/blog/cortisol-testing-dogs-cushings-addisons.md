@@ -160,8 +160,8 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 
 ## References
 
-- Cornell eClinPath — Adrenal function testing: https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/
-- MSD Veterinary Manual — Hyperadrenocorticism: https://www.msdvetmanual.com/endocrine-system/pituitary-disorders/hyperadrenocorticism
+- [Cornell eClinPath — Adrenal function testing](https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/)
+- [MSD Veterinary Manual — Hyperadrenocorticism](https://www.msdvetmanual.com/endocrine-system/pituitary-disorders/hyperadrenocorticism)
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any dog with suspected adrenal disease should be evaluated by a veterinarian. Reference ranges and cutoffs vary by assay; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

@@ -135,8 +135,8 @@ The practical worth is avoiding supplier risk — ask for performance data, cert
 
 ## References
 
-- ISO 13485 — Medical devices QMS: https://www.iso.org/iso-13485-medical-devices.html
-- EU IVDR — Regulation (EU) 2017/746: https://health.ec.europa.eu/medical-devices-sector_en
+- [ISO 13485 — Medical devices QMS](https://www.iso.org/iso-13485-medical-devices.html)
+- [EU IVDR — Regulation (EU) 2017/746](https://health.ec.europa.eu/medical-devices-sector_en)
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

@@ -127,6 +127,7 @@ Compute the **fully loaded cost per test** for each — hardware amortised plus 
 
 1. Mordor Intelligence. *Veterinary Point of Care Diagnostics Market (2026–2031).* [https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
 2. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement compared with chemiluminescent microparticle immunoassay. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
+- [Excedr — Immunoassay Analyzer Cost](https://www.excedr.com/blog/immunoassay-analyzer-cost)
 
 > *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

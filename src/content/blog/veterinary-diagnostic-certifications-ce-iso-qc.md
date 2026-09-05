@@ -100,11 +100,11 @@ In practice, match the certificate to the product class and market, and verify s
 
 ## References
 
-- EU IVDR — Regulation (EU) 2017/746: https://health.ec.europa.eu/medical-devices-sector_en
-- ISO 13485 — Medical devices QMS: https://www.iso.org/iso-13485-medical-devices.html
-- ISO 9001 — Quality management: https://www.iso.org/iso-9001-quality-management.html
-- FDA Center for Veterinary Medicine: https://www.fda.gov/animal-veterinary
-- NMPA (China): https://www.nmpa.gov.cn
+- [EU IVDR — Regulation (EU) 2017/746](https://health.ec.europa.eu/medical-devices-sector_en)
+- [ISO 13485 — Medical devices QMS](https://www.iso.org/iso-13485-medical-devices.html)
+- [ISO 9001 — Quality management](https://www.iso.org/iso-9001-quality-management.html)
+- [FDA Center for Veterinary Medicine](https://www.fda.gov/animal-veterinary)
+- [NMPA (China)](https://www.nmpa.gov.cn)
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 

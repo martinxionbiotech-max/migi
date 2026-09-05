@@ -134,9 +134,9 @@ Because the output is a number, you can trend it — a falling cPL over 48–72 
 
 ## References
 
-- IDEXX Spec cPL: https://www.idexx.com/en/veterinary/reference-laboratories/spec-cpl-test/
-- IDEXX Spec fPL: https://www.idexx.com/en/veterinary/reference-laboratories/spec-fpl-test/
-- Texas A&M GI Laboratory — Pancreatic Lipase Immunoreactivity: https://vetmed.tamu.edu/gilab/
+- [IDEXX Spec cPL](https://www.idexx.com/en/veterinary/reference-laboratories/spec-cpl-test/)
+- [IDEXX Spec fPL](https://www.idexx.com/en/veterinary/reference-laboratories/spec-fpl-test/)
+- [Texas A&M GI Laboratory — Pancreatic Lipase Immunoreactivity](https://vetmed.tamu.edu/gilab/)
 - Steiner JM, et al. *Vet Ther.* 2008;9(4):263–273. PMID 19177332
 - Forman MA, et al. *J Vet Intern Med.* 2004;18(6):807–815. PMID 15638262
 

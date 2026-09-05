@@ -112,8 +112,8 @@ No — it needs **2 numbers together**. Creatinine still helps with staging and 
 ## References
 
 - IDEXX. "Interpreting SDMA Test Results for Cats and Dogs."
-- IRIS CKD Staging Guidelines: http://www.iris-kidney.com/guidelines/staging.html
-- Cornell eClinPath — SDMA: https://eclinpath.com/chemistry/kidney/sdma/
+- [IRIS CKD Staging Guidelines](http://www.iris-kidney.com/guidelines/staging.html)
+- [Cornell eClinPath — SDMA](https://eclinpath.com/chemistry/kidney/sdma/)
 
 ---
 
