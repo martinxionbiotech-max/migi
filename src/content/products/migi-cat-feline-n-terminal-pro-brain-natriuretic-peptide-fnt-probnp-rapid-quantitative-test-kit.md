@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit"
+title: "Feline NT-proBNP Heart Test Kit"
 slug: "migi-cat-feline-n-terminal-pro-brain-natriuretic-peptide-fnt-probnp-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R023."
+description: "Quantitative Feline N-Terminal Pro-Brain Natriuretic Peptide (fNT-proBNP) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R023"
 image: "/images/migi-cat-feline-n-terminal-pro-brain-natriuretic-peptide-fnt-probnp-rapid-quantitative-test-kit.png"

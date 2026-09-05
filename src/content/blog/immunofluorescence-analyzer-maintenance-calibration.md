@@ -1,5 +1,5 @@
 ---
-title: "Analyzer Maintenance & Calibration: The SOP That Keeps Results Honest"
+title: "Analyzer Maintenance & Calibration SOP"
 slug: "immunofluorescence-analyzer-maintenance-calibration"
 description: "A drifted analyzer silently corrupts every result. Calibration sets the curve, QC verifies it daily. Here is the maintenance rhythm that prevents drift."
 pubDate: "2026-09-05"

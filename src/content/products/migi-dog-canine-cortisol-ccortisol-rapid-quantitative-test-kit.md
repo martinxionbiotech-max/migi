@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit"
+title: "cCortisol Canine Cortisol Test Kit"
 slug: "migi-dog-canine-cortisol-ccortisol-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Cortisol (cCortisol) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R018."
+description: "Quantitative Canine Cortisol (cCortisol) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R018"
 image: "/images/migi-dog-canine-cortisol-ccortisol-rapid-quantitative-test-kit.png"

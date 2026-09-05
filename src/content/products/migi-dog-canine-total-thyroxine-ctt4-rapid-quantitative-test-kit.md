@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit"
+title: "cTT4 Canine Total Thyroxine Test Kit"
 slug: "migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Total Thyroxine（cTT4）Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R016."
+description: "Quantitative canine total thyroxine (cTT4) fluorescence test — thyroid screening, 10–20 min. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R016"
 image: "/images/migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit.png"

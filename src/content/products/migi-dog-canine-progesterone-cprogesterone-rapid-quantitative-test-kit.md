@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit"
+title: "cProgesterone Canine Progesterone Test Kit"
 slug: "migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R020."
+description: "Quantitative Canine Progesterone (cProgesterone) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R020"
 image: "/images/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit.png"

@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test"
+title: "FPV-Ab Feline Panleukopenia Virus Antibody Test Kit"
 slug: "migi-cat-feline-panleukopenia-virus-antibody-fpv-ab-rapid-quantitative-test"
-description: "Migi (Cat) Feline Panleukopenia Virus Antibody (FPV-Ab) Rapid Quantitative Test — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R011."
+description: "Quantitative Feline Panleukopenia Virus Antibody (FPV-Ab) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R011"
 image: "/images/migi-cat-feline-panleukopenia-virus-antibody-fpv-ab-rapid-quantitative-test.png"

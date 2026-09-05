@@ -1,5 +1,5 @@
 ---
-title: "Cold Chain Logistics for Veterinary Reagents: The Cost You Can Avoid"
+title: "Cold Chain Logistics for Veterinary Reagents"
 slug: "cold-chain-logistics-veterinary-reagents"
 description: "2–8°C cold chain is a permanent cost and failure risk — unless the reagent is room-temperature stable. Here is what cold chain costs, and how to avoid it."
 pubDate: "2026-09-05"

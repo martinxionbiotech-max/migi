@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit"
+title: "fPL Feline Pancreatic Lipase Test Kit"
 slug: "migi-cat-feline-pancreatic-lipase-fpl-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R015."
+description: "Quantitative Feline Pancreatic Lipase (fPL) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R015"
 image: "/images/migi-cat-feline-pancreatic-lipase-fpl-rapid-quantitative-test-kit.png"

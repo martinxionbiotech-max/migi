@@ -3,6 +3,7 @@ title: "Bulk Ordering & Distributor Pricing: How It Works"
 slug: "bulk-ordering-distributor-pricing-veterinary-diagnostics"
 description: "How bulk ordering and distributor pricing work: MOQ, tiers, cost structure, margin math and cash-flow terms."
 pubDate: "2026-08"
+author: "Dr. Tang"
 category: "blog"
 faq: [{"q": "What is a typical MOQ for veterinary test kits?", "a": "MOQ varies by product and manufacturer. Analyzers are usually 1–10 units with a consumable commitment; reagent kits often start at a few hundred to a few thousand tests. The MOQ should balance your cash flow against the manufacturer's production economics."}, {"q": "Where does a distributor's margin come from?", "a": "Margin lives primarily in reagent cost, not analyzer price. The analyzer is a one-time purchase, while reagents are a recurring revenue stream. Negotiate reagent cost hard — a small per-test saving compounds across every reorder."}, {"q": "How do I plan inventory for test kits?", "a": "Plan around reorder lead time plus a safety buffer, watch expiry dates (room-temperature kits simplify this), and start with a pilot order to measure real demand before committing to volume. Cold-chain items need extra buffer for transit risk."}, {"q": "What costs are hidden in bulk ordering?", "a": "The hidden costs are shipping, customs duties, cold-chain logistics (if any reagents need refrigeration), spoilage/expiry, and financing the inventory while it sits. Total cost of ownership includes all of these, not just the unit price."}]
 ---
@@ -114,6 +115,24 @@ The buyer perspective is to anchor on landed cost per test at the volume you can
 5. **Negotiate in order of impact** — **5 steps**: reagent cost → lead time → payment terms → branding → analyzer price.
 
 ---
+
+## FAQ
+
+### What is a typical MOQ for veterinary test kits?
+
+MOQ varies by product and manufacturer. Analyzers are usually 1–10 units with a consumable commitment; reagent kits often start at a few hundred to a few thousand tests. The MOQ should balance your cash flow against the manufacturer's production economics.
+
+### Where does a distributor's margin come from?
+
+Margin lives primarily in reagent cost, not analyzer price. The analyzer is a one-time purchase, while reagents are a recurring revenue stream. Negotiate reagent cost hard — a small per-test saving compounds across every reorder.
+
+### How do I plan inventory for test kits?
+
+Plan around reorder lead time plus a safety buffer, watch expiry dates (room-temperature kits simplify this), and start with a pilot order to measure real demand before committing to volume. Cold-chain items need extra buffer for transit risk.
+
+### What costs are hidden in bulk ordering?
+
+The hidden costs are shipping, customs duties, cold-chain logistics (if any reagents need refrigeration), spoilage/expiry, and financing the inventory while it sits. Total cost of ownership includes all of these, not just the unit price.
 
 ## References
 

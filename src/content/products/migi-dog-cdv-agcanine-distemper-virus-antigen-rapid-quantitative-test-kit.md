@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit"
+title: "CDV-Ag Canine Distemper Virus Antigen Test Kit"
 slug: "migi-dog-cdv-agcanine-distemper-virus-antigen-rapid-quantitative-test-kit"
-description: "Migi (Dog) CDV-AgCanine Distemper Virus Antigen Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R004."
+description: "Quantitative canine distemper virus antigen (CDV-Ag) fluorescence test — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R004"
 image: "/images/migi-dog-cdv-agcanine-distemper-virus-antigen-rapid-quantitative-test-kit.png"

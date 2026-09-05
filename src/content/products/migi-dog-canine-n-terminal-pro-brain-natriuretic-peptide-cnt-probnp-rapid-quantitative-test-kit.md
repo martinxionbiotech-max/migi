@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit"
+title: "Canine NT-proBNP Heart Test Kit"
 slug: "migi-dog-canine-n-terminal-pro-brain-natriuretic-peptide-cnt-probnp-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R019."
+description: "Quantitative Canine N-Terminal Pro-Brain Natriuretic Peptide (cNT-proBNP) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R019"
 image: "/images/migi-dog-canine-n-terminal-pro-brain-natriuretic-peptide-cnt-probnp-rapid-quantitative-test-kit.png"

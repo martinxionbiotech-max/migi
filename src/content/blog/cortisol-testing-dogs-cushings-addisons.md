@@ -158,6 +158,32 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 
 ---
 
+## FAQ
+
+### Can a single cortisol test diagnose Cushing's disease?
+
+No. Cortisol is pulsatile and stress-responsive, so a single resting value overlaps between normal, stressed, and hyperadrenocorticoid dogs. Diagnosing Cushing's requires dynamic testing — the ACTH stimulation test or the low-dose dexamethasone suppression test (LDDST).
+
+### What is the ACTH stimulation test?
+
+The ACTH stimulation test measures cortisol before and about one hour after injecting synthetic ACTH. A post-ACTH cortisol above 22 µg/dL supports Cushing's disease (17–22 µg/dL is equivocal), while a value below 2 µg/dL confirms Addison's disease.
+
+### How is Addison's disease screened?
+
+A basal (resting) cortisol below 2 µg/dL is highly suggestive of Addison's disease and warrants an ACTH stimulation test to confirm. A basal cortisol above 2 µg/dL makes Addison's unlikely, so further testing is usually unnecessary.
+
+### What is the LDDST?
+
+The low-dose dexamethasone suppression test (LDDST) administers a low dose of dexamethasone and measures cortisol at 0, 4, and 8 hours. An 8-hour cortisol above 1.4 µg/dL indicates failure to suppress and is consistent with Cushing's disease.
+
+### Why can't a single cortisol test diagnose Cushing's disease?
+
+Cortisol is pulsatile and stress-responsive, so one resting value overlaps between normal, stressed, and hyperadrenocorticoid dogs. Cushing's diagnosis requires dynamic testing — the ACTH stimulation test or the low-dose dexamethasone suppression test — which measures the adrenal gland's response to a challenge.
+
+### How long does a cortisol workup take?
+
+With in-clinic quantitative immunofluorescence testing, the ACTH stimulation test (two samples) or LDDST (three timed samples) can be completed the same day, with each cortisol value returning in about 15 minutes. This avoids shipping samples to a reference laboratory.
+
 ## References
 
 - [Cornell eClinPath — Adrenal function testing](https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/)
@@ -175,6 +201,8 @@ Cortisol is measured from serum or plasma on a quantitative immunofluorescence a
 - **Note:** Equivocal cutoffs vary slightly by source (e.g., 17–22 vs 18–22 µg/dL); confirm against your analyzer's validated intervals.
 
 ## Continue exploring
+
+- [Canine Cushing's Testing: LDDST vs ACTH Stimulation](/blog/canine-cushings-testing-lddst-acth)
 
 - [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-tt4-tsh-thyroid-testing)
 - [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing)

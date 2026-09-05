@@ -3,6 +3,7 @@ title: "Veterinary Diagnostic Certifications: CE, ISO and QC"
 slug: "veterinary-diagnostic-certifications-ce-iso-qc"
 description: "A plain-English guide to veterinary diagnostic certifications — CE IVDR, ISO 9001, ISO 13485, FDA CVM and NMPA — and how to verify them."
 pubDate: "2026-08"
+author: "Dr. Tang"
 category: "blog"
 faq: [{"q": "What certification does a veterinary diagnostics manufacturer need for Europe?", "a": "CE marking under the EU IVDR (In Vitro Diagnostic Regulation 2017/746) is required to sell in the European market. The IVDR, which replaced the older IVDD, tightened requirements including more stringent clinical evidence and post-market surveillance."}, {"q": "What is the difference between ISO 9001 and ISO 13485?", "a": "ISO 9001 is a general quality-management standard applicable to any industry. ISO 13485 is specific to medical devices and diagnostics, adding requirements for risk management, traceability, and regulatory compliance. For diagnostics, ISO 13485 is the stronger signal."}, {"q": "Are veterinary diagnostics regulated by the FDA like human tests?", "a": "Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs. Requirements differ by product type and intended use, so confirm the specific product's status."}, {"q": "How do I verify a certification is real and current?", "a": "Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another."}]
 ---
@@ -97,6 +98,24 @@ In practice, match the certificate to the product class and market, and verify s
 5. **1 missing technical file** is a red flag, whatever logos the factory displays.
 
 ---
+
+## FAQ
+
+### What certification does a veterinary diagnostics manufacturer need for Europe?
+
+CE marking under the EU IVDR (In Vitro Diagnostic Regulation 2017/746) is required to sell in the European market. The IVDR, which replaced the older IVDD, tightened requirements including more stringent clinical evidence and post-market surveillance.
+
+### What is the difference between ISO 9001 and ISO 13485?
+
+ISO 9001 is a general quality-management standard applicable to any industry. ISO 13485 is specific to medical devices and diagnostics, adding requirements for risk management, traceability, and regulatory compliance. For diagnostics, ISO 13485 is the stronger signal.
+
+### Are veterinary diagnostics regulated by the FDA like human tests?
+
+Not the same way. In the US, veterinary diagnostics fall under the FDA's Center for Veterinary Medicine (CVM), a separate pathway from human IVDs. Requirements differ by product type and intended use, so confirm the specific product's status.
+
+### How do I verify a certification is real and current?
+
+Ask for the certificate number and exact scope, then verify with the issuing body. Check that the certificate covers the specific products you are buying and has not expired. A certificate for one product line does not automatically cover another.
 
 ## References
 

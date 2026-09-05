@@ -132,6 +132,32 @@ Because the output is a number, you can trend it — a falling cPL over 48–72 
 
 ---
 
+## FAQ
+
+### What is cPL and how is it different from fPL?
+
+cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific pancreatic lipase immunoreactivity tests. cPL is used in dogs, fPL in cats, and they are not interchangeable — each measures the pancreas-specific lipase of that species.
+
+### What is a normal cPL level in dogs?
+
+A cPL below 200 µg/L is normal, 200–400 µg/L is equivocal, and above 400 µg/L is consistent with pancreatitis. Values above 400 µg/L have roughly 93% sensitivity for moderate to severe pancreatitis.
+
+### What is a normal fPL level in cats?
+
+An fPL of 3.5 µg/L or lower is normal, 3.6–5.3 µg/L is equivocal, and 5.4 µg/L or higher is consistent with pancreatitis. Grey-zone results may warrant repeat testing or abdominal ultrasound.
+
+### Why are amylase and lipase unreliable for pancreatitis?
+
+Amylase and lipase are not pancreas-specific and are affected by many non-pancreatic conditions, so they have poor sensitivity and specificity for pancreatitis. Pancreatic lipase immunoreactivity (cPL/fPL) is far more accurate.
+
+### Can I use cPL on a cat or fPL on a dog?
+
+No. cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific assays and are not interchangeable. Running a dog assay on a cat sample, or vice versa, produces an invalid result. Always use the assay matched to the species.
+
+### How fast is a cPL or fPL result?
+
+Quantitative immunofluorescence analyzers like the Migibio FIA680 and FIA880 return cPL and fPL results in about 10–20 minutes from serum or plasma, so pancreatitis can be ruled in or out during the same visit.
+
 ## References
 
 - [IDEXX Spec cPL](https://www.idexx.com/en/veterinary/reference-laboratories/spec-cpl-test/)

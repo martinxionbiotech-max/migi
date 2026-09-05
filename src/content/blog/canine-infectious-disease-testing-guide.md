@@ -3,6 +3,7 @@ title: "Dog Infectious Disease Testing: Parvo, Distemper, Corona"
 slug: "canine-infectious-disease-testing-guide"
 description: "A guide to canine infectious disease testing: parvo, distemper, coronavirus, adenovirus, Leishmania and Toxoplasma — when to test."
 pubDate: "2025-04"
+author: "Dr. Tang"
 category: "blog"
 faq: [{"q": "What are the most common canine infectious diseases tested for?", "a": "The most commonly tested canine infectious agents are parvovirus (CPV), distemper virus (CDV), coronavirus (CCV), adenovirus (CAV), Leptospira, Leishmania, and Toxoplasma gondii. Each has distinct clinical presentations, so testing panels are selected based on signs and history."}, {"q": "How do I choose which test to run?", "a": "Selection is driven by clinical presentation: enteric signs suggest parvovirus or coronavirus; respiratory/neurological signs suggest distemper; travel or regional exposure suggests Leishmania or Toxoplasma. Quantitative panels can run several analytes simultaneously to speed diagnosis."}, {"q": "What are the advantages of quantitative fluorescence testing?", "a": "Quantitative fluorescence immunoassay provides objective, instrument-read concentrations with high sensitivity (pg/ml) and precision (CV% <10%), enabling viral-load monitoring and treatment tracking — a clear advance over subjective, line-based rapid tests."}]
 ---

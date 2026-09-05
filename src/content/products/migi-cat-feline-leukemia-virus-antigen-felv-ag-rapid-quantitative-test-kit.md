@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit"
+title: "FeLV-Ag Feline Leukemia Virus Antigen Test Kit"
 slug: "migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Leukemia Virus Antigen（FeLV-Ag）Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R028."
+description: "Quantitative feline leukemia virus antigen (FeLV-Ag) fluorescence test — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R028"
 image: "/images/migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit.png"

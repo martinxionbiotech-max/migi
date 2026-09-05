@@ -1,7 +1,7 @@
 ---
 title: "Canine vs Feline Pancreatitis: Why the Tests Differ"
 slug: "canine-vs-feline-pancreatitis-testing"
-description: "Dog pancreatitis announces itself with vomiting; cat pancreatitis hides. That's why dogs test with cPL and cats with fPL — species-specific lipase. Here's the difference."
+description: "Dog pancreatitis announces itself with vomiting; cat pancreatitis hides. That's why dogs test with cPL and cats with fPL."
 pubDate: "2026-09-05"
 author: "Dr. Tang"
 dateModified: "2026-09-05"

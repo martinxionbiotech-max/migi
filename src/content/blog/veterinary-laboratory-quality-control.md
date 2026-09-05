@@ -3,6 +3,7 @@ title: "Veterinary Laboratory Quality Control: Two Pillars"
 slug: "veterinary-laboratory-quality-control"
 description: "A guide to QC in veterinary point-of-care testing: internal vs external QC, calibration, storage, operator training, ISO9001 and GMP."
 pubDate: "2025-05"
+author: "Dr. Tang"
 category: "core-technology"
 faq: [{"q": "What is the difference between internal and external quality control?", "a": "Internal QC (IQC) uses built-in controls run with each test to verify that a given run is valid. External QC (EQA/proficiency testing) compares a lab's results against peer laboratories periodically to verify overall accuracy and detect systematic error."}, {"q": "How often should analyzers be calibrated?", "a": "Calibration frequency depends on the analyzer and reagent lot — many systems use ID-chip lot calibration read automatically with each test. Always follow the manufacturer's schedule and re-calibrate whenever a new reagent lot is introduced or results drift."}, {"q": "What standards apply to veterinary point-of-care testing?", "a": "Veterinary POCT should follow ISO/IEC 17025 or ISO 15189 principles where applicable, with documented SOPs, operator training, storage monitoring, and lot traceability. GMP-certified reagent manufacturing supports consistent lot-to-lot performance."}]
 ---
@@ -149,6 +150,8 @@ No — **1 certificate** signals a QC system exists, but every result still depe
 - [WOAH — Veterinary Laboratory Quality](https://www.woah.org/en/what-we-do/standards/)
 
 ## Continue exploring
+
+- [POCT Quality Control: The SOP Every Clinic Needs](/blog/poct-quality-control-sop-clinic)
 
 - [Fluorescence Immunochromatography (FICA): How It Works](/blog/what-is-fluorescence-immunochromatography-fica)
 - [Immunofluorescence, ELISA or PCR: Which Test to Choose](/blog/veterinary-immunofluorescence-vs-elisa-pcr)

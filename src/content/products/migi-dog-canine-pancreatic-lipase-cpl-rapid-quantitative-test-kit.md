@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit"
+title: "cPL Canine Pancreatic Lipase Test Kit"
 slug: "migi-dog-canine-pancreatic-lipase-cpl-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Pancreatic Lipase (cPL)Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R014."
+description: "Quantitative Canine Pancreatic Lipase (cPL) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R014"
 image: "/images/migi-dog-canine-pancreatic-lipase-cpl-rapid-quantitative-test-kit.png"

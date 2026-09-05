@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit"
+title: "CCV-Ag Canine Coronavirus Antigen Test Kit"
 slug: "migi-dog-canine-coronavirus-antigen-ccv-ag-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Coronavirus Antigen (CCV-Ag) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R005."
+description: "Quantitative Canine Coronavirus Antigen (CCV-Ag) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R005"
 image: "/images/migi-dog-canine-coronavirus-antigen-ccv-ag-rapid-quantitative-test-kit.png"

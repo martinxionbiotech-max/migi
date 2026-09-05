@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit"
+title: "FIV-Ab Feline Immunodeficiency Virus Antibody Test Kit"
 slug: "migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Immunodeficiency Virus Antibody (FIV-Ab) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R027."
+description: "Quantitative Feline Immunodeficiency Virus Antibody (FIV-Ab) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R027"
 image: "/images/migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit.png"

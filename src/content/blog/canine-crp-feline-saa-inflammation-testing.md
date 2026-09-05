@@ -139,6 +139,32 @@ The commercial value is the monitoring relationship: serial draws for treatment 
 
 ---
 
+## FAQ
+
+### What are CRP and SAA?
+
+C-reactive protein (CRP) and serum amyloid A (SAA) are acute-phase proteins produced rapidly during inflammation. CRP is the primary inflammatory marker in dogs, while SAA is preferred in cats, where it rises faster and returns to baseline sooner after treatment.
+
+### What is a normal CRP level in dogs?
+
+A canine CRP below 10 mg/L is considered normal, 10–35 mg/L indicates low-grade or mild inflammation, and above 35 mg/L indicates active systemic inflammation. CRP rises within 4–24 hours and peaks around 24–48 hours.
+
+### What is a normal SAA level in cats?
+
+A feline SAA below 10 µg/mL is considered normal, and above 10 µg/mL indicates active inflammation. Levels are often graded 10–50 µg/mL mild, 50–100 µg/mL moderate, and above 100 µg/mL severe. SAA rises within 6–12 hours.
+
+### Do CRP and SAA identify the cause of inflammation?
+
+No. They are non-specific markers that quantify the amount of inflammation but do not identify its cause. They are most useful for detecting inflammation, tracking response to treatment, and catching complications early — not for pinpointing the underlying disease.
+
+### Which is better for monitoring treatment, CRP or SAA?
+
+Both work for their species. Serial CRP in dogs and serial SAA in cats are excellent monitors of treatment response because they fall quickly once therapy is effective — a falling value confirms the treatment is working before the patient looks better.
+
+### Can CRP or SAA tell me the cause of the inflammation?
+
+No. They quantify the amount of inflammation but do not identify its cause. Pair them with CBC, imaging, and specific biomarkers such as cPL or fPL to find the underlying problem.
+
 ## References
 
 - Cornell University — Canine C-Reactive Protein protocol: https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/protocols/canine-c-reactive-protein

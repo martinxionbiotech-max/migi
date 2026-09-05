@@ -1,7 +1,7 @@
 ---
-title: "Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit"
+title: "FCV-Ab Feline Calicivirus Antibody Test Kit"
 slug: "migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit"
-description: "Migibio (Cat) Feline Calicivirus Antibody (FCV-Ab) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R013."
+description: "Quantitative feline calicivirus antibody (FCV-Ab) fluorescence test — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R013"
 image: "/images/migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit.png"

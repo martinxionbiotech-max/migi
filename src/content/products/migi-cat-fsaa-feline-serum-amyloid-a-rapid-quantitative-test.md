@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test"
+title: "fSAA Feline Serum Amyloid A Test Kit"
 slug: "migi-cat-fsaa-feline-serum-amyloid-a-rapid-quantitative-test"
-description: "Migi (Cat) fSAA Feline Serum Amyloid A Rapid Quantitative Test — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R002."
+description: "Quantitative feline serum amyloid A (fSAA) fluorescence test — inflammation marker, 10–20 min. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R002"
 image: "/images/migi-cat-fsaa-feline-serum-amyloid-a-rapid-quantitative-test.png"

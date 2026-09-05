@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit"
+title: "FCoV-Ag Feline Coronavirus Antigen Test Kit"
 slug: "migi-cat-feline-coronavirus-antigen-fcov-ag-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Coronavirus Antigen (FCoV-Ag) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R029."
+description: "Quantitative Feline Coronavirus Antigen (FCoV-Ag) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R029"
 image: "/images/migi-cat-feline-coronavirus-antigen-fcov-ag-rapid-quantitative-test-kit.png"

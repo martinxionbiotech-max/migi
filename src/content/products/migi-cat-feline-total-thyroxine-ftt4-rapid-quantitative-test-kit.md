@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Total Thyroxine (fTT4) Rapid Quantitative Test Kit"
+title: "fTT4 Feline Total Thyroxine Test Kit"
 slug: "migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Total Thyroxine (fTT4) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R023."
+description: "Quantitative Feline Total Thyroxine (fTT4) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R023"
 image: "/images/migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit.png"

@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit"
+title: "fCys C Feline Cystatin C Test Kit"
 slug: "migi-cat-feline-cystatin-c-fcys-c-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Cystatin C(fCys C) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R030."
+description: "Quantitative Feline Cystatin C (fCys C) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R030"
 image: "/images/migi-cat-feline-cystatin-c-fcys-c-rapid-quantitative-test-kit.png"

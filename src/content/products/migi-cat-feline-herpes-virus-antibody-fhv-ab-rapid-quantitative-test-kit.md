@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit"
+title: "FHV-Ab Feline Herpes Virus Antibody Test Kit"
 slug: "migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Herpes Virus Antibody (FHV-Ab) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R012."
+description: "Quantitative Feline Herpes Virus Antibody (FHV-Ab) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R012"
 image: "/images/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit.png"

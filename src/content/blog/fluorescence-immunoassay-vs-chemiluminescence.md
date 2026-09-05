@@ -1,5 +1,5 @@
 ---
-title: "Fluorescence (FIA) vs Chemiluminescence (CLIA): Which Fits Your Clinic"
+title: "FIA vs CLIA: Which Fits Your Clinic"
 slug: "fluorescence-immunoassay-vs-chemiluminescence"
 description: "CLIA is more sensitive but 4–6× the price and lab-bound; FIA is the POCT workhorse. Here is the honest sensitivity-vs-cost trade-off."
 pubDate: "2026-09-05"

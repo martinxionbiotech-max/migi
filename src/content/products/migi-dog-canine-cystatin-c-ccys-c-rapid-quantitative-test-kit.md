@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit"
+title: "cCys C Canine Cystatin C Test Kit"
 slug: "migi-dog-canine-cystatin-c-ccys-c-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Cystatin C(cCys C) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R030."
+description: "Quantitative Canine Cystatin C (cCys C) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R030"
 image: "/images/migi-dog-canine-cystatin-c-ccys-c-rapid-quantitative-test-kit.png"

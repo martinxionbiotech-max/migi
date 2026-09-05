@@ -1,7 +1,7 @@
 ---
-title: "SDMA- Stage Chronic Kidney Disease Kit"
+title: "SDMA Chronic Kidney Disease Test Kit"
 slug: "sdma-stage-chronic-kidney-disease-kit"
-description: "Migibio SDMA Rapid Quantitative Test Kit — an early, muscle-mass-independent biomarker for detecting and staging chronic kidney disease (CKD) in dogs and cats. Results in minutes on the FIA680/FIA880 analyzer. ISO9001/GMP-certified manufacturer."
+description: "Quantitative SDMA test for early CKD detection in dogs and cats — muscle-mass-independent, 10–20 min."
 category: "canine-feline"
 image: "/images/sdma-stage-chronic-kidney-disease-kit.png"
 order: 37

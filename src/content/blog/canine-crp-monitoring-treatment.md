@@ -1,7 +1,7 @@
 ---
 title: "Canine CRP: Tracking Treatment Response in Numbers"
 slug: "canine-crp-monitoring-treatment"
-description: "CRP rises within hours of inflammation and falls just as fast — so a serial CRP is a real-time scoreboard for whether treatment is working. Here's how to read it."
+description: "CRP rises within hours and falls just as fast — so a serial CRP is a real-time scoreboard for whether treatment is working."
 pubDate: "2026-09-05"
 author: "Dr. Tang"
 dateModified: "2026-09-05"

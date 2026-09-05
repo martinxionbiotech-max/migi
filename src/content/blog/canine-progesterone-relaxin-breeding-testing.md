@@ -3,6 +3,7 @@ title: "Dog Breeding Tests: Progesterone and Relaxin Step by Step"
 slug: "canine-progesterone-relaxin-breeding-testing"
 description: "The breeder's protocol: test progesterone every 1–2 days, breed at 8–15 ng/mL, then confirm with relaxin around day 28–30."
 pubDate: "2026-09-05"
+author: "Dr. Tang"
 category: "blog"
 faq: [{"q": "When should I start progesterone testing a breeding bitch?", "a": "A few days after the start of oestrus, or when she first accepts the male — then test every 1–2 days until ovulation is confirmed. Testing too late or too infrequently is the most common cause of missed breeding windows."}, {"q": "What progesterone level means it's time to breed?", "a": "The optimal breeding window is roughly 8–15 ng/mL. The LH surge sits around 2–3 ng/mL and ovulation around 4–10 ng/mL, with the oocytes needing 2–3 more days to mature. A quantitative number is essential — a yes/no strip can't distinguish these."}, {"q": "When do I confirm pregnancy with relaxin?", "a": "Around day 28–30 post-ovulation, when relaxin is reliably detectable (95–100% by day 30). Testing before ~day 21 is meaningless — there's no placenta yet, so there's no relaxin."}, {"q": "How many progesterone tests does one cycle take?", "a": "Typically 5–8 serial tests, run every 1–2 days from early oestrus through ovulation, plus one or two relaxin tests around day 28–30. Budget roughly one box of progesterone reagent per cycle."}, {"q": "Does frozen semen change the protocol?", "a": "Yes — frozen semen survives only ~12 hours, so you need to pinpoint 10–20 ng/mL, which is above the ceiling of most semi-quantitative strips. Frozen-semen breeding requires a quantitative reader."}]
 ---
@@ -148,6 +149,10 @@ Yes — it survives ~12 hours, so you need to pinpoint 10–20 ng/mL, above the 
 - [PubMed — Kunanusont et al. Vet World 2021](https://pubmed.ncbi.nlm.nih.gov/)
 
 ## Continue exploring
+
+- [Progesterone Curve in Pregnancy: Why Serial Testing Matters](/blog/progesterone-curve-pregnancy-monitoring)
+
+- [Feline Breeding & Ovulation: Why Cat Testing Is Different](/blog/feline-breeding-ovulation-testing)
 
 - [Progesterone Testing for Canine Breeding Timing](/blog/progesterone-testing-optimal-breeding-timing)
 - [Progesterone vs Relaxin vs Ultrasound for Breeding](/blog/progesterone-vs-relaxin-vs-ultrasound)

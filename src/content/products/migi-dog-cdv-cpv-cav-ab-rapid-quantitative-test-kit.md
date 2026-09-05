@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit"
+title: "Canine CDV/CPV/CAV Antibody Combo Test Kit"
 slug: "migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit"
-description: "Migi (Dog) CDV/CPV/CAV Ab Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R032."
+description: "Quantitative canine CDV/CPV/CAV antibody combo — 3 viruses in 1 panel, 10–20 min. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R032"
 image: "/images/migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit.png"

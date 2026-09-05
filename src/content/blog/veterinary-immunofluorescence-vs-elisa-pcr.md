@@ -3,6 +3,7 @@ title: "Immunofluorescence, ELISA or PCR: Which Test to Choose"
 slug: "veterinary-immunofluorescence-vs-elisa-pcr"
 description: "A comparison of fluorescence immunoassay (FICA), ELISA and PCR — strengths, limitations and best-use cases so you can choose the right test."
 pubDate: "2025-05"
+author: "Dr. Tang"
 category: "core-technology"
 faq: [{"q": "What is the difference between FICA, ELISA, and PCR?", "a": "FICA (fluorescence immunochromatography) detects antigen/antibody quantitatively in minutes at point of care. ELISA is a lab-based quantitative immunoassay with longer turnaround. PCR detects pathogen nucleic acid with highest sensitivity but requires specialized equipment and longer time."}, {"q": "When is each method preferred?", "a": "FICA is best for rapid point-of-care screening and monitoring. ELISA suits batch lab testing with high throughput. PCR is preferred when maximum sensitivity is needed or when antigen/antibody tests are inconclusive, such as early infection or low-level shedding."}, {"q": "Which method is best for point-of-care testing?", "a": "For point-of-care, FICA is the practical choice — it delivers quantitative results in 3–15 minutes without the lab infrastructure, sample batching, or turnaround time that ELISA and PCR require, while still providing objective instrument-read concentrations."}]
 ---

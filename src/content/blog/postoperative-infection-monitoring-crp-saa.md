@@ -1,7 +1,7 @@
 ---
 title: "Post-Op Infection Monitoring with CRP and SAA"
 slug: "postoperative-infection-monitoring-crp-saa"
-description: "CRP and SAA rise after surgery, peak at 24–48h, then should fall. A value that stays high or climbs again flags a complication before it's obvious. Here's the protocol."
+description: "CRP and SAA rise after surgery, peak at 24–48h, then should fall. A value that stays high or climbs again flags a complication."
 pubDate: "2026-09-05"
 author: "Dr. Tang"
 dateModified: "2026-09-05"

@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit"
+title: "Feline FPV/FHV/FCV Antibody Triple Test Kit"
 slug: "migi-cat-feline-fpv-fhv-fcv-ab-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline FPV/FHV/FCV Ab Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R033."
+description: "Quantitative feline FPV/FHV/FCV antibody combo — 3 viruses in 1 panel, 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R033"
 image: "/images/migi-cat-feline-fpv-fhv-fcv-ab-rapid-quantitative-test-kit.png"

@@ -3,6 +3,7 @@ title: "At-Home Pet Tests: What Works and What Needs a Vet"
 slug: "at-home-diagnostic-kits-for-pet-health-a-convenient-and-reliable-solution-for-pet-owners"
 description: "Home pet tests work for urine strips, glucose and temperature — but serious-disease kits still need a clinic analyzer and vet interpretation."
 pubDate: "2026-09-05"
+author: "Dr. Tang"
 category: "core-technology"
 faq: [{"q": "Are at-home pet diagnostic kits reliable?", "a": "It depends entirely on what they test. Qualitative screening — urine strips, glucose, temperature — can be reliable at home. But quantitative blood tests (SDMA, NT-proBNP, cPL) and infectious-disease antigen tests need an instrument and correct interpretation, so those 'home kit' versions are where reliability and meaning fall apart."}, {"q": "Which tests are genuinely suitable for home use?", "a": "Urine dipstick checks (glucose, protein, pH), blood-glucose monitoring for a diabetic pet, and simple observations like temperature and weight. These are screening or monitoring tools where a yes/no or a single number is genuinely meaningful."}, {"q": "Why can't I test for parvo or FeLV reliably at home?", "a": "Because these need two things a home kit can't provide: a quantitative readout (viral load, not just present/absent) and professional interpretation — including knowing that a recent vaccine can cause a false positive. A home antigen strip gives you a line, not a diagnosis."}, {"q": "What's the difference between a home test and a clinic test?", "a": "A home test is qualitative — it gives a yes/no or a coarse band. A clinic analyzer is quantitative — it returns an actual concentration with a reference range, so a clinician can stage disease, time breeding, or track a trend. The number is what's missing at home."}, {"q": "Should I use a home test instead of going to the vet?", "a": "No. Home testing is a screening or monitoring supplement, never a replacement. If a home test is abnormal — or your pet is clearly unwell — the next step is a veterinary visit, not a second home kit."}]
 ---
@@ -133,6 +134,8 @@ No — home testing covers 1 job (screening/monitoring), not diagnosis. An abnor
 - [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
 
 ## Continue exploring
+
+- [Home Pet Testing: What Owners Can and Can't Do Themselves](/blog/home-pet-testing-consumer-education-referral)
 
 - [Dog Pregnancy Tests: Relaxin and Progesterone Explained](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding)
 - [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide)

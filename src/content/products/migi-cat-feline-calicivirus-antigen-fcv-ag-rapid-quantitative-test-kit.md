@@ -1,7 +1,7 @@
 ---
-title: "Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit"
+title: "FCV-Ag Feline Calicivirus Antigen Test Kit"
 slug: "migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit"
-description: "Migi (Cat) Feline Calicivirus Antigen (FCV-Ag) Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for feline diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R008."
+description: "Quantitative Feline Calicivirus Antigen (FCV-Ag) fluorescence test for feline — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R008"
 image: "/images/migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit.png"

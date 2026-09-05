@@ -1,7 +1,7 @@
 ---
-title: "Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit"
+title: "CAV-Ab Canine Adenovirus Antibody Test Kit"
 slug: "migi-dog-canine-adenovirus-antibody-cav-ab-rapid-quantitative-test-kit"
-description: "Migi (Dog) Canine Adenovirus Antibody(CAV-Ab)Rapid Quantitative Test Kit — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R022."
+description: "Quantitative Canine Adenovirus Antibody (CAV-Ab) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R022"
 image: "/images/migi-dog-canine-adenovirus-antibody-cav-ab-rapid-quantitative-test-kit.png"

@@ -1,7 +1,7 @@
 ---
-title: "Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test"
+title: "cCRP Canine C-reactive Protein Test Kit"
 slug: "migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test"
-description: "Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test — a quantitative fluorescence immunochromatography (FICT) rapid test for canine diagnostics, delivering results in minutes with pg/ml-level sensitivity. CE/ISO9001-compliant manufacturer. Cat. No. MG-CA-R001."
+description: "Quantitative Canine C-reactive Protein (cCRP) fluorescence test for canine — 10–20 min results. ISO9001/GMP."
 category: "canine-feline"
 catNo: "MG-CA-R001"
 image: "/images/migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test.png"

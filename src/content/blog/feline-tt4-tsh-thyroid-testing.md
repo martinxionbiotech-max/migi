@@ -136,6 +136,32 @@ The commercial value is the ongoing monitoring relationship: thyroid cases requi
 
 ---
 
+## FAQ
+
+### What do T4 and TSH measure?
+
+Total thyroxine (T4) is the main thyroid hormone, and thyroid-stimulating hormone (TSH) is the pituitary hormone that regulates it. Together they assess thyroid function: high T4 with suppressed TSH indicates hyperthyroidism, while low T4 with elevated TSH suggests primary hypothyroidism.
+
+### What is a normal T4 level in dogs?
+
+Canine total T4 is normally about 1.0–4.0 µg/dL. A value below 1.0 µg/dL suggests hypothyroidism, especially when combined with an elevated TSH. Some confirmed hypothyroid dogs have a normal TSH, so interpretation requires clinical signs plus laboratory findings.
+
+### What is a normal T4 level in cats?
+
+Feline total T4 is normally about 0.8–4.0 µg/dL. A value above 4.0 µg/dL is consistent with hyperthyroidism, while 2.5–4.0 µg/dL is a grey zone where free T4 (by equilibrium dialysis) or repeat testing is the next step.
+
+### How is thyroid disease treated and monitored?
+
+Hyperthyroidism in cats is managed with medication, radioactive iodine, or surgery, and total T4 is monitored to titrate therapy. Hypothyroidism in dogs is treated with levothyroxine, with T4 (and sometimes TSH) measured 4–6 weeks after starting or adjusting the dose.
+
+### Can medications affect thyroid test results?
+
+Yes. Glucocorticoids, phenobarbital, and several other drugs can suppress total T4, producing a low value in a dog that is not truly hypothyroid. Non-thyroidal illness can also transiently lower T4 (sick euthyroid syndrome), so review medications and clinical status before diagnosing hypothyroidism.
+
+### When should T4 be measured in a dog on levothyroxine?
+
+Total T4 peaks a few hours after levothyroxine dosing, so sample consistently — commonly 4–6 hours post-pill — about 4–6 weeks after starting or changing the dose. Consistent timing makes serial values comparable for dose titration.
+
 ## References
 
 - [Cornell eClinPath — Thyroid gland](https://eclinpath.com/chemistry/thyroid-gland/)
