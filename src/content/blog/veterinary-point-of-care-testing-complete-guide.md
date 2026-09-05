@@ -146,4 +146,5 @@ No — it screens and monitors. Confirmatory, specialised or unusual tests still
 ---
 
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
-
+- [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
+- [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)

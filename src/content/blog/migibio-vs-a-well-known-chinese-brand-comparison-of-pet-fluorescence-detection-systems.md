@@ -7,8 +7,6 @@ category: "core-technology"
 faq: [{"q": "How does Migibio compare to other Chinese fluorescence brands?", "a": "Migibio differentiates on ISO9001/GMP manufacturing, proprietary FICT technology, a broad canine/feline reagent menu, and objective quantitative performance (pg/ml sensitivity, CV% <10%). The comparison evaluates sensitivity, precision, menu breadth, and after-sales support."}, {"q": "What dimensions should I compare when choosing a system?", "a": "Compare analytical performance (sensitivity, precision, dynamic range), reagent portfolio, analyzer ease of use, data connectivity, regulatory certifications, and post-sale technical support. Total cost of ownership matters more than the analyzer price alone."}, {"q": "Why choose Migibio for veterinary diagnostics?", "a": "Migibio offers a fully integrated system — analyzer plus 34+ quantitative reagents — backed by ISO9001/GMP quality systems and export experience to 30+ countries, with responsive technical support and OEM/ODM capability for distributors."}, {"q": "Does Migibio's six-channel analyzer replace the single-channel unit?", "a": "No — they serve different customers. The FIA680 single-channel unit suits low-volume clinics, while the FIA880 six-channel unit handles simultaneous multi-sample and multi-user workflows in busier practices and labs. Both run the same reagent menu."}]
 ---
 
-# Migibio vs. A Well-Known Chinese Brand: Comparison of Pet Fluorescence Detection Systems
-
 > **TL;DR** — This is a straight head-to-head across ten dimensions that actually matter in daily use: menu breadth, storage, sample preprocessing, software, reporting, standard-curve management, and analyzer channels. On the numbers, the differences are concrete — 48 launched projects vs 22, all-room-temperature storage vs six refrigerated analytes, and no SDMA preprocessing vs a 5-minute centrifuge step. Details below.
 
 ---
@@ -131,6 +129,8 @@ For the buyer's-eye view of the full evaluation framework, see [Working with a V
 *Comparison figures reflect Migibio product documentation at the time of writing. Competitor details are cited for informational comparison only.*
 
 ---
+- [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
+- [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
 
 ## Sources & Verification
 

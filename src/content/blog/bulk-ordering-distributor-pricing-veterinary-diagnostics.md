@@ -7,8 +7,6 @@ category: "blog"
 faq: [{"q": "What is a typical MOQ for veterinary test kits?", "a": "MOQ varies by product and manufacturer. Analyzers are usually 1–10 units with a consumable commitment; reagent kits often start at a few hundred to a few thousand tests. The MOQ should balance your cash flow against the manufacturer's production economics."}, {"q": "Where does a distributor's margin come from?", "a": "Margin lives primarily in reagent cost, not analyzer price. The analyzer is a one-time purchase, while reagents are a recurring revenue stream. Negotiate reagent cost hard — a small per-test saving compounds across every reorder."}, {"q": "How do I plan inventory for test kits?", "a": "Plan around reorder lead time plus a safety buffer, watch expiry dates (room-temperature kits simplify this), and start with a pilot order to measure real demand before committing to volume. Cold-chain items need extra buffer for transit risk."}, {"q": "What costs are hidden in bulk ordering?", "a": "The hidden costs are shipping, customs duties, cold-chain logistics (if any reagents need refrigeration), spoilage/expiry, and financing the inventory while it sits. Total cost of ownership includes all of these, not just the unit price."}]
 ---
 
-# Bulk Ordering & Distributor Pricing: How It Works
-
 > **TL;DR** — Distributor margin lives in reagent cost, not analyzer price. Understand MOQ and pricing tiers before you negotiate, model total cost of ownership (unit price + shipping + customs + cold chain + spoilage), and start with a pilot order to measure real demand. The distributors who win in this market are the ones who plan inventory around lead times, not hunches.
 
 ---
@@ -118,6 +116,8 @@ And one more: **exclusivity.** A regional exclusive changes the economics entire
 *This article is for professional buyers. Pricing figures are illustrative ranges and vary by manufacturer and volume.*
 
 ---
+- [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
+- [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
 
 ## Sources & Verification
 

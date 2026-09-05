@@ -144,4 +144,5 @@ Because the signs overlap heavily, and the treatment, isolation and prognosis di
 ---
 
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a sick dog should be seen by a veterinarian.*
-
+- [Wikipedia — Canine parvovirus](https://en.wikipedia.org/wiki/Canine_parvovirus)
+- [Morris Animal Foundation — Parvovirus](https://www.morrisanimalfoundation.org/article/canine-parvovirus)

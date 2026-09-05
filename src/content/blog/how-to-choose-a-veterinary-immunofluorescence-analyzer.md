@@ -7,8 +7,6 @@ category: "blog"
 faq: [{"q": "What's the most important specification when choosing an analyzer?", "a": "Channel count — how many samples run simultaneously. A single-channel unit suits small clinics and breeders running one test at a time; a six-channel unit suits busy hospitals where multiple clinicians test concurrently without queuing."}, {"q": "Should I choose based on throughput?", "a": "Throughput matters, but match it to real peak demand, not marketing numbers. A single-channel FIA680 handles up to 200 tests/hour; a six-channel FIA880 up to 300 — but the six-channel's real advantage is eliminating queueing when several clinicians test at once."}, {"q": "What's the biggest hidden cost?", "a": "Reagent cost per result, not the instrument price. The analyzer is a one-time purchase; reagents are recurring. Evaluate total cost per result across your expected test volume, not the upfront number alone."}, {"q": "Does the test menu matter more than the hardware?", "a": "Often yes. The analyzer is only as useful as the menu it runs — the more biomarkers (infectious, hormone, kidney, cardiac) one instrument covers, the more value it returns per square foot of bench space."}, {"q": "What about support and validation?", "a": "Ask for sensitivity and specificity from a real validation study for the assays you'll run, and confirm calibration, controls and support terms. A cheap instrument with unvalidated reagents is expensive."}]
 ---
 
-# Choosing a Veterinary Immunofluorescence Analyzer: The Four Decisions That Matter
-
 > **TL;DR** — Buying a fluorescence analyzer isn't a spec-sheet exercise; it's four decisions: **channel count** (how many samples run at once), **test menu** (how many biomarkers one box covers), **total cost per result** (reagent cost, not just the instrument price), and **validation/support** (real sensitivity and specificity, not the detection-method name). Get those four right and the analyzer pays for itself; get any one wrong and it's an expensive bench ornament.
 
 The analyzer is one of the most consequential equipment decisions a veterinary practice makes — it determines turnaround speed, patient capacity, and how confidently you can act on the numbers it produces. But most buyers get lost in spec sheets. The decision actually reduces to four questions.
@@ -121,3 +119,5 @@ Demand sensitivity/specificity from a real study, and confirm calibration, contr
 ---
 
 *This content is for educational and product-selection purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
+- [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
+- [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)

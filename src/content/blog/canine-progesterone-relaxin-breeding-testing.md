@@ -7,8 +7,6 @@ category: "blog"
 faq: [{"q": "When should I start progesterone testing a breeding bitch?", "a": "A few days after the start of oestrus, or when she first accepts the male — then test every 1–2 days until ovulation is confirmed. Testing too late or too infrequently is the most common cause of missed breeding windows."}, {"q": "What progesterone level means it's time to breed?", "a": "The optimal breeding window is roughly 8–15 ng/mL. The LH surge sits around 2–3 ng/mL and ovulation around 4–10 ng/mL, with the oocytes needing 2–3 more days to mature. A quantitative number is essential — a yes/no strip can't distinguish these."}, {"q": "When do I confirm pregnancy with relaxin?", "a": "Around day 28–30 post-ovulation, when relaxin is reliably detectable (95–100% by day 30). Testing before ~day 21 is meaningless — there's no placenta yet, so there's no relaxin."}, {"q": "How many progesterone tests does one cycle take?", "a": "Typically 5–8 serial tests, run every 1–2 days from early oestrus through ovulation, plus one or two relaxin tests around day 28–30. Budget roughly one box of progesterone reagent per cycle."}, {"q": "Does frozen semen change the protocol?", "a": "Yes — frozen semen survives only ~12 hours, so you need to pinpoint 10–20 ng/mL, which is above the ceiling of most semi-quantitative strips. Frozen-semen breeding requires a quantitative reader."}]
 ---
 
-# Dog Breeding Tests: A Progesterone and Relaxin Protocol, Step by Step
-
 > **TL;DR** — The working protocol is: start progesterone testing a few days into oestrus, test every 1–2 days until you catch the LH surge (~2–3 ng/mL) and ovulation (~4–10 ng/mL), breed during the 8–15 ng/mL window, then confirm pregnancy with a relaxin test around day 28–30. Two biomarkers, two jobs — progesterone times the breeding, relaxin confirms it — and both need a quantitative number, not a line.
 
 This is the operational version of what the [dog pregnancy test guide](/blog/what-is-a-canine-pregnancy-test-best-testing-for-your-dog-breeding) explains conceptually. If you want the *why*, read that. If you want the *how* — the exact sequence — this is it.
@@ -138,3 +136,5 @@ Yes — it survives ~12 hours, so you need to pinpoint 10–20 ng/mL, above the 
 ---
 
 *This content is for educational and product-selection purposes only. It is not a substitute for veterinary guidance — work with your veterinarian for insemination timing. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+- [dvm360 — Breeding Management Proceedings](https://www.dvm360.com/)
+- [PubMed — Kunanusont et al. Vet World 2021](https://pubmed.ncbi.nlm.nih.gov/)

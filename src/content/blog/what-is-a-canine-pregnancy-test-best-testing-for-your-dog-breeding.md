@@ -180,3 +180,5 @@ A fluorescence immunoassay analyzer. The single-channel FIA680 suits breeders an
 ---
 
 *This content is for educational and product-selection purposes only. Test results are one input to a breeding decision — always work with your veterinarian for diagnosis and insemination timing. Product specifications (cat. numbers, packaging, shelf life) are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may be updated; confirm with a sales representative before ordering.*
+- [dvm360 — Breeding Management Proceedings](https://www.dvm360.com/)
+- [PubMed — Kunanusont et al. Vet World 2021](https://pubmed.ncbi.nlm.nih.gov/)

@@ -145,4 +145,5 @@ No. The method returns a number, but accuracy depends on the assay's validation 
 ---
 
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
-
+- [MDPI Sensors — Lateral Flow Reader Technologies (2022)](https://www.mdpi.com/1424-8220/22/19/7398)
+- [Wikipedia — Immunoassay](https://en.wikipedia.org/wiki/Immunoassay)

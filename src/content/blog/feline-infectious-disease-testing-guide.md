@@ -146,4 +146,5 @@ FeLV is tested by antigen (virus present now) and FIV by antibody (immune respon
 ---
 
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a sick cat should be seen by a veterinarian.*
-
+- [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
+- [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)

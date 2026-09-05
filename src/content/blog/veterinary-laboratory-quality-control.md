@@ -145,4 +145,4 @@ No — certification signals a QC system exists, but every result still depends 
 ---
 
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
-
+- [WOAH — Veterinary Laboratory Quality](https://www.woah.org/en/what-we-do/standards/)

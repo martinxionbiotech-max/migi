@@ -7,8 +7,6 @@ category: "blog"
 faq: [{"q": "What's the difference between calicivirus and herpesvirus in cats?", "a": "Both cause upper-respiratory disease, but differently: herpesvirus (FHV-1) causes conjunctivitis, corneal ulcers and goes latent for life (reactivating under stress), while calicivirus (FCV) causes mouth ulcers, has many strains, and in rare cases a severe systemic form."}, {"q": "How do I tell which virus a cat has?", "a": "Clinical signs point the way — corneal/eye involvement suggests herpes, oral ulcers suggest calicivirus — but the two frequently co-infect. Antigen or PCR testing on ocular, nasal or oral swabs confirms which virus is actively shedding."}, {"q": "Why does herpes keep coming back?", "a": "Because FHV-1 goes latent in nerve tissue after the first infection and reactivates under stress — boarding, moving, illness. The same virus resurfaces, which is why flare-ups recur."}, {"q": "Why isn't calicivirus vaccine protection complete?", "a": "Because FCV has many antigenically distinct strains, and antibodies to the vaccine strain may not neutralise the strain a cat meets in the field. It reduces severity but doesn't guarantee protection against every strain."}, {"q": "Do I need to test both viruses?", "a": "In an outbreak or a cat with recurrent signs, yes — because they present similarly and co-infect, and management differs. In routine practice, the clinical picture plus testing when signs are active is usually sufficient."}]
 ---
 
-# Feline Calicivirus vs Herpesvirus: How Testing Tells the Two 'Cat Flu' Causes Apart
-
 > **TL;DR** — "Cat flu" is almost always one of two viruses: feline herpesvirus (FHV-1) or feline calicivirus (FCV). They look similar but behave differently: **herpes** causes eye problems and goes latent for life (flaring under stress); **calicivirus** causes mouth ulcers and exists in many strains that can dodge vaccine protection. Testing — antigen or PCR on a swab during active signs — is how you tell which one you're dealing with, and the answer changes management.
 
 When a cat sneezes and gets congested, the cause is usually "cat flu" — and "cat flu" is almost always one of two specific viruses. Telling them apart matters, because they don't behave the same way, and the distinction changes what you expect and how you manage it.
@@ -114,3 +112,5 @@ In an outbreak or recurrent-signs cat, yes — they present similarly, co-infect
 ---
 
 *This content is for educational purposes only. It is not a substitute for veterinary diagnosis — a cat with respiratory disease should be seen by a veterinarian. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
+- [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
+- [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)

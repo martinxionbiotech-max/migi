@@ -131,4 +131,5 @@ They complement — a point-of-care screen often leads to a PCR confirmation, no
 ---
 
 *This content is for educational purposes only. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
-
+- [MDPI Sensors — Lateral Flow Reader Technologies (2022)](https://www.mdpi.com/1424-8220/22/19/7398)
+- [Wikipedia — Immunoassay](https://en.wikipedia.org/wiki/Immunoassay)

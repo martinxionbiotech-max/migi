@@ -7,8 +7,6 @@ category: "blog"
 faq: [{"q": "What is the difference between a Snap-style and a fluorescence feline triple test?", "a": "A Snap-style lateral-flow test gives a qualitative line you read by eye — positive or negative. A fluorescence test gives a quantitative number (a titre) read by an analyzer. The difference is between a line and a number."}, {"q": "Why does a quantitative titre matter for FPV/FCV/FHV?", "a": "A number lets you distinguish weak from strong positives and track titre changes over time — after vaccination, or across a shelter intake. A qualitative line can't show trend or strength."}, {"q": "Is a fluorescence result always more accurate?", "a": "More objective and more informative — a numeric titre removes visual interpretation error and enables trend tracking. But accuracy depends on validation, not just the detection method; a poorly validated quantitative test can still mislead."}, {"q": "Which should I choose?", "a": "For a fast yes/no screen, a qualitative test is quick and simple. For immunity assessment, titre tracking or monitoring response, the quantitative fluorescence test is the better tool."}]
 ---
 
-# Feline Triple Test: Snap Line vs Fluorescence Number — What the Difference Changes
-
 > **TL;DR** — The difference between a Snap-style feline triple test and a fluorescence FPV/FCV/FHV test is the difference between a **line and a number**. A lateral-flow test gives you a yes/no you read by eye; a fluorescence analyzer gives you a titre — and a titre is what lets you compare immunity, track changes after vaccination, and spot a weak positive. The honest version of "which is cheaper" is: the strip costs less per test but tells you less; the analyzer costs more upfront but returns data you can actually act on.
 
 Both tests look at the same three viruses — FPV (panleukopenia), FHV-1 (herpes) and FCV (calicivirus). The real difference isn't *what* they detect, it's *how much information* the answer carries. This guide compares them honestly, without the marketing.
@@ -121,3 +119,5 @@ For a fast yes/no screen, a qualitative test is quick and simple. For immunity a
 ---
 
 *This content is for educational and product-selection purposes only. Test results must be interpreted alongside clinical findings by a veterinarian. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
+- [ABCD — Feline Calicivirus Guidelines](https://www.abcdcatsvets.org/)
+- [Wikipedia — Feline calicivirus](https://en.wikipedia.org/wiki/Feline_calicivirus)

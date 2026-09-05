@@ -121,3 +121,5 @@ The FIA680. It's single-channel, compact and portable, with a lower acquisition 
 3. Park J, et al. Lateral Flow Immunoassay Reader Technologies for Quantitative Point-of-Care Testing. *Sensors.* 2022;22(19):7398. doi:10.3390/s22197398
 
 > *This article is for veterinary professionals and educational purposes only. Product specifications are as published by the manufacturer and should be verified against current documentation.*
+- [Mordor Intelligence — Veterinary POC Diagnostics Market](https://www.mordorintelligence.com/industry-reports/veterinary-point-of-care-diagnostics-market)
+- [ISO — ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)

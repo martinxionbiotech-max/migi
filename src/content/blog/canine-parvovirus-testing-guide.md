@@ -176,3 +176,5 @@ Bleach diluted about 1:30, or accelerated hydrogen peroxide. Most everyday disin
 ---
 
 *This content is for educational and product-selection purposes only. Parvovirus is a life-threatening disease — any suspected case should be seen by a veterinarian immediately. Test results are one input to clinical judgment; always combine them with vaccination history and physical examination. Product specifications (cat. numbers, packaging, shelf life) are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
+- [Wikipedia — Canine parvovirus](https://en.wikipedia.org/wiki/Canine_parvovirus)
+- [Morris Animal Foundation — Parvovirus](https://www.morrisanimalfoundation.org/article/canine-parvovirus)
