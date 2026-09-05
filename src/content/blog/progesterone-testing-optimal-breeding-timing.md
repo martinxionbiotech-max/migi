@@ -1,7 +1,7 @@
 ---
-title: "Progesterone Testing for Optimal Breeding Timing in Dogs: Cut-Offs and Protocol"
+title: "Progesterone Testing for Canine Breeding Timing"
 slug: "progesterone-testing-optimal-breeding-timing"
-description: "A practical guide to progesterone testing for canine breeding timing — the LH surge, ovulation cut-offs, testing schedule, and how the rate of rise affects litter size."
+description: "A guide to progesterone testing for canine breeding timing — LH surge, ovulation cut-offs, schedule, and how rate of rise affects litter size."
 pubDate: "2026-09"
 category: "blog"
 faq: [{"q": "What progesterone level indicates ovulation in dogs?", "a": "Ovulation occurs when progesterone reaches roughly 4–10 ng/mL, with many bitches ovulating around 5 ng/mL. This follows the LH surge, when progesterone first rises to about 2–3 ng/mL, by roughly 48–72 hours."}, {"q": "What progesterone level is the optimal breeding window?", "a": "The optimal breeding window is commonly placed at 8–15 ng/mL, roughly four to six days after the LH surge, once the ovulated oocytes have matured. Some sources extend the fertile period to 15–40 ng/mL at peak."}, {"q": "How often should I test progesterone during a cycle?", "a": "Start around day 5 of heat and test every 1–3 days, increasing frequency as the rise approaches. Once progesterone passes ~4 ng/mL, a 24-hour jump of 3–4 ng/mL or more confirms ovulation, so daily testing becomes valuable at that point."}, {"q": "Does the rate of progesterone rise matter?", "a": "Yes. Research on over 1,400 cycles found that a slow rise with frozen semen produced an average of 3.9 puppies versus 5.6 with a fast rise. Track both the value and the rate of change."}, {"q": "How do I convert progesterone units?", "a": "ng/mL × 3.18 = nmol/L, and nmol/L ÷ 3.18 = ng/mL. Always confirm which unit your analyzer or lab reports before interpreting a value."}, {"q": "Can I time breeding with a semi-quantitative progesterone kit?", "a": "For fresh-semen natural breeding, a broad-band kit may be enough to schedule a veterinary blood draw. For chilled or frozen semen, semi-quantitative kits are inadequate — their measurement range is often capped at 5 ng/mL, while frozen-semen timing requires 10–20 ng/mL."}]
@@ -82,6 +82,12 @@ A colour-change strip cannot make these distinctions. A semi-quantitative kit gi
 
 An in-house quantitative immunoassay analyzer returns the actual number in minutes, letting you time insemination the same day instead of waiting 24–72 hours for a reference lab — a delay that can miss a fast-moving window entirely.
 
+## Application & Commercial Angle
+
+Who should care: breeders and reproductive veterinarians. The protocol turns breeding timing from guesswork into a repeatable, billable service.
+
+In practice, serial progesterone is the clinic's recurring revenue anchor: each cycle involves several timed draws, and the breeder stays with the clinic that can read the rise — not just a positive strip.
+
 ## FAQ
 
 ### What progesterone level indicates ovulation in dogs?
@@ -122,4 +128,4 @@ For fresh-semen natural breeding, a broad-band kit may be enough to schedule a v
 2. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 3. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
 
-> *This article is for veterinary professionals and educational purposes only. It is not a substitute for clinical judgement by a licensed veterinarian.*
+> *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

@@ -1,7 +1,7 @@
 ---
-title: "Kidney Disease Tests for Dogs and Cats: SDMA, Cystatin C and Catching CKD Early"
+title: "Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C"
 slug: "sdma-vs-cystatin-c-kidney-marker"
-description: "Creatinine misses kidney disease until ~60–75% of function is gone. SDMA and cystatin C catch it at ~25–40% loss. Here are the real reference ranges, the 14 vs 18 µg/dL false-positive debate nobody advertises, and what early screening is worth to a clinic."
+description: "Creatinine misses kidney disease until ~60–75% of function is gone; SDMA and cystatin C catch it at ~25–40% loss. Here's what early screening is worth."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-09-05"

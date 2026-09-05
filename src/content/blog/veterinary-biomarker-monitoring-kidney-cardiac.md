@@ -1,7 +1,7 @@
 ---
-title: "SDMA and NT-proBNP in Dogs and Cats: Kidney and Heart Markers Explained"
+title: "SDMA and NT-proBNP: Kidney and Heart Markers in Pets"
 slug: "veterinary-biomarker-monitoring-kidney-cardiac"
-description: "A complete guide to veterinary biomarker testing: SDMA, cystatin C, NT-proBNP, pancreatic lipase, CRP, SAA, cortisol, and thyroid hormones. Reference ranges, IRIS staging, and how quantitative immunofluorescence testing enables earlier diagnosis."
+description: "A guide to SDMA, cystatin C, NT-proBNP, cPL, CRP, SAA, cortisol and thyroid hormones — reference ranges and how quantitative testing helps."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
@@ -231,6 +231,12 @@ None of these decisions are possible with a qualitative yes/no. They're only pos
 
 ---
 
+## Application & Commercial Angle
+
+Who should care: clinics building senior and chronic-disease panels. SDMA, NT-proBNP, CRP/SAA and related markers create billable same-visit panels and ongoing monitoring relationships.
+
+In practice, the value is earlier staging and scheduled rechecks: each marker adds a reason to test now and again later, which is the recurring case for a quantitative analyzer.
+
 ## FAQ
 
 **What's the difference between a biomarker and a routine chemistry value?**
@@ -280,7 +286,7 @@ No. Biomarkers localize and quantify a problem; imaging (ultrasound, echo, radio
 - Ghys LFE, et al. Cystatin C: A New Renal Marker. *J Vet Intern Med.* 2014;28(4):1151–1164.
 - Cerón JJ, et al. Acute-phase proteins in dogs and cats. *Vet Clin Pathol.* 2005;34(2):85–99.
 
-*This article is for veterinary professional education. Reference ranges vary by laboratory and assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 

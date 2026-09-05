@@ -1,7 +1,7 @@
 ---
-title: "Canine and Feline Breeding Management: Progesterone, Relaxin and Ultrasound"
+title: "Dog and Cat Breeding Management: Progesterone to Ultrasound"
 slug: "canine-feline-breeding-management-testing"
-description: "A complete guide to breeding management testing in dogs and cats — progesterone timing, relaxin pregnancy confirmation, and how to combine hormonal and imaging tools."
+description: "A guide to breeding management testing in dogs and cats: progesterone timing, relaxin confirmation, and combining hormonal and imaging tools."
 pubDate: "2026-09"
 category: "blog"
 faq: [{"q": "What tests are used to manage canine breeding?", "a": "The core tools are serial progesterone measurement to time ovulation, relaxin testing to confirm pregnancy, and ultrasound to visualise pregnancy. Progesterone answers 'when to breed'; relaxin and ultrasound answer 'is she pregnant'; used together they cover the whole breeding cycle."}, {"q": "When should I start progesterone testing?", "a": "Progesterone monitoring typically begins around day 5 of the heat cycle, or when vaginal cytology shows the onset of oestrus. Testing is then repeated every 1–3 days, with frequency increasing as the progesterone rise approaches."}, {"q": "How early can pregnancy be confirmed in a dog?", "a": "Relaxin becomes detectable in blood around 21–28 days after ovulation, making it the earliest blood-based confirmation of pregnancy. Ultrasound can visualise gestational structures from around day 21–25, giving visual confirmation at a similar time point."}, {"q": "Why does ovulation timing require quantitative progesterone?", "a": "Because the number is the decision. Progesterone around 2–3 ng/mL signals the LH surge, ~5 ng/mL signals ovulation, and 8–15 ng/mL marks the optimal breeding window. A qualitative strip can't distinguish these — only a quantitative measurement can."}, {"q": "Does the rate of progesterone rise affect litter size?", "a": "Research on over 1,400 breeding cycles found that a slow progesterone rise with frozen semen produced an average of 3.9 puppies, versus 5.6 with a fast rise. The rate of rise, not just the absolute value, carries clinical information."}, {"q": "How long do sperm survive in the bitch?", "a": "Fresh semen survives roughly 4–6 days, chilled semen about 3 days, and frozen semen only about 12 hours. This is why frozen-semen insemination demands far more precise ovulation timing than fresh-semen natural breeding."}]
@@ -90,6 +90,12 @@ The conversion to remember: **ng/mL × 3.18 = nmol/L**, and vice versa. Differen
 
 An in-house quantitative immunoassay analyzer returns the actual number in minutes, letting you time insemination the same day rather than waiting for a reference lab — which matters most when the cycle is moving fast and the window is measured in hours.
 
+## Application & Commercial Angle
+
+Who should care: breeders timing inseminations and clinics offering reproductive services. The breeder gets fewer wasted cycles and better timing decisions; the clinic gets a repeatable, billable reproductive protocol.
+
+In practice, the value is precision and continuity: progesterone numbers set the breeding window, and relaxin or ultrasound confirms the outcome later. That makes the clinic the breeder's monitoring partner across the whole cycle rather than a one-off ultrasound stop.
+
 ## FAQ
 
 ### What tests are used to manage canine breeding?
@@ -131,4 +137,4 @@ Fresh semen survives roughly 4–6 days, chilled semen about 3 days, and frozen 
 3. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 4. Comparison of three progesterone quantification methods using blood samples drawn from bitches during the periovulatory phase. PMC8924395.
 
-> *This article is for veterinary professionals and educational purposes only. It is not a substitute for clinical judgement by a licensed veterinarian.*
+> *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

@@ -1,7 +1,7 @@
 ---
-title: "NT-proBNP in Dogs and Cats: The Blood Test That Tells Heart Trouble From Breathing Trouble"
+title: "NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble"
 slug: "nt-probnp-testing-dogs-cats-heart-disease"
-description: "A coughing dog and a fast-breathing cat look the same on the outside. NT-proBNP tells you whether the cause is the heart or the lungs — in 10–20 minutes. Here are the real cut-offs, why the numbers differ by platform, and what cardiac triage is worth to a clinic."
+description: "A coughing dog and fast-breathing cat look alike. NT-proBNP tells whether the cause is heart or lungs — in 10–20 minutes. Here are the cut-offs."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-09-05"

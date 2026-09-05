@@ -1,7 +1,7 @@
 ---
-title: "Progesterone vs Relaxin vs Ultrasound: Choosing the Right Pregnancy and Breeding Tool"
+title: "Progesterone vs Relaxin vs Ultrasound for Breeding"
 slug: "progesterone-vs-relaxin-vs-ultrasound"
-description: "A direct comparison of progesterone, relaxin and ultrasound for canine breeding — what each answers, when to use it, and how to combine them into a complete breeding protocol."
+description: "A comparison of progesterone, relaxin and ultrasound for canine breeding — what each answers, when to use it, and how to combine them."
 pubDate: "2026-09"
 category: "blog"
 faq: [{"q": "What is the difference between progesterone, relaxin and ultrasound?", "a": "Progesterone answers 'when to breed' by tracking ovulation timing. Relaxin answers 'is she pregnant' as the earliest blood-based confirmation. Ultrasound answers 'is she pregnant and is it viable' with visual evidence. Each answers a different question at a different stage."}, {"q": "Can I replace ultrasound with relaxin testing?", "a": "For a simple yes/no pregnancy confirmation, relaxin can substitute for early ultrasound. But ultrasound adds viability, foetal count and progression that a blood test can't show. For a complete picture, use both."}, {"q": "Can I replace progesterone with ultrasound for timing?", "a": "No. Ultrasound visualises structures already present — it cannot predict ovulation in advance the way serial progesterone can. Progesterone is the only one of the three that answers the forward-looking 'when' question."}, {"q": "Which tool should a new breeder start with?", "a": "Progesterone, because timing is the highest-stakes step and the one that determines whether a cycle succeeds at all. Once breeding is done, add relaxin or ultrasound for confirmation. Start with the 'when,' then confirm the 'whether.'"}, {"q": "How do the three tools combine into a full protocol?", "a": "Serial progesterone times the breeding; relaxin or ultrasound confirms pregnancy a few weeks later; ultrasound assesses viability and litter size as the pregnancy progresses. Used in sequence, they cover the entire cycle."}, {"q": "Which is the earliest pregnancy test?", "a": "Relaxin is the earliest blood-based confirmation, detectable from ~21–28 days post-ovulation and 95–100% reliable by day 30. Ultrasound visualises structures from ~21–25 days, at a similar time point but with visual rather than hormonal evidence."}]
@@ -68,6 +68,12 @@ A common beginner's mistake is to skip step one — to breed "when she'll stand"
 - **Viability and count** → ultrasound, from ~day 25.
 - **Suspected false pregnancy** → relaxin (pregnancy-specific) plus ultrasound for visual confirmation.
 
+## Application & Commercial Angle
+
+Who should care: breeders and clinics building a complete reproductive workflow. Each tool answers a different question — timing, confirmation or visual assessment — so the commercial case is the combined protocol.
+
+In practice, clinics that offer progesterone plus relaxin (and ultrasound where indicated) become the breeder's cycle-long partner rather than a one-off vendor.
+
 ## FAQ
 
 ### What is the difference between progesterone, relaxin and ultrasound?
@@ -108,4 +114,4 @@ Relaxin is the earliest blood-based confirmation, detectable from ~21–28 days 
 2. Buff S, et al. Detection of canine relaxin in maternal peripheral blood. 2001. (cited in PMC7126177)
 3. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 
-> *This article is for veterinary professionals and educational purposes only. It is not a substitute for clinical judgement by a licensed veterinarian.*
+> *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

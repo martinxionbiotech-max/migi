@@ -1,7 +1,7 @@
 ---
-title: "Point-of-Care Testing in Veterinary Clinics: Speed, Revenue and Payback"
+title: "Point-of-Care Testing in Vet Clinics: Speed and Payback"
 slug: "veterinary-point-of-care-testing-complete-guide"
-description: "A complete guide to veterinary point-of-care testing (POCT): what it is, how lateral-flow and fluorescence immunoassay technologies work, the benefits and limitations, and how to build a POCT workflow in your practice."
+description: "A guide to veterinary point-of-care testing: how lateral-flow and fluorescence immunoassay work, the benefits and limits, and building a POCT workflow."
 pubDate: "2025-04"
 category: "core-technology"
 faq: [{"q": "What is veterinary point-of-care testing (POCT)?", "a": "POCT refers to diagnostic testing performed at or near the patient, in the clinic, with results available in minutes rather than days. It enables immediate clinical decision-making for infectious disease, inflammation, endocrine, and organ-function testing."}, {"q": "What are the main benefits of POCT?", "a": "POCT shortens time-to-diagnosis, supports same-visit treatment decisions, improves client communication, and reduces the need for send-out lab testing. Quantitative POCT adds objective, reproducible results that a simple line-based test cannot provide."}, {"q": "Which technologies power veterinary POCT?", "a": "The main technologies are lateral-flow immunoassay (colloidal gold) for qualitative screening and fluorescence immunochromatography (FICT) for quantitative results read by a dedicated analyzer. FICT offers higher sensitivity and precision for monitoring."}]

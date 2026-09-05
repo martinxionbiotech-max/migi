@@ -1,7 +1,7 @@
 ---
 title: "Thyroid Testing in Dogs and Cats: T4 and TSH Explained"
 slug: "feline-tt4-tsh-thyroid-testing"
-description: "A complete guide to thyroid testing in dogs and cats: total T4 and TSH reference ranges, diagnosing hyperthyroidism in cats and hypothyroidism in dogs, and how quantitative testing improves diagnosis and monitoring."
+description: "A guide to thyroid testing in dogs and cats: total T4 and TSH ranges, hyperthyroidism in cats, hypothyroidism in dogs, and monitoring."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
@@ -120,6 +120,12 @@ T4 and TSH are measured from serum or plasma on a quantitative immunofluorescenc
 
 ---
 
+## Application & Commercial Angle
+
+Who should care: any clinic seeing senior cats with weight change or dogs with suspected hypothyroidism. A combined T4 + TSH panel turns that workup into a same-visit endocrine screen.
+
+The commercial value is the ongoing monitoring relationship: thyroid cases require serial dose checks, so each diagnosis seeds scheduled rechecks. The panel is billable at presentation and again at titration — the repeat revenue a quantitative analyzer supports.
+
 ## Key Takeaways
 
 1. Cats go **hyper**thyroid, dogs go **hypo**thyroid — opposite directions, same test panel.
@@ -136,7 +142,7 @@ T4 and TSH are measured from serum or plasma on a quantitative immunofluorescenc
 - MSD Veterinary Manual — Hypothyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hypothyroidism
 - MSD Veterinary Manual — Hyperthyroidism: https://www.msdvetmanual.com/endocrine-system/thyroid-disorders/hyperthyroidism
 
-*This article is for veterinary professional education. Reference ranges vary by assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 

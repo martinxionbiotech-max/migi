@@ -1,7 +1,7 @@
 ---
-title: "Dog Cortisol Tests: Cushing's, Addison's and Why a Single Number Can't Diagnose"
+title: "Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing"
 slug: "cortisol-testing-dogs-cushings-addisons"
-description: "A single resting cortisol can't diagnose Cushing's — you need a dynamic test. ACTH stimulation (post-ACTH >22 µg/dL = Cushing's, <2 = Addison's) and LDDST (8-hour >1.4 µg/dL) are the workhorses. Here's the two-test rule and what a same-day workup is worth."
+description: "A single resting cortisol can't diagnose Cushing's — you need a dynamic test. Here's ACTH stimulation, LDDST, and same-day workup value."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"

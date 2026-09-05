@@ -1,7 +1,7 @@
 ---
-title: "Cat Infectious Disease Testing: Which Viruses One Panel Can Catch"
+title: "Cat Infectious Disease Testing: What One Panel Can Catch"
 slug: "feline-infectious-disease-testing-guide"
-description: "A complete guide to feline infectious disease testing: panleukopenia (FPV), herpesvirus (FHV-1), calicivirus (FCV), coronavirus (FCoV/FIP), leukemia virus (FeLV), and immunodeficiency virus (FIV). Learn when to test and how to interpret results."
+description: "A guide to feline infectious disease testing: FPV, FHV-1, FCV, FCoV, FeLV and FIV — when to test and how to interpret results."
 pubDate: "2025-04"
 category: "blog"
 faq: [{"q": "What are the most common feline infectious diseases?", "a": "The core feline infectious agents are panleukopenia (FPV), herpesvirus (FHV-1), calicivirus (FCV), coronavirus (FCoV/FIP), leukaemia virus (FeLV), and immunodeficiency virus (FIV). Each has distinct epidemiology and testing strategy."}, {"q": "How do I choose which test to run?", "a": "Choose based on clinical presentation: respiratory signs point to FHV-1/FCV, enteric signs to FPV/FCoV, and chronic illness or immune suppression to FeLV/FIV. Multiplex quantitative panels can test several pathogens simultaneously to reach a diagnosis faster."}, {"q": "What are the advantages of quantitative testing?", "a": "Quantitative fluorescence immunoassay reports numerical concentrations for each analyte, enabling clinicians to distinguish weak from strong positives, track viral load, and monitor treatment response — capabilities a simple line-based test cannot provide."}]

@@ -1,7 +1,7 @@
 ---
-title: "Quantitative vs Qualitative Progesterone: Why a Number Beats a Strip for Breeding"
+title: "Quantitative vs Qualitative Progesterone for Breeding"
 slug: "quantitative-vs-qualitative-progesterone"
-description: "Why quantitative progesterone measurement beats qualitative and semi-quantitative strips for canine breeding timing — the 5 ng/mL cap, frozen-semen precision, and what the literature says."
+description: "Why quantitative progesterone beats qualitative and semi-quantitative strips for canine breeding — the 5 ng/mL cap and frozen-semen precision."
 pubDate: "2026-09"
 category: "blog"
 faq: [{"q": "What is the difference between quantitative and qualitative progesterone?", "a": "A qualitative test answers 'is progesterone present?' with a yes/no. A quantitative test measures the actual concentration in ng/mL. For breeding, the concentration is the decision — 2 ng/mL means 'not yet,' 5 ng/mL means ovulation, 8–15 ng/mL means breed."}, {"q": "Why is a qualitative progesterone strip useless for breeding timing?", "a": "Because a cycling bitch always has measurable progesterone — 'positive' tells you nothing you didn't already know. What you need is the number, since the difference between 2 and 8 ng/mL is the difference between too early and the optimal window."}, {"q": "What is the problem with semi-quantitative progesterone kits?", "a": "Semi-quantitative kits give broad bands (low/medium/high) instead of a precise number, and are significantly less accurate. Critically, their measurement range is often capped at 5 ng/mL — while frozen-semen timing requires reading 10–20 ng/mL, making them blind exactly where precision is needed."}, {"q": "Which progesterone level is the breeding window?", "a": "Ovulation is ~4–10 ng/mL (many bitches ~5 ng/mL), and the optimal breeding window is 8–15 ng/mL. Peak fertile period can run to 15–40 ng/mL. These distinctions all require a quantitative number."}, {"q": "Can I use a home progesterone test kit?", "a": "For fresh-semen natural breeding, a broad-band kit can indicate when to schedule a veterinary blood draw. For chilled or frozen semen, home kits lack the precision needed, and a quantitative test from your veterinarian is always recommended."}, {"q": "What methods give quantitative progesterone?", "a": "Radioimmunoassay (RIA), liquid chromatography-tandem mass spectrometry (LC-MS/MS), chemiluminescence immunoassay (CLIA), and enzyme-linked fluorescence assay — including in-house fluorescence immunoassay analyzers that return a number in minutes."}]
@@ -68,6 +68,12 @@ To be fair: there is one narrow place a qualitative or semi-quantitative kit is 
 
 But for the actual decision — chilled or frozen semen, or any program where a missed window is costly — a quantitative number is the only defensible choice.
 
+## Application & Commercial Angle
+
+Who should care: breeders and clinics timing ovulation, especially with chilled or frozen semen. The number is what separates a usable breeding window from a positive strip.
+
+In practice, quantitative progesterone supports the high-value cases — frozen-semen precision and repeat breeding clients — which is where the analyzer's commercial case lives.
+
 ## FAQ
 
 ### What is the difference between quantitative and qualitative progesterone?
@@ -108,4 +114,4 @@ Radioimmunoassay (RIA), liquid chromatography-tandem mass spectrometry (LC-MS/MS
 2. Kunanusont N, Punyadarsaniya D, Ruenphet S. Accuracy and precision guidelines for optimal breeding time in bitches. *Vet World.* 2021;14(3):585–588. doi:10.14202/vetworld.2021.585-588
 3. dvm360. Breeding Management 102 — It's All in the Timing (Proceedings). [https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings](https://www.dvm360.com/view/breeding-management-102-its-all-timing-proceedings)
 
-> *This article is for veterinary professionals and educational purposes only. It is not a substitute for clinical judgement by a licensed veterinarian.*
+> *This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

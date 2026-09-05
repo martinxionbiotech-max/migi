@@ -1,7 +1,7 @@
 ---
-title: "Fluorescence Immunochromatography (FICA): How It Works and Why the Number Matters"
+title: "Fluorescence Immunochromatography (FICA): How It Works"
 slug: "what-is-fluorescence-immunochromatography-fica"
-description: "Fluorescence immunochromatography (FICA) combines immunology with fluorescence detection to deliver rapid, quantitative results for veterinary diagnostics. Learn the working principle, how it differs from colloidal gold, and its clinical applications."
+description: "FICA combines immunology with fluorescence detection for rapid, quantitative veterinary results. Here's the principle and how it differs from colloidal gold."
 pubDate: "2025-01"
 category: "core-technology"
 faq: [{"q": "What is fluorescence immunochromatography (FICA)?", "a": "FICA is a lateral-flow immunoassay technique that uses fluorescent microspheres instead of colloidal gold. When the analyzer excites the captured fluorophores, the emitted signal intensity is proportional to analyte concentration, yielding a quantitative result."}, {"q": "How does FICA compare to colloidal gold?", "a": "Colloidal gold gives a qualitative visual line, while FICA provides an instrument-read numerical concentration with higher sensitivity (pg/ml LOD) and precision (CV% <10%). FICA also supports digital records and trend monitoring."}, {"q": "What are the advantages of quantitative FICA results?", "a": "Quantitative results let clinicians distinguish weak from strong positives, track disease progression and treatment response, and set objective cut-offs. This reproducibility and data capture are the key clinical advantages over qualitative tests."}]

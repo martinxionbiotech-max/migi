@@ -1,7 +1,7 @@
 ---
-title: "Early Kidney Disease Detection in Dogs and Cats: What SDMA Changed"
+title: "Early Kidney Disease Detection in Dogs and Cats: SDMA"
 slug: "early-detection-chronic-kidney-disease-sdma-dogs-cats"
-description: "Chronic kidney disease is diagnosed late because creatinine waits until 60-70% of function is gone. SDMA catches decline at 25-40% loss, in dogs and cats alike. Here's what that earlier window is worth."
+description: "Creatinine waits until 60–70% of kidney function is gone; SDMA catches decline at 25–40% loss. Here's what that earlier window is worth."
 pubDate: "2026-09-05"
 category: "blog"
 faq: [{"q": "Why is kidney disease diagnosed so late?", "a": "Because creatinine — the standard marker — only rises after roughly 60–70% of kidney function is lost, and it's distorted by muscle mass. By the time creatinine is high, the disease is well advanced."}, {"q": "What does SDMA change?", "a": "SDMA rises at 25–40% function loss and ignores muscle mass, so it flags chronic kidney disease a year or more before creatinine — at the stage where diet and management can still slow progression."}, {"q": "Is SDMA useful for both dogs and cats?", "a": "Yes. The 0–14 µg/dL reference interval applies to both species, and SDMA's early-lead-time and muscle-mass independence benefit aging dogs and cats equally."}, {"q": "What's the practical workflow?", "a": "Add SDMA to the senior-panel blood work, alongside creatinine. A persistent SDMA above 14 µg/dL with normal creatinine supports early-stage kidney disease and triggers management plus serial monitoring."}, {"q": "Does SDMA replace creatinine?", "a": "No — it pairs with it. Creatinine still has a role in staging and monitoring; SDMA's job is to catch the decline earlier than creatinine can."}]

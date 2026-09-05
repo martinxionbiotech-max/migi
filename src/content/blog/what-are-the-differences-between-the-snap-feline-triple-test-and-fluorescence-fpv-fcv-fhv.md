@@ -1,7 +1,7 @@
 ---
-title: "Feline Triple Test: Snap Line vs Fluorescence Number — What the Difference Changes"
+title: "Feline Triple Test: Snap Line vs Fluorescence Number"
 slug: "what-are-the-differences-between-the-snap-feline-triple-test-and-fluorescence-fpv-fcv-fhv"
-description: "A Snap-style feline triple test gives a line (positive/negative); a fluorescence analyzer gives a number (titre). That difference changes what you can do — track immunity, compare titres, catch weak positives. Here's the honest comparison, without the price hype."
+description: "A Snap-style feline triple test gives a line; a fluorescence analyzer gives a number (titre). Here's what that difference changes."
 pubDate: "2026-09-05"
 category: "blog"
 faq: [{"q": "What is the difference between a Snap-style and a fluorescence feline triple test?", "a": "A Snap-style lateral-flow test gives a qualitative line you read by eye — positive or negative. A fluorescence test gives a quantitative number (a titre) read by an analyzer. The difference is between a line and a number."}, {"q": "Why does a quantitative titre matter for FPV/FCV/FHV?", "a": "A number lets you distinguish weak from strong positives and track titre changes over time — after vaccination, or across a shelter intake. A qualitative line can't show trend or strength."}, {"q": "Is a fluorescence result always more accurate?", "a": "More objective and more informative — a numeric titre removes visual interpretation error and enables trend tracking. But accuracy depends on validation, not just the detection method; a poorly validated quantitative test can still mislead."}, {"q": "Which should I choose?", "a": "For a fast yes/no screen, a qualitative test is quick and simple. For immunity assessment, titre tracking or monitoring response, the quantitative fluorescence test is the better tool."}]

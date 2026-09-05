@@ -1,7 +1,7 @@
 ---
 title: "10 Questions to Ask Before Choosing a Pet Test Kit Supplier"
 slug: "questions-to-ask-pet-test-kit-supplier"
-description: "The ten questions every buyer should ask before choosing a veterinary test kit supplier — performance data, certifications, batch traceability, lead times, OEM capability, and the red flags that signal trouble."
+description: "Ten questions every buyer should ask before choosing a test kit supplier — performance data, certifications, traceability, lead times, OEM and red flags."
 pubDate: "2026-08"
 category: "blog"
 faq: [{"q": "What is the most important question to ask a test kit supplier?", "a": "Ask for the analytical performance data — sensitivity (detection limit) and precision (CV%). A supplier that won't share CV% and detection limits is the biggest red flag, because performance is either real and documented, or it's marketing."}, {"q": "How do I check a supplier's certifications are real?", "a": "Ask for the certificate number and the exact scope, then verify with the issuing body. A certificate that doesn't cover the specific products you're buying — or an expired one — is common. Check ISO 9001/13485 and CE scope carefully."}, {"q": "What is a red flag when choosing a supplier?", "a": "Red flags include: refusing to share performance data, vague lead times, no batch traceability, unstable pricing, cold-chain requirements that complicate your logistics, and poor communication after the first inquiry. Any of these predicts problems after the sale."}, {"q": "Should I ask about OEM/private label before I need it?", "a": "Yes. Even if you plan to resell under the manufacturer's brand initially, confirm the factory can do private label later. Switching factories to get OEM capability mid-stream is disruptive and expensive."}]
@@ -117,6 +117,12 @@ A supplier that answers all ten cleanly is rare and worth a relationship. Most w
 
 ---
 
+## Application & Commercial Angle
+
+Who should care: distributors, importers, clinic groups and private-label brands qualifying a supplier. The buyer perspective is process verification, not sales promises.
+
+The practical worth is avoiding supplier risk — ask for performance data, certifications, batch traceability, lead times and OEM capability before committing volume. Pricing should be quoted against volume, region and OEM terms.
+
 ## Key Takeaways
 
 1. The most important question is **"will you share your analytical performance data?"** — hesitation is disqualifying.
@@ -132,7 +138,7 @@ A supplier that answers all ten cleanly is rare and worth a relationship. Most w
 - ISO 13485 — Medical devices QMS: https://www.iso.org/iso-13485-medical-devices.html
 - EU IVDR — Regulation (EU) 2017/746: https://health.ec.europa.eu/medical-devices-sector_en
 
-*This article is for professional buyers conducting supplier due diligence.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Pancreatitis Tests for Dogs and Cats: cPL, fPL and Reading the Grey Zone"
+title: "cPL and fPL Pancreatitis Tests: Reading the Grey Zone"
 slug: "canine-cpl-feline-fpl-pancreatitis-testing"
-description: "Pancreatitis hides behind vague signs — vomiting, inappetence, just not right. cPL (>400 µg/L in dogs) and fPL (≥5.4 µg/L in cats) catch it specifically. Here are the cut-offs, the grey zone, and why a 10–20 minute number beats the old markers."
+description: "cPL (>400 µg/L in dogs) and fPL (≥5.4 µg/L in cats) catch pancreatitis behind vague signs. Here are the cut-offs and the grey zone."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"

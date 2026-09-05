@@ -1,7 +1,7 @@
 ---
 title: "CRP and SAA: Grading Inflammation in Dogs and Cats"
 slug: "canine-crp-feline-saa-inflammation-testing"
-description: "A guide to C-reactive protein (CRP) and serum amyloid A (SAA) testing in dogs and cats: reference ranges, how to grade inflammation, why serial monitoring beats single values, and how quantitative testing improves treatment decisions."
+description: "A guide to CRP (dogs) and SAA (cats): reference ranges, grading inflammation, and why serial monitoring beats single values."
 pubDate: "2026-08"
 author: "Dr. Tang"
 dateModified: "2026-08-29"
@@ -123,6 +123,12 @@ CRP and SAA run from serum or plasma on a quantitative immunofluorescence analyz
 
 ---
 
+## Application & Commercial Angle
+
+Who should care: any small-animal clinic that sees fever-of-unknown-origin, post-op, or treatment-response cases. CRP (dogs) and SAA (cats) turn a vague "still not right" visit into a same-visit inflammatory readout that can be billed as part of the diagnostic panel.
+
+The commercial value is the monitoring relationship: serial draws for treatment response and complication surveillance create return visits, and the quantitative number justifies the analyzer purchase because a qualitative strip cannot trend the marker.
+
 ## Key Takeaways
 
 1. CRP (dog) and SAA (cat) are **fast, species-specific acute-phase proteins** — up in hours, down in hours.
@@ -138,7 +144,7 @@ CRP and SAA run from serum or plasma on a quantitative immunofluorescence analyz
 - Cornell University — Canine C-Reactive Protein protocol: https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/protocols/canine-c-reactive-protein
 - Cerón JJ, et al. Acute-phase proteins in dogs and cats. *Vet Clin Pathol.* 2005;34(2):85–99. PMID 15902658
 
-*This article is for veterinary professional education. Reference ranges vary by assay — always use your analyzer's validated intervals and interpret results alongside clinical findings.*
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any animal with suspected disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
 
 ---
 - [Cornell eClinPath — Adrenal Function](https://eclinpath.com/chemistry/adrenal-gland/adrenal-function-testing/)
