@@ -15,6 +15,21 @@ const latestPosts = posts
   .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
   .slice(0, 6);
 
+const featuredItemList = [
+  ...analyzers.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.data.title,
+    url: `https://migibio.net/equipment/${p.data.slug}`,
+  })),
+  ...reagents.slice(0, 6).map((p, i) => ({
+    '@type': 'ListItem',
+    position: analyzers.length + i + 1,
+    name: p.data.title,
+    url: `https://migibio.net/reagents/${p.data.slug}`,
+  })),
+];
+
 const siteSchema = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -62,6 +77,13 @@ const siteSchema = {
       name: 'Migibio',
       publisher: { '@id': 'https://migibio.net/#organization' },
       inLanguage: 'en',
+    },
+    {
+      '@type': 'ItemList',
+      '@id': 'https://migibio.net/#products',
+      name: 'Migibio Veterinary Diagnostic Products',
+      numberOfItems: featuredItemList.length,
+      itemListElement: featuredItemList,
     },
   ],
 };
