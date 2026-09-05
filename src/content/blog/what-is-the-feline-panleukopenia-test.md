@@ -1,142 +1,141 @@
 ---
-title: "What is the Feline Panleukopenia Test?"
+title: "Feline Panleukopenia Testing: The Cat Parvovirus, Its 90% Untreated Mortality, and How Fast Testing Saves Kittens"
 slug: "what-is-the-feline-panleukopenia-test"
-description: "The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline"
-pubDate: "2024-09"
+description: "Feline panleukopenia (FPV) is the ancestor of canine parvovirus, and it kills 90–100% of untreated kittens — but 85% survive with fast supportive care. Here's antigen vs antibody testing, and why shelter outbreaks hinge on a 10-minute result."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "What is feline panleukopenia?", "a": "Feline panleukopenia (FPV, also called feline distemper) is a highly contagious, often fatal parvovirus of cats that destroys white blood cells and damages the intestinal lining, causing severe vomiting, diarrhoea, and immune suppression, especially in kittens."}, {"q": "How is FPV detected?", "a": "FPV is detected by antigen testing on a faecal or rectal swab, since the virus is shed in faeces. Quantitative fluorescence testing reports viral load, while antibody testing is used separately to confirm vaccination status."}, {"q": "Antigen or antibody testing for panleukopenia?", "a": "Use antigen testing when a cat is actively ill, to confirm current infection and guide isolation. Use antibody testing in serum/plasma to verify vaccine protection or assess exposure in apparently healthy cats."}]
+faq: [{"q": "What is feline panleukopenia?", "a": "Feline panleukopenia (FPV, also called feline distemper) is a highly contagious parvovirus of cats — the ancestor of canine parvovirus. It destroys white blood cells and the intestinal lining, causing severe vomiting, diarrhoea and immune suppression, and is especially deadly in kittens."}, {"q": "How is FPV detected?", "a": "By antigen testing on a faecal or rectal swab, since the virus is shed in faeces. A quantitative fluorescence test reports viral load rather than a simple positive/negative. Antibody testing on blood answers a different question — whether the cat is protected by vaccination or past exposure."}, {"q": "What is the survival rate for feline panleukopenia?", "a": "Untreated mortality is 90–100%, especially in young kittens. With prompt, aggressive supportive care, survival flips dramatically — one shelter study of 55 treated cats reported 85.5% survival. Speed of diagnosis is the single biggest factor."}, {"q": "Antigen or antibody testing for panleukopenia?", "a": "Use antigen testing when a cat is actively ill — it confirms current infection and guides isolation. Use antibody testing in a healthy cat to verify vaccine protection or assess exposure. They answer different questions."}, {"q": "Why do outbreaks hit shelters so hard?", "a": "FPV survives for months to years in the environment and sheds in enormous quantities, and shelters concentrate unvaccinated or incompletely vaccinated cats. A single undetected case can contaminate a whole facility, which is why intake antigen screening is standard."}, {"q": "How long does the virus survive in the environment?", "a": "Like canine parvovirus, FPV is extremely hardy — it survives for months to years on surfaces and requires a parvovirus-effective disinfectant (bleach or accelerated hydrogen peroxide), not generic cleaners."}]
 ---
 
-The feline panleukopenia test is an important diagnostic tool for veterinarians to detect the feline panleukopenia virus, also known as feline distemper. Feline panleukopenia is a highly contagious and potentially deadly disease that can affect all domestic and wild felines. While vaccination is the best form of prevention, testing allows veterinarians to diagnose infected cats and provide proper treatment plans to aid their recovery (Hartmann, 2020).
+# Feline Panleukopenia Testing: The Cat Parvovirus, Its 90% Untreated Mortality, and How Fast Testing Saves Kittens
 
+> **TL;DR** — Feline panleukopenia (FPV) is the ancestor of canine parvovirus, and it's every bit as deadly: **90–100% of untreated kittens die**, but with prompt supportive care survival flips to **~85%** — one shelter study of 55 treated cats reported 85.5% survival. The gap between those two numbers is speed of diagnosis. Antigen testing (on faeces) confirms active infection; antibody testing (on blood) checks protection. And because FPV survives for months to years in the environment, a fast intake test is the difference between one sick cat and a shelter-wide outbreak.
 
-## Why Should We Do the Test?
+Feline panleukopenia — "feline distemper," or just "panleuk" to shelter staff — is the disease that scares shelters more than almost any other, and for good reason. It's highly contagious, extraordinarily hardy, and lethal to the animals least able to fight it. This guide is for the people who face it: the owner with a suddenly listless kitten, and the shelter or cattery operator deciding whether a 10-minute intake test is worth it.
 
+---
 
-There are several reasons for pet owners to have their cats tested for feline panleukopenia. The disease poses serious health risks if left untreated, as the virus attacks rapidly dividing cells in    the cat’s body, most severely affecting the gastrointestinal tract. This can lead to vomiting, diarrhoea and lowered white blood cell count, leaving cats vulnerable to other infections. Without treatment, the virus is often fatal.
+## The Cat Parvovirus
 
-Testing allows for early diagnosis and administration of supportive treatments like fluid therapy and medication. This gives infected cats a much better chance of overcoming the disease. It    also helps curb the spread of the contagious virus, protecting other susceptible felines. By determining which cats have been exposed, veterinarians can isolate infected animals and provide boosters to those at risk. This plays a crucial role in disease control and prevention within catteries, animal shelters, and multi-cat households (Litster, 2014).
+If panleukopenia feels familiar, it's because you already know its descendant. **FPV is the ancestor of canine parvovirus (CPV)** — the same virus family, the same attack pattern, and the same environmental toughness.
 
+The virus targets rapidly dividing cells, so it hits two places hardest:
 
-## How Much Does It Cost?
+- **Bone marrow** — wiping out white blood cells. That's where the name comes from: *pan-leukopenia* means "all white blood cells low." The cat is left with almost no immune defense.
+- **Intestinal lining** — causing the severe vomiting and diarrhoea that define the disease.
 
+The result is a cat that's both vomiting and defenceless against secondary infection. Kittens — especially under 8 weeks, before maternal antibodies and vaccines have had time to protect them — are the most vulnerable, and the highest mortality sits there.
 
-The cost of feline panleukopenia testing ranges between $50 to $100 on average. However, prices may vary depending on the diagnostic method used by the veterinary clinic. Common tests available include:
+---
 
-●    ELISA (Enzyme-Linked Immunosorbent Assay) test: This blood test checks for antibodies against the virus. It is affordable at around $50-60 per sample.
+## The Mortality Numbers: Why Speed Is the Whole Game
 
-●    FA (Fluorescent Antibody) test: This detects viral antigens in faecal or tissue samples under a fluorescent microscope. It is more expensive at about $80-100 per test.
+Here are the numbers that make panleukopenia a "test now" disease rather than a "watch and wait" one:
 
-●    PCR (Polymerase Chain Reaction) test: Considered the most accurate method, PCR detects viral DNA. While highly sensitive and specific, it is also the costliest diagnostic   option ranging from $90-120 per sample.
+| Scenario | Outcome |
+|---|---|
+| Untreated (or diagnosed too late) | **90–100% mortality** — especially in young kittens |
+| Prompt, aggressive supportive care | **~85% survival** (85.5% in one 55-cat shelter study) |
 
+That's a near-total reversal driven almost entirely by *how fast* the diagnosis lands and treatment starts. The treatment itself isn't exotic — fluids, anti-nausea medication, antibiotics for secondary infection — but it only works if it starts before the cat is in irreversible shock.
 
-## How Often Do We Need to Do the Test?
+Two things about the virus make the "test early" logic unavoidable:
 
+- **It sheds in enormous quantities** in faeces, so one undiagnosed kitten contaminates an entire kennel or cattery in days.
+- **It survives for months to years** in the environment, on floors, bowls, bedding and hands. Bleach (diluted ~1:30) or accelerated hydrogen peroxide is required; most household disinfectants don't touch it.
 
-There is no set schedule for panleukopenia testing as the need varies based on individual risk factors. However, here are some general guidelines:
+This is why, in a shelter, panleukopenia is a logistics problem as much as a medical one.
 
-●    Kittens being boarded or admitted to a shelter/cattery: Test upon intake and at least once every 6 months.
+---
 
-●   Adult cats in homes with multiple indoor/outdoor pets: Test annually or if showing any gastrointestinal symptoms.
+## Antigen vs. Antibody: Two Different Questions
 
-●    Breeding catteries and veterinary hospitals with frequent cat admissions: Test all new additions and monitor antibody titers every 6-12 months.
+The same split that applies to CPV applies to FPV, and mixing them up is the most common testing mistake:
 
-●   Cats that have been in contact with an infected animal: Test 2-4 weeks after exposure for screening.
+| Test | Question it answers | Sample | Result means |
+|---|---|---|---|
+| **Antigen** (FPV-Ag) | "Is the virus here *right now*?" | Faeces / rectal swab | Active infection |
+| **Antibody** (FPV-Ab) | "Is the cat *protected*?" | Blood (serum/plasma) | Immunity from vaccine or exposure |
 
-●    Low-risk indoor lone cats: Testing may not be needed routinely but discussed with the vet during annual wellness visits.
+Use the **antigen test** to diagnose a sick cat and to screen new intakes before they enter shared space. Use the **antibody test** to confirm a kitten's vaccine series took, or to check whether an adult cat needs a booster.
 
-The frequency of repeat testing is determined by the cat’s lifestyle, health status, and exposure risks. Owners must consult their vet who may advise more frequent monitoring depending on the situation.
+One point that matters for interpretation: because panleukopenia and canine parvovirus are so closely related, **canine parvo antigen tests are sometimes used off-label on cats** in shelters. The feline-specific FPV antigen test is the correct tool, but the cross-reactivity is real and is worth knowing about if you're ever reading results from a mixed setting.
 
+---
 
-## What Specifications Are We Looking For?
+## Why Outbreaks Hit Shelters So Hard
 
+Shelters are ground zero for panleukopenia for two reasons that compound each other:
 
-In feline panleukopenia testing, veterinarians look for certain parameters that help establish an accurate diagnosis:
+1. **Unvaccinated or incompletely vaccinated cats are concentrated in one place.** Panleukopenia vaccine is one of the most effective vaccines in existence, so the disease is now rare in well-vaccinated pet cats — but shelters constantly receive kittens and strays whose vaccine status is unknown.
+2. **The virus is everywhere and lasts forever.** In a facility, FPV isn't just in the sick cat — it's on every surface that cat touched, and it will still be there months later if not properly disinfected.
 
-●    ELISA tests detect antibodies against the feline panleukopenia virus. A positive antibody result indicates prior exposure to the virus.
+The consequence is that **intake screening isn't optional in a shelter** — it's the single highest-value test in the building. A 3–11 minute antigen result lets you isolate a shedding cat *before* the first shared kennel run, which is the difference between one case and a facility-wide shutdown.
 
-●    FA and PCR tests detect viral antigens or genetic material. A positive result confirms an active infection.
+---
 
-●   Titer levels are measured in ELISA. A rising titer over time suggests recent infection, while stable high titers indicate immunity.
+## What to Stock
 
-●   Signs of leucopenia or low white cell count in bloodwork support panleukopenia infection along with testing.
+For a clinic, shelter or distributor building out panleukopenia capability, the relevant Migibio items are:
 
-●    Presence of viral particles in faecal samples observed under a fluorescent microscope.
+| Product | Cat. No. | Role |
+|---|---|---|
+| FPV Antigen (FPV-Ag) rapid quantitative test | MG-CA-R006 | Diagnose active infection |
+| FPV Antibody (FPV-Ab) rapid quantitative test | MG-CA-R011 | Verify immunity / vaccine response |
+| FPV/FHV/FCV Antibody triple panel | MG-CA-R033 | Combined immunity screen |
 
-●    PCR checks the viral shedding period by detecting genetic material shed in faeces.
+All run on the same fluorescence analyzer — the single-channel FIA680 or the six-channel FIA880 — and report a quantitative viral load or titre rather than a yes/no line. Reagents are 10-test boxes with room-temperature storage and a 2-year shelf life.
 
-Combining testing methods aids diagnosis. Clinical history and symptoms are also evaluated. Having a clear understanding of normal and abnormal test values helps veterinarians determine infection status, advise treatment, isolate contagious cats, and assess response to vaccination   (Hartmann, 2020).
+A note on pricing, deliberately: Migibio is a manufacturer and these kits are sold **B2B** — to clinics, distributors, shelters and importers — with pricing quoted against volume, region and OEM terms. We don't publish a fixed per-box retail price for the same reason your clinic's supplier doesn't put one on a public page: the number that matters is the per-test landed cost at your order size, and that's a quote, not a list price. If you're a breeder or owner testing a single cat, the practical route is through your veterinarian.
 
+---
 
-## What Do We Need to Use for Testing?
+## FAQ
 
+### What is feline panleukopenia?
 
-The main equipment and supplies required for performing the feline panleukopenia test are:
+A highly contagious parvovirus of cats — the ancestor of canine parvovirus. It destroys white blood cells and the intestinal lining, causing severe vomiting, diarrhoea and immune suppression, and is deadliest in kittens.
 
-●   Testing kits: Panleukopenia antigen/antibody kits containing all required reagents and components for the specific diagnostic assay.
+### How is FPV detected?
 
-●    Pipettes: Adjustable volume pipettes for sample dilution and reagent addition.
+By antigen testing on a faecal or rectal swab (virus is shed in faeces). Quantitative fluorescence testing reports viral load. Antibody testing on blood answers the separate question of protection.
 
-●   Centrifuge: Benchtop centrifuges like Magic’s D1008E for sample processing.
+### What's the survival rate?
 
-●   Swabs: Nasal/oral swabs for collecting faecal or lesion samples if antigen testing.
+Untreated mortality is 90–100%, especially in kittens. With prompt supportive care, survival flips to ~85% — one shelter study reported 85.5% survival in 55 treated cats. Speed is the biggest factor.
 
-●    Disposables: Tips, tubes, and gloves for processing multiple samples safely.
+### Antigen or antibody testing?
 
-●   Controls: Positive and negative controls are included in kits for test validation.
+Antigen testing for a sick cat — it confirms current infection and guides isolation. Antibody testing for a healthy cat — it verifies vaccine protection. They answer different questions.
 
-●   Software: Install the AnalyzerControl app for seamless instrument operation on Android tablets.
+### Why do shelters have so many outbreaks?
 
+FPV survives months to years in the environment and concentrates in unvaccinated intakes. Intake antigen screening is what prevents one case from becoming a facility-wide outbreak.
 
-## Do the Kits Come with an Analyzer?
+### How long does the virus survive?
 
+Months to years, like canine parvovirus. It requires a parvovirus-effective disinfectant (bleach or accelerated hydrogen peroxide), not generic cleaners.
 
-No, immunofluorescence test kits for detecting feline panleukopenia and other pathogens are sold separately from the analyzer equipment. Here are more details:
+---
 
-●    Panleukopenia antigen/antibody kits by Magic Biotech contain 10 tests and cost around $55-65 per box without the analyzer.
+## Key Takeaways
 
-●   A basic single-channel FIA680Vet analyzer from Magic sells for $1000. It can run 1 test at a time in 11 minutes.
+1. **FPV is the ancestor of canine parvovirus** — same family, same attack pattern, same environmental toughness.
+2. **Untreated mortality is 90–100%**, but prompt supportive care achieves ~85% survival — speed of diagnosis is the whole game.
+3. **Antigen = active infection, antibody = protection** — two tests, two questions.
+4. **It survives months to years in the environment** — intake screening is what prevents shelter-wide outbreaks.
+5. **Vaccination is highly effective** — the disease is now concentrated in unvaccinated and shelter populations.
+6. **B2B pricing is quoted, not listed** — per-test landed cost depends on volume and terms.
 
-●    Premium 6-channel FIA880Vet machine is priced at $1500. It processes 6 samples simultaneously at the same time.
-
-●   Additional accessories like digital pipettes and centrifuge start from $30 separately.
-
-Purchasing individual components provides flexibility. Customers can try out low volumes of specific pathogen kits first before investing in the analyzer. Some veterinary labs may already own a compatible machine too.
-
-
-## How Much Does the Machine Cost? Are There Any Discounts?
-
-
-As mentioned earlier, Guangzhou Magic’s veterinary immunofluorescence analyzers are affordably priced as follows:
-
-●    FIA680Vet single-channel analyzer: $1000
-
-●    FIA880Vet 6-channel analyzer: $1500
-
-These benchtop automated machines have excellent build quality, high throughput testing capabilities, and multi-year warranty support.
-
-Some discount offers provided by Magic Biotech on the analyzers include:
-
-●    15% off when purchasing 3 or more FIA680/880 units for clinics/laboratories.
-
-●   A 10% bundle discount applies if an order includes an analyzer plus 15+ testing kits or accessory packages.
-
-●    For veterinary students or new graduate vets, a 5% educational discount is available.
-
-●   Volume purchase programs for governmental agencies and NGOs offer discounted pricing on large orders.
-
-●   0% financing options through lending partners for 6-12 month instalment payments.
-
-●    Free standard shipping on international analyzer orders above $2000.
-
-These incentives help customers maximize savings while equipping their practices. The easy EMI payment schemes ensure affordable access to high-quality immunofluorescence testing  technology.
-
+---
 
 ## References
 
+- Charleston Animal Society / Journal of Shelter Medicine. "Treatment and outcomes of sheltered cats with FPV." — 85.5% survival in 55 treated cats.
+- EveryCat Health Foundation. "Survival and outcomes in shelter cats with FPV." — 177-cat outbreak study, prognostic factors.
+- Hartmann K. "Feline panleukopenia." *Vet Clin North Am Small Anim Pract.* 2020;50(5):1097–1110.
+- Litster A. "Transmission and control of feline panleukopenia virus in shelter settings." *J Feline Med Surg.* 2014;16(5):409–419.
 
-Greene, C. E. (2012). Infectious Diseases of the Dog and Cat (4th ed.). Elsevier.
+---
 
-Hartmann, K. (2020). Feline panleukopenia. Veterinary Clinics of North America: Small Animal Practice, 50(5), 1097-1110.
-
-Litster, A. (2014). Transmission and control of feline panleukopenia virus in shelter settings and beyond. Journal of Feline Medicine and Surgery, 16(5), 409-419.
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — a cat with suspected panleukopenia needs immediate veterinary care. Test results must be interpreted alongside clinical findings. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change; confirm with a sales representative before ordering.*
