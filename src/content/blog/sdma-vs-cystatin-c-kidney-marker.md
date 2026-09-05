@@ -146,11 +146,11 @@ For the owner, the pitch is simple: a blood test that can catch kidney disease a
 
 ### What's the difference between SDMA and cystatin C?
 
-Both rise early and ignore muscle mass, but SDMA (0–14 µg/dL) is the IRIS staging standard with a universal reference range, while cystatin C (~0.5–1.2 mg/L dog, 0.6–1.8 mg/L cat) is assay-dependent and best used as an independent confirmatory marker.
+SDMA (0–14 µg/dL) is the IRIS staging standard with one universal reference range; cystatin C (~0.5–1.2 mg/L dog, 0.6–1.8 mg/L cat) varies by assay. The point isn't which is "better" — it's that using both is what prevents a single marker's confounders from producing a wrong kidney diagnosis.
 
 ### Why does creatinine miss early kidney disease?
 
-It only rises after 60–75% of function is lost and is affected by muscle mass. SDMA and cystatin C rise at 25–40% loss, catching decline a year or more earlier.
+Because it stays "normal" until 60–75% of function is gone — and muscle mass skews it, so a wasted senior cat can have failing kidneys and a reassuring creatinine. SDMA and cystatin C flag the decline at 25–40% loss, a year or more earlier.
 
 ### Is the 14 µg/dL SDMA cut-off trustworthy?
 
@@ -172,11 +172,11 @@ Yes — it's a billable senior-panel add that produces a same-visit result, conv
 
 ## Key Takeaways
 
-1. **Creatinine is late and muscle-mass dependent** — it misses early CKD and hides in cachectic patients.
-2. **SDMA and cystatin C catch decline at 25–40% loss** — often a year or more before creatinine moves.
-3. **The 14 µg/dL SDMA cut-off isn't clean** — independent testing found ~50% false positives in non-azotemic dogs; 18 µg/dL was more accurate. Read the trend, not one value.
-4. **SDMA is first-line, cystatin C confirms** — two markers, different confounders, one confident answer.
-5. **Early screening is a strong clinic ROI** — a billable senior-panel add that converts a late-stage emergency into a managed long-term patient.
+1. **Creatinine waits for 60–75% kidney loss; SDMA fires at 25–40%** — that ~35-point gap is the difference between catching CKD a year early and diagnosing it at failure.
+2. **The 14 µg/dL cut-off is softer than marketed** — it flags ~50% of healthy non-azotemic dogs as "early CKD" (McKenna 2020); 18 µg/dL is more accurate at 90% sensitivity / 83% specificity. This is the number the reference-lab marketing won't lead with.
+3. **Cystatin C (0.5–1.2 mg/L dog, 0.6–1.8 mg/L cat) isn't a backup — it's a second opinion** — two markers with different confounders are what stop a healthy dog from being labelled kidney-diseased off one borderline value.
+4. **One elevated SDMA is a re-check signal, not a diagnosis** — the trend across serial readings is the actual result; a single 15–17 µg/dL means "test again," not "kidney disease."
+5. **The ROI isn't the screening fee — it's the conversion** — catch CKD at 25–40% loss instead of 60–75%, and one patient becomes years of diet + monitoring visits instead of one low-margin crash admission.
 
 ---
 

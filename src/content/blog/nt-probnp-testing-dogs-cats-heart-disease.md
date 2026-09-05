@@ -140,7 +140,7 @@ Because the result is quantitative, you can store it, compare it to the referenc
 
 ### What is NT-proBNP?
 
-A peptide released when heart muscle stretches under pressure or volume overload. Low means the heart isn't under significant load; high means it's straining — making it a useful marker for heart disease and heart failure.
+A peptide the heart releases when its muscle stretches under load — low means "not straining," high means "working too hard." It's a load marker, not a heart-failure test: a high value raises suspicion, it does not confirm failure.
 
 ### Can NT-proBNP tell heart failure from a breathing problem?
 
@@ -152,7 +152,7 @@ Because the number is platform- and population-dependent. One system uses ~900/1
 
 ### Does kidney disease affect NT-proBNP?
 
-Yes — it's cleared by the kidneys, so azotemic cats (especially with CKD) can have falsely elevated values. Always read it alongside creatinine and SDMA.
+Yes, and this is the classic false-positive trap: NT-proBNP is cleared by the kidneys, so an azotemic cat — especially with CKD — can read high without heart disease. Read it with creatinine/SDMA, or you'll chase a cardiac diagnosis that isn't there.
 
 ### Does NT-proBNP replace an echocardiogram?
 
@@ -166,11 +166,11 @@ About 10–20 minutes on a quantitative immunofluorescence analyzer like the FIA
 
 ## Key Takeaways
 
-1. **NT-proBNP is a cardiac-stress marker** — high means the heart is working under load, not necessarily that failure is present.
-2. **Its killer app is triage** — separating cardiac from respiratory causes in the coughing dog and the dyspneic cat.
-3. **Cut-offs are not portable** — ~900 vs ~445 pmol/L for dogs is a 2x spread across platforms; use your analyzer's validated interval.
-4. **NT-proBNP screens and monitors; echo characterizes** — partners, not rivals.
-5. **Serial trends are the signal** — a value climbing despite treatment is a red flag; a stable grey-zone value in a stable patient is reassurance.
+1. **NT-proBNP is a load signal, not a diagnosis** — a dog >900 pmol/L (cat >270) is "straining," not automatically "failing." Confusing the two is how you start cardiac therapy on a wrong guess.
+2. **Its killer app is triage** — one number separates the coughing dog's heart from its airway, and the dyspneic cat's failure from its asthma, in 10–20 minutes.
+3. **Cut-offs are not portable — that's the trap** — ~900 vs ~445 pmol/L for dogs is a 2x spread across platforms. A number memorised from one analyzer is meaningless on another; only your kit's validated interval counts.
+4. **The trend beats the value** — a grey-zone 1,200 pmol/L that's stable is reassurance; the same value climbing despite treatment is a red flag.
+5. **Always read it with kidney markers** — NT-proBNP is cleared by the kidneys, so an azotemic cat reads falsely high. Skip the SDMA (0–14 µg/dL) / creatinine pairing and you'll misdiagnose heart disease in a kidney patient.
 
 ---
 
