@@ -1,86 +1,148 @@
 ---
-title: "Does My Cat Need a Feline Herpes (FHV-1) Test?"
+title: "Feline Herpes (FHV-1) in Cats: Why It Keeps Coming Back, and What Testing Actually Shows"
 slug: "does-my-cat-should-do-the-feline-herpes-test"
-description: "Feline herpesvirus-1 (FHV-1), also known as feline viral rhinotracheitis (FVR) is a very common virus that infects cats. It can cause a range of symptoms from m"
-pubDate: "2024-09"
+description: "Feline herpesvirus (FHV-1) infects most cats and then stays for life — hiding in nerve tissue and flaring up under stress. It does not infect humans. Here's what antigen vs antibody testing shows, and why the sneezing keeps returning."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "How common is feline herpesvirus (FHV-1)?", "a": "FHV-1 is extremely common — most cats are exposed during their lifetime, and the virus establishes lifelong latency. It is a leading cause of feline upper respiratory disease and recurrent conjunctivitis, particularly in kittens, shelters, and stressed cats."}, {"q": "What symptoms suggest an FHV-1 test is needed?", "a": "Sneezing, nasal and ocular discharge, conjunctivitis, corneal ulcers, and recurrent respiratory flare-ups all warrant FHV-1 testing. Testing helps confirm the virus as the cause and distinguishes it from FCV and other respiratory pathogens."}, {"q": "How is FHV-1 diagnosed?", "a": "FHV-1 is detected by antigen testing on nasopharyngeal or ocular swabs during active shedding, or by antibody testing in serum/plasma to assess immune status. Quantitative fluorescence testing provides objective concentration values to guide management."}]
+faq: [{"q": "How common is feline herpesvirus?", "a": "Extremely common — most cats are exposed during their lifetime, and once infected they carry the virus for life. It's a leading cause of feline upper-respiratory disease and recurrent conjunctivitis, especially in kittens, shelters and stressed cats."}, {"q": "Can feline herpes infect humans?", "a": "No. FHV-1 is a cat-specific virus and cannot infect people. The real concern is transmission to other cats — through close contact, shared bowls and grooming — not to your family."}, {"q": "Why does my cat's sneezing keep coming back?", "a": "Because FHV-1 goes latent. After the first infection, the virus hides in nerve tissue for life and reactivates under stress — boarding, moving, illness, a new pet. That reactivation is why the same cat gets the same flare-ups repeatedly."}, {"q": "How is FHV-1 diagnosed?", "a": "By antigen or PCR testing on an ocular, nasal or throat swab during active shedding — this confirms active infection. Antibody testing on blood reflects exposure history and cannot distinguish latent infection from active disease."}, {"q": "Does a negative test rule out herpes?", "a": "Not entirely. A negative antigen test means the cat isn't shedding at that moment — but a latently infected cat tests negative between flare-ups. Testing is most meaningful during active clinical signs."}, {"q": "Is there a cure for feline herpes?", "a": "No — once infected, a cat carries the virus for life. Treatment (decided by a veterinarian) manages acute flare-ups and reduces shedding, and vaccination reduces the severity of future outbreaks, but the virus itself stays."}]
 ---
 
-Feline herpesvirus-1 (FHV-1), also known as feline viral rhinotracheitis (FVR) is a very common virus that infects cats. It can cause a range of symptoms from mild to severe. As the virus is highly contagious, it is important for cat owners to understand the virus and how it spreads. This article will discuss whether your cat needs testing for FHV-1 and how to prevent and manage the infection.
+# Feline Herpes (FHV-1) in Cats: Why It Keeps Coming Back, and What Testing Actually Shows
 
+> **TL;DR** — Feline herpesvirus (FHV-1) infects most cats, then stays for life: it hides in nerve tissue and flares up whenever the cat is stressed. That's why the same cat gets the same sneezing and eye problems over and over. Two things worth being clear on: **FHV-1 does not infect humans**, and testing splits into two questions — antigen/PCR confirms *active* infection, while antibody testing only shows *exposure* (and can't tell a latent carrier from an actively shedding cat).
 
-## What is FHV?
+If your cat sneezes and gets watery eyes on a recurring loop — every time you board her, every time there's a new pet, every time anything stressful happens — feline herpesvirus is the usual suspect. This guide explains what the virus is, why it never really goes away, and what a test can and can't tell you.
 
+---
 
-Feline herpesvirus-1 is a double-stranded DNA virus from the Herpesviridae family. It is very similar to human herpesviruses that cause cold sores and genital herpes. FHV-1 infects the upper respiratory tract of cats. While most cats will recover from primary infection, the virus remains dormant in nerves for life and can reactivate intermittently (Gaskell et al., 2007).
+## The Virus That Never Leaves
 
+Feline herpesvirus-1 (FHV-1, also called feline viral rhinotracheitis) is a DNA virus from the same family as the human herpesviruses that cause cold sores — but it's a **cat-specific** virus.
 
-## What are the Symptoms if your cat is infected with herpes?
+The defining feature of FHV-1 is what happens *after* the first infection:
 
+1. A cat catches it, usually as a kitten, and gets an upper-respiratory illness — sneezing, nasal discharge, conjunctivitis.
+2. The cat recovers, but the virus **doesn't**.
+3. FHV-1 goes latent, hiding in the trigeminal nerve, for the rest of the cat's life.
 
-Common symptoms of acute FHV-1 infection include sneezing, nasal discharge, fever, eye infections and lack of appetite. Untreated, it can sometimes lead to pneumonia. Stress is a major trigger for viral reactivation which then causes recurrent signs of nasal discharge and eye infections. Some cats may not show any clinical signs at all despite infection.
+That latency is the whole story. The virus is never eliminated — it's only suppressed, waiting.
 
+---
 
-## What causes this to happen? How are cats infected by herpesvirus?
+## Why the Sneezing Keeps Coming Back
 
+Latency is why "she gets over it, then it comes back" is the classic herpes presentation. When a latently infected cat is stressed, the virus reactivates and the cat starts shedding again — with the same sneezing, runny eyes and nose as the first time, often milder but always familiar.
 
-The FHV-1 virus spreads through direct contact - cats sharing food/water bowls and being groomed or played with. Queens can transmit the virus to kittens during birth. Stressful situations like boarding at a cattery or a veterinary clinic are common causes of viral reactivation in latently infected cats. The virus sheds from the eyes, nose, or skin lesions and is very stable in the environment for long periods (Thiry et al., 2009).
+The common reactivation triggers:
 
+- **Boarding or cattery stays** — the classic one.
+- **Moving house, a new pet, or a new baby.**
+- **Illness, surgery, or immunosuppression.**
+- **Even routine changes** in a sensitive cat.
 
-## Is Feline Herpes contagious?
+This is the practical difference between FHV-1 and a one-off cold: **the cat isn't getting re-infected each time — the same virus is resurfacing.** Which is exactly why a single negative test during a quiet period means little, and why the question "is my cat infected?" is usually answered by the history alone.
 
+---
 
-Yes, FHV-1 is highly contagious. Both acute infection and viral shedding during reactivation can spread the virus. Once a cat is latently infected, it will remain a carrier for life and pose a risk to other susceptible cats. Even indoor cats that do not go outside can transmit the virus if in contact with an infected cat. Stressful events predispose infected cats to shedding virus even if they are not displaying clinical signs.
+## It Does Not Infect Humans
 
+Let's settle this directly, because it causes needless worry:
 
-## Is my family at risk?
+**FHV-1 is a cat-specific virus and cannot infect people.** There is no risk to you or your family from a cat with feline herpes — not through handling, not through scratches, not through anything. The "risk to humans" you sometimes read about is a confusion with other conditions; herpesvirus-1 of cats is not a zoonosis.
 
+The only transmission concern is **cat-to-cat**:
 
-While FHV-1 specifically infects cats, there is a theoretical risk of transmission between cats and humans via bites or scratches during viral shedding. However, documented infections of people are extremely rare. The main risk is to other cats that a latently infected cat may come in contact with. Proper hygiene and disinfection can minimize zoonotic risk (Gaskell et al., 2007).
+- **Close contact** — mutual grooming, shared food and water bowls, shared litter.
+- **Mother to kittens** — queens can pass it during birth or nursing.
+- **Respiratory secretions** — sneezing and nasal/eye discharge carry the virus.
 
+So the isolation question is about protecting *other cats*, never about protecting *people*.
 
-## Can our kits test the virus?
+---
 
+## What Testing Actually Shows
 
-Yes, our veterinary veterinary immunofluorescence quantitative analyzer FIA680/880 Vet can test for FHV-1 using the Feline Herpes Virus Antigen (FHV-Ag) test kit. A swab sample collected from the eyes, nose or throat is tested for the presence of FHV-1 antigen. A positive test confirms acute infection while a negative result does not rule out latent infection.
+FHV-1 testing splits into the same two questions as the rest of feline virology:
 
+| Test | Question it answers | What it tells you |
+|---|---|---|
+| **Antigen / PCR** (ocular, nasal or throat swab) | "Is the cat shedding virus *right now*?" | Active infection — useful during clinical signs |
+| **Antibody** (serum) | "Has the cat been *exposed*?" | Exposure history only — can't distinguish latent from active |
 
-## Can you testing FHV at home?and how?
+The critical limitation, and the reason to interpret carefully:
 
+- **A negative antigen result does not rule out herpes.** A latently infected cat tests negative between flare-ups, because it isn't shedding at that moment. Test during active signs, or accept that a negative is a snapshot.
+- **A positive antibody result only means exposure** — which, given how common FHV-1 is, most adult cats will have. It doesn't tell you whether this week's conjunctivitis is a herpes flare or something else.
 
-It is not recommended to test for FHV-1 at home as proper sample collection and handling is required. Testing should be performed by or under the guidance of a veterinarian. They will collect an eye, nasal or oral swab sample from your cat and submit it to the laboratory for analysis using an immunofluorescence assay. A test kit could also be used at a clinic with an analyzer such as the FIA680 Vet. Home testing kits are not reliable for an accurate diagnosis of FHV-1 infection.
+The practical rule: **test antigen during a flare-up, when you're trying to confirm FHV-1 as the cause of active disease.** Use antibody testing only when you're assessing population exposure in a shelter or cattery, and read it as "has met the virus," not "is sick now."
 
+---
 
-## How to kill the virus? What medicine I should use?
+## When Testing Is Worth It
 
+For most cats with classic recurring signs, the history tells you most of what you need. Testing adds the most value when:
 
-No medication can eliminate FHV-1 once a cat is latently infected. Antiviral drugs like famciclovir or acyclovir are used to treat acute clinical signs and reduce virus shedding. They work best if started early in infection. Supportive care including fluids and antibiotics for secondary infections may be needed. Vaccination provides the best protection for preventing acute infection and reactivation. Stress reduction and isolation of shedding cats are also recommended.
+- **A cat has recurrent or severe ocular disease** — especially corneal ulcers, where confirming FHV-1 changes management.
+- **A shelter or cattery is tracking an outbreak** — antigen testing identifies shedders for isolation.
+- **You need to distinguish FHV-1 from FCV** — two viruses that look alike clinically but are managed somewhat differently.
 
+**Related products:** [FHV Antigen Test](/reagents/migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit) (cat. MG-CA-R007) · [FHV Antibody Test](/reagents/migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit) (cat. MG-CA-R012) — both run on the FIA680/FIA880.
 
-## How can this virus be prevented?
+---
 
+## A Note on Treatment
 
-To prevent the spread of FHV-1, cats should be regularly vaccinated (initially as kittens, then boosted). Only healthy cats should be boarded and stress should be minimized for infected ones. Good hygiene practices like prompt disinfection of food/water bowls and litter boxes also help prevent transmission. Identifying carriers and isolating them from other cats during viral shedding episodes is important for multi-cat households or catteries.
+There is **no cure** — a cat infected with FHV-1 carries it for life. That's worth stating plainly because it shapes expectations.
 
+What treatment does is manage the flare-ups, and it's a **veterinarian's decision**, not something to self-prescribe from the internet. Antiviral medications are prescription drugs; supportive care (fluids, appetite support, managing secondary infection) is tailored to the individual cat. Vaccination — the core FVRCP vaccine — doesn't prevent infection but significantly reduces the severity and frequency of outbreaks.
 
-## Conclusion
+For a chronic carrier, the most useful interventions are the non-drug ones: **minimise stress, maintain vaccination, and isolate the cat from other cats during shedding episodes.**
 
+---
 
-In conclusion, due to how common and contagious FHV-1 is for cats, testing is recommended if your cat shows any clinical signs consistent with the infection. Latently infected asymptomatic carriers can also pose a risk, especially during periods of stress. Vaccination, hygiene measures and isolation when shedding are the best ways to control spread within households and catteries.
+## FAQ
 
+### How common is feline herpesvirus?
+
+Extremely common — most cats are exposed in their lifetime and carry the virus for life. It's a leading cause of feline upper-respiratory disease and recurrent conjunctivitis.
+
+### Can feline herpes infect humans?
+
+No. FHV-1 is cat-specific and cannot infect people. The only transmission risk is cat-to-cat.
+
+### Why does my cat's sneezing keep coming back?
+
+Because the virus goes latent in nerve tissue and reactivates under stress — boarding, moving, illness, new pets. The same virus resurfaces, it's not a new infection.
+
+### How is FHV-1 diagnosed?
+
+Antigen/PCR on an ocular or nasal swab during active shedding confirms active infection. Antibody testing shows exposure history and can't separate latent from active disease.
+
+### Does a negative test rule out herpes?
+
+No. A latently infected cat tests negative between flare-ups. Test during active clinical signs for a meaningful result.
+
+### Is there a cure?
+
+No — the virus stays for life. Treatment (vet-directed) manages flare-ups and vaccination reduces severity, but the virus itself is never eliminated.
+
+---
+
+## Key Takeaways
+
+1. **FHV-1 is lifelong** — it goes latent in nerve tissue and reactivates under stress, which is why flare-ups recur.
+2. **It does not infect humans** — the only transmission risk is cat-to-cat.
+3. **Antigen/PCR = active infection, antibody = exposure history** — and a negative antigen test doesn't rule out a latent carrier.
+4. **Test during a flare-up** — a negative between episodes is just a snapshot.
+5. **There's no cure** — treatment and vaccination manage severity, but the virus stays.
+
+---
 
 ## References
 
+- Gaskell R, Dawson S, Radford A, Thiry E. "Feline herpesvirus." *Veterinary Research.* 2007;38(2):337–354.
+- Thiry E, et al. "Feline herpesvirus infection: ABCD guidelines on prevention and management." *J Feline Med Surg.* 2009;11(7):547–555.
 
-Gaskell, R., Dawson, S., Radford, A., & Thiry, E. (2007). Feline herpesvirus.
+---
 
-Veterinary Research
-
-, 38(2), 337-354.
-
-Thiry, E., Addie, D., Belák, S., Boucraut-Baralon, C., Egberink, H., Frymus, T., ... & Lloret, A. (2009). Feline herpesvirus infection: ABCD guidelines on prevention and management.
-
-Journal of Feline Medicine and Surgery
-
-, 11(7), 547-555.
+*This content is for educational purposes only. It is not a substitute for veterinary diagnosis or treatment — a cat with ocular or respiratory disease should be seen by a veterinarian, and any medication must be prescribed by one. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*

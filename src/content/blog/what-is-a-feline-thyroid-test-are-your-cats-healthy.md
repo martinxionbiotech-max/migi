@@ -1,98 +1,157 @@
 ---
-title: "What is a Feline Thyroid Test? Are your cats healthy?"
+title: "Feline Hyperthyroidism: The T4 Test, Why Some Sick Cats Test Normal, and What to Do About It"
 slug: "what-is-a-feline-thyroid-test-are-your-cats-healthy"
-description: "The thyroid gland plays an important role in regulating metabolism in cats. Issues with the thyroid can impact various bodily functions and cause health issues "
-pubDate: "2024-09"
+description: "Hyperthyroidism is the most common endocrine disease of older cats — weight loss despite a huge appetite. But the T4 test misses some cases: early disease and concurrent illness can leave T4 normal. Here's the grey zone and what to do about it."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "What does a feline thyroid test measure?", "a": "It measures total thyroxine (T4) and, when needed, thyroid-stimulating hormone (TSH) in serum or plasma to assess thyroid function. High T4 is diagnostic of hyperthyroidism, the most common endocrine disease of older cats."}, {"q": "What symptoms suggest thyroid problems in cats?", "a": "Hyperthyroidism typically causes weight loss despite a ravenous appetite, hyperactivity, vomiting, and a rapid heart rate. These signs in a middle-aged or older cat should prompt thyroid testing."}, {"q": "How is the test performed?", "a": "A blood sample is collected and T4 (and TSH) measured quantitatively on an immunofluorescence analyzer. Precise concentrations with age-appropriate reference ranges support diagnosis and subsequent monitoring of therapy."}]
+faq: [{"q": "What does a feline thyroid test measure?", "a": "Total thyroxine (T4) in serum — the primary marker for hyperthyroidism, the most common endocrine disease of older cats. An elevated T4 with compatible signs confirms the diagnosis in most cases."}, {"q": "Can a cat have hyperthyroidism with a normal T4?", "a": "Yes, in a minority of cases. Early or mild hyperthyroidism can leave T4 in the normal or high-normal range, and concurrent illness — especially kidney disease — can suppress T4 into the normal range (sick euthyroid syndrome). About 90% of hyperthyroid cats have an elevated T4, which means up to 10% don't."}, {"q": "Why do older cats need thyroid screening?", "a": "Hyperthyroidism is common in cats over 10 and its classic sign — weight loss despite a ravenous appetite — is easy to attribute to 'just getting old.' A T4 test on the senior panel catches the disease before the heart and liver damage it causes become irreversible."}, {"q": "What is the role of free T4 (FT4)?", "a": "Free T4 is a highly sensitive (≈98.5%) test useful for ruling hyperthyroidism out when total T4 is normal or borderline. But it isn't a standalone diagnostic — non-thyroidal illness can shift FT4 too — so it must be read with total T4 and clinical signs."}, {"q": "Why isn't TSH used to diagnose hyperthyroidism in cats?", "a": "Unlike canine hypothyroidism (where TSH is central), feline hyperthyroidism is diagnosed primarily on T4. Feline TSH testing has limited clinical value here, so it isn't the workhorse it is in dogs."}, {"q": "How is the test performed?", "a": "A blood sample is drawn, serum separated, and T4 measured quantitatively on an immunofluorescence analyzer like the FIA680 or FIA880 — returning a numeric concentration with a reference range, so the result can be tracked over time."}]
 ---
 
-The thyroid gland plays an important role in regulating metabolism in cats. Issues with the thyroid can impact various bodily functions and cause health issues if left untreated. Since cats cannot express their discomfort verbally, regular screening of thyroid levels is recommended to keep our feline companions healthy. This article discusses the importance of thyroid tests for cats and how it is conducted.
+# Feline Hyperthyroidism: The T4 Test, Why Some Sick Cats Test Normal, and What to Do About It
 
+> **TL;DR** — Hyperthyroidism is the most common endocrine disease of older cats, and its signature is weight loss despite a huge appetite. The diagnosis rests on total T4 — but here's the catch: **about 90% of hyperthyroid cats have an elevated T4, which means up to 10% don't.** Early disease and concurrent illness (especially kidney disease, via "sick euthyroid" suppression) can both leave T4 sitting in the normal range. That grey zone is where free T4 — highly sensitive but not standalone — earns its keep.
 
-## What are Feline Thyroid Tests?
+A cat that's losing weight while eating like a horse is one of the most common presentations in senior feline medicine — and one of the most commonly dismissed as "she's just getting old." It isn't. It's usually hyperthyroidism, and it's both common and treatable. This guide explains the test, the cases it misses, and why screening matters.
 
+---
 
-The main hormone produced by the thyroid gland is thyroxine, also known as T4. In cats, total thyroxine (fTT4) level is used to evaluate thyroid function. fTT4 test measures the total concentration of T4 hormone in the blood. An abnormal fTT4 result may indicate hyperthyroidism or hypothyroidism. Repetition of the test helps monitor the response to treatment.
+## The Most Common Endocrine Disease of Older Cats
 
+Feline hyperthyroidism is an overactive thyroid gland — almost always a benign adenoma — producing excess thyroid hormone. It's overwhelmingly a disease of older cats, typically appearing after age 10.
 
-## What is Hyperthyroidism for Cats?
+The classic signs, in plain terms:
 
+- **Weight loss despite a ravenous appetite** — the hallmark.
+- Hyperactivity, restlessness, pacing.
+- Vomiting and/or diarrhoea.
+- A rapid heart rate, sometimes a heart murmur.
+- Poor coat, unkempt appearance.
 
-Hyperthyroidism refers to an overactive thyroid gland that produces excess thyroid hormones. It is a common endocrine disorder in older cats. Clinical signs include weight loss despite increased appetite, hyperactivity, arrhythmia, vomiting, and diarrhoea. Untreated hyperthyroidism can lead to heart and liver diseases. It is caused by benign thyroid adenomas or carcinomas in most cases (Wakeling, Elliott, & Syme, 2010).
+Left untreated, the excess thyroid hormone damages the heart (hypertrophic changes, arrhythmias), raises blood pressure, and can contribute to kidney strain. That's why early detection matters — the damage is largely preventable if the disease is caught before it's advanced.
 
+---
 
-## What Diseases Can Thyroid Disorders Cause?
+## The T4 Test — and Its Miss Rate
 
+The primary test is **total thyroxine (T4)** in serum. An elevated T4, together with compatible signs, confirms hyperthyroidism in the large majority of cases.
 
-Both hypo- and hyperthyroidism can impact heart function and metabolism in cats. Hyperthyroidism raises the risk of heart diseases like arrhythmias and cardiomyopathy. Left untreated, it may result in liver disease, high blood pressure, and fractures. Hypothyroidism causes obesity, lethargy and skin issues. It weakens the immune system and increases susceptibility to infections. Prompt diagnosis and treatment of thyroid disorders are important to prevent potential complications (Mooney, 2010).
+But here's the number that matters and that most summaries skip:
 
+**About 90% of hyperthyroid cats have an elevated total T4 — which means roughly 10% test normal or borderline despite having the disease.**
 
-## Are there any Specific Diagnostic Tests for Hyperthyroidism?
+Why would a hyperthyroid cat have a normal T4? Two main reasons, both routine:
 
+1. **Early or mild disease.** T4 elevation correlates with disease duration — the longer the disease has run, the higher the T4. In an early case, the elevation can be small enough to sit in the high-normal range. The cat has the disease; the number just hasn't moved much yet.
+2. **Daily variability.** T4 fluctuates from day to day, so a single normal reading in a strongly suspected case isn't the final word.
 
-The primary test used for feline hyperthyroidism diagnosis is the measurement of fTT4 levels. Higher than normal fTT4 indicates hyperthyroidism. A radioactive iodine uptake test or thyroid scan may also be performed to locate enlarged thyroid tissues when fTT4 results are inconclusive. Ultrasound helps visualize the thyroid glands, and a biopsy can confirm nodular hyperplasia or adenoma/carcinoma causing the condition (Peterson, 2013).
+The practical lesson: a normal T4 does **not** close the case in a cat with classic signs. It opens the next step.
 
+---
 
-## Why don’t we Test T3 and TSH for Cats?
+## The Sick Euthyroid Trap
 
+There's a second, sneakier reason a hyperthyroid cat can test normal, and it's especially relevant in older cats.
 
-For hypothyroidism diagnosis in dogs, both T4 and T3, along with TSH are measured. However, in cats, the tests for T3 and TSH are not reliable diagnostically. Unlike dogs and humans, a cat's TSH does not decrease in response to elevated T4 levels in hyperthyroidism. Therefore, feline TSH levels remain within normal limits and are not helpful indicators of thyroid status. fTT4 alone is sufficient for feline thyroid evaluation.
+**Concurrent illness can suppress T4 into the normal range** — a phenomenon called "sick euthyroid" syndrome. Nearly any chronic disease can do it, but the one that matters most is **chronic kidney disease (CKD)**, which frequently coexists with hyperthyroidism in senior cats. The kidney disease drags the T4 down, masking the thyroid disease that's actually there.
 
+This is the cruel part of senior-cat medicine: the two most common diseases of older cats — hyperthyroidism and kidney disease — can actively hide each other on blood work. A cat with both can have a frustratingly "normal-looking" T4.
 
-## How to Test the Feline Thyroid?
+The rule: if the clinical picture says hyperthyroidism (weight loss, ravenous appetite, fast heart) but the T4 is normal, don't assume the thyroid is innocent — especially if kidney values are also off.
 
+---
 
-A small blood sample is collected from the cat. For accurate results, samples should be taken in a non-fasted state, at least 2 hours after eating. The blood is centrifuged and the serum is separated. fTT4 levels in the serum are then measured quantitatively using a Veterinary Immunofluorescence Quantitative Analyzer like FIA680/880. It provides results in minutes along with interpretation. Repeat testing monitors treatment response over time.
+## The Grey Zone: When T4 Is Normal But You Still Suspect It
 
+When total T4 is normal or borderline and the suspicion is real, the next tool is **free T4 (FT4)**.
 
-## What is the Cost of Feline Thyroid Testing?
+- **FT4 is highly sensitive** — roughly 98.5% — which makes it excellent for *ruling hyperthyroidism out*. A normal FT4 is strong reassurance.
+- **But FT4 is not a standalone diagnostic.** Non-thyroidal illness can shift FT4 in either direction, so a high FT4 alone doesn't confirm hyperthyroidism.
 
+The interpretive framework that actually works:
 
-The cost of fTT4 test varies depending on the clinic and location but ranges from $50-$80 per test usually. Additional tests like ultrasound may cost more. Quantitative analyzer like FIA680 costs $1000 for single channel and $1500 for six channels. It offers quick, accurate and affordable testing with no recurring costs for reagents or calibrators. Overall, the investment allows timely diagnosis and management of thyroid disorders in cats at reasonable prices.
+| Pattern | Likely meaning |
+|---|---|
+| High total T4 + high FT4 | Hyperthyroidism (confirms) |
+| Normal/borderline T4 + high FT4 | Possible early/mild hyperthyroidism — investigate further |
+| Low or low-normal T4 + high FT4 | Usually non-thyroidal illness, not hyperthyroidism |
+| Normal T4 + normal FT4 | Hyperthyroidism unlikely |
 
+The point: FT4 resolves the grey zone when read *with* total T4 and clinical signs — not instead of them. When the picture stays ambiguous, thyroid imaging (scintigraphy) is the sensitive next step, but in practice the T4+FT4 combination answers most cases.
 
-## Do we need to use a Quantitative Analyser FIA680/880?
+---
 
+## Why TSH and T3 Aren't the Answer in Cats
 
-Yes, using a quantitative analyzer like the FIA680/880 is recommended for feline thyroid testing. Compared to in-house rapid tests, these analyzers provide exact fTT4 concentration values along with reference ranges. They reduce the chances of interpretation errors and ensure consistent results across multiple samples. Features like onboard storage of test history and multiple language interface add to their user-friendliness. Their high throughput of 300 samples per hour make them suitable for veterinary clinic settings.
+A common point of confusion, because it's different from dogs:
 
+**In dogs**, hypothyroidism is the common disease, and TSH is central — a high TSH with a low T4 confirms it.
 
-## How many Operating Languages does the device have?
+**In cats**, the disease is hyperthyroidism, and the diagnosis runs on T4. Feline TSH testing has limited clinical value here — it's simply not the workhorse it is in canine medicine. So if you're wondering why a cat's thyroid panel looks "thin" compared to a dog's, that's why: the two species have mirror-image diseases, and the tests follow.
 
+---
 
-The FIA680/880 veterinary immunofluorescence quantitative analyzer has multilingual capabilities. It supports display and operation in four languages - Chinese, English, Russian and Italian by default. However, other languages can also be implemented according to customer requirements. This multi-language function enhances usability for global users. Clinics catering to diverse clientele can opt for additional language integration as per their needs.
+## Why Senior-Cat Screening Is Worth It
 
+For a clinic, thyroid testing is one of the cleanest additions to the senior feline panel:
 
-## What are the Guidelines for Feline Thyroid Sample Collection and Processing?
+- **It's a high-yield screen.** Hyperthyroidism is common enough in cats over 10 that T4 on the senior panel finds disease routinely — and every positive is a treatable, long-term management case.
+- **It converts a "just getting old" visit into a diagnosis.** The owner who came in for weight loss leaves with a named, treatable condition and a management plan — which is exactly the kind of outcome that builds loyalty.
+- **It's the entry point to ongoing care.** Hyperthyroidism is managed with medication, diet or radioactive iodine, and all three require follow-up T4 monitoring — a recurring, protocol-driven relationship.
 
+For the owner, the framing is simple: a blood test that catches the most common disease of older cats before it damages the heart — and one that's fully manageable once it's found.
 
-Proper sampling and handling are critical for accurate test results. Samples should be collected aseptically into red or tiger top tubes containing no additives or preservatives. After collection, the blood tube is gently inverted 2-3 times and allowed to clot at room temperature for 30 minutes. It is then centrifuged at 3000-5000 rpm for 5 minutes. The separated serum is extracted using a pipette and loaded on the test cartridge for analysis on the FIA680/880. Following guidelines ensure quality test results.
+**Related product:** [Feline Total T4 (fTT4) Test](/reagents/migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit) (cat. MG-CA-R023) — quantitative T4 on the FIA680/FIA880, returning a numeric concentration with a reference range.
 
+As with all Migibio products, these are B2B — sold to clinics and distributors with pricing quoted against volume and terms, not published as a fixed retail list.
 
-## Conclusion
+---
 
+## FAQ
 
-In conclusion, regular testing of fTT4 levels is recommended to monitor thyroid function in cats and detect disorders early. Quantitative analyzers provide fast, reliable and cost-effective testing. Adhering to sample collection standards yields accurate diagnostic information for timely clinical intervention and management of thyroid problems in our feline companions.
+### What does a feline thyroid test measure?
 
+Total T4 in serum — the primary marker for hyperthyroidism. An elevated T4 with compatible signs confirms the diagnosis in most cases.
+
+### Can a cat have hyperthyroidism with a normal T4?
+
+Yes. About 90% of hyperthyroid cats have elevated T4, so up to 10% test normal — from early/mild disease or from concurrent illness (especially kidney disease) suppressing T4.
+
+### Why do older cats need screening?
+
+Hyperthyroidism is common over age 10, and its hallmark — weight loss despite a huge appetite — is easy to dismiss as ageing. Screening catches it before heart and kidney damage becomes irreversible.
+
+### What's the role of free T4?
+
+FT4 is ~98.5% sensitive, so it's excellent for ruling hyperthyroidism out when total T4 is normal. But it isn't standalone — read it with total T4 and signs.
+
+### Why isn't TSH used for cats?
+
+Feline hyperthyroidism is diagnosed on T4, not TSH — the opposite of canine hypothyroidism, where TSH is central. Feline TSH testing has limited value here.
+
+### How is the test performed?
+
+A blood sample is drawn, serum separated, and T4 measured quantitatively on an immunofluorescence analyzer, returning a numeric concentration with a reference range.
+
+---
+
+## Key Takeaways
+
+1. **Hyperthyroidism is the most common endocrine disease of older cats** — weight loss despite a big appetite is the hallmark.
+2. **T4 misses up to 10% of cases** — early/mild disease and daily variability can leave it normal.
+3. **Kidney disease can hide hyperthyroidism** — sick euthyroid suppression drags T4 back to normal in cats with CKD.
+4. **FT4 resolves the grey zone** — ~98.5% sensitive for ruling out, but not a standalone diagnostic.
+5. **Cats and dogs are mirror images** — hyperthyroidism/T4 in cats, hypothyroidism/TSH in dogs.
+6. **Senior screening is high-yield** — a treatable, long-term management case on every positive.
+
+---
 
 ## References
 
+- dvm360. "Recognizing and confirming feline hyperthyroidism." — 90% elevated T4, FT4 sensitivity ~98.5%, sick euthyroid suppression.
+- Peterson ME. "Hyperthyroidism in cats." *J Feline Med Surg.* 2013;15(8):713–722.
+- Wakeling J, Elliott J, Syme HM. "Predictors for the diagnosis of hyperthyroidism in cats." *J Vet Intern Med.* 2010;24(5):1057–1063.
+- Mooney CT. "Feline hyperthyroidism: diagnosis and management." *J Feline Med Surg.* 2010;12(5):365–378.
 
-Mooney, C. T. (2010). Feline hyperthyroidism: diagnosis and management.
+---
 
-Journal of Feline Medicine and Surgery
-
-, 12(5), 365-378.
-
-Peterson, M. E. (2013). Hyperthyroidism in cats: what's causing this epidemic of thyroid disease and can we prevent it?
-
-Journal of Feline Medicine and Surgery
-
-, 15(8), 713-722.
-
-Wakeling, J., Elliott, J., & Syme, H. M. (2010). Evaluation of predictors for the diagnosis of hyperthyroidism in cats.
-
-Journal of Veterinary Internal Medicine
-
-, 24(5), 1057-1063.
+*This content is for educational purposes only. It is not a substitute for veterinary diagnosis or treatment — a cat with suspected thyroid disease should be evaluated by a veterinarian. Reference ranges are assay-dependent; always use your analyzer's validated intervals. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
