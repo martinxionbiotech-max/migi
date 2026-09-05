@@ -1,110 +1,162 @@
 ---
-title: "What Is the Feline Leukemia (FeLV) and FIV Test?"
+title: "FeLV and FIV Tests in Cats: What a Positive Really Means — and the Kitten False-Positive Trap"
 slug: "what-is-the-feline-leukemia-fiv-test"
-description: "Testing cats for feline leukaemia virus (FeLV) and feline immunodeficiency virus (FIV) is an important part of preventative veterinary care. These two viruses a"
-pubDate: "2024-09"
+description: "FeLV and FIV are two different retroviruses with two different tests — antigen vs antibody. Here's why a kitten's FIV positive is often a maternal-antibody false positive, why most FeLV-exposed cats clear the virus, and what the survival numbers actually are."
+pubDate: "2026-09-05"
 category: "blog"
-faq: [{"q": "What is the difference between FeLV and FIV?", "a": "Feline leukaemia virus (FeLV) and feline immunodeficiency virus (FIV) are both retroviruses but differ in transmission and disease. FeLV spreads readily through saliva and close contact and can cause cancer; FIV spreads mainly through bite wounds and causes immune suppression."}, {"q": "How are FeLV and FIV detected?", "a": "FeLV is typically detected by antigen testing (the p27 core antigen) in blood, while FIV is detected by antibody testing. Quantitative fluorescence assays provide objective results for both, supporting diagnosis and monitoring."}, {"q": "When should cats be tested for FeLV and FIV?", "a": "Testing is recommended for new cats entering a household, sick cats with unexplained illness, cats with bite wounds or outdoor access, and before vaccination. Retrovirus screening is a standard part of preventive feline care."}]
+faq: [{"q": "What is the difference between FeLV and FIV?", "a": "Both are feline retroviruses but they behave very differently. FeLV spreads through close contact (mutual grooming, shared bowls, mother-to-kitten) and is the more dangerous — progressive infection shortens lifespan. FIV spreads mainly through deep bite wounds between fighting cats, and infected cats often live a near-normal lifespan with good management."}, {"q": "Can a kitten's FIV test be a false positive?", "a": "Yes, and it's common. Kittens under 6 months can carry FIV antibodies passed from their mother, producing a positive result in an uninfected kitten. A positive kitten should be retested every 60 days until 6 months of age — a negative result in a kitten is reliable, but a positive one needs confirmation."}, {"q": "Does a positive FeLV test mean my cat will get sick?", "a": "Not necessarily. FeLV outcomes split into three paths: many exposed cats clear the virus entirely (abortive infection), some contain it in a latent state and live a normal lifespan (regressive), and a minority develop progressive infection. A single positive antigen test should be confirmed with a repeat test, because some cats clear the virus."}, {"q": "How long do FeLV-positive cats live?", "a": "It depends on the infection type. Cats with progressive FeLV have a median survival of about 2.5 years after diagnosis, while cats with regressive infection can live a normal lifespan. The outcome is not one number — which is exactly why confirming the infection type matters."}, {"q": "Can FeLV or FIV spread to humans?", "a": "No. Both are feline-specific viruses and cannot infect people. The real concern is transmission to other cats — FeLV through close contact and shared resources, FIV through deep bite wounds."}, {"q": "When should a cat be tested?", "a": "Whenever a cat is newly acquired, before introducing it to other cats, after a bite wound or known exposure, and when a cat shows unexplained illness. Kittens can be tested at any age, but a positive FIV result under 6 months needs follow-up because of maternal antibodies."}]
 ---
 
-Testing cats for feline leukaemia virus (FeLV) and feline immunodeficiency virus (FIV) is an important part of preventative veterinary care. These two viruses are commonly found among domestic cat populations and pose serious health risks if left undetected. While many infected cats may not outwardly show symptoms, both FeLV and FIV can compromise the immune system, making affected animals highly susceptible to secondary diseases that threaten their lives. Regular screening allows for early diagnosis and proper management of infected pets (Levy et al., 2008).
+# FeLV and FIV Tests in Cats: What a Positive Really Means — and the Kitten False-Positive Trap
 
+> **TL;DR** — FeLV and FIV are two retroviruses, two transmission patterns, and two *different kinds of test* — antigen for FeLV, antibody for FIV — and that difference explains most of the confusion. Two traps matter most: a **kitten's FIV positive is often a maternal-antibody false positive** (retest until 6 months), and **most FeLV-exposed cats actually clear the virus** — a single positive antigen test is not a life sentence. The survival numbers split hard: progressive FeLV carries a ~2.5-year median survival, but regressive infection often means a normal lifespan.
 
-## What are Feline Leukemia/Fiv Tests? why do we need to do the testing?
+FeLV (feline leukaemia virus) and FIV (feline immunodeficiency virus) are usually discussed together — "the retrovirus test" — but they're different diseases with different tests and different outcomes. Understanding the difference is what turns a scary positive result into a sensible plan.
 
+---
 
-FeLV is a virus that can cause cancer and damage the immune system of cats, leading to life-threatening infections. FIV is an immune-suppressing virus similar to HIV in humans. While some cats may show no signs of infection, both viruses pose serious health risks. Routine testing allows early detection and treatment. It also helps identify infected cats and prevent transmission to other pets (Little, 2011).
+## Two Viruses, Two Different Threats
 
+The first thing to get straight is that these aren't twins:
 
-## What are the differences between them?
+| | FeLV | FIV |
+|---|---|---|
+| What it does | Causes cancer, anaemia, immune suppression | Slowly suppresses the immune system |
+| How it spreads | Close contact — mutual grooming, shared bowls, mother-to-kitten | Deep bite wounds between fighting cats |
+| How serious | The more dangerous of the two | Often compatible with a near-normal lifespan |
+| Test type | **Antigen** (p27 core protein) | **Antibody** |
 
+FeLV is the one that shortens lives. FIV is the one that spreads through fights. Keeping them separate matters, because the test — and what a positive means — is completely different for each.
 
-FeLV primarily attacks red blood cells and the immune system, while FIV infects white blood cells called lymphocytes. FeLV is spread through close contact and licking or biting wounds, whereas FIV is transmitted through deep bite wounds during fighting. FeLV is more easily transmitted and potentially fatal if left untreated, while cats can live a normal lifespan with FIV if properly managed.
+---
 
+## Why the Test Type Is the Whole Story
 
-## When should do FELV and FIV for cats?
+This is the piece most owners never hear, and it explains every confusing result:
 
+- **FeLV is tested by antigen** — looking for the actual virus protein (p27) in the blood. An antigen test answers "is the virus here now?"
+- **FIV is tested by antibody** — looking for the immune system's response. An antibody test answers "has this cat been exposed to FIV?"
 
-All cats should be tested before adoption or when entering a multi-cat household. Additionally, kittens should be tested before the first vaccination at around 4 months of age. Regular re-testing every 1-3 years is also recommended, especially for outdoor and stray cats that may encounter other infected animals.
+That one distinction creates the two famous traps:
 
+1. **A kitten's FIV antibody positive may be inherited, not infection.** Kittens can carry FIV antibodies passed from their mother in the milk — so an uninfected kitten can test positive. That's the false-positive trap.
+2. **An FeLV antigen positive may be transient.** Some cats clear the virus after initial exposure, so a single positive antigen test can flip to negative on repeat testing. That's the "don't panic yet" point.
 
-## How to test for feline leukaemia/FIV?
+Neither trap is exotic. Both are routine, and both are the reason confirmatory retesting exists.
 
+---
 
-There are two primary methods - an in-clinic ELISA (enzyme-linked immunosorbent assay) antibody test or an in-home rapid antibody test. Both involve a small blood sample that is tested for antibodies produced by the body's immune system in response to viral infection. Positive antibody tests require follow-up PCR (polymerase chain reaction) tests to confirm active infection.
+## The Kitten False-Positive Trap
 
+Here's the rule that prevents a lot of needless heartbreak:
 
-## Does the testing hurt for cats?
+**A positive FIV test in a kitten under 6 months is not trustworthy on its own.** Maternal FIV antibodies can persist in a kitten's blood for months after weaning, producing a positive result in a kitten that was never infected.
 
+The correct protocol, from the AAFP guidelines:
 
-The blood collection with a small needle prick may cause a little discomfort for cats but does not usually result in pain. Most cats tolerate the quick procedure well when properly restrained. Owners can ask for a topical anaesthetic to minimize any discomfort.
+- **A negative kitten result is reliable.** If a kitten tests FIV-negative, it's genuinely negative.
+- **A positive kitten result needs follow-up.** Retest every ~60 days until the kitten is 6 months old. If the result turns negative, the earlier positive was just maternal antibody — the kitten was never infected.
+- **Vaccination adds another layer.** FIV-vaccinated cats will test antibody-positive on most standard tests, because the test can't tell vaccine antibody from infection antibody. That's a separate reason a positive needs interpretation.
 
+The upshot: don't make any life decision about a kitten based on one FIV antibody result. Retest, then decide.
 
-## Does the virus transmit to humans?
+---
 
+## The FeLV Outcome Spectrum: One Positive, Three Paths
 
-While FeLV and FIV only infect felines, contact with infected cats does pose some risk to humans. However, transmission is extremely rare. Simple precautions like handwashing after handling cats and avoiding bites/scratches can prevent potential issues. Neither virus can cause illness in people.
+If a cat tests FeLV antigen-positive, the next question is "which path is it on?" — because FeLV doesn't have one outcome. Exposure resolves into three categories:
 
+1. **Abortive infection** — the cat's immune system clears the virus entirely, and the antigen test turns negative. In many field studies this is the *most common* outcome: most exposed cats never become persistently infected. A single positive followed by a negative on retesting means the cat fought it off.
+2. **Regressive infection** — the cat contains the virus (proviral DNA persists but active viraemia is controlled). These cats typically **live a normal lifespan** and pose little transmission risk, though the virus can theoretically reactivate under severe immunosuppression.
+3. **Progressive infection** — the cat stays antigen-positive and sheds virus. This is the form that causes disease.
 
-## Does the virus affect to my other cats?
+Why this matters: **"FeLV positive" is not one diagnosis.** It's a fork in the road, and the confirmatory retest is how you find out which path the cat is on. The median survival for progressive FeLV is about **2.5 years** after diagnosis — but a cat with regressive infection can live out a normal life. Collapsing all three into "FeLV = bad" is how healthy cats get mislabeled and genuinely infected cats get mismanaged.
 
+---
 
-FeLV infected cats can transmit the virus to other felines they come in close contact with. FIV transmission requires a deep bite that breaks the skin. Proper identification and isolation of infected cats helps prevent spread to others in multi-cat homes. Uninfected cats should be kept separate until re-testing confirms infection status.
+## Age Changes Everything
 
+FeLV has a strong age gradient that most people don't know about, and it drives the "when to test" advice:
 
-## Does the cat need anaesthesia for testing?
+- **Kittens under 4 months are the most vulnerable.** Exposed to an FeLV-endemic multi-cat environment, 60–70% of young kittens will become infected within 5 months.
+- **Adult cats are far more resistant.** Fewer than 5% of cats over 6 months become infected over the same exposure window — a phenomenon called age-related resistance.
 
+This is why testing a *kitten* before it joins a household matters more than testing a healthy adult, and why early screening is where the payoff is. It's also why a young kitten's positive result deserves extra care in interpretation — they're both the most likely to be truly infected *and* the most likely to produce a confusing antibody result.
 
-No, feline leukaemia and immunodeficiency testing do not require general anaesthesia. The blood sample collection for antibody testing involves a simple pinprick or needle stick that is quick and causes minimal stress to cats when properly handled. Topical numbing agents may provide some relief from any minor discomfort.
+---
 
+## When to Test
 
-## Are kittens suitable for testing?
+The practical rules, in plain terms:
 
+- **Every newly acquired cat** — before it meets your existing cats.
+- **Any cat with a bite wound or outdoor fighting history** — that's the FIV transmission route.
+- **Sick cats with unexplained illness** — retrovirus status explains a lot of chronic problems.
+- **Kittens before they join a household** — with the caveat that a positive FIV result under 6 months needs follow-up.
 
-Yes, kittens as young as 4 months old can be reliably tested for FeLV and FIV antibodies. At this age, maternal antibodies transferred from the mother have usually worn off. Early screening allows infected kittens to be identified before adopting them or mixing them with other pets. Proper kitten vaccination after 8-9 weeks also significantly reduces infection risks.
+**Related products:** [FeLV Antigen Test](/reagents/migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit) (cat. MG-CA-R028) · [FIV Antibody Test](/reagents/migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit) (cat. MG-CA-R027) — both 10-test boxes, room-temperature storage, run on the FIA680/FIA880.
 
+---
 
-## What’s the cost for two tests?
+## What This Means for a Clinic
 
+Retrovirus testing is one of the highest-frequency, highest-trust interactions in feline practice:
 
-On average, an in-clinic combination FeLV/FIV antibody test costs between $35-55 USD. Rapid tests run $20-40. Annual or biannual re-testing remains important for at-risk outdoor cats. While out-of-pocket, the inexpensive tests provide pet owners valuable health information to manage care and prevent further disease spread. Early detection is also more conducive to treatment success.
+- **It's a standard of care.** Testing on acquisition, before introduction, and after exposure is in the AAFP guidelines — it's not optional add-on revenue, it's expected. A clinic that explains the kitten retest protocol correctly builds instant trust.
+- **The retest protocol is built-in follow-up.** A positive kitten means 2–3 more visits over the following months — a natural, guideline-driven follow-up sequence, not a hard sell.
+- **Correct interpretation is the differentiator.** The clinic that knows the FIV maternal-antibody trap and the FeLV three-path outcome is the clinic owners recommend. That expertise — "let's retest before we make any decisions" — is exactly what separates a good practice from a scary one.
 
+For the owner, the honest framing changes everything: a positive result isn't a verdict, it's a question that a confirmatory test answers. That's a message owners remember.
 
-## How long the testing will be done for each?
+---
 
+## FAQ
 
-The actual blood collection for FeLV/FIV antibody testing takes less than 5 minutes for each cat. Results from an in-clinic ELISA test are usually available within 1-3 business days. Rapid in-home tests provide results within 10-15 minutes directly from the collected blood sample without lab processing.
+### What's the difference between FeLV and FIV?
 
+FeLV spreads through close contact (grooming, shared bowls, mother-to-kitten) and is the more dangerous — progressive infection shortens lifespan. FIV spreads through deep bite wounds and is often compatible with a near-normal lifespan.
 
-## Conclusion
+### Can a kitten's FIV test be a false positive?
 
+Yes. Kittens under 6 months can carry maternal FIV antibodies, producing a positive in an uninfected kitten. Retest every 60 days until 6 months — a negative is reliable, a positive needs confirmation.
 
-In conclusion, feline leukaemia and immunodeficiency testing is a low-cost but important preventive healthcare screening. It allows early detection and proper management of infected cats to improve welfare while reducing transmission risks to other pets. Routine or risk-based testing remains vital for every cat owner's furry family members.
+### Does a positive FeLV test mean my cat will get sick?
 
+Not necessarily. Many exposed cats clear the virus (abortive), some contain it and live normally (regressive), and only a minority progress. A single positive should be confirmed with a repeat test.
+
+### How long do FeLV-positive cats live?
+
+It depends on the infection type: progressive FeLV carries a ~2.5-year median survival, while regressive infection often means a normal lifespan. The outcome is not one number.
+
+### Can FeLV or FIV infect humans?
+
+No. Both are feline-specific. The real risk is transmission to other cats — FeLV through close contact, FIV through deep bites.
+
+### When should a cat be tested?
+
+On acquisition, before introduction to other cats, after a bite wound or exposure, and when illness is unexplained. Kittens can be tested at any age, but a positive FIV under 6 months needs follow-up.
+
+---
+
+## Key Takeaways
+
+1. **Two viruses, two tests** — FeLV is an antigen test, FIV is an antibody test, and that distinction explains the traps.
+2. **A kitten's FIV positive is often maternal antibody** — retest every 60 days until 6 months before concluding anything.
+3. **FeLV has three outcomes** — many cats clear the virus, some contain it and live normally, only a minority progress.
+4. **Survival splits hard** — progressive FeLV ≈ 2.5 years median; regressive often means a normal lifespan.
+5. **Age is the biggest risk factor** — kittens under 4 months are most vulnerable; adult cats are largely resistant.
+6. **Neither virus infects humans** — the concern is transmission to other cats.
+
+---
 
 ## References
 
+- 2020 AAFP Feline Retrovirus Testing and Management Guidelines. PMC11135720.
+- Cornell Feline Health Center. "Feline Leukemia Virus." — transmission, prognosis, median survival ~2.5 years.
+- Hartmann K, et al. Feline leukemia virus infection. PMC7152252 — age-related resistance and infection outcomes.
+- WSAVA 2018 / VIN. "FeLV and FIV: Clinical Approach and Management." — FIV maternal-antibody and regressive-infection interpretation.
+- Dispomed. "Feline Viral Disease Testing in General Veterinary Practice." — kitten FIV retest protocol.
 
-Levy, J. K., Crawford, P. C., & Slater, M. R. (2008).
+---
 
-Feline leukemia virus
-
-. In N. C. Pedersen (Ed.),
-
-Infectious Diseases of the Dog and Cat
-
-(4th ed., pp. 143-155). Elsevier.
-
-Little, S. E. (2011).
-
-Feline immunodeficiency virus (FIV)
-
-.
-
-Journal of Feline Medicine and Surgery
-
-,
-
-13
-
-(4), 238-249.
+*This content is for educational and product-selection purposes only. It is not a substitute for veterinary diagnosis — any cat with suspected retrovirus infection should be evaluated by a veterinarian. A positive screening result must be confirmed with follow-up testing per current guidelines. Product specifications are as published by Migibio (Guangzhou Magic Biotech Co., Ltd.) and may change.*
