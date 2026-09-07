@@ -13,7 +13,7 @@ Guangzhou Magic Biotech Co., Ltd. is headquartered in **Guangzhou Science City**
 **Address:** G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China
 
 **Contact:** Martin.Wong  
-**Telephone (WhatsApp):** +86 13323237275  
+**WhatsApp:** [Chat on WhatsApp](https://wa.me/8613323237275)  
 **Email:** martinwang2024@gmail.com
 
 ## Manufacturing & R&D Facility
