@@ -32,6 +32,28 @@ const blog = defineCollection({
   }),
 });
 
+const biomarkers = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/biomarkers' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    description: z.string().optional(),
+    species: z.enum(['canine', 'feline', 'both']),
+    biomarker: z.string(),
+    method: z.string(),
+    unit: z.string(),
+    category: z.enum(['infectious', 'endocrine', 'inflammatory', 'cardiac', 'pancreatic', 'renal']),
+    clinicalContext: z.string(),
+    referenceRange: z.string(),
+    source: z.string(),
+    date: z.string(),
+    confidence: z.string(),
+    relatedProducts: z.array(z.string()),
+    relatedBlogs: z.array(z.string()),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+  }),
+});
+
 const pages = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
   schema: z.object({
@@ -42,4 +64,4 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { products, blog, pages };
+export const collections = { products, blog, biomarkers, pages };
