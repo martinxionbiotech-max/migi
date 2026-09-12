@@ -26,6 +26,9 @@ Based on the archived company pages currently published on this site, Migibio co
 - High-tech biotechnology enterprise, headquartered in Guangzhou Science City
 - ISO9001-certified quality management system
 - GMP-certified manufacturing processes
+- Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME
+- Veterinary Drug Production License
+- 2018 Innovation and Entrepreneurship Competition award
 - 30 core patents
 - Standardized 2,000 m² R&D and production workshop
 

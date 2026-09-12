@@ -23,7 +23,7 @@ To make laboratory-grade quantitative diagnostics accessible at the point of car
 
 ## Our Commitment to Quality
 
-Every Migibio product is manufactured under ISO9001 and GMP-certified processes. We maintain strict lot-release testing, internal quality controls in every test device, and full traceability across our supply chain — because diagnostic accuracy is non-negotiable.
+Every Migibio product is manufactured under ISO9001 and GMP-certified processes. The company also holds a Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME designation, a Veterinary Drug Production License, and a 2018 Innovation and Entrepreneurship Competition award. We maintain strict lot-release testing, internal quality controls in every test device, and full traceability across our supply chain — because diagnostic accuracy is non-negotiable.
 
 ## The Migibio Name
 

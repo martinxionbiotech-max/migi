@@ -15,7 +15,8 @@ Guangzhou Magic Biotech Co., Ltd., established in **November 2017** and headquar
 | Founded | November 2017 |
 | Headquarters | Guangzhou Science City, Huangpu District, Guangzhou, China |
 | Facility | Standardized 2,000 m² R&D and production workshop |
-| Certifications | ISO9001 (quality management) and GMP (Good Manufacturing Practice) |
+| Certifications | ISO9001 (quality management), GMP (Good Manufacturing Practice), Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME, Veterinary Drug Production License |
+| Recognition | 2018 Innovation and Entrepreneurship Competition award |
 | Intellectual Property | 30 core patents |
 | Global Reach | Products sold in 30+ countries and regions |
 | Technology | Proprietary Fluorescence Immunochromatographic Technology (FICT) |
