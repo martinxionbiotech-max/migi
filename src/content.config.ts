@@ -16,6 +16,11 @@ const products = defineCollection({
     attributes: z.record(z.string()).optional(),
     // FAQ for schema + AIO
     faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+    // Clinical context rendered on reagent product pages
+    whenToTest: z.string().optional(),
+    whyTest: z.string().optional(),
+    interpretation: z.string().optional(),
+    limitations: z.string().optional(),
     pubDate: z.coerce.date().optional(),
   }),
 });

@@ -8,6 +8,10 @@ image: "/images/migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test.
 order: 33
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine C-reactive Protein (cCRP)", "CAT No.": "MG-CA-R001", "Package": "Box", "Appearance": "Test cassette", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
 faq: [{"q": "What is the intended use of the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test?", "a": "It assists in identifying underlying inflammation and monitoring therapy response, post-operative effects, and recovery. For in vitro diagnostic use only. Professional use only."}, {"q": "What detection principle does the Migi (dog) Canine C-reactive Protein (cCRP) Rapid Quantitative Test use?", "a": "Double antibody sandwich fluorescence immunoassay technique."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4°C to 30°C until the expiration date. Operate the test at 18°C to 28°C after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Reference range for cCRP in canine serum, plasma, or whole blood: Detection range: 5–300 mg/L Reference range: ≤10 mg/L: Normal (-) 10–30 mg/L: Mild inflammation (+) 30–100 mg/L: Moderate inflammation (++) 100 mg/L: Severe inflammation (+++) Each laboratory should establish its reference range."}]
+whenToTest: "When systemic inflammation is suspected in a dog, or to monitor response to treatment, post-operative recovery, or disease activity."
+whyTest: "Canine C-reactive protein is a major acute-phase protein; quantitative measurement supports detection and serial monitoring of systemic inflammation."
+interpretation: "Use the kit IFU reporting categories and serial trends; trends are often more informative than a single value, and in-house reference ranges should be established."
+limitations: "CRP is not specific for a single disease and must be interpreted with clinical signs and other diagnostics."
 ---
 
 

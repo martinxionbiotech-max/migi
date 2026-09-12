@@ -8,6 +8,10 @@ image: "/images/migi-dog-canine-distemper-virus-antibody-cdv-ab-rapid-quantitati
 order: 23
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R010", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
 faq: [{"q": "What is the intended use of the Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit?", "a": "The CDV-Ab test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer. It quantitatively determines distemper virus antibody (CDV-Ab) concentration in serum or plasma. This test helps assess CDV-Ab titer levels following pet vaccinations, guiding whether re-vaccination is necessary. Additionally, it supports diagnosing and monitoring canine distemper virus infections. For in vitro diagnostic use only . Professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Distemper Virus Antibody (CDV-Ab) Rapid Quantitative Test Kit use?", "a": "The test uses a quantitative double-antigen sandwich fluorescence immunoassay technique. Fluorescent signal intensity correlates with the amount of CDV-Ab captured, with results expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the kit at 4–30℃ up to the expiration date. Operate the test between 18–28℃ after opening the pouch. Perform the test within 30 minutes of opening the pouch."}]
+whenToTest: "After canine distemper vaccination or when distemper immunity and booster need are being assessed."
+whyTest: "Quantitative CDV antibody measurement supports assessment of vaccine-induced immunity."
+interpretation: "Interpret the titre with the kit IFU, vaccination history, and exposure risk; serial testing may be more informative than a single value."
+limitations: "Antibody titres do not guarantee complete protection and should be used with clinical judgement and other diagnostics."
 ---
 
 
