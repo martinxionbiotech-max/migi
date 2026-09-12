@@ -45,11 +45,11 @@ appropriate vaccination protocols, and monitor health in high-risk populations l
 ## How Much Does the Total Testing Cost?
 
 
-Veterinary clinics can purchase the feline triple test kits for around $120, which includes
+Veterinary clinics can purchase the feline triple test kits in packs that include
 
-materials for 10 tests. In comparison, running the individual tests separately at a similar practice may cost $55 per test on average. So performing the three tests together as a combination
+materials for 10 tests; pricing is quoted by the supplier according to purchase volume, region, and OEM terms. In comparison, running the individual tests separately at a similar practice is priced separately and must also be confirmed with the supplier or clinic. So performing the three tests together as a combination
 
-saves both time and money for the client. At most hospitals, the cost of a single feline triple test administered would range from $75-$100 depending on location. This all-inclusive panel
+saves both time and money for the client. At most hospitals, the cost of a single feline triple test administered varies by location and should be confirmed with the clinic. This all-inclusive panel
 
 provides excellent value for a routine annual wellness exam.
 

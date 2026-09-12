@@ -13,7 +13,7 @@ Feline herpesvirus-1 (FHV-1), also known as feline viral rhinotracheitis (FVR) i
 ## What is FHV?
 
 
-Feline herpesvirus-1 is a double-stranded DNA virus from the Herpesviridae family. It is very similar to human herpesviruses that cause cold sores and genital herpes. FHV-1 infects the upper respiratory tract of cats. While most cats will recover from primary infection, the virus remains dormant in nerves for life and can reactivate intermittently (Gaskell et al., 2007).
+Feline herpesvirus-1 is a double-stranded DNA virus from the Herpesviridae family. It is very similar to human herpesviruses that cause cold sores and genital herpes. FHV-1 infects the upper respiratory tract of cats. While most cats will recover from primary infection, the virus remains dormant in nerves for life and can reactivate intermittently.
 
 
 ## What are the Symptoms if your cat is infected with herpes?
@@ -25,7 +25,7 @@ Common symptoms of acute FHV-1 infection include sneezing, nasal discharge, feve
 ## What causes this to happen? How are cats infected by herpesvirus?
 
 
-The FHV-1 virus spreads through direct contact - cats sharing food/water bowls and being groomed or played with. Queens can transmit the virus to kittens during birth. Stressful situations like boarding at a cattery or a veterinary clinic are common causes of viral reactivation in latently infected cats. The virus sheds from the eyes, nose, or skin lesions and is very stable in the environment for long periods (Thiry et al., 2009).
+The FHV-1 virus spreads through direct contact - cats sharing food/water bowls and being groomed or played with. Queens can transmit the virus to kittens during birth. Stressful situations like boarding at a cattery or a veterinary clinic are common causes of viral reactivation in latently infected cats. The virus sheds from the eyes, nose, or skin lesions and is very stable in the environment for long periods.
 
 
 ## Is Feline Herpes contagious?
@@ -37,7 +37,7 @@ Yes, FHV-1 is highly contagious. Both acute infection and viral shedding during 
 ## Is my family at risk?
 
 
-While FHV-1 specifically infects cats, there is a theoretical risk of transmission between cats and humans via bites or scratches during viral shedding. However, documented infections of people are extremely rare. The main risk is to other cats that a latently infected cat may come in contact with. Proper hygiene and disinfection can minimize zoonotic risk (Gaskell et al., 2007).
+FHV-1 is a feline-specific virus and does not infect humans. The main risk is to other cats that a latently infected cat may come in contact with. Proper hygiene and disinfection help minimize spread between cats.
 
 
 ## Can our kits test the virus?

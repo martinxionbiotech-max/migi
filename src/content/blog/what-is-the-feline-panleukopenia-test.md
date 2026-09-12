@@ -21,13 +21,13 @@ Testing allows for early diagnosis and administration of supportive treatments l
 ## How Much Does It Cost?
 
 
-The cost of feline panleukopenia testing ranges between $50 to $100 on average. However, prices may vary depending on the diagnostic method used by the veterinary clinic. Common tests available include:
+The cost of feline panleukopenia testing varies depending on the diagnostic method used and must be confirmed with the supplier or veterinary clinic. Common tests available include:
 
-●    ELISA (Enzyme-Linked Immunosorbent Assay) test: This blood test checks for antibodies against the virus. It is affordable at around $50-60 per sample.
+●    ELISA (Enzyme-Linked Immunosorbent Assay) test: This blood test checks for antibodies against the virus. Pricing is confirmed with the supplier or laboratory.
 
-●    FA (Fluorescent Antibody) test: This detects viral antigens in faecal or tissue samples under a fluorescent microscope. It is more expensive at about $80-100 per test.
+●    FA (Fluorescent Antibody) test: This detects viral antigens in faecal or tissue samples under a fluorescent microscope. Pricing is confirmed with the supplier or laboratory.
 
-●    PCR (Polymerase Chain Reaction) test: Considered the most accurate method, PCR detects viral DNA. While highly sensitive and specific, it is also the costliest diagnostic   option ranging from $90-120 per sample.
+●    PCR (Polymerase Chain Reaction) test: Considered the most accurate method, PCR detects viral DNA. While highly sensitive and specific, its cost varies and should be confirmed with the supplier or laboratory.
 
 
 ## How Often Do We Need to Do the Test?
@@ -93,13 +93,13 @@ The main equipment and supplies required for performing the feline panleukopeni
 
 No, immunofluorescence test kits for detecting feline panleukopenia and other pathogens are sold separately from the analyzer equipment. Here are more details:
 
-●    Panleukopenia antigen/antibody kits by Magic Biotech contain 10 tests and cost around $55-65 per box without the analyzer.
+●    Panleukopenia antigen/antibody kits by Magic Biotech contain 10 tests per box and are sold without the analyzer; pricing must be confirmed with the supplier based on volume, region, and OEM terms.
 
-●   A basic single-channel FIA680Vet analyzer from Magic sells for $1000. It can run 1 test at a time in 11 minutes.
+●   A basic single-channel FIA680Vet analyzer from Magic is available; pricing must be confirmed with the supplier based on volume, region, and OEM terms. It can run 1 test at a time in 11 minutes.
 
-●    Premium 6-channel FIA880Vet machine is priced at $1500. It processes 6 samples simultaneously at the same time.
+●    Premium 6-channel FIA880Vet machine is available; pricing must be confirmed with the supplier based on volume, region, and OEM terms. It processes 6 samples simultaneously at the same time.
 
-●   Additional accessories like digital pipettes and centrifuge start from $30 separately.
+●   Additional accessories like digital pipettes and centrifuge are available separately; pricing must be confirmed with the supplier based on volume, region, and OEM terms.
 
 Purchasing individual components provides flexibility. Customers can try out low volumes of specific pathogen kits first before investing in the analyzer. Some veterinary labs may already own a compatible machine too.
 
@@ -107,11 +107,11 @@ Purchasing individual components provides flexibility. Customers can try out low
 ## How Much Does the Machine Cost? Are There Any Discounts?
 
 
-As mentioned earlier, Guangzhou Magic’s veterinary immunofluorescence analyzers are affordably priced as follows:
+As mentioned earlier, Guangzhou Magic’s veterinary immunofluorescence analyzers are available at supplier-confirmed pricing, which varies by volume, region, and OEM terms.
 
-●    FIA680Vet single-channel analyzer: $1000
+●    FIA680Vet single-channel analyzer: price on request (varies by volume, region, and OEM terms)
 
-●    FIA880Vet 6-channel analyzer: $1500
+●    FIA880Vet 6-channel analyzer: price on request (varies by volume, region, and OEM terms)
 
 These benchtop automated machines have excellent build quality, high throughput testing capabilities, and multi-year warranty support.
 
@@ -127,7 +127,7 @@ Some discount offers provided by Magic Biotech on the analyzers include:
 
 ●   0% financing options through lending partners for 6-12 month instalment payments.
 
-●    Free standard shipping on international analyzer orders above $2000.
+●    Free standard shipping on international analyzer orders must be confirmed with the supplier.
 
 These incentives help customers maximize savings while equipping their practices. The easy EMI payment schemes ensure affordable access to high-quality immunofluorescence testing  technology.
 

@@ -13,7 +13,7 @@ Testing cats for feline leukaemia virus (FeLV) and feline immunodeficiency virus
 ## What are Feline Leukemia/Fiv Tests? why do we need to do the testing?
 
 
-FeLV is a virus that can cause cancer and damage the immune system of cats, leading to life-threatening infections. FIV is an immune-suppressing virus similar to HIV in humans. While some cats may show no signs of infection, both viruses pose serious health risks. Routine testing allows early detection and treatment. It also helps identify infected cats and prevent transmission to other pets (Little, 2011).
+FeLV is a virus that can cause cancer and damage the immune system of cats, leading to life-threatening infections. FIV is an immune-suppressing virus similar to HIV in humans. While some cats may show no signs of infection, both viruses pose serious health risks. Routine testing allows early detection and treatment. It also helps identify infected cats and prevent transmission to other pets.
 
 
 ## What are the differences between them?
@@ -43,7 +43,7 @@ The blood collection with a small needle prick may cause a little discomfort for
 ## Does the virus transmit to humans?
 
 
-While FeLV and FIV only infect felines, contact with infected cats does pose some risk to humans. However, transmission is extremely rare. Simple precautions like handwashing after handling cats and avoiding bites/scratches can prevent potential issues. Neither virus can cause illness in people.
+FeLV and FIV are feline-specific viruses. They infect only cats, do not infect humans, and pose no health risk to people.
 
 
 ## Does the virus affect to my other cats?
@@ -67,7 +67,7 @@ Yes, kittens as young as 4 months old can be reliably tested for FeLV and FIV an
 ## What’s the cost for two tests?
 
 
-On average, an in-clinic combination FeLV/FIV antibody test costs between $35-55 USD. Rapid tests run $20-40. Annual or biannual re-testing remains important for at-risk outdoor cats. While out-of-pocket, the inexpensive tests provide pet owners valuable health information to manage care and prevent further disease spread. Early detection is also more conducive to treatment success.
+The cost of an in-clinic combination FeLV/FIV antibody test or rapid test varies by supplier, purchase volume, region, and OEM terms and must be confirmed with the supplier or clinic. Annual or biannual re-testing remains important for at-risk outdoor cats. Testing provides pet owners valuable health information to manage care and prevent further disease spread. Early detection is also more conducive to treatment success.
 
 
 ## How long the testing will be done for each?

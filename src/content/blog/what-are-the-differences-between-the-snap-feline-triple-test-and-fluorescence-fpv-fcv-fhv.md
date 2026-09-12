@@ -41,7 +41,7 @@ Yes, the fluorescence immunoassay method is generally more accurate than a rapid
 ## Which One is Cheaper?
 
 
-A snap feline triple test kit containing 10 tests typically costs around $30-40. Individual fluorescence FPV/FCV/FHV tests cost around $5 each, but the analyzer that reads them costs $1000-1500 depending on the model. For testing many samples, the fluorescence method becomes more cost-effective compared to individual snap tests. However, the upfront analyzer cost makes the snap test cheaper for testing a small number of samples.
+A snap feline triple test kit typically contains multiple tests and requires no analyzer purchase, so it has no equipment threshold, though its unit cost is higher. Individual fluorescence FPV/FCV/FHV tests have a lower unit cost, but the analyzer that reads them must be purchased first. For testing many samples, the fluorescence method becomes more cost-effective compared to individual snap tests. However, the upfront analyzer cost makes the snap test cheaper for testing a small number of samples.
 
 
 ## Why Do Most End Consumers Use Rapid Tests?
@@ -75,7 +75,7 @@ In most routine testing situations, there would be no need to do PCR testing aft
 ## Why use our testing kits product?
 
 
-Veterinary clinics and animal hospitals should use the fluorescence FPV/FCV/FHV testing kits and analyzer products because though the upfront analyzer cost is higher than snap tests, it provides clear advantages. The kits are competitively priced, with each test costing only around $5. While slightly more expensive per test than snap tests, the fluorescence system allows testing multiple samples simultaneously using the analyzer. This significantly improves testing throughput and makes it faster to process large volumes of samples. So when considering the increased speed, convenience and volume testing capabilities, our product provides good value and remains affordable for busy veterinary practices compared to doing each test individually.
+Veterinary clinics and animal hospitals should use the fluorescence FPV/FCV/FHV testing kits and analyzer products because though the upfront analyzer cost is higher than snap tests, it provides clear advantages. The kits are competitively priced on a per-test basis, with supplier-confirmed pricing that is generally lower than snap tests. The fluorescence system allows testing multiple samples simultaneously using the analyzer. This significantly improves testing throughput and makes it faster to process large volumes of samples. So when considering the increased speed, convenience and volume testing capabilities, our product provides good value and remains affordable for busy veterinary practices compared to doing each test individually.
 
 
 ## References

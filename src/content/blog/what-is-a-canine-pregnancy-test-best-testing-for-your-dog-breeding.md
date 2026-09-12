@@ -67,7 +67,7 @@ A canine progesterone test measures the level of progesterone hormones in the bi
 ## How much does this progesterone kit cost? For how many samples?
 
 
-This company’s Canine Progesterone (MG-CA-R020) kit costs around $55 and provides materials to test 10 samples. Given that breeding usually produces a single pregnancy, one kit would confirm or rule out pregnancy in a single-bred bitch. Additional samples could check for returning to estrus if initial testing was inconclusive or verify multiple breedings. The affordable per-test cost and convenience of home testing make this an efficient option for breeders and pet owners.
+This company’s Canine Progesterone (MG-CA-R020) kit provides materials to test 10 samples; pricing is quoted by the supplier according to purchase volume, region, and OEM terms.
 
 
 ## Does pet insurance cover the testing expense?

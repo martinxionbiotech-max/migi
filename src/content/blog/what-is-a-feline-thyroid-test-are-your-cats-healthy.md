@@ -49,7 +49,7 @@ A small blood sample is collected from the cat. For accurate results, samples sh
 ## What is the Cost of Feline Thyroid Testing?
 
 
-The cost of fTT4 test varies depending on the clinic and location but ranges from $50-$80 per test usually. Additional tests like ultrasound may cost more. Quantitative analyzer like FIA680 costs $1000 for single channel and $1500 for six channels. It offers quick, accurate and affordable testing with no recurring costs for reagents or calibrators. Overall, the investment allows timely diagnosis and management of thyroid disorders in cats at reasonable prices.
+The cost of the fTT4 test varies depending on the clinic and location and must be confirmed with the provider. Additional tests like ultrasound may cost more. Quantitative analyzers like the FIA680 single-channel and FIA880 six-channel are available, with pricing quoted by the supplier according to volume, region, and OEM terms. They offer quick, accurate testing with no recurring costs for reagents or calibrators. Overall, the investment allows timely diagnosis and management of thyroid disorders in cats at reasonable prices.
 
 
 ## Do we need to use a Quantitative Analyser FIA680/880?
