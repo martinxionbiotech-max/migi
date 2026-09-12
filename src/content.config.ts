@@ -69,4 +69,21 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { products, blog, biomarkers, pages };
+const diseases = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/diseases' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    species: z.enum(['canine', 'feline']),
+    clinicalContext: z.string(),
+    biomarkers: z.array(z.string()),
+    relatedProducts: z.array(z.string()),
+    relatedBlogs: z.array(z.string()),
+    source: z.string(),
+    date: z.string(),
+    confidence: z.string(),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+  }),
+});
+
+export const collections = { products, blog, biomarkers, pages, diseases };
