@@ -13,31 +13,51 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
-const { title, description, catNo, image, attributes, faq } = entry.data;
+const { title, description, catNo, image, attributes, faq, whenToTest, whyTest, interpretation, limitations } = entry.data;
 
 const { Content } = await render(entry);
 
 const pageUrl = `/reagents/${entry.data.slug}/`;
+const siteUrl = 'https://migibio.net';
+const gallery = entry.data.gallery ?? [];
 const productSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
       '@type': 'Product',
+      '@id': `${siteUrl}${pageUrl}#product`,
       name: title,
       description: description || title,
-      image: image ? `https://migibio.net${image}` : undefined,
+      url: `${siteUrl}${pageUrl}`,
+      image: [image, ...gallery].filter(Boolean).map((i) => `${siteUrl}${i}`),
       ...(catNo ? { sku: catNo } : {}),
       brand: { '@type': 'Brand', name: 'Migibio' },
-      manufacturer: { '@id': 'https://migibio.net/#organization' },
+      manufacturer: { '@id': `${siteUrl}/#organization` },
       category: 'Veterinary rapid test reagent',
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: 'Reagents', item: 'https://migibio.net/reagents' },
-        { '@type': 'ListItem', position: 3, name: title },
-      ],
+      mainEntityOfPage: { '@id': `${siteUrl}${pageUrl.replace(/\/$/, '')}/#webpage` },
+      audience: {
+        '@type': 'BusinessAudience',
+        audienceType: 'Veterinary clinics, distributors, importers and breeders',
+      },
+      ...(attributes && Object.keys(attributes).length
+        ? {
+            additionalProperty: Object.entries(attributes).map(([k, v]) => ({
+              '@type': 'PropertyValue',
+              name: k,
+              value: v,
+            })),
+          }
+        : {}),
+      // B2B 询单销售模式：按用量 / 区域 / OEM 条款报价，站内不公布价格。
+      // 不写 price / priceCurrency（不杜撰价格），仅给结构完整的询单型 Offer。
+      offers: {
+        '@type': 'Offer',
+        '@id': `${siteUrl}${pageUrl}#offer`,
+        url: `${siteUrl}/contact`,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+        seller: { '@id': `${siteUrl}/#organization` },
+      },
     },
     ...(faq
       ? [{
@@ -53,7 +73,20 @@ const productSchema = {
 };
 ---
 
-<Layout title={title} description={description} schema={productSchema} type="product" canonical={pageUrl} ogImage={image || '/images/default-og.png'}>
+<Layout
+  title={title}
+  description={description}
+  schema={productSchema}
+  type="product"
+  canonical={pageUrl}
+  pageType="ItemPage"
+  crumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Reagents', url: '/reagents/' },
+    { name: title },
+  ]}
+  ogImage={image || '/images/default-og.png'}
+>
   <article class="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
     <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
       <a href="/" class="hover:text-brand-600">Home</a>
@@ -85,5 +118,37 @@ const productSchema = {
     <div class="prose prose-lg mt-12 max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-brand-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
       <Content />
     </div>
+
+    {(whenToTest || whyTest || interpretation || limitations) && (
+      <section class="mt-12">
+        <h2 class="text-2xl font-bold text-gray-900">Clinical Context</h2>
+        <div class="mt-4 grid gap-4 md:grid-cols-2">
+          {whenToTest && (
+            <div class="rounded-lg border border-gray-200 bg-white p-5">
+              <h3 class="font-semibold text-gray-900">When to Test</h3>
+              <p class="mt-2 text-gray-700">{whenToTest}</p>
+            </div>
+          )}
+          {whyTest && (
+            <div class="rounded-lg border border-gray-200 bg-white p-5">
+              <h3 class="font-semibold text-gray-900">Why Test</h3>
+              <p class="mt-2 text-gray-700">{whyTest}</p>
+            </div>
+          )}
+          {interpretation && (
+            <div class="rounded-lg border border-gray-200 bg-white p-5">
+              <h3 class="font-semibold text-gray-900">Interpretation</h3>
+              <p class="mt-2 text-gray-700">{interpretation}</p>
+            </div>
+          )}
+          {limitations && (
+            <div class="rounded-lg border border-gray-200 bg-white p-5">
+              <h3 class="font-semibold text-gray-900">Limitations</h3>
+              <p class="mt-2 text-gray-700">{limitations}</p>
+            </div>
+          )}
+        </div>
+      </section>
+    )}
   </article>
 </Layout>

@@ -1,0 +1,93 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const biomarkers = await getCollection('biomarkers');
+
+const categoryOrder = ['infectious', 'endocrine', 'inflammatory', 'cardiac', 'pancreatic', 'renal'] as const;
+const categoryLabels: Record<string, string> = {
+  infectious: 'Infectious Disease',
+  endocrine: 'Endocrine',
+  inflammatory: 'Inflammatory',
+  cardiac: 'Cardiac',
+  pancreatic: 'Pancreatic',
+  renal: 'Renal',
+};
+
+const grouped = categoryOrder.map((category) => ({
+  category,
+  label: categoryLabels[category],
+  items: biomarkers
+    .filter((b) => b.data.category === category)
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
+}));
+
+function speciesLabel(species: 'canine' | 'feline' | 'both'): string {
+  return species === 'both' ? 'Canine & Feline' : species === 'canine' ? 'Canine' : 'Feline';
+}
+
+const siteUrl = 'https://migibio.net';
+const schema = {
+  '@graph': [
+    {
+      '@type': 'ItemList',
+      '@id': `${siteUrl}/biomarkers/#list`,
+      name: 'Canine & Feline Biomarker Reference',
+      numberOfItems: biomarkers.length,
+      itemListElement: biomarkers.map((b, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: b.data.title,
+        url: `${siteUrl}/biomarkers/${b.data.slug}/`,
+      })),
+    },
+  ],
+};
+---
+
+<Layout
+  title="Biomarker Data Hub"
+  description="A reference knowledge graph of canine and feline biomarkers measured by Migibio fluorescence immunoassay (FICT) test kits."
+  schema={schema}
+  canonical="/biomarkers/"
+  pageType="CollectionPage"
+  crumbs={[{ name: 'Home', url: '/' }, { name: 'Biomarkers' }]}
+>
+  <div class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
+    <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
+      <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Biomarker Data Hub</h1>
+      <p class="mt-3 max-w-3xl text-lg text-brand-100">
+        A structured reference for canine and feline biomarkers measured by Migibio fluorescence immunoassay (FICT) kits — what each marker is, when it is used, and which products and articles support interpretation.
+      </p>
+    </div>
+  </div>
+
+  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="mb-10 max-w-3xl rounded-lg border border-brand-200 bg-brand-50 p-5 text-sm text-brand-900">
+      <strong>Reference-range note:</strong> this hub does not publish universal cut-offs. Reference ranges vary by species, age, laboratory method and patient population. Always interpret results against the kit IFU and your in-house validation.
+    </div>
+
+    {grouped.map((group) => (
+      <section class="mb-12">
+        <h2 class="text-2xl font-bold text-gray-900">{group.label}</h2>
+        {group.items.length === 0 ? (
+          <p class="mt-3 text-gray-500">No biomarkers in this category yet.</p>
+        ) : (
+          <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {group.items.map((entry) => (
+              <a href={`/biomarkers/${entry.data.slug}`} class="group rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-md">
+                <div class="flex items-center justify-between gap-3">
+                  <span class="rounded-full bg-brand-100 px-3 py-1 text-xs font-semibold text-brand-700">{speciesLabel(entry.data.species)}</span>
+                  <span class="text-xs text-gray-500">{entry.data.unit}</span>
+                </div>
+                <h3 class="mt-4 text-lg font-semibold text-gray-900 group-hover:text-brand-700">{entry.data.title}</h3>
+                <p class="mt-2 text-sm leading-relaxed text-gray-600 line-clamp-3">{entry.data.clinicalContext}</p>
+                <span class="mt-4 inline-flex items-center text-sm font-medium text-brand-600 group-hover:text-brand-800">View biomarker →</span>
+              </a>
+            ))}
+          </div>
+        )}
+      </section>
+    ))}
+  </section>
+</Layout>

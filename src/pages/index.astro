@@ -15,75 +15,27 @@ const latestPosts = posts
   .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
   .slice(0, 6);
 
-const featuredItemList = [
-  ...analyzers.map((p, i) => ({
-    '@type': 'ListItem',
-    position: i + 1,
-    name: p.data.title,
-    url: `https://migibio.net/equipment/${p.data.slug}`,
-  })),
-  ...reagents.slice(0, 6).map((p, i) => ({
-    '@type': 'ListItem',
-    position: analyzers.length + i + 1,
-    name: p.data.title,
-    url: `https://migibio.net/reagents/${p.data.slug}`,
-  })),
-];
-
 const siteSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'Organization',
-      '@id': 'https://migibio.net/#organization',
-      name: 'Guangzhou Magic Biotech Co., Ltd.',
-      legalName: '广州敏捷生物技术有限公司',
-      alternateName: 'Migibio',
-      url: 'https://migibio.net',
-      email: 'martinwang2024@gmail.com',
-      telephone: '+86 13323237275',
-      foundingDate: '2017-11-07',
-      founder: { '@type': 'Person', name: 'Tang Yongping (汤永平)', jobTitle: 'Founder & Legal Representative' },
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road',
-        addressLocality: 'Guangzhou',
-        addressRegion: 'Guangdong',
-        addressCountry: 'CN',
-      },
-      description:
-        'High-tech manufacturer of POCT veterinary diagnostic equipment and rapid test reagents using fluorescence immunochromatographic technology (FICT).',
-      sameAs: [
-        'https://www.facebook.com/chinamigibio/',
-        'https://x.com/martinw13461856',
-        'https://www.linkedin.com/in/martinwangmigi/',
-      ],
-      hasCertification: [
-        { '@type': 'Certification', name: 'ISO9001 Quality Management System' },
-        { '@type': 'Certification', name: 'Veterinary GMP Certificate (兽药 GMP)' },
-        { '@type': 'Certification', name: 'Veterinary Drug Production License (兽药生产许可证)' },
-        { '@type': 'Certification', name: 'National High-Tech Enterprise (国家高新技术企业)' },
-      ],
-      knowsAbout: [
-        'Fluorescence Immunochromatography',
-        'Veterinary Point-of-Care Diagnostics',
-        'Canine and Feline Infectious Disease Testing',
-      ],
-    },
-    {
-      '@type': 'WebSite',
-      '@id': 'https://migibio.net/#website',
-      url: 'https://migibio.net',
-      name: 'Migibio',
-      publisher: { '@id': 'https://migibio.net/#organization' },
-      inLanguage: 'en',
-    },
-    {
       '@type': 'ItemList',
-      '@id': 'https://migibio.net/#products',
-      name: 'Migibio Veterinary Diagnostic Products',
-      numberOfItems: featuredItemList.length,
-      itemListElement: featuredItemList,
+      '@id': 'https://migibio.net/#featured',
+      name: 'Migibio — analyzers and featured test kits',
+      numberOfItems: analyzers.length + Math.min(6, reagents.length),
+      itemListElement: [
+        ...analyzers.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name: p.data.title,
+          url: `https://migibio.net/equipment/${p.data.slug}/`,
+        })),
+        ...reagents.slice(0, 6).map((p, i) => ({
+          '@type': 'ListItem',
+          position: analyzers.length + i + 1,
+          name: p.data.title,
+          url: `https://migibio.net/reagents/${p.data.slug}/`,
+        })),
+      ],
     },
   ],
 };

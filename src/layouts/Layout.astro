@@ -9,6 +9,12 @@ export interface Props {
   type?: 'website' | 'article' | 'product';
   canonical?: string;
   noindex?: boolean;
+  /** schema.org type of the page node, e.g. WebPage | ItemPage | CollectionPage | AboutPage | ContactPage */
+  pageType?: string;
+  /** breadcrumb trail, Home first: [{name, url?}] — last item (current page) may omit url */
+  crumbs?: { name: string; url?: string }[];
+  datePublished?: string;
+  dateModified?: string;
 }
 
 const {
@@ -19,17 +25,123 @@ const {
   type = 'website',
   canonical,
   noindex = false,
+  pageType = 'WebPage',
+  crumbs,
+  datePublished,
+  dateModified,
 } = Astro.props;
 
 const siteUrl = 'https://migibio.net';
-const pageUrl = canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathname, siteUrl).href;
+const pageUrl = (canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathname, siteUrl).href).replace(/([^:])\/\/+/g, '$1/');
+const pageId = `${pageUrl.replace(/\/$/, '')}/#webpage`;
 const brandTitle = title.includes('Migibio') ? title : `${title} — Migibio`;
 const companyName = 'Guangzhou Magic Biotech Co., Ltd.';
 const contactName = 'Martin.Wong';
-const phone = '+86 13323237275';
 const email = 'martinwang2024@gmail.com';
 const whatsapp = 'https://wa.me/8613323237275';
 const address = 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China';
+
+/* ------------------------------------------------------------------
+ * 全站结构化数据：统一 @graph。
+ * Organization / WebSite / WebPage(按页型) / BreadcrumbList 由本布局生成，
+ * 页面模板只负责传入自己的实体节点（Product / Article / FAQPage / ItemList …）。
+ * ------------------------------------------------------------------ */
+const organizationNode = {
+  '@type': 'Organization',
+  '@id': `${siteUrl}/#organization`,
+  name: companyName,
+  legalName: '广州敏捷生物技术有限公司',
+  alternateName: 'Migibio',
+  url: siteUrl,
+  founder: { '@type': 'Person', name: 'Tang Yongping (汤永平)', jobTitle: 'Founder & Legal Representative' },
+  logo: { '@type': 'ImageObject', url: `${siteUrl}/images/favicon.png` },
+  image: `${siteUrl}/images/default-og.png`,
+  email,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road',
+    addressLocality: 'Guangzhou',
+    addressRegion: 'Guangdong',
+    addressCountry: 'CN',
+  },
+  foundingDate: '2017-11',
+  description:
+    'High-tech manufacturer of POCT veterinary diagnostic equipment and rapid test reagents using fluorescence immunochromatographic technology (FICT).',
+  sameAs: [
+    'https://www.facebook.com/chinamigibio/',
+    'https://x.com/martinw13461856',
+    'https://www.linkedin.com/in/martinwangmigi/',
+  ],
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'sales',
+    email,
+    url: whatsapp,
+    areaServed: 'Worldwide',
+    availableLanguage: ['en', 'zh'],
+  },
+  hasCertification: [
+    { '@type': 'Certification', name: 'ISO9001 Quality Management System' },
+    { '@type': 'Certification', name: 'GMP (Good Manufacturing Practice)' },
+    { '@type': 'Certification', name: 'Veterinary Drug Production License' },
+    { '@type': 'Certification', name: 'Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME' },
+    { '@type': 'Certification', name: 'National High-Tech Enterprise (国家高新技术企业)' },
+  ],
+  award: '2018 Innovation and Entrepreneurship Competition award',
+  knowsAbout: [
+    'Fluorescence Immunochromatography',
+    'Veterinary Point-of-Care Diagnostics',
+    'Canine and Feline Infectious Disease Testing',
+    'Quantitative Immunoassay Analyzers',
+  ],
+};
+
+const websiteNode = {
+  '@type': 'WebSite',
+  '@id': `${siteUrl}/#website`,
+  url: siteUrl,
+  name: 'Migibio',
+  publisher: { '@id': `${siteUrl}/#organization` },
+  inLanguage: 'en',
+};
+
+const webPageNode: Record<string, any> = {
+  '@type': pageType,
+  '@id': pageId,
+  url: pageUrl,
+  name: title,
+  description,
+  isPartOf: { '@id': `${siteUrl}/#website` },
+  inLanguage: 'en',
+  ...(datePublished ? { datePublished } : {}),
+  ...(dateModified ? { dateModified } : {}),
+  ...(crumbs && crumbs.length > 1 ? { breadcrumb: { '@id': `${pageUrl.replace(/\/$/, '')}/#breadcrumb` } } : {}),
+};
+
+const breadcrumbNode =
+  crumbs && crumbs.length > 1
+    ? {
+        '@type': 'BreadcrumbList',
+        '@id': `${pageUrl.replace(/\/$/, '')}/#breadcrumb`,
+        itemListElement: crumbs.map((c, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name: c.name,
+          ...(c.url ? { item: c.url.startsWith('http') ? c.url : `${siteUrl}${c.url}` } : {}),
+        })),
+      }
+    : null;
+
+const pageNodes: Record<string, any>[] = schema
+  ? Array.isArray((schema as any)['@graph'])
+    ? (schema as any)['@graph']
+    : [schema]
+  : [];
+
+const graphSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [organizationNode, websiteNode, webPageNode, ...(breadcrumbNode ? [breadcrumbNode] : []), ...pageNodes],
+};
 
 const navLinks = [
   { label: 'Home', href: '/' },
@@ -41,6 +153,7 @@ const navLinks = [
       { label: 'History', href: '/history' },
       { label: 'Corporate Identity', href: '/corporate-identity' },
       { label: 'Locations', href: '/locations' },
+      { label: 'OEM/ODM', href: '/oem-odm' },
       { label: 'Support', href: '/support' },
     ],
   },
@@ -67,7 +180,8 @@ const navLinks = [
       { label: 'Core Technology', href: '/core-technology' },
       { label: 'Knowledge Base', href: 'https://docs.migibio.net' },
       { label: 'Research Center', href: 'https://research.migibio.net' },
-      { label: 'Data Hub', href: 'https://data.migibio.net' },
+      { label: 'Data Hub', href: '/biomarkers' },
+      { label: 'Disease Hub', href: '/diseases' },
     ],
   },
 ];
@@ -108,7 +222,7 @@ const navLinks = [
     <meta name="generator" content={Astro.generator} />
 
     <!-- Schema.org JSON-LD -->
-    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+    <script type="application/ld+json" set:html={JSON.stringify(graphSchema)} />
   </head>
   <body class="min-h-screen bg-white text-gray-900 antialiased">
     <div class="brand-accent"></div>
@@ -217,14 +331,14 @@ const navLinks = [
           <ul class="mt-4 space-y-2.5 text-sm">
             <li><a href="https://docs.migibio.net" class="text-gray-400 transition-colors hover:text-brand-300">Knowledge Base</a></li>
             <li><a href="https://research.migibio.net" class="text-gray-400 transition-colors hover:text-brand-300">Research Center</a></li>
-            <li><a href="https://data.migibio.net" class="text-gray-400 transition-colors hover:text-brand-300">Data Hub</a></li>
+            <li><a href="/biomarkers" class="text-gray-400 transition-colors hover:text-brand-300">Data Hub</a></li>
           </ul>
         </div>
       </div>
       <div class="border-t border-gray-800">
         <div class="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-6 text-xs text-gray-500 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
           <p>&copy; {new Date().getFullYear()} {companyName} — Migibio. All rights reserved.</p>
-          <p class="leading-relaxed">Contact: {contactName} &nbsp;·&nbsp; Phone (WhatsApp): <a href={whatsapp} target="_blank" rel="noopener" class="text-gray-300 transition-colors hover:text-brand-300">{phone}</a> &nbsp;·&nbsp; Email: <a href={`mailto:${email}`} class="text-gray-300 transition-colors hover:text-brand-300">{email}</a></p>
+          <p class="leading-relaxed">Contact: {contactName} &nbsp;·&nbsp; <a href={whatsapp} target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-gray-300 transition-colors hover:text-brand-300"><span>WhatsApp</span></a> &nbsp;·&nbsp; Email: <a href={`mailto:${email}`} class="text-gray-300 transition-colors hover:text-brand-300">{email}</a></p>
         </div>
       </div>
     </footer>

@@ -16,6 +16,11 @@ const products = defineCollection({
     attributes: z.record(z.string()).optional(),
     // FAQ for schema + AIO
     faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+    // Clinical context rendered on reagent product pages
+    whenToTest: z.string().optional(),
+    whyTest: z.string().optional(),
+    interpretation: z.string().optional(),
+    limitations: z.string().optional(),
     pubDate: z.coerce.date().optional(),
   }),
 });
@@ -32,6 +37,28 @@ const blog = defineCollection({
   }),
 });
 
+const biomarkers = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/biomarkers' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    description: z.string().optional(),
+    species: z.enum(['canine', 'feline', 'both']),
+    biomarker: z.string(),
+    method: z.string(),
+    unit: z.string(),
+    category: z.enum(['infectious', 'endocrine', 'inflammatory', 'cardiac', 'pancreatic', 'renal']),
+    clinicalContext: z.string(),
+    referenceRange: z.string(),
+    source: z.string(),
+    date: z.string(),
+    confidence: z.string(),
+    relatedProducts: z.array(z.string()),
+    relatedBlogs: z.array(z.string()),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+  }),
+});
+
 const pages = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
   schema: z.object({
@@ -42,4 +69,21 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { products, blog, pages };
+const diseases = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/diseases' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    species: z.enum(['canine', 'feline']),
+    clinicalContext: z.string(),
+    biomarkers: z.array(z.string()),
+    relatedProducts: z.array(z.string()),
+    relatedBlogs: z.array(z.string()),
+    source: z.string(),
+    date: z.string(),
+    confidence: z.string(),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
+  }),
+});
+
+export const collections = { products, blog, biomarkers, pages, diseases };
