@@ -39,22 +39,7 @@ function speciesLabel(value: 'canine' | 'feline' | 'both'): string {
 
 const pageUrl = `/biomarkers/${entry.data.slug}/`;
 const pageSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
-    {
-      '@type': 'WebPage',
-      name: title,
-      description: description || title,
-      url: `https://migibio.net${pageUrl}`,
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: 'Biomarkers', item: 'https://migibio.net/biomarkers' },
-        { '@type': 'ListItem', position: 3, name: title },
-      ],
-    },
     ...(faq
       ? [{
           '@type': 'FAQPage',
@@ -69,7 +54,19 @@ const pageSchema = {
 };
 ---
 
-<Layout title={title} description={description} schema={pageSchema} canonical={pageUrl}>
+<Layout
+  title={title}
+  description={description}
+  schema={pageSchema}
+  canonical={pageUrl}
+  pageType="WebPage"
+  dateModified={date}
+  crumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Biomarkers', url: '/biomarkers/' },
+    { name: title },
+  ]}
+>
   <article class="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
     <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
       <a href="/" class="hover:text-brand-600">Home</a>

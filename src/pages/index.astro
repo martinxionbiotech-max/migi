@@ -16,47 +16,26 @@ const latestPosts = posts
   .slice(0, 6);
 
 const siteSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'Organization',
-      '@id': 'https://migibio.net/#organization',
-      name: 'Guangzhou Magic Biotech Co., Ltd.',
-      alternateName: 'Migibio',
-      url: 'https://migibio.net',
-      email: 'martinwang2024@gmail.com',
-foundingDate: '2017-11',
-      address: {
-        '@type': 'PostalAddress',
-        streetAddress: 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road',
-        addressLocality: 'Guangzhou',
-        addressRegion: 'Guangdong',
-        addressCountry: 'CN',
-      },
-      description:
-        'High-tech manufacturer of POCT veterinary diagnostic equipment and rapid test reagents using fluorescence immunochromatographic technology (FICT).',
-      sameAs: [
-        'https://www.facebook.com/chinamigibio/',
-        'https://x.com/martinw13461856',
-        'https://www.linkedin.com/in/martinwangmigi/',
+      '@type': 'ItemList',
+      '@id': 'https://migibio.net/#featured',
+      name: 'Migibio — analyzers and featured test kits',
+      numberOfItems: analyzers.length + Math.min(6, reagents.length),
+      itemListElement: [
+        ...analyzers.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          name: p.data.title,
+          url: `https://migibio.net/equipment/${p.data.slug}/`,
+        })),
+        ...reagents.slice(0, 6).map((p, i) => ({
+          '@type': 'ListItem',
+          position: analyzers.length + i + 1,
+          name: p.data.title,
+          url: `https://migibio.net/reagents/${p.data.slug}/`,
+        })),
       ],
-      hasCertification: [
-        { '@type': 'Certification', name: 'ISO9001 Quality Management System' },
-        { '@type': 'Certification', name: 'GMP (Good Manufacturing Practice)' },
-      ],
-      knowsAbout: [
-        'Fluorescence Immunochromatography',
-        'Veterinary Point-of-Care Diagnostics',
-        'Canine and Feline Infectious Disease Testing',
-      ],
-    },
-    {
-      '@type': 'WebSite',
-      '@id': 'https://migibio.net/#website',
-      url: 'https://migibio.net',
-      name: 'Migibio',
-      publisher: { '@id': 'https://migibio.net/#organization' },
-      inLanguage: 'en',
     },
   ],
 };

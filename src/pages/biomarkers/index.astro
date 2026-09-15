@@ -26,27 +26,33 @@ function speciesLabel(species: 'canine' | 'feline' | 'both'): string {
   return species === 'both' ? 'Canine & Feline' : species === 'canine' ? 'Canine' : 'Feline';
 }
 
+const siteUrl = 'https://migibio.net';
 const schema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'WebPage',
-      name: 'Biomarker Data Hub',
-      description: 'A reference knowledge graph of canine and feline biomarkers measured by Migibio fluorescence immunoassay (FICT) test kits.',
-      url: 'https://migibio.net/biomarkers',
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: 'Biomarkers', item: 'https://migibio.net/biomarkers' },
-      ],
+      '@type': 'ItemList',
+      '@id': `${siteUrl}/biomarkers/#list`,
+      name: 'Canine & Feline Biomarker Reference',
+      numberOfItems: biomarkers.length,
+      itemListElement: biomarkers.map((b, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: b.data.title,
+        url: `${siteUrl}/biomarkers/${b.data.slug}/`,
+      })),
     },
   ],
 };
 ---
 
-<Layout title="Biomarker Data Hub" description="A reference knowledge graph of canine and feline biomarkers measured by Migibio fluorescence immunoassay (FICT) test kits." schema={schema} canonical="/biomarkers">
+<Layout
+  title="Biomarker Data Hub"
+  description="A reference knowledge graph of canine and feline biomarkers measured by Migibio fluorescence immunoassay (FICT) test kits."
+  schema={schema}
+  canonical="/biomarkers/"
+  pageType="CollectionPage"
+  crumbs={[{ name: 'Home', url: '/' }, { name: 'Biomarkers' }]}
+>
   <div class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
     <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
       <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Biomarker Data Hub</h1>

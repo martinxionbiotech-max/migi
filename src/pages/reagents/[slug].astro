@@ -18,26 +18,46 @@ const { title, description, catNo, image, attributes, faq, whenToTest, whyTest, 
 const { Content } = await render(entry);
 
 const pageUrl = `/reagents/${entry.data.slug}/`;
+const siteUrl = 'https://migibio.net';
+const gallery = entry.data.gallery ?? [];
 const productSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
       '@type': 'Product',
+      '@id': `${siteUrl}${pageUrl}#product`,
       name: title,
       description: description || title,
-      image: image ? `https://migibio.net${image}` : undefined,
+      url: `${siteUrl}${pageUrl}`,
+      image: [image, ...gallery].filter(Boolean).map((i) => `${siteUrl}${i}`),
       ...(catNo ? { sku: catNo } : {}),
       brand: { '@type': 'Brand', name: 'Migibio' },
-      manufacturer: { '@id': 'https://migibio.net/#organization' },
+      manufacturer: { '@id': `${siteUrl}/#organization` },
       category: 'Veterinary rapid test reagent',
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: 'Reagents', item: 'https://migibio.net/reagents' },
-        { '@type': 'ListItem', position: 3, name: title },
-      ],
+      mainEntityOfPage: { '@id': `${siteUrl}${pageUrl.replace(/\/$/, '')}/#webpage` },
+      audience: {
+        '@type': 'BusinessAudience',
+        audienceType: 'Veterinary clinics, distributors, importers and breeders',
+      },
+      ...(attributes && Object.keys(attributes).length
+        ? {
+            additionalProperty: Object.entries(attributes).map(([k, v]) => ({
+              '@type': 'PropertyValue',
+              name: k,
+              value: v,
+            })),
+          }
+        : {}),
+      // B2B 询单销售模式：按用量 / 区域 / OEM 条款报价，站内不公布价格。
+      // 不写 price / priceCurrency（不杜撰价格），仅给结构完整的询单型 Offer。
+      offers: {
+        '@type': 'Offer',
+        '@id': `${siteUrl}${pageUrl}#offer`,
+        url: `${siteUrl}/contact`,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        businessFunction: 'http://purl.org/goodrelations/v1#Sell',
+        seller: { '@id': `${siteUrl}/#organization` },
+      },
     },
     ...(faq
       ? [{
@@ -53,7 +73,20 @@ const productSchema = {
 };
 ---
 
-<Layout title={title} description={description} schema={productSchema} type="product" canonical={pageUrl} ogImage={image || '/images/default-og.png'}>
+<Layout
+  title={title}
+  description={description}
+  schema={productSchema}
+  type="product"
+  canonical={pageUrl}
+  pageType="ItemPage"
+  crumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Reagents', url: '/reagents/' },
+    { name: title },
+  ]}
+  ogImage={image || '/images/default-og.png'}
+>
   <article class="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
     <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
       <a href="/" class="hover:text-brand-600">Home</a>

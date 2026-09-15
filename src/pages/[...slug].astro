@@ -15,22 +15,21 @@ const { title, description, faq } = entry.data;
 const { Content } = await render(entry);
 
 const pageUrl = `/${entry.data.slug}/`;
+const siteUrl = 'https://migibio.net';
+// 按页型给出更精确的 @type（AboutPage / ContactPage / ProfilePage / CollectionPage）
+const PAGE_TYPES: Record<string, string> = {
+  about: 'AboutPage',
+  contact: 'ContactPage',
+  'author-dr-tang': 'ProfilePage',
+  'corporate-identity': 'AboutPage',
+  news: 'CollectionPage',
+};
+const pageType = PAGE_TYPES[entry.data.slug] ?? 'WebPage';
+// dateModified 取该内容文件最后 git 提交日期（真实、可核验）
+const contentDates = (await import('../data/content-dates.json')).default as Record<string, string>;
+const dateModified = contentDates[`pages/${entry.data.slug}`];
 const pageSchema = {
-  '@context': 'https://schema.org',
   '@graph': [
-    {
-      '@type': 'WebPage',
-      name: title,
-      description: description || title,
-      url: `https://migibio.net${pageUrl}`,
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: title },
-      ],
-    },
     ...(faq
       ? [{
           '@type': 'FAQPage',
@@ -45,7 +44,15 @@ const pageSchema = {
 };
 ---
 
-<Layout title={title} description={description} schema={pageSchema} canonical={pageUrl}>
+<Layout
+  title={title}
+  description={description}
+  schema={pageSchema}
+  canonical={pageUrl}
+  pageType={pageType}
+  dateModified={dateModified}
+  crumbs={[{ name: 'Home', url: '/' }, { name: title }]}
+>
   <article class="mx-auto max-w-3xl px-4 py-8 sm:px-6 lg:px-8">
     <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
       <a href="/" class="hover:text-brand-600">Home</a>

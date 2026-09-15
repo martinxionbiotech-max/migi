@@ -7,27 +7,33 @@ const analyzers = products
   .filter((p) => p.data.category === 'analyzer')
   .sort((a, b) => (a.data.order ?? 0) - (b.data.order ?? 0));
 
+const siteUrl = 'https://migibio.net';
 const schema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'CollectionPage',
-      name: 'Equipment',
-      description: 'Veterinary immunofluorescence quantitative analyzers — FIA680 and FIA880.',
-      url: 'https://migibio.net/equipment',
-    },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://migibio.net/' },
-        { '@type': 'ListItem', position: 2, name: 'Equipment' },
-      ],
+      '@type': 'ItemList',
+      '@id': `${siteUrl}/equipment/#list`,
+      name: 'Veterinary Immunofluorescence Quantitative Analyzers',
+      numberOfItems: analyzers.length,
+      itemListElement: analyzers.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: p.data.title,
+        url: `${siteUrl}/equipment/${p.data.slug}/`,
+      })),
     },
   ],
 };
 ---
 
-<Layout title="Equipment — Veterinary Immunofluorescence Analyzers" description="Migibio FIA680 (single-channel) and FIA880 (six-channel) veterinary immunofluorescence quantitative analyzers for rapid, quantitative POCT diagnostics." schema={schema}>
+<Layout
+  title="Equipment — Veterinary Immunofluorescence Analyzers"
+  description="Migibio FIA680 (single-channel) and FIA880 (six-channel) veterinary immunofluorescence quantitative analyzers for rapid, quantitative POCT diagnostics."
+  schema={schema}
+  canonical="/equipment/"
+  pageType="CollectionPage"
+  crumbs={[{ name: 'Home', url: '/' }, { name: 'Equipment' }]}
+>
   <div class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
     <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
       <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Equipment</h1>

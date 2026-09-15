@@ -6,14 +6,29 @@ const posts = await getCollection('blog');
 const sorted = posts
   .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0));
 
+const siteUrl = 'https://migibio.net';
 const schema = {
-  '@context': 'https://schema.org',
   '@graph': [
     {
       '@type': 'Blog',
+      '@id': `${siteUrl}/blog/#blog`,
       name: 'Migibio Blog',
-      url: 'https://migibio.net/blog',
+      url: `${siteUrl}/blog/`,
       description: 'Veterinary diagnostics insights, test guides, and technology deep-dives from Migibio.',
+      publisher: { '@id': `${siteUrl}/#organization` },
+      inLanguage: 'en',
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${siteUrl}/blog/#list`,
+      name: 'Migibio Veterinary Diagnostics Articles',
+      numberOfItems: sorted.length,
+      itemListElement: sorted.map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: p.data.title,
+        url: `${siteUrl}/blog/${p.data.slug}/`,
+      })),
     },
   ],
 };
@@ -30,7 +45,14 @@ function categoryLabel(category: string | undefined): string {
 }
 ---
 
-<Layout title="Blog — Veterinary Diagnostics Insights" description="Expert guides on feline and canine disease testing, veterinary rapid diagnostics, and fluorescence immunochromatography technology." schema={schema}>
+<Layout
+  title="Blog — Veterinary Diagnostics Insights"
+  description="Expert guides on feline and canine disease testing, veterinary rapid diagnostics, and fluorescence immunochromatography technology."
+  schema={schema}
+  canonical="/blog/"
+  pageType="CollectionPage"
+  crumbs={[{ name: 'Home', url: '/' }, { name: 'Blog' }]}
+>
   <div class="bg-gradient-to-br from-brand-800 to-brand-600 text-white">
     <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
       <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">Blog</h1>
