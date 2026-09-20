@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import { PRICE_RANGES, formatRange } from '../../data/pricing';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -47,12 +48,23 @@ const productSchema = {
             })),
           }
         : {}),
-      // B2B 询单销售模式：按用量 / 区域 / OEM 条款报价，站内不公布价格。
-      // 不写 price / priceCurrency（不杜撰价格），仅给结构完整的询单型 Offer。
+      // 价格：GSC「应指定 price 或 priceSpecification.price（在 offers 中）」。
+      // 区间报价用 AggregateOffer（lowPrice/highPrice）+ priceSpecification（price 取区间下限），
+      // 与页面可见的 Price range 同源（src/data/pricing.ts）。
       offers: {
-        '@type': 'Offer',
+        '@type': 'AggregateOffer',
         '@id': `${siteUrl}${pageUrl}#offer`,
         url: `${siteUrl}/contact`,
+        priceCurrency: PRICE_RANGES.reagent.currency,
+        lowPrice: PRICE_RANGES.reagent.low,
+        highPrice: PRICE_RANGES.reagent.high,
+        priceSpecification: {
+          '@type': 'UnitPriceSpecification',
+          price: PRICE_RANGES.reagent.low,
+          minPrice: PRICE_RANGES.reagent.low,
+          maxPrice: PRICE_RANGES.reagent.high,
+          priceCurrency: PRICE_RANGES.reagent.currency,
+        },
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         businessFunction: 'http://purl.org/goodrelations/v1#Sell',
@@ -112,6 +124,10 @@ const productSchema = {
         <div class="mt-6 flex flex-wrap gap-3">
           <a href="/contact" class="rounded-lg bg-brand-600 px-6 py-3 text-base font-semibold text-white shadow-sm hover:bg-brand-700">Get the Latest Quote</a>
         </div>
+        <p class="mt-4 text-sm text-gray-600">
+          Indicative price range: <span class="font-semibold text-gray-900">{formatRange(PRICE_RANGES.reagent)}</span> per kit.
+          Final pricing (specification, order quantity and OEM terms) is confirmed in the written quotation.
+        </p>
       </div>
     </div>
 
