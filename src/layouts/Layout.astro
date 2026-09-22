@@ -336,9 +336,22 @@ const navLinks = [
         </div>
       </div>
       <div class="border-t border-gray-800">
-        <div class="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-6 text-xs text-gray-500 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
-          <p>&copy; {new Date().getFullYear()} {companyName} — Migibio. All rights reserved.</p>
-          <p class="leading-relaxed">Contact: {contactName} &nbsp;·&nbsp; <a href={whatsapp} target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-gray-300 transition-colors hover:text-brand-300"><span>WhatsApp</span></a> &nbsp;·&nbsp; Email: <a href={`mailto:${email}`} class="text-gray-300 transition-colors hover:text-brand-300">{email}</a></p>
+        <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+          <p class="text-xs leading-relaxed text-gray-500">
+            <strong class="font-semibold text-gray-400">Intended use:</strong> Migibio analyzers and reagent kits are for <strong class="font-semibold text-gray-400">veterinary (animal) use only</strong>. They are not intended for human diagnosis, treatment or screening.
+          </p>
+          <nav class="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 border-t border-gray-800 pt-4 text-xs" aria-label="Legal and compliance">
+            <a href="/regulatory-compliance/" class="text-gray-400 transition-colors hover:text-brand-300">Regulatory Compliance</a>
+            <a href="/disclaimer/" class="text-gray-400 transition-colors hover:text-brand-300">Disclaimer &amp; Intended Use</a>
+            <a href="/privacy-policy/" class="text-gray-400 transition-colors hover:text-brand-300">Privacy Policy</a>
+            <a href="/terms-of-use/" class="text-gray-400 transition-colors hover:text-brand-300">Terms of Use</a>
+            <a href="/terms-and-conditions/" class="text-gray-400 transition-colors hover:text-brand-300">Terms &amp; Conditions of Sale</a>
+            <a href="/shipping-returns-warranty/" class="text-gray-400 transition-colors hover:text-brand-300">Shipping, Returns &amp; Warranty</a>
+          </nav>
+          <div class="mt-4 flex flex-col gap-3 text-xs text-gray-500 sm:flex-row sm:items-center sm:justify-between">
+            <p>&copy; {new Date().getFullYear()} {companyName} — Migibio. All rights reserved.</p>
+            <p class="leading-relaxed">Contact: {contactName} &nbsp;·&nbsp; <a href={whatsapp} target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-gray-300 transition-colors hover:text-brand-300"><span>WhatsApp</span></a> &nbsp;·&nbsp; Email: <a href={`mailto:${email}`} class="text-gray-300 transition-colors hover:text-brand-300">{email}</a></p>
+          </div>
         </div>
       </div>
     </footer>
