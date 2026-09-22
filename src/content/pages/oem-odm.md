@@ -1,7 +1,7 @@
 ---
 title: "OEM/ODM & Manufacturing"
 slug: "oem-odm"
-description: "Migibio OEM/ODM and manufacturing capabilities for private-label veterinary POCT reagents and analyzers, based on archived company qualifications and product attributes."
+description: "Migibio OEM/ODM and private-label manufacturing for veterinary POCT reagents and analyzers — capabilities, quality system and customization options."
 ---
 
 # OEM/ODM & Manufacturing
@@ -14,7 +14,7 @@ The following capabilities are supported by Migibio's published product attribut
 
 - **Quantitative fluorescence POCT platform (FICT)** — the FIA680 single-channel analyzer, the FIA880 six-channel analyzer, and a canine/feline reagent panel covering infectious disease antigens and antibodies, hormones, inflammatory markers, and organ-function biomarkers.
 - **Research and development** — biomarker selection, antibody/antigen development, standard-curve design, and cloud-chip updates for downloadable standard curves and software.
-- **Production** — a standardized 2,000 m² R&D and production workshop operated under ISO9001-certified quality management and GMP principles, with full lot traceability.
+- **Production** — a standardized 2,000 m² R&D and production workshop operated under ISO 13485 and ISO 9001-certified quality management and GMP principles, with full lot traceability.
 - **Quality control** — manufacturer-reported platform precision of CV% <10%, pg/ml-level limit of detection, lot-release testing, and assay-specific validation documented in each reagent's Instructions for Use (IFU).
 
 Independent third-party validation studies are not yet published. Platform-level specifications are manufacturer-reported internal validation data; prospective partners should request the full validation report for the specific assay or analyzer being evaluated.
@@ -24,7 +24,8 @@ Independent third-party validation studies are not yet published. Platform-level
 Based on the archived company pages currently published on this site, Migibio confirms the following:
 
 - High-tech biotechnology enterprise, headquartered in Guangzhou Science City
-- ISO9001-certified quality management system
+- ISO 13485-certified quality management system (medical devices and IVDs)
+- ISO 9001-certified quality management system
 - GMP-certified manufacturing processes
 - Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME
 - Veterinary Drug Production License
@@ -49,7 +50,7 @@ Analyzer customization is supported by the published FIA680/FIA880 attributes: l
 - **Quantitative differentiation** — FICT produces an objective, instrument-read concentration rather than a subjective visual line, unlike conventional qualitative colloidal-gold rapid tests.
 - **Cloud-connected standard curves** — cloud-chip technology supports downloadable standard curves, custom reference ranges, and online software updates.
 - **Integrated system** — analyzers and canine/feline reagents are designed as one system, simplifying menu selection and supply planning.
-- **Documented quality foundation** — ISO9001 and GMP-certified manufacturing with internal quality controls and full lot traceability.
+- **Documented quality foundation** — ISO 13485, ISO 9001 and GMP-certified manufacturing with internal quality controls and full lot traceability.
 
 For the full technology explanation, see [Core Technology](/core-technology/). For validation status and analytical specifications, see [Research & Analytical Performance](/research/).
 

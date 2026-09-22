@@ -1,7 +1,7 @@
 ---
 title: "Research & Analytical Performance"
 slug: "research"
-description: "Migibio FICT platform analytical performance summary: manufacturer-reported precision, sensitivity, speed, and throughput, plus clinical validation status, method comparisons, and quality credentials."
+description: "Migibio FICT platform analytical performance: manufacturer-reported precision, sensitivity, speed and throughput, plus clinical validation status."
 faq: [{"q": "What does this Research Center page cover?", "a": "It summarizes the manufacturer-reported analytical platform specifications for the Migibio FIA680 and FIA880 systems and separates those platform-level figures from assay-specific clinical performance published in each reagent's Instructions for Use (IFU)."}, {"q": "Are the analytical specifications independently validated?", "a": "Independent third-party validation studies are not yet published. The specifications shown are manufacturer-reported internal validation data, and prospective users should request the full validation report from Migibio."}, {"q": "Where are clinical sensitivity and specificity documented?", "a": "Clinical sensitivity and specificity are assay-specific and documented in each reagent's Instructions for Use (IFU). This page does not publish aggregate sensitivity or specificity numbers at the platform level."}]
 ---
 
@@ -59,7 +59,7 @@ Independent third-party validation studies are not yet published. The specificat
 
 The archived company pages confirm the following credentials and facility information:
 
-- ISO9001-certified quality management and GMP-certified processes
+- ISO 13485 and ISO 9001-certified quality management, and GMP-certified processes
 - 30 core patents
 - Standardized 2,000 m² R&D and production workshop
 - Products sold in 30+ countries and regions

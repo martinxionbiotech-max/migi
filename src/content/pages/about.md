@@ -1,7 +1,7 @@
 ---
 title: "About Migibio"
 slug: "about"
-description: "Guangzhou Magic Biotech Co., Ltd. (Migibio) is an ISO9001 and GMP-certified manufacturer of POCT veterinary diagnostic equipment and rapid test reagents, exporting to 30+ countries."
+description: "Guangzhou Magic Biotech Co., Ltd. (Migibio), ISO 13485/9001 and GMP-certified maker of POCT veterinary diagnostic equipment and rapid test reagents."
 ---
 
 # About Migibio
@@ -15,7 +15,7 @@ Guangzhou Magic Biotech Co., Ltd., established in **November 2017** and headquar
 | Founded | November 2017 |
 | Headquarters | Guangzhou Science City, Huangpu District, Guangzhou, China |
 | Facility | Standardized 2,000 m² R&D and production workshop |
-| Certifications | ISO9001 (quality management), GMP (Good Manufacturing Practice), Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME, Veterinary Drug Production License |
+| Certifications | ISO 13485 (medical device QMS), ISO 9001 (quality management), GMP (Good Manufacturing Practice), Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME, Veterinary Drug Production License |
 | Recognition | 2018 Innovation and Entrepreneurship Competition award |
 | Intellectual Property | 30 core patents |
 | Global Reach | Products sold in 30+ countries and regions |
@@ -33,7 +33,7 @@ Migibio partners with veterinary professionals and institutions across the diagn
 
 ## Advanced Manufacturing & Quality System
 
-Our standardized **2,000 m² production workshop** operates under an ISO9001-certified quality management system and GMP principles, with equipment engineered for consistency and scale:
+Our standardized **2,000 m² production workshop** operates under ISO 13485 and ISO 9001-certified quality management and GMP principles, with equipment engineered for consistency and scale:
 
 - Automatic laminating machine — precision membrane assembly
 - Continuous film stripper — uniform reagent coating

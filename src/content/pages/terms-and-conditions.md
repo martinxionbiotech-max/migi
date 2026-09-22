@@ -2,7 +2,7 @@
 title: "Terms & Conditions of Sale"
 slug: "terms-and-conditions"
 description: "Conditions of sale for Migibio veterinary diagnostics: quotations, orders, MOQs, payment, delivery, inspection, returns, warranty and governing law."
-faq: [{"q": "What are Migibio's minimum order quantities?", "a": "Most Migibio rapid test reagents have a minimum order quantity of 10 boxes, and analyzers have a minimum of 1 unit. For OEM, ODM and private-label projects, minimums depend on the customization scope and are confirmed in the project quotation."}, {"q": "What delivery terms does Migibio quote?", "a": "Quotations state the delivery term per order, typically FOB or CIF under Incoterms 2020, together with the port of loading. The delivery term and named place in your quotation and order confirmation govern the order."}]
+faq: [{"q": "What are Migibio's minimum order quantities?", "a": "Most Migibio rapid test reagents have a minimum order quantity of 10 boxes, and analyzers have a minimum of 1 unit. For OEM, ODM and private-label projects, minimums depend on the customization scope and are confirmed in the project quotation."}, {"q": "What delivery terms does Migibio quote?", "a": "Quotations state the delivery term per order, typically FOB or CIF under Incoterms 2020, together with the port of loading. The delivery term and named place in your quotation and order confirmation govern the order."}, {"q": "What is the warranty period and the payment term?", "a": "Analyzers and instruments carry a 12-month warranty from delivery and are supplied against full payment of the invoice value, as set out in the proforma invoice. Quality-related claims must be raised within 30 days of receipt. Consumable parts, and damage from misuse, unauthorised modification or failure to follow the IFU, are excluded."}]
 ---
 
 # Terms & Conditions of Sale
@@ -26,7 +26,8 @@ Most rapid test reagents have a minimum order quantity of **10 boxes**; analyzer
 ## 4. Prices, Taxes and Payment
 
 - Prices are those stated in the order confirmation. Unless stated otherwise, prices do not include import duties, taxes, levies or customs charges in the destination country, which are the buyer's responsibility.
-- Payment terms, currency and bank details are stated in the proforma invoice or order confirmation. Where a deposit and balance are agreed, the balance falls due as stated in the order confirmation.
+- **Equipment** — analyzers and instruments are supplied against **full payment** of the invoice value, as set out in the proforma invoice.
+- **Payment terms, currency and bank details** are stated in the proforma invoice or order confirmation; where a deposit and balance are agreed for a reagent order, the balance falls due as stated in the order confirmation.
 - Bank charges and any intermediary fees are borne by the party instructed to pay them in the order confirmation.
 
 ## 5. Delivery, Risk and Title
@@ -37,12 +38,13 @@ Most rapid test reagents have a minimum order quantity of **10 boxes**; analyzer
 
 ## 6. Inspection and Claims
 
-Please inspect shipments on arrival. Claims for short shipment, incorrect items or visible transit damage should be notified to us promptly and within the period stated in the order confirmation, with photographs, the packing list reference and the lot number, so that we can investigate with the carrier and our quality records. Claims for hidden defects are handled under section 7.
+Please inspect shipments on arrival. Claims for short shipment, incorrect items or visible transit damage should be notified to us promptly, and in any event **within 30 days of receipt**, with photographs, the packing list reference and the lot number, so that we can investigate with the carrier and our quality records. **Quality-related claims must be raised within 30 days of receipt** of the goods; claims for hidden defects are handled under section 7.
 
 ## 7. Warranty
 
-- **Equipment** — analyzers and instruments are warranted against defects in materials and workmanship for the period stated in the order confirmation and the product documentation. Consumable parts and damage caused by misuse, unauthorised modification, incorrect power supply, or failure to follow the IFU are excluded.
+- **Equipment** — analyzers and instruments are warranted against defects in materials and workmanship for **12 months from delivery**. Consumable parts and damage caused by misuse, unauthorised modification, incorrect power supply, or failure to follow the IFU are excluded.
 - **Reagents and kits** — we warrant that products conform to their agreed specification and to the Instructions for Use at the time of shipment, within their stated shelf life when stored as specified (4–30 °C).
+- **Claims window** — quality-related claims must be raised within **30 days of receipt**; the equipment warranty runs for **12 months from delivery**.
 - **Remedy** — where a confirmed non-conformity or defect falls within warranty, we will repair, replace or credit the affected products, at our option, subject to our assessment of the returned goods and lot records.
 - The warranty does not cover products that have been stored or handled contrary to the IFU, used beyond their expiry date, or used outside their intended use.
 

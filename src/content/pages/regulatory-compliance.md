@@ -2,7 +2,7 @@
 title: "Veterinary Regulatory Compliance & Quality"
 slug: "regulatory-compliance"
 description: "Migibio's regulatory position, ISO 9001 and GMP-certified manufacturing, product documentation, and the intended use of our veterinary diagnostics."
-faq: [{"q": "Do Migibio veterinary diagnostic products require CE marking?", "a": "No. CE marking under the EU In Vitro Diagnostic Regulation (IVDR 2017/746) applies to in vitro diagnostics intended for human use. Migibio products are intended for veterinary (animal) use only and sit outside that framework. What a veterinary diagnostic requires instead depends on the destination market — the EU has no single unified veterinary-device framework, and requirements vary between member states."}, {"q": "Who is the legal manufacturer of Migibio products?", "a": "Guangzhou Magic Biotech Co., Ltd. (广州敏捷生物技术有限公司) of Guangzhou, China. Our registered address is G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China."}, {"q": "Which quality certifications does Migibio hold?", "a": "Migibio operates an ISO 9001-certified quality management system and GMP-certified manufacturing. Certificates together with their scope and validity are supplied to qualified buyers on request, so that you can verify them directly with the issuing body."}, {"q": "What documentation accompanies each order?", "a": "Every shipment includes a commercial invoice, packing list and the product's Instructions for Use (IFU). Certificates of analysis (lot release), safety data sheets (MSDS), and documents such as certificates of origin or free-sale certificates are supplied with the shipment or on request."}]
+faq: [{"q": "Do Migibio veterinary diagnostic products require CE marking?", "a": "No. CE marking under the EU In Vitro Diagnostic Regulation (IVDR 2017/746) applies to in vitro diagnostics intended for human use. Migibio products are intended for veterinary (animal) use only and sit outside that framework. What a veterinary diagnostic requires instead depends on the destination market — the EU has no single unified veterinary-device framework, and requirements vary between member states."}, {"q": "Who is the legal manufacturer of Migibio products?", "a": "Guangzhou Magic Biotech Co., Ltd. (广州敏捷生物技术有限公司) of Guangzhou, China. Our registered address is G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China."}, {"q": "Which quality certifications does Migibio hold?", "a": "Migibio operates an ISO 13485-certified quality management system for medical devices and diagnostics, alongside ISO 9001-certified quality management and GMP-certified manufacturing. Certificates, together with their scope and validity, are supplied on request so that you can verify them directly with the issuing body."}, {"q": "What documentation accompanies each order?", "a": "Every shipment includes a commercial invoice, packing list and the product's Instructions for Use (IFU). Certificates of analysis (lot release), safety data sheets (MSDS), and documents such as certificates of origin or free-sale certificates are supplied with the shipment or on request."}]
 ---
 
 # Regulatory Compliance
@@ -42,7 +42,7 @@ Because classification determines the entire registration pathway, we recommend 
 
 ## Quality Management and Manufacturing
 
-- **Quality management system** — operated under an **ISO 9001**-certified quality management system.
+- **Quality management system** — operated under an **ISO 13485**-certified quality management system (medical devices and in vitro diagnostics), alongside an **ISO 9001**-certified quality management system.
 - **Manufacturing** — **GMP**-certified production principles across a 2,000 m² R&D and production workshop.
 - **Traceability** — full lot traceability from incoming materials through production to the finished kit.
 - **Lot release** — lot-release testing before shipment, with assay-specific validation documented in each reagent's IFU.
@@ -60,6 +60,7 @@ Certificates, certification scope and current validity are supplied on request t
 | Commercial invoice, packing list | With every shipment |
 | Certificate of origin | On request |
 | Free-sale certificate | On request |
+| **ISO 13485 certificate** (with scope) | On request — ask our team for the current certificate |
 | Certification documents with scope | On request to qualified buyers |
 | Validation report for a specific assay or analyzer | On request |
 

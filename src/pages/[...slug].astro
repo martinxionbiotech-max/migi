@@ -63,5 +63,20 @@ const pageSchema = {
     <div class="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-brand-600 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
       <Content />
     </div>
+
+    {/* 可见 FAQ 区块：与 Layout 注入的 FAQPage 结构化数据同源，确保 schema 有对应的页面可见内容 */}
+    {faq && faq.length > 0 && (
+      <section class="mt-12 border-t border-gray-200 pt-8" aria-labelledby="faq-heading">
+        <h2 id="faq-heading" class="text-2xl font-bold text-gray-900">Frequently asked questions</h2>
+        <dl class="mt-6 space-y-6">
+          {faq.map((f) => (
+            <div>
+              <dt class="text-base font-semibold text-gray-900">{f.q}</dt>
+              <dd class="mt-2 text-gray-700 leading-relaxed">{f.a}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    )}
   </article>
 </Layout>
