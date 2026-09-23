@@ -1,7 +1,7 @@
 ---
 title: "History & Milestones"
 slug: "history"
-description: "The history and milestones of Migibio (Guangzhou Magic Biotech Co., Ltd.) — from 2017 founding to a global POCT veterinary diagnostics manufacturer exporting to 30+ countries."
+description: "Migibio (Guangzhou Magic Biotech Co., Ltd.) — from 2017 founding to a global POCT veterinary diagnostics manufacturer exporting to 30+ countries."
 ---
 
 # History & Milestones

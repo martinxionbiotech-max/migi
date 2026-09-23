@@ -1,7 +1,7 @@
 ---
-title: "SDMA vs Creatinine: Which Marker Detects Kidney Disease Earlier?"
+title: "SDMA vs Creatinine: Which Detects Kidney Disease Earlier?"
 slug: "sdma-vs-creatinine"
-description: "Compare SDMA and creatinine for canine and feline kidney disease screening: how early each marker rises, muscle-mass effects, IRIS staging, and when to use both."
+description: "Compare SDMA and creatinine for canine and feline kidney screening: how early each rises, muscle-mass effects, IRIS staging and when to use both."
 pubDate: "2026-09-12"
 category: "test-comparison"
 faq: [{"q": "Does SDMA detect kidney disease earlier than creatinine?", "a": "Yes, according to the clinical summaries cited in related Migibio articles: SDMA can rise when as little as 25–40% of kidney function is lost, while creatinine often stays within the reference interval until roughly 60–70% of function is lost."}, {"q": "Why is creatinine less reliable in some patients?", "a": "Creatinine is strongly influenced by muscle mass. Muscle-wasted, geriatric, or cachectic patients can have falsely low creatinine, while young muscular animals can have higher values that are not necessarily renal disease."}, {"q": "Should SDMA replace creatinine?", "a": "No. Creatinine remains part of routine biochemistry and has a large historical reference database. SDMA adds earlier detection and is useful for IRIS staging; using both markers together gives a more complete renal assessment."}, {"q": "When should I run SDMA and creatinine together?", "a": "Consider both for senior wellness screening, pre-anaesthetic or pre-nephrotoxic drug assessment, suspected chronic kidney disease, and when monitoring disease progression or IRIS stage over time."}]

@@ -1,7 +1,7 @@
 ---
 title: "Cystatin C"
 slug: "cystatin-c"
-description: "Cystatin C is a low-molecular-weight protein filtered by the glomerulus; it is largely independent of muscle mass and may support earlier detection of reduced GFR than creatinine alone in dogs and cats."
+description: "Cystatin C is filtered by the glomerulus and is largely independent of muscle mass, supporting earlier detection of reduced GFR than creatinine alone."
 species: "both"
 biomarker: "Cystatin C"
 method: "Fluorescence immunoassay (FICT)"

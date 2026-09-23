@@ -34,7 +34,8 @@ const {
 const siteUrl = 'https://migibio.net';
 const pageUrl = (canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathname, siteUrl).href).replace(/([^:])\/\/+/g, '$1/');
 const pageId = `${pageUrl.replace(/\/$/, '')}/#webpage`;
-const brandTitle = title.includes('Migibio') ? title : `${title} — Migibio`;
+// 品牌后缀仅在不超过 60 字符（搜索结果常见截断长度）时追加，避免标题被截断
+const brandTitle = title.includes('Migibio') || title.length + 10 > 60 ? title : `${title} — Migibio`;
 const companyName = 'Guangzhou Magic Biotech Co., Ltd.';
 const contactName = 'Martin.Wong';
 const email = 'martinwang2024@gmail.com';

@@ -1,7 +1,7 @@
 ---
 title: "Dr. Tang — Veterinary Diagnostics Author"
 slug: "author-dr-tang"
-description: "Dr. Tang is the veterinary diagnostics specialist who authors Migibio's technical articles on fluorescence immunochromatography, point-of-care testing, and canine/feline diagnostics."
+description: "Dr. Tang authors Migibio's technical articles on fluorescence immunochromatography, point-of-care testing, and canine and feline diagnostics."
 ---
 
 # About the Author: Dr. Tang

@@ -1,7 +1,7 @@
 ---
 title: "Corporate Identity"
 slug: "corporate-identity"
-description: "Migibio corporate identity — vision, mission, values, and brand commitment to quality POCT veterinary diagnostics through fluorescence immunochromatography technology."
+description: "Migibio corporate identity — vision, mission and values, and our commitment to quality POCT veterinary diagnostics via fluorescence immunochromatography."
 ---
 
 # Corporate Identity

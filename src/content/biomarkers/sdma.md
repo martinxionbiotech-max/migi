@@ -1,7 +1,7 @@
 ---
 title: "Symmetric Dimethylarginine (SDMA)"
 slug: "sdma"
-description: "SDMA can rise when as little as 25–40% of kidney function is lost and is largely independent of muscle mass, supporting earlier CKD detection and IRIS staging in dogs and cats."
+description: "SDMA can rise when as little as 25–40% of kidney function is lost and is largely independent of muscle mass, supporting earlier CKD detection."
 species: "both"
 biomarker: "Symmetric dimethylarginine (SDMA)"
 method: "Fluorescence immunoassay (FICT)"

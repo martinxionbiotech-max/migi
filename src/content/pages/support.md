@@ -1,7 +1,7 @@
 ---
 title: "Support & Downloads"
 slug: "support"
-description: "Migibio technical support and downloads — instructions for use (IFU), standard operating procedures (SOP), videos, and FAQs for veterinary diagnostic equipment and reagents."
+description: "Migibio technical support and downloads — IFU, standard operating procedures (SOP), videos and FAQs for veterinary diagnostic equipment and reagents."
 ---
 
 # Support & Downloads

@@ -1,7 +1,7 @@
 ---
 title: "N-Terminal Pro-Brain Natriuretic Peptide (NT-proBNP)"
 slug: "nt-probnp"
-description: "NT-proBNP is released in response to myocardial wall stress; quantitative measurement supports cardiac disease screening and helps distinguish cardiac from respiratory causes of dyspnoea in dogs and cats."
+description: "NT-proBNP rises with myocardial wall stress; quantitative measurement supports cardiac screening and helps separate cardiac from respiratory dyspnoea."
 species: "both"
 biomarker: "N-terminal pro-brain natriuretic peptide (NT-proBNP)"
 method: "Fluorescence immunoassay (FICT)"

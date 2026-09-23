@@ -1,7 +1,7 @@
 ---
 title: "Locations & Facilities"
 slug: "locations"
-description: "Migibio headquarters and manufacturing facility location in Guangzhou Science City, Huangpu District, Guangzhou, China — a standardized 2,000 m² R&D and production workshop."
+description: "Migibio headquarters and manufacturing in Guangzhou Science City, Huangpu District, China — a standardized 2,000 m² R&D and production workshop."
 ---
 
 # Locations & Facilities
