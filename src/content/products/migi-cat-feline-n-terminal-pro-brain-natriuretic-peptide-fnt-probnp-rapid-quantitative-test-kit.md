@@ -27,19 +27,6 @@ limitations: "NT-proBNP results require clinical context and cardiac imaging or 
 
 See also: [NT-proBNP in Dogs and Cats: Heart vs Breathing Trouble](/blog/nt-probnp-testing-dogs-cats-heart-disease).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 
 ## Product Specifications
 

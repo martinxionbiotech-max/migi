@@ -27,19 +27,6 @@ limitations: "A single fPL value is not diagnostic on its own and must be interp
 
 See also: [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-cpl-feline-fpl-pancreatitis-testing).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be conducted using serum or plasma (EDTA anticoagulant is recommended).
 
 ## Product Specifications
 

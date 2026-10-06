@@ -27,19 +27,6 @@ limitations: "Relaxin is not a substitute for ultrasound or veterinary examinati
 
 See also: [Dog Breeding Tests: Progesterone and Relaxin Step by Step](/blog/canine-progesterone-relaxin-breeding-testing).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-Suitable for use with serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

@@ -27,19 +27,6 @@ limitations: "A negative result does not rule out FHV infection; quantitative re
 
 See also: [Feline Herpes (FHV-1): Why It Recurs and What Testing Shows](/blog/does-my-cat-should-do-the-feline-herpes-test).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be performed with a nasopharyngeal or ocular swab.
 
 ## Product Specifications
 

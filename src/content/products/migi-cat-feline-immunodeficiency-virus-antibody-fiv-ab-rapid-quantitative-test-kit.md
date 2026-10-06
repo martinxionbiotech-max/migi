@@ -27,19 +27,6 @@ limitations: "A positive antibody result may require confirmatory testing or cli
 
 See also: [FeLV and FIV in Cats: What a Positive Really Means](/blog/what-is-the-feline-leukemia-fiv-test).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be performed using serum or plasma.
 
 ## Product Specifications
 

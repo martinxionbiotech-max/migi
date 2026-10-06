@@ -27,19 +27,6 @@ limitations: "A negative result does not rule out infection, and FCoV antigen te
 
 See also: [FIP in Cats: What a Coronavirus Test Can and Can't Say](/blog/feline-coronavirus-fip-testing).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test is performed using a rectal swab.
 
 ## Product Specifications
 

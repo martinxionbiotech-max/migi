@@ -1,5 +1,5 @@
 ---
-title: "Feline Herpesvirus (FHV)"
+title: "Feline Herpesvirus (FHV): Diagnosis & Testing"
 slug: "feline-herpesvirus"
 species: "feline"
 clinicalContext: "Feline herpesvirus (FHV-1) is a common cause of feline upper respiratory and ocular disease, including sneezing, conjunctivitis, and corneal ulcers, with lifelong latency after infection. FHV antigen testing supports diagnosis of active infection, while antibody testing supports assessment of vaccination response. Point-of-care quantitative testing provides an objective instrument-read result rather than a subjective line."

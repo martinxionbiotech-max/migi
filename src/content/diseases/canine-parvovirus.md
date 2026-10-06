@@ -1,5 +1,5 @@
 ---
-title: "Canine Parvovirus (CPV)"
+title: "Canine Parvovirus (CPV): Diagnosis & Testing"
 slug: "canine-parvovirus"
 species: "canine"
 clinicalContext: "Canine parvovirus (CPV) is a highly contagious enteric infection most commonly detected by antigen testing on a faecal or rectal swab. Quantitative CPV antigen detection supports rapid confirmation of parvovirus enteritis, while CPV antibody testing supports vaccination monitoring. Point-of-care quantitative testing reports viral load rather than a simple positive/negative result."

@@ -27,19 +27,6 @@ limitations: "Recent vaccination can affect antigen-test interpretation; a negat
 
 See also: [Parvo Testing in Dogs: Speed, Sensitivity, Outbreak Control](/blog/canine-parvovirus-testing-guide).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be performed using a rectal swab.
 
 ## Product Specifications
 

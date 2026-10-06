@@ -1,5 +1,5 @@
 ---
-title: "Canine Coronavirus (CCV)"
+title: "Canine Coronavirus (CCV): Diagnosis & Testing"
 slug: "canine-coronavirus"
 species: "canine"
 clinicalContext: "Canine coronavirus (CCV) is an enteric infection most relevant in puppies or when co-infections are suspected. Quantitative CCV antigen detection supports confirmation of active enteric CCV infection. Point-of-care testing can help identify the pathogen quickly and guide isolation or supportive care."
@@ -16,4 +16,6 @@ faq:
     a: "Use an antigen test when an animal is actively ill and you need to identify the causative pathogen quickly. Antigen tests support immediate isolation and treatment decisions."
   - q: "What are the advantages of quantitative fluorescence testing?"
     a: "Quantitative fluorescence immunoassay provides objective, instrument-read concentrations with high sensitivity (pg/ml) and precision (CV% <10%), enabling viral-load monitoring and treatment tracking."
+  - q: "What sample is used for quantitative CCV antigen testing?"
+    a: "The quantitative CCV antigen test is performed using rectal swabs."
 ---

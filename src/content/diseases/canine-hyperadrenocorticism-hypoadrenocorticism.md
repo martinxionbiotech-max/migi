@@ -16,4 +16,6 @@ faq:
     a: "A basal (resting) cortisol below 2 µg/dL is highly suggestive of Addison's disease and warrants an ACTH stimulation test to confirm. A basal cortisol above 2 µg/dL makes Addison's unlikely, so further testing is usually unnecessary."
   - q: "How long does a cortisol workup take?"
     a: "With in-clinic quantitative immunofluorescence testing, the ACTH stimulation test (two samples) or LDDST (three timed samples) can be completed the same day, with each cortisol value returning in about 15 minutes."
+  - q: "What sample is used for quantitative cortisol testing?"
+    a: "The quantitative cortisol test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---

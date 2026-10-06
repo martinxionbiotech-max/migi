@@ -27,19 +27,6 @@ limitations: "Quantitative cortisol results require clinical context and appropr
 
 See also: [Dog Cortisol Tests: Cushing's, Addison's and Dynamic Testing](/blog/cortisol-testing-dogs-cushings-addisons).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-Suitable specimens: serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

@@ -1,5 +1,5 @@
 ---
-title: "Canine Adenovirus (CAV)"
+title: "Canine Adenovirus (CAV): Diagnosis & Testing"
 slug: "canine-adenovirus"
 species: "canine"
 clinicalContext: "Canine adenovirus antibody measurement supports assessment of vaccine-induced immunity against infectious canine hepatitis and respiratory disease. Point-of-care quantitative antibody testing gives an instrument-read titre instead of a subjective line, which can help evaluate vaccination response."

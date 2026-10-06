@@ -27,19 +27,6 @@ limitations: "Antibody results may indicate past exposure and do not alone disti
 
 See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canine-infectious-disease-testing-guide).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be performed using serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

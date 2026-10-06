@@ -27,19 +27,6 @@ limitations: "Antibody titres do not guarantee complete protection and should be
 
 See also: [Distemper Tests for Dogs: Antigen vs Antibody Results](/blog/canine-distemper-testing-guide).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be used with serum or plasma (EDTA anticoagulant recommended).
 
 ## Product Specifications
 

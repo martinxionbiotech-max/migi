@@ -27,19 +27,6 @@ limitations: "SAA is not specific for a single disease; results must be interpre
 
 See also: [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-feline-saa-inflammation-testing).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10 boxes; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test can be performed with serum, plasma, or whole blood, though serum or plasma is recommended.
 
 ## Product Specifications
 

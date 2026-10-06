@@ -1,5 +1,5 @@
 ---
-title: "Feline Calicivirus (FCV)"
+title: "Feline Calicivirus (FCV): Diagnosis & Testing"
 slug: "feline-calicivirus"
 species: "feline"
 clinicalContext: "Feline calicivirus (FCV) is a major viral cause of feline upper respiratory disease and can also present with oral ulceration. Quantitative FCV antigen testing supports confirmation of active infection, while antibody testing supports assessment of vaccination response or prior exposure. Point-of-care testing can identify the current pathogen quickly and support infection-control decisions in multi-cat environments."

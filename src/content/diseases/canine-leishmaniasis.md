@@ -16,4 +16,6 @@ faq:
     a: "A positive antibody result means the animal has been exposed to the pathogen or vaccinated, not necessarily that it is currently sick. Antibody results are most useful when interpreted with clinical signs, exposure history, and other diagnostics."
   - q: "How does quantitative testing help?"
     a: "Quantitative fluorescence immunoassay provides objective, instrument-read concentrations with high sensitivity (pg/ml) and precision (CV% <10%), supporting monitoring and treatment tracking."
+  - q: "What sample is used for quantitative Leishmania antibody testing?"
+    a: "The quantitative Leishmania antibody test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---

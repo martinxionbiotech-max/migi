@@ -42,6 +42,27 @@ const schema = {
   </div>
 
   <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="prose prose-lg max-w-none mb-10 prose-headings:text-gray-900 prose-p:text-gray-700 prose-a:text-brand-600 prose-th:text-gray-900 prose-td:text-gray-700 prose-table:border-collapse prose-th:border prose-th:border-gray-300 prose-th:bg-gray-50 prose-th:px-4 prose-th:py-2 prose-td:border prose-td:border-gray-300 prose-td:px-4 prose-td:py-2">
+      <h2 class="text-2xl font-bold text-gray-900">Choosing an Analyzer</h2>
+      <p>Both analyzers use Migibio's fluorescence immunochromatography (FICT) platform and share the same core performance — pg/ml-level sensitivity and CV% under 10% precision — with the full range of canine and feline reagent panels, so the decision comes down to workflow volume and footprint:</p>
+      <div class="overflow-hidden rounded-lg border border-gray-200">
+        <table>
+          <thead>
+            <tr><th>Feature</th><th>FIA680</th><th>FIA880</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Channels</td><td>Single-channel</td><td>Six independent channels</td></tr>
+            <tr><td>Result time</td><td>3–11 minutes</td><td>3–15 minutes</td></tr>
+            <tr><td>Throughput</td><td>Up to 200 tests/hour</td><td>Up to 300 tests/hour</td></tr>
+            <tr><td>Temperature control</td><td>—</td><td>Constant-temperature</td></tr>
+            <tr><td>Printer</td><td>Built-in thermal printer</td><td>Built-in thermal printer + A4 export</td></tr>
+            <tr><td>Best for</td><td>Mobile vets, small practices, on-site farm diagnostics</td><td>Reference labs, multi-clinician hospitals, high-volume networks</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>For a detailed side-by-side walkthrough, see <a href="/blog/fia680-vs-fia880-analyzer">FIA680 vs FIA880: Which Analyzer Fits Your Practice</a>. Both units include built-in thermal printing, multi-language interfaces (Chinese, English, Russian, Italian), and cloud standard-curve support via Wi-Fi.</p>
+    </div>
+
     <div class="grid gap-8 md:grid-cols-2">
       {analyzers.map((p) => (
         <a href={`/equipment/${p.data.slug}`} class="group overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">

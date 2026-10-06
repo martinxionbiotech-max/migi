@@ -16,4 +16,6 @@ faq:
     a: "A positive antibody result means the animal has been exposed to the pathogen or vaccinated, not necessarily that it is currently sick. A single antibody value is best interpreted with clinical findings."
   - q: "What is the role of quantitative fluorescence testing?"
     a: "Quantitative fluorescence immunoassay reports objective, instrument-read concentrations with pg/ml-level sensitivity and CV% <10% precision, which supports monitoring and treatment tracking."
+  - q: "What sample is used for quantitative Toxoplasma antibody testing?"
+    a: "The quantitative Toxoplasma antibody test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---

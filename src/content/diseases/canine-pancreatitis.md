@@ -16,4 +16,6 @@ faq:
     a: "Amylase and lipase are not pancreas-specific and are affected by many non-pancreatic conditions, so they have poor sensitivity and specificity for pancreatitis. Pancreatic lipase immunoreactivity (cPL/fPL) is far more accurate."
   - q: "How fast is a cPL or fPL result?"
     a: "Quantitative immunofluorescence analyzers like the Migibio FIA680 and FIA880 return cPL and fPL results in about 10–20 minutes from serum or plasma, so pancreatitis can be ruled in or out during the same visit."
+  - q: "What sample is used for quantitative cPL testing?"
+    a: "The quantitative cPL test is conducted using serum or plasma (EDTA anticoagulant recommended)."
 ---

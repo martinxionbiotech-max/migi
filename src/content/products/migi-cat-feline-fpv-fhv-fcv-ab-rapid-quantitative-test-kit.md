@@ -27,19 +27,6 @@ limitations: "Antibody titres do not by themselves prove complete protection and
 
 See also: [Feline Triple Test: FPV, Herpes and Calicivirus](/blog/a-feline-triple-test-one-simple-step-to-check-for-three-common-viruses).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10; shelf life is 2 years.
-
-**What sample does it use?**
-
-Use serum or plasma (EDTA recommended).
 
 ## Product Specifications
 

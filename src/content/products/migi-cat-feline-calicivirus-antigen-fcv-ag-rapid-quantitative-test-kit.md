@@ -27,19 +27,6 @@ limitations: "A negative result does not rule out FCV infection, and quantitativ
 
 See also: [Feline Calicivirus vs Herpesvirus: Telling Cat Flu Apart](/blog/feline-calicivirus-herpesvirus-testing).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the MOQ and shelf life?**
-
-The listed MOQ is 10; shelf life is 2 years.
-
-**What sample does it use?**
-
-The test is performed using a nasopharyngeal or ocular swab.
 
 ## Product Specifications
 

@@ -27,19 +27,6 @@ The **Migibio SDMA Rapid Quantitative Test Kit** measures symmetric dimethylargi
 
 See also: [Kidney Disease Tests for Dogs and Cats: SDMA and Cystatin C](/blog/sdma-vs-cystatin-c-kidney-marker).
 
-## FAQ
-
-**Which analyzer does this run on?**
-
-It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual.
-
-**What is the shelf life and storage?**
-
-Shelf life is 2 years; storage is RT.
-
-**What sample does it use?**
-
-The test is performed using serum or plasma.
 
 ## Product Specifications
 
