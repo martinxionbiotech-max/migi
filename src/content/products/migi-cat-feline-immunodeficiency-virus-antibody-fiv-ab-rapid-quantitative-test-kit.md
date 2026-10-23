@@ -72,7 +72,6 @@ Test Device
 Desiccant pouch
 1 ID Chip
 Instructions for Use
-10 cotton swabs
 10 tubes of FIV-Ab Sample Buffer
 10 Pipette tips
 Required but Not Provided:

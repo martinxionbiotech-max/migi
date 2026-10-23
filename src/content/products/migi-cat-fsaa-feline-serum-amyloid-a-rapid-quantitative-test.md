@@ -47,9 +47,7 @@ See also: [CRP and SAA: Grading Inflammation in Dogs and Cats](/blog/canine-crp-
 ## Specification
 
 10 Tests/Box
-Catalog No.:
-
-## Mg-Ca-R002
+Catalog No.: MG-CA-R002
 
 
 ## Intended Use

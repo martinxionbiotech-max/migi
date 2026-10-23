@@ -47,9 +47,7 @@ See also: [Dog Infectious Disease Testing: Parvo, Distemper, Corona](/blog/canin
 ## Specification
 
 10 Tests/Box
-Catalog No.:
-
-## Mg-Ca-R022
+Catalog No.: MG-CA-R022
 
 
 ## Intended Use

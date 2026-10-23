@@ -6,8 +6,8 @@ category: "canine-feline"
 catNo: "MG-CA-R015"
 image: "/images/migi-cat-feline-pancreatic-lipase-fpl-rapid-quantitative-test-kit.png"
 order: 14
-attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R015", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit?", "a": "The fPL test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure pancreatic lipase levels in feline serum or plasma. It aids in diagnosing and monitoring pancreatic lipase concentration in felines. Note: For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of fPL captured, with the concentration expressed in Tu/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test between 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: 2.0 ~ 224 ng/ml Reference Range: ≤ 3.5 ng/ml: Low risk 3.5 - 5.3 ng/ml: Medium risk > 5.3 ng/ml: High risk Note: Each laboratory should establish a reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be conducted using serum or plasma (EDTA anticoagulant is recommended)."}]
+attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R015", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
+faq: [{"q": "What is the intended use of the Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit?", "a": "The fPL test is a fluorescence immunoassay designed for use with an Immunofluorescence Analyzer to quantitatively measure pancreatic lipase levels in feline serum or plasma. It aids in diagnosing and monitoring pancreatic lipase concentration in felines. Note: For in vitro diagnostic use only. For professional use only."}, {"q": "What detection principle does the Migi (Cat) Feline Pancreatic Lipase (fPL) Rapid Quantitative Test Kit use?", "a": "This test employs a quantitative double antibody sandwich fluorescence immunoassay technique. The intensity of the fluorescent signal corresponds to the amount of fPL captured, with the concentration expressed in ng/ml."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4～30℃ until the expiration date. Operate the test between 18 ~ 28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection range: 2.0 ~ 224 ng/ml Reference Range: ≤ 3.5 ng/ml: Low risk 3.5 - 5.3 ng/ml: Medium risk > 5.3 ng/ml: High risk Note: Each laboratory should establish a reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "The test can be conducted using serum or plasma (EDTA anticoagulant is recommended)."}]
 whenToTest: "When feline pancreatitis is suspected in a cat with compatible gastrointestinal signs."
 whyTest: "Feline pancreatic lipase immunoreactivity supports diagnosis and monitoring of feline pancreatitis."
 interpretation: "Use the quantitative result with the kit IFU, clinical signs, imaging, and serial values when monitoring recovery."
@@ -39,7 +39,7 @@ See also: [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-c
 | Appearance | Liquid |
 | Specification | 10T |
 | Storage | Room Temperature |
-| Shelf life | 2years |
+| Shelf life | 2 years |
 | MOQ | 10 boxes |
 | Suitable for | Veterinary |
 | Grade | Reagent Grade |
@@ -48,9 +48,7 @@ See also: [cPL and fPL Pancreatitis Tests: Reading the Grey Zone](/blog/canine-c
 
 Test Quantity:
 10 Tests/Box
-Catalog Number:
-
-## Mg-Ca-R015
+Catalog Number: MG-CA-R015
 
 
 ## Intended Use
@@ -68,7 +66,7 @@ Quantitative fPL measurement enables reliable diagnosis of pancreatitis, differe
 ## Test Principle
 
 This test employs a quantitative double antibody sandwich fluorescence immunoassay technique.
-The intensity of the fluorescent signal corresponds to the amount of fPL captured, with the concentration expressed in Tu/ml.
+The intensity of the fluorescent signal corresponds to the amount of fPL captured, with the concentration expressed in ng/ml.
 
 ## Materials
 
@@ -79,7 +77,6 @@ A Test Device
 A desiccant pouch
 One ID Chip
 Instructions for Use
-10 cotton swabs
 10 tubes of fPL Sample Buffer
 10 Pipette tips
 Materials Required But Not Provided

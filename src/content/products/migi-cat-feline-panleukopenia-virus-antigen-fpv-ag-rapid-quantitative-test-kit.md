@@ -47,9 +47,7 @@ See also: [Feline Panleukopenia Testing: Speed and Early Detection](/blog/what-i
 ## Specification
 
 10 Tests/Box
-Catalog No.:
-
-## Mg-Ca-R006
+Catalog No.: MG-CA-R006
 
 
 ## Intended Use

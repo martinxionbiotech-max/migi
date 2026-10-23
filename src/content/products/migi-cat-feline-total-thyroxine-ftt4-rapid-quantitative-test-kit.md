@@ -47,9 +47,7 @@ See also: [Thyroid Testing in Dogs and Cats: T4 and TSH Explained](/blog/feline-
 ## Specification
 
 10 Tests/Box
-Catalog No.:
-
-## Mg-Ca-R023
+Catalog No.: MG-CA-R023
 
 
 ## Intended Use
@@ -82,7 +80,6 @@ Each box contains:
 - 2. One ID Chip
 - 4. Centrifuge
 - 3. Instructions for Use
-- 4. 10 cotton swabs
 - 5. 10 tubes of fTT4 Sample Buffer
 - 6. 10 Pipette tips
 
