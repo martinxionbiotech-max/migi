@@ -35,27 +35,33 @@ Product descriptions, analytical specifications and price ranges published on th
 - Product specifications, packaging and documentation may change without notice, and the Instructions for Use shipped with the product prevail;
 - Supplies of products are governed by our [Terms & Conditions of Sale](/terms-and-conditions/).
 
-## 5. No Professional or Veterinary Advice
+**Data compilations.** The product tables, parameter comparisons and catalog data published on this site are compiled by us and form part of our content. You may not resell, republish or redistribute them as a data product, in original or modified form, without our prior written consent.
 
-The technical content on this site is general information for veterinary professionals. It is not veterinary advice for an individual patient and does not replace the product's Instructions for Use or the professional judgement of the attending veterinarian. See the full [Disclaimer and Intended Use](/disclaimer/).
+## 5. Export Controls and Sanctions Compliance
 
-## 6. Availability
+Our products are manufactured in the People's Republic of China and are subject to Chinese export requirements and to the import and sanctions rules of the destination country. You are responsible for ensuring that your purchase, importation and use of products complies with all applicable export-control, sanctions and customs regulations, and you confirm that you are not located in or acting for a party in a jurisdiction subject to relevant restrictions. We may decline or suspend any enquiry or order where proceeding would expose us to sanctions or export-control risk.
+
+## 6. No Professional or Veterinary Advice
+
+The technical content on this site is general information for veterinary professionals. It is not veterinary advice for an individual patient and does not replace the product's Instructions for Use or the professional judgement of the attending veterinarian. Content published here concerns veterinary (animal) diagnostics only and must not be used to inform human medical decisions. See the full [Disclaimer and Intended Use](/disclaimer/).
+
+## 7. Availability
 
 We aim to keep the website available and accurate, but we do not warrant uninterrupted or error-free operation. We may change, suspend or withdraw any part of the site at any time.
 
-## 7. Third-Party Links
+## 8. Third-Party Links
 
 Links to third-party websites are provided for reference only. We do not control and are not responsible for their content, availability or privacy practices.
 
-## 8. Limitation of Liability
+## 9. Limitation of Liability
 
 To the fullest extent permitted by applicable law, we are not liable for indirect, incidental or consequential loss, or for loss of profit, business or data, arising from your use of or reliance on this website or its content. Nothing in these terms excludes liability that cannot lawfully be excluded, or liability for a product's failure to conform to its agreed specification, which is governed by our Terms & Conditions of Sale.
 
-## 9. Governing Law and Jurisdiction
+## 10. Governing Law and Jurisdiction
 
 These terms are governed by the laws of the People's Republic of China. Disputes arising from the use of this website are subject to the jurisdiction of the competent courts of Guangzhou, Guangdong Province, China, without prejudice to any mandatory consumer-protection rules that may apply to you.
 
-## 10. Changes
+## 11. Changes
 
 We may update these terms from time to time. The version published on this page, with the "last updated" date below, governs your use of the site.
 
@@ -65,4 +71,4 @@ Guangzhou Magic Biotech Co., Ltd. — see [Contact Us](/contact/) or email marti
 
 ---
 
-*Last updated: 21 September 2026.*
+*Last updated: 23 October 2026.*

@@ -90,6 +90,10 @@ To exercise any of these rights, email martinwang2024@gmail.com. We will respond
 
 This website is directed at businesses and veterinary professionals. It is not directed at children, and we do not knowingly collect personal information from children.
 
+## Users in the People's Republic of China
+
+We are established in China. Where the personal-information protection laws of the People's Republic of China apply to our processing of your information, we handle it in accordance with those laws — including the principles of lawfulness, legitimacy, necessity and good faith, purpose limitation and minimization — and we respond to lawful requests to access, correct, copy or delete personal information submitted through the contact details below.
+
 ## Changes to This Policy
 
 We may update this policy when our practices or legal obligations change. The version published on this page, with the "last updated" date below, is the current version. Material changes will be reflected in that date.
@@ -100,4 +104,4 @@ Guangzhou Magic Biotech Co., Ltd. — privacy enquiries: martinwang2024@gmail.co
 
 ---
 
-*Last updated: 21 September 2026.*
+*Last updated: 23 October 2026.*

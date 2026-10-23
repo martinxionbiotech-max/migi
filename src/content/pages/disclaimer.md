@@ -27,6 +27,11 @@ The technical articles, biomarker data and protocols published on this site are 
 
 Performance figures published on this site — including precision, limit of detection, result time and throughput — are manufacturer-reported analytical specifications of the platform or product. Analytical performance is not the same as clinical performance: clinical sensitivity and specificity are assay-specific and are documented in each reagent's IFU. Independent third-party validation studies are not published; prospective users should request the full validation report for the specific assay or analyzer being evaluated. See [Research & Analytical Performance](/research/).
 
+Two boundaries apply to every performance figure on this site:
+
+- **A unit does not imply performance.** A limit of detection expressed as "pg/ml" describes the assay's scale, not its clinical usefulness. Detection capability, clinical sensitivity, specificity and measurement range are separate parameters, each documented in the IFU of the relevant assay.
+- **No cross-species or cross-matrix extrapolation.** Performance data validated for one species (e.g. canine) or one sample matrix (e.g. serum) must not be assumed to hold for another species or matrix. Each reagent's IFU states the species, sample types and reference intervals for which it is validated; outside those, results must not be reported as quantitative findings.
+
 ## 5. Accuracy, Completeness and Changes
 
 We take reasonable care to keep the information on this site accurate and current, but we make no warranty that it is complete, error-free or up to date at all times. Product specifications, packaging, documentation and availability may change without notice, and the IFU shipped with the product prevails in case of conflict with any website content.
@@ -57,4 +62,4 @@ Questions about intended use, performance data or this disclaimer: see [Contact 
 
 ---
 
-*Last updated: 21 September 2026.*
+*Last updated: 23 October 2026.*

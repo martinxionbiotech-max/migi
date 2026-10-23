@@ -40,6 +40,26 @@ Veterinary diagnostics are regulated differently from human in vitro diagnostics
 
 Because classification determines the entire registration pathway, we recommend confirming it before ordering. We have published a detailed importer's map in [Veterinary IVD Import Rules: CE, FDA and the Country Maze](/blog/veterinary-ivd-import-regulations-ce-fda/).
 
+> **Importers should note:** this table describes the regulatory landscape as of September 2026. Import, registration and classification rules change, and this page is not a statement that any product may lawfully be placed on the market in your jurisdiction — that confirmation is the importer's or distributor's responsibility.
+
+## Common Misunderstandings
+
+Three points are worth stating explicitly, because they are the most frequent sources of confusion in enquiries:
+
+1. **A quality-system certificate is not a product registration.** ISO 13485, ISO 9001 and GMP certifications describe how our quality management and manufacturing operate. They do **not** by themselves approve any product for sale or use in a given country, and they do not substitute for the import permits, registrations or market authorisations a destination country may require.
+2. **"Veterinary use only" does not mean "no requirements."** The fact that veterinary IVDs sit outside the EU IVDR does not mean they can be imported freely everywhere. Each destination market sets its own requirements — ranging from none, to registration, to classification as a veterinary medicinal product — and those requirements are the importer's to confirm.
+3. **Certificates are verifiable, and we expect them to be verified.** Certificate numbers, scope and validity are supplied on request so that you can check them directly with the issuing body. We do not publish certificate numbers on this website, because an unverifiable number is worse than none.
+
+## Importer's Verification Checklist
+
+Before ordering, the importer or distributor should confirm with the destination authority (or a local regulatory consultant):
+
+1. **Classification** — is the specific product (analyzer, reagent kit, or its analyte) regulated as a veterinary device, a veterinary medicinal product, a biologic, or something else in the destination market?
+2. **Registration or permit required** — what application, dossier and fees are required before import, and who holds them (importer vs manufacturer)?
+3. **Authorised representative** — does the market require a local authorised representative, and what documentation must the manufacturer provide to them?
+4. **Import documentation** — free-sale certificate, certificate of origin, invoices, packing list and any market-specific declarations; request the list from us in advance so the first shipment clears without delay.
+5. **Label requirements** — local language labelling, symbols and the specific wording required on the IFU or box for the destination market.
+
 ## Quality Management and Manufacturing
 
 - **Quality management system** — operated under an **ISO 13485**-certified quality management system (medical devices and in vitro diagnostics), alongside an **ISO 9001**-certified quality management system.
@@ -74,4 +94,4 @@ For certificates, declarations, technical dossiers or compliance questionnaires,
 
 ---
 
-*Last updated: 21 September 2026. This page describes our manufacturing and regulatory position; it is not legal advice, and importers should verify the requirements of their own market.*
+*Last updated: 23 October 2026.*
