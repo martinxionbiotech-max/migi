@@ -22,3 +22,106 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## Quick Answer
+
+Progesterone is the practical way to time breeding because it rises after the LH surge in a pattern that can be measured, unlike behaviour or vaginal cytology which describe the stage of oestrus but not the moment of ovulation. The clinically useful output is not a single number: it is a **series** of values that brackets the ovulation point, from which the fertile window and the timing of insemination are calculated. A one-off progesterone taken at the wrong moment produces confident but wrong advice.
+
+---
+
+## What the measurement means biologically
+
+In the bitch, progesterone is low through anoestrus and pro-oestrus, begins to rise at the LH surge, continues rising as ovulation approaches, and stays elevated through the luteal phase — whether or not pregnancy occurs. That last point is the source of most client confusion: **an elevated progesterone confirms that ovulation occurred, not that the dog is pregnant.** Pregnancy confirmation is a separate question, answered by relaxin or ultrasound at the appropriate interval.
+
+The practical consequence is that progesterone's value lies in the *early* part of the cycle, where the rise tracks the periovulatory window. Once values are well above the ovulatory threshold, further measurement adds little: the number stays high for weeks and cannot tell you anything about conception.
+
+---
+
+## Why quantitative, and why serial
+
+Several semi-quantitative formats exist, and they are legitimate for a single decision point. What they cannot do is the thing that actually matters:
+
+| Clinical question | Qualitative / semi-quantitative | Quantitative assay |
+|---|---|---|
+| Has the LH surge occurred? | Sometimes, by band position | Yes, by comparing consecutive values |
+| When exactly is the fertile window? | Not reliably | Yes, by bracketing the rise |
+| Should I breed today, or in 48 hours? | Guesswork at the boundary | Calculated from the curve |
+| Is this a split-season or delayed cycle? | Ambiguous | Visible as an atypical curve shape |
+
+The unit of clinical reasoning is the **shape of the curve over 4–8 days**, sampled at a fixed interval, not a threshold crossing on a single day.
+
+---
+
+## The workflow that prevents the classic failure
+
+The failure mode looks like this: a single progesterone is run on day 7 of oestrus, comes back "high," the dog is bred the same day, and the cycle is missed because the value was already past ovulation on first measurement. The test was not wrong; the sampling plan was.
+
+A defensible protocol:
+
+1. **Start the series when oestrus is first detected** — behaviour, vulvar swelling, or cytology — not on a fixed calendar day.
+2. **Sample at a fixed interval**, commonly every 48 hours, and keep the interval constant; the interpretation depends on the slope, which requires comparable spacing.
+3. **Continue until the ovulatory threshold is bracketed** — i.e., you have a value below and a value above, on the same platform, in the same dog.
+4. **Set insemination timing from the bracket**, per the current reproductive guidance, rather than from a single reading. `[[ Insert the timing rule your medical affairs team endorses, and state the evidence basis ]]`
+5. **Stop measuring once well past ovulation** — the luteal plateau is not interpretable for timing and generates cost without information.
+
+`[[ Insert the platform's ovulatory threshold values and the RCV at that concentration — without the RCV, a 48-hour delta near the threshold cannot be distinguished from assay noise. ]]`
+
+---
+
+## Reference values and decision thresholds
+
+| Parameter | Value | Basis |
+|---|---|---|
+| Anoestrus / pro-oestrus baseline | `[[ ]]` ng/mL | `[[ platform RI ]]` |
+| Ovulatory threshold | `[[ ]]` ng/mL | `[[ platform + literature concurrence ]]` |
+| Optimal breeding window (relative to ovulation) | `[[ ]]` days | `[[ current reproductive guidance ]]` |
+| Luteal plateau range | `[[ ]]` ng/mL | Not used for timing |
+
+**Note the distinction.** A reference interval describes the range in a population of normal animals at an undefined cycle stage — it is not useful for timing. Timing uses *decision limits* established from periovulatory data. Publishing the first while implying the second is a common and consequential error.
+
+---
+
+## Interpretation traps
+
+1. **One measurement, one decision.** The curve, not the value, carries the information.
+2. **Treating high progesterone as pregnancy.** It confirms ovulation only.
+3. **Changing platform mid-series.** A method shift of even a modest proportional bias can look like a rise or a stall.
+4. **Sampling at irregular intervals.** Slope interpretation assumes comparable spacing.
+5. **Ignoring the atypical cycle.** Flat or erratic curves occur in split oestrus, prolonged oestrus, and in some bitches with cystic ovarian disease; these are decisions for the clinician, not for a threshold table.
+6. **Timing insemination by calendar day of oestrus.** Cycle length varies between individuals and between cycles in the same individual.
+7. **Using progesterone to date gestation.** It tells you when ovulation happened only in the sense of the bracket; gestational timing uses that bracket plus known intervals, not the progesterone value itself.
+
+---
+
+## Pairing with relaxin
+
+The two tests answer different questions and should not be presented as alternatives:
+
+| Question | Test | Timing |
+|---|---|---|
+| When should I breed? | Progesterone series | Periovulatory window |
+| Is she pregnant? | Relaxin | `[[ after the manufacturer-validated earliest detection day ]]` |
+| How many? Any concern? | Ultrasound | Later in gestation |
+
+A clinic that buys relaxin and uses it to time breeding, or buys progesterone and expects a pregnancy answer, has bought the wrong test for the question — and will conclude the test is unreliable. This is a positioning problem in the market, not only a clinical one.
+
+---
+
+## The Author's Take
+
+**Position.** The commercial opportunity in canine progesterone is not the assay, it is the **protocol**: a vendor that publishes a sampling schedule, a bracket-based interpretation rule, and an RCV with the assay sells a repeatable workflow instead of a cartridge.
+
+**Reasoning.** Progesterone is already sold by many suppliers, and the reagent is not where differentiation lives. What breeders and reproduction clinics struggle with is interpretation consistency — the same value read by two clinicians produces different breeding advice. A vendor-supplied protocol, with worked example curves, converts a commodity test into a service the clinic can defend to its client after a missed cycle. It also creates predictable repeat-testing behaviour, which is good for consumable revenue without misrepresenting the product.
+
+**Disclosure.** Written from published canine reproductive endocrinology guidance and assay methodology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data and for the reproduction guidance your medical affairs team adopts.
+
+---
+
+## Sources
+
+1. `[[ Current canine breeding management guidance used by medical affairs (e.g. the reproduction society or textbook your team cites) — for the ovulatory threshold range and the insemination timing rule ]]`
+2. `[[ Progesterone assay comparison literature — platform-dependent bias and the need for assay-specific decision limits ]]`
+3. `[[ Relaxin validation literature — earliest reliable detection day ]]`
+4. CLSI EP28-A3c — reference interval vs decision limit methodology.
+
+---
