@@ -22,3 +22,77 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## Quick Answer
+
+A single cortisol measurement does not diagnose Cushing's syndrome and cannot exclude Addison's disease on its own — except in one specific direction: a clearly elevated resting cortisol makes hypoadrenocorticism very unlikely. Everything else in adrenal diagnosis requires dynamic testing (ACTH stimulation or low-dose dexamethasone suppression), and the cut-offs belong to the specific assay and platform. A vendor page that fails to say this invites the most common misuse in veterinary endocrinology.
+
+## What it measures
+
+Cortisol is the end product of the hypothalamic–pituitary–adrenal axis. Its concentration at any moment reflects the sum of ACTH drive, adrenal output, binding proteins, and — critically — stress. A veterinary visit is a stressor, which is why a single high value carries little diagnostic weight on its own.
+
+## Where a single cortisol is genuinely useful
+
+| Situation | Value of a resting cortisol |
+|---|---|
+| Suspected Addison's, unstable patient | A clearly high value makes hypoadrenocorticism very unlikely — useful for rapid rule-out |
+| Suspected Cushing's | Not diagnostic; a normal or high value both occur in affected dogs |
+| Monitoring trilostane therapy | Not used for monitoring; ACTH stimulation is the standard |
+| Atypical or equivocal signs | Insufficient; proceed to dynamic testing |
+| Stressed or hospitalised patient | Interpret with caution; the stress response confounds |
+
+`[[ Insert the platform's cut-off above which hypoadrenocorticism is considered unlikely, and state that it is assay-specific. ]]`
+
+## The dynamic tests, and why they cannot be replaced
+
+**ACTH stimulation** — measures adrenal reserve. Used for diagnosing Cushing's (exaggerated response) and Addison's (absent response), and for monitoring trilostane dose. Requires the specific ACTH preparation and a validated post-stimulation cut-off for the assay.
+
+**Low-dose dexamethasone suppression** — measures suppressibility of the axis. Used primarily for diagnosing Cushing's, with interpretation criteria specific to the time points and assay.
+
+Both tests are **assay-dependent**: post-ACTH and post-dexamethasone cut-offs published for one cortisol method do not transfer to another. This is the single most important technical statement on the page, because imported cut-offs produce systematic misdiagnosis in both directions.
+
+`[[ State whether the platform supplies validated post-stimulation cut-offs, and if not, say so explicitly and describe the referral pathway. ]]`
+
+## Reference intervals
+
+`[[ Insert platform-specific resting intervals, with the caveat that the interval describes a population of unstressed animals and that clinic stress raises values. ]]`
+
+| Population | Interval | n | Notes |
+|---|---|---|---|
+| Adult dogs | `[[ ]]` nmol/L | `[[ ]]` | `[[ EP28 ]]` |
+| Post-ACTH | `[[ ]]` | `[[ ]]` | `[[ assay-specific ]]` |
+| Post-LDDST (8 h) | `[[ ]]` | `[[ ]]` | `[[ assay-specific ]]` |
+
+## Interpretation of the common patterns
+
+| Pattern | Possible reading | Next step |
+|---|---|---|
+| High resting cortisol, compatible signs | Cushing's possible; stress also possible | ACTH stim or LDDST |
+| High resting cortisol, collapse, hyperkalaemia | Addison's very unlikely | Look for another cause of crisis |
+| Low/normal resting cortisol, compatible signs | Addison's possible | ACTH stim |
+| Low post-ACTH | Consistent with Addison's or adequate trilostane effect | Correlate with electrolytes and clinical state |
+| Exaggerated post-ACTH | Supports Cushing's | Confirm and plan treatment |
+
+## Six traps
+
+1. **Diagnosing Cushing's on a resting cortisol.** The classic error.
+2. **Excluding Addison's on a normal resting cortisol.** Only a high value is reassuring.
+3. **Importing cut-offs from another assay.** Systematic misclassification.
+4. **Ignoring stress.** A clinic visit is a stressor; timing and environment matter.
+5. **Using resting cortisol to monitor trilostane.** ACTH stimulation is the standard.
+6. **Missing iatrogenic Cushing's.** Exogenous steroid use produces the same biochemical picture.
+
+## The Author's Take
+
+**Position.** The most valuable content on this page is a clear statement of what the assay cannot do, because adrenal testing is where clinicians most often want a single number to behave like a diagnosis.
+
+**Reasoning.** Cushing's is a diagnosis clinicians are under pressure to make — the owner wants an explanation, the signs are non-specific, and a high cortisol looks like confirmation. The result is over-diagnosis, unnecessary lifelong medication, and in some cases genuine harm from treatment. A vendor that publishes "a single cortisol does not diagnose Cushing's" is protecting its own test from being blamed when the clinical reasoning fails, and it is also earning the credibility needed for the far more valuable claim: that its cortisol is suitable for the dynamic tests, where the actual revenue and clinical value sit. In this category, restraint on the easy claim is what makes the hard claim believable.
+
+**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+
+## Sources
+
+1. `[[ ACVIM consensus statement on diagnosis of hyperadrenocorticism in dogs — testing algorithm and interpretation ]]`
+2. `[[ Canine hypoadrenocorticism guidance — diagnostic approach and the role of resting cortisol ]]`
+3. `[[ Assay-specific cut-off literature for ACTH stimulation and LDDST ]]`
+4. CLSI EP28-A3c — reference interval methodology.
