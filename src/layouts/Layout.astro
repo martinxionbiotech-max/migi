@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { isReleased } from '../data/release-schedule.mjs';
 
 export interface Props {
   title: string;
@@ -33,6 +34,8 @@ const {
 
 const siteUrl = 'https://migibio.net';
 const pageUrl = (canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathname, siteUrl).href).replace(/([^:])\/\/+/g, '$1/');
+// Staged release: new pages stay noindex until their wave date has passed.
+const shouldNoindex = noindex || !isReleased(Astro.url.pathname);
 const pageId = `${pageUrl.replace(/\/$/, '')}/#webpage`;
 // 品牌后缀仅在不超过 60 字符（搜索结果常见截断长度）时追加，避免标题被截断
 const brandTitle = title.includes('Migibio') || title.length + 10 > 60 ? title : `${title} — Migibio`;
@@ -208,7 +211,7 @@ const navLinks = [
     <title>{brandTitle}</title>
     <meta name="description" content={description} />
     <meta name="keywords" content="POCT veterinary diagnostic equipment, rapid test reagents, fluorescence immunochromatography, FICT, canine diagnostic test kit, feline diagnostic test kit, FIA680, FIA880" />
-    {noindex && <meta name="robots" content="noindex,follow" />}
+    {shouldNoindex && <meta name="robots" content="noindex,follow" />}
     <link rel="canonical" href={pageUrl} />
 
     <!-- Open Graph -->
