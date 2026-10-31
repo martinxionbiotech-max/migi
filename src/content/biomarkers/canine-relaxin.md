@@ -47,6 +47,16 @@ Relaxin cannot be detected before placental tissue is established. Testing too e
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published detection timing and concentrations
+
+| Source | Method / population | Reported finding |
+|---|---|---|
+| Steinetz, Goldsmith & Lust, *Biol Reprod* 1987 ([10.1095/biolreprod37.3.719](https://doi.org/10.1095/biolreprod37.3.719)) | Radioimmunoassay, Labradors and beagles | First detectable in the 3rd–4th week of gestation; peak 4–5 ng/mL 2–3 weeks before whelping; **undetectable in pseudopregnant bitches after infertile mating** |
+| Einspanier et al., *Dtsch Tierarztl Wochenschr* 2002 ([PMID 11838296](https://pubmed.ncbi.nlm.nih.gov/11838296/)) | Relaxin enzyme immunoassay | Significant increase at **day 24 after ovulation**; not correlated with litter size or body weight |
+| Luteal/placental relaxin expression study ([PMC5783387](https://pmc.ncbi.nlm.nih.gov/articles/PMC5783387/)) | Placental tissue and serum | Placenta begins forming around days 17–18 after mating; supports the biological basis for a detection window in the third week |
+
+The 1987 study is the clearest statement of the clinical value: relaxin was undetectable in bitches that had an infertile mating — that is, it separates pregnancy from pseudopregnancy, which progesterone cannot do.
+
 A defensible protocol:
 
 1. Establish ovulation timing separately (progesterone series), so the interval is measured from a known reference point rather than from the first day of bleeding.
@@ -106,3 +116,6 @@ Using relaxin to time breeding is a category error: by the time relaxin is detec
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval vs decision limit methodology.
+
+4. Steinetz BG, Goldsmith LT, Lust G. Plasma relaxin levels in pregnant and lactating dogs. *Biol Reprod* 1987;37(3):719–725. https://doi.org/10.1095/biolreprod37.3.719
+5. Einspanier A, et al. Relaxin: an important indicator of canine pregnancy. *Dtsch Tierarztl Wochenschr* 2002;109(1):8–12. https://pubmed.ncbi.nlm.nih.gov/11838296/

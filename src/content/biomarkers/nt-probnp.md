@@ -62,6 +62,17 @@ A qualitative or cut-off-only result collapses the informative middle of the dis
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published cut-offs and values on other platforms
+
+| Source | Species / setting | Reported value |
+|---|---|---|
+| Multicentre study, 2nd-generation ELISA ([PMC4858067](https://pmc.ncbi.nlm.nih.gov/articles/PMC4858067/)) | Dogs with respiratory distress | CHF median 5,110 pmol/L vs non-cardiac 1,287 pmol/L; cut-off **2,447 pmol/L** (sensitivity 81.1%, specificity 73.1%, AUC 0.84) |
+| Same study, ROC table | Dogs | 1,492 pmol/L → sens 87.8%/spec 59.0%; 4,247 pmol/L → sens 59.5%/spec 87.5% |
+| Multicentre feline study ([S1760273409000022](https://www.sciencedirect.com/science/article/pii/S1760273409000022)) | Cats with acute dyspnoea | Cut-off **265 pmol/L** (sens 90.2%, spec 87.9%, PPV 92%, NPV 85.3%); excluding hyperthyroid cats, 207 pmol/L (sens 93.1%, spec 93.6%) |
+| Clinical summary of assay-based thresholds ([FVMA](https://fvma.org/using-cardiac-biomarkers-in-clinical-practice)) | Dogs / cats | Dog: <900 pmol/L makes CHF unlikely, >1,800 likely; cat: <270 unlikely, >270 supportive |
+
+Note what the ROC table shows: moving the cut-off from 1,492 to 4,247 pmol/L trades sensitivity for specificity across a wide margin. A single "positive/negative" threshold conceals that trade — which is the practical argument for reporting a concentration rather than a category.
+
 | Population | Interval | Decision limit | n |
 |---|---|---|---|
 | Adult dogs | Pending pmol/L | Pending | Pending |
@@ -109,3 +120,6 @@ The renal row explains most discordant results in practice: a cat with chronic k
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP quality assurance guidelines.
+
+5. Relationship of plasma NT-proBNP concentrations to heart failure classification and cause of respiratory distress in dogs (2nd-generation ELISA). https://pmc.ncbi.nlm.nih.gov/articles/PMC4858067/
+6. Utility of plasma NT-proBNP to distinguish CHF from non-cardiac causes of acute dyspnea in cats. https://www.sciencedirect.com/science/article/pii/S1760273409000022
