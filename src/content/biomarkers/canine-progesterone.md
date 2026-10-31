@@ -66,6 +66,17 @@ A defensible protocol:
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published thresholds from other assays
+
+| Source | Method / setting | Reported threshold |
+|---|---|---|
+| Breeding-management interpretation table ([PMC8076448](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076448/)) | Quantitative progesterone, in-clinic vs chemiluminescence | <2 ng/mL: anoestrus/pro-oestrus; 2–3: LH surge; 3–4: post-LH, pre-ovulation; 4–10: at or near ovulation; 10–40: fertilisable period |
+| MSD Veterinary Manual, breeding management | Serial quantitative progesterone | 0.8–3 ng/mL at the LH surge; 1–8 at ovulation; 4–20+ during the fertile period; breed 3–6 days after the initial rise above 1.5–2.5 ng/mL |
+| Assay comparison study, *J S Afr Vet Assoc* 2019 ([10.4102/jsava.v90i0.1730](https://doi.org/10.4102/jsava.v90i0.1730)) | RIA vs chemiluminescence | Ovulation threshold ≈16 nmol/L (≈5 ng/mL) on RIA; the same nominal threshold did not transfer to the immunoassay method tested |
+| IVIS reproduction review | Progesterone series | Breeding 4–6 days after progesterone exceeds 2.0 ng/mL (≈6.5 nmol/L) |
+
+The third row is the one to read twice: a threshold expressed in the same units did **not** mean the same thing across two assay methods. That is why this page insists on a curve measured on one platform rather than a borrowed number.
+
 ---
 
 ## Reference values and decision thresholds
@@ -123,5 +134,8 @@ A clinic that buys relaxin and uses it to time breeding, or buys progesterone an
 2. Reference to be added.
 3. Reference to be added.
 4. CLSI EP28-A3c — reference interval vs decision limit methodology.
+
+5. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement. https://pmc.ncbi.nlm.nih.gov/articles/PMC8076448/
+6. Comparison of progesterone assay by chemiluminescence or radioimmunoassay for clinical decision-making in canine reproduction. https://doi.org/10.4102/jsava.v90i0.1730
 
 ---
