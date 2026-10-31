@@ -117,12 +117,9 @@ The error to avoid is treating SDMA as an earlier, better creatinine that can re
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval methodology.
-4. ASVCP guidelines — reference interval and quality goal practice in veterinary clinical pathology.
-
-5. *J Vet Intern Med* 2024 — SDMA in older dogs: reference interval and method comparison. https://doi.org/10.1111/jvim.16981
-6. Kopke MA, et al. Variability of symmetric dimethylarginine in apparently healthy dogs. *J Vet Intern Med* 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5867003/
+1. CLSI EP28-A3c — reference interval methodology.
+2. ASVCP guidelines — reference interval and quality goal practice in veterinary clinical pathology.
+3. *J Vet Intern Med* 2024 — SDMA in older dogs: reference interval and method comparison. https://doi.org/10.1111/jvim.16981
+4. Kopke MA, et al. Variability of symmetric dimethylarginine in apparently healthy dogs. *J Vet Intern Med* 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5867003/
 
 ---

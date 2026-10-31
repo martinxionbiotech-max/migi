@@ -113,9 +113,6 @@ Using relaxin to time breeding is a category error: by the time relaxin is detec
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval vs decision limit methodology.
-
-4. Steinetz BG, Goldsmith LT, Lust G. Plasma relaxin levels in pregnant and lactating dogs. *Biol Reprod* 1987;37(3):719–725. https://doi.org/10.1095/biolreprod37.3.719
-5. Einspanier A, et al. Relaxin: an important indicator of canine pregnancy. *Dtsch Tierarztl Wochenschr* 2002;109(1):8–12. https://pubmed.ncbi.nlm.nih.gov/11838296/
+1. CLSI EP28-A3c — reference interval vs decision limit methodology.
+2. Steinetz BG, Goldsmith LT, Lust G. Plasma relaxin levels in pregnant and lactating dogs. *Biol Reprod* 1987;37(3):719–725. https://doi.org/10.1095/biolreprod37.3.719
+3. Einspanier A, et al. Relaxin: an important indicator of canine pregnancy. *Dtsch Tierarztl Wochenschr* 2002;109(1):8–12. https://pubmed.ncbi.nlm.nih.gov/11838296/

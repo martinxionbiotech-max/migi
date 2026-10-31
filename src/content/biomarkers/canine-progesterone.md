@@ -130,12 +130,8 @@ A clinic that buys relaxin and uses it to time breeding, or buys progesterone an
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. Reference to be added.
-4. CLSI EP28-A3c — reference interval vs decision limit methodology.
-
-5. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement. https://pmc.ncbi.nlm.nih.gov/articles/PMC8076448/
-6. Comparison of progesterone assay by chemiluminescence or radioimmunoassay for clinical decision-making in canine reproduction. https://doi.org/10.4102/jsava.v90i0.1730
+1. CLSI EP28-A3c — reference interval vs decision limit methodology.
+2. Accuracy and precision guidelines for optimal breeding time in bitches using in-house progesterone measurement. https://pmc.ncbi.nlm.nih.gov/articles/PMC8076448/
+3. Comparison of progesterone assay by chemiluminescence or radioimmunoassay for clinical decision-making in canine reproduction. https://doi.org/10.4102/jsava.v90i0.1730
 
 ---

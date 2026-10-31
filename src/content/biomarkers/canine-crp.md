@@ -168,11 +168,9 @@ Interference is not a theoretical footnote for an acute-phase protein: hemolysis
 
 ## Sources
 
-1. Canine CRP physiology and acute-phase behaviour
+1. Canine CRP physiology and acute-phase behaviour. Reference to be added by medical affairs.
 2. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* (2018). https://doi.org/10.1186/s12917-018-1415-2 — source for platform-dependent bias (10–30% range reported across POCT evaluations), reference interval methodology (n = 60 healthy dogs), and the same-analyzer follow-up recommendation.
 3. CLSI EP28-A3c — Defining, establishing, and verifying reference intervals in the clinical laboratory (methodology standard).
-
-4. Hillström A, et al. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2
-5. Review: C-reactive protein as a diagnostic marker in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC9598812
+4. Review: C-reactive protein as a diagnostic marker in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC9598812
 
 ---

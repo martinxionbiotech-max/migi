@@ -109,9 +109,6 @@ Free T4 by equilibrium dialysis is the usual second-line test when total T4 is e
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval methodology, including age-appropriate partitioning.
-
-4. Comparison of in-clinic point-of-care and reference laboratory total thyroxine immunoassays in hyperthyroid cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11129217/
-5. Diagnosis and management of feline hyperthyroidism: current perspectives. https://pmc.ncbi.nlm.nih.gov/articles/PMC7337209/
+1. CLSI EP28-A3c — reference interval methodology, including age-appropriate partitioning.
+2. Comparison of in-clinic point-of-care and reference laboratory total thyroxine immunoassays in hyperthyroid cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11129217/
+3. Diagnosis and management of feline hyperthyroidism: current perspectives. https://pmc.ncbi.nlm.nih.gov/articles/PMC7337209/

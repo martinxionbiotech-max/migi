@@ -117,10 +117,7 @@ Serial cPL is useful, but slower than acute-phase proteins: values can remain el
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval versus decision limit methodology.
-4. ASVCP quality assurance guidelines.
-
-5. Spec cPL reference interval as applied in published studies. https://pmc.ncbi.nlm.nih.gov/articles/PMC8120087/
-6. *Front Vet Sci* 2025 — quantitative point-of-care serum cPL assessment. https://doi.org/10.3389/fvets.2025.1421103
+1. CLSI EP28-A3c — reference interval versus decision limit methodology.
+2. ASVCP quality assurance guidelines.
+3. Spec cPL reference interval as applied in published studies. https://pmc.ncbi.nlm.nih.gov/articles/PMC8120087/
+4. *Front Vet Sci* 2025 — quantitative point-of-care serum cPL assessment. https://doi.org/10.3389/fvets.2025.1421103

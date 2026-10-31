@@ -110,10 +110,7 @@ Two practical points that are frequently mishandled:
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval methodology.
-4. ASVCP quality assurance guidelines.
-
-5. Dixon RM, Mooney CT. Evaluation of serum free thyroxine and thyrotropin concentrations in the diagnosis of canine hypothyroidism. *J Small Anim Pract* 1999;40(2):72–78. https://doi.org/10.1111/j.1748-5827.1999.tb03040.x
-6. AAHA 2023 Selected Endocrinopathies of Dogs and Cats — canine hypothyroidism diagnostic testing and monitoring. https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/diagnostic-testing-and-monitoring/
+1. CLSI EP28-A3c — reference interval methodology.
+2. ASVCP quality assurance guidelines.
+3. Dixon RM, Mooney CT. Evaluation of serum free thyroxine and thyrotropin concentrations in the diagnosis of canine hypothyroidism. *J Small Anim Pract* 1999;40(2):72–78. https://doi.org/10.1111/j.1748-5827.1999.tb03040.x
+4. AAHA 2023 Selected Endocrinopathies of Dogs and Cats — canine hypothyroidism diagnostic testing and monitoring. https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/diagnostic-testing-and-monitoring/

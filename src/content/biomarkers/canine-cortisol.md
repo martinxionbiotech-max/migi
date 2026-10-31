@@ -102,10 +102,6 @@ Both tests are **assay-dependent**: post-ACTH and post-dexamethasone cut-offs pu
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. Reference to be added.
-4. CLSI EP28-A3c — reference interval methodology.
-
-5. Patterns of the low-dose dexamethasone suppression test in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC8252562/
-6. Michigan State University VDL — Adrenal testing in dogs. https://cvm.msu.edu/vdl/laboratory-sections/endocrinology/adrenal-testing-in-dogs
+1. CLSI EP28-A3c — reference interval methodology.
+2. Patterns of the low-dose dexamethasone suppression test in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC8252562/
+3. Michigan State University VDL — Adrenal testing in dogs. https://cvm.msu.edu/vdl/laboratory-sections/endocrinology/adrenal-testing-in-dogs

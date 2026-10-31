@@ -109,10 +109,8 @@ Two intervals for the same analyte, one at 0–4.0 mg/L and one at ≤ 0.82 mg/L
 
 ## Sources
 
-1. Reference to be added.
-2. CLSI EP28-A3c — reference interval methodology.
-3. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2 — platform-dependent bias and same-analyzer follow-up principle, transferable to the monitoring argument.
-4. ASVCP quality assurance guidelines.
-
-5. *Am J Vet Res* 2024 — polyclonal vs monoclonal SAA assays in cats. https://doi.org/10.2460/ajvr.24.03.0067
-6. Tamamoto T, et al. Serum amyloid A as a prognostic marker in cats. *J Vet Diagn Invest* 2013. https://doi.org/10.1177/1040638713486112
+1. CLSI EP28-A3c — reference interval methodology.
+2. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2 — platform-dependent bias and same-analyzer follow-up principle, transferable to the monitoring argument.
+3. ASVCP quality assurance guidelines.
+4. *Am J Vet Res* 2024 — polyclonal vs monoclonal SAA assays in cats. https://doi.org/10.2460/ajvr.24.03.0067
+5. Tamamoto T, et al. Serum amyloid A as a prognostic marker in cats. *J Vet Diagn Invest* 2013. https://doi.org/10.1177/1040638713486112

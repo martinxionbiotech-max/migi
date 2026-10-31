@@ -110,10 +110,7 @@ A cat with high fPL and normal fSAA has pancreatic involvement without a systemi
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval vs decision limit methodology.
-4. ASVCP quality assurance guidelines.
-
-5. Original Spec fPL reference interval and decision threshold. https://doi.org/10.2460/javma.23.02.0105
-6. Analytical validation and re-evaluated reference interval, *Vet Clin Pathol* 2023. https://doi.org/10.1111/vcp.13283
+1. CLSI EP28-A3c — reference interval vs decision limit methodology.
+2. ASVCP quality assurance guidelines.
+3. Original Spec fPL reference interval and decision threshold. https://doi.org/10.2460/javma.23.02.0105
+4. Analytical validation and re-evaluated reference interval, *Vet Clin Pathol* 2023. https://doi.org/10.1111/vcp.13283

@@ -116,10 +116,7 @@ The renal row explains most discordant results in practice: a cat with chronic k
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP28-A3c — reference interval methodology.
-4. ASVCP quality assurance guidelines.
-
-5. Relationship of plasma NT-proBNP concentrations to heart failure classification and cause of respiratory distress in dogs (2nd-generation ELISA). https://pmc.ncbi.nlm.nih.gov/articles/PMC4858067/
-6. Utility of plasma NT-proBNP to distinguish CHF from non-cardiac causes of acute dyspnea in cats. https://www.sciencedirect.com/science/article/pii/S1760273409000022
+1. CLSI EP28-A3c — reference interval methodology.
+2. ASVCP quality assurance guidelines.
+3. Relationship of plasma NT-proBNP concentrations to heart failure classification and cause of respiratory distress in dogs (2nd-generation ELISA). https://pmc.ncbi.nlm.nih.gov/articles/PMC4858067/
+4. Utility of plasma NT-proBNP to distinguish CHF from non-cardiac causes of acute dyspnea in cats. https://www.sciencedirect.com/science/article/pii/S1760273409000022
