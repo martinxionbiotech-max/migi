@@ -58,7 +58,7 @@ We may update this disclaimer as our products, documentation or legal obligation
 
 ## Contact
 
-Questions about intended use, performance data or this disclaimer: see [Contact Us](/contact/) or email martinwang2024@gmail.com.
+Questions about intended use, performance data or this disclaimer: see [Contact Us](/contact/) or email sales@migibio.net.
 
 ---
 

@@ -68,6 +68,6 @@ For the full technology explanation, see [Core Technology](/core-technology/). F
 
 To scope an OEM, ODM, or private-label project, include the target market, analyte menu, analyzer preference, packaging/language requirements, and estimated quantity in your inquiry:
 
-- **Email:** [martinwang2024@gmail.com](mailto:martinwang2024@gmail.com)
+- **Email:** [sales@migibio.net](mailto:sales@migibio.net)
 - **WhatsApp:** [Chat on WhatsApp](https://wa.me/8613323237275)
 - **Contact page:** [Contact Us](/contact/)

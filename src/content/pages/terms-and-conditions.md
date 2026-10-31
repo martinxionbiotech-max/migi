@@ -89,7 +89,7 @@ These conditions are governed by the laws of the People's Republic of China. The
 
 ## 15. Contact
 
-Questions about these conditions, an order or a claim: see [Contact Us](/contact/) or email martinwang2024@gmail.com.
+Questions about these conditions, an order or a claim: see [Contact Us](/contact/) or email sales@migibio.net.
 
 ---
 

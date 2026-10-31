@@ -14,10 +14,10 @@ Request a quote, technical support, or distribution partnership information. Our
 - **Contact:** Martin.Wong
 - **Company:** Guangzhou Magic Biotech Co., Ltd.
 - **Brand:** Migibio
-- **Email:** martinwang2024@gmail.com
+- **Email:** sales@migibio.net
 - **Address:** G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China
 
-**📱 [Chat on WhatsApp](https://wa.me/8613323237275)** — the fastest way to reach us · **✉️ [Email Us](mailto:martinwang2024@gmail.com)**
+**📱 [Chat on WhatsApp](https://wa.me/8613323237275)** — the fastest way to reach us · **✉️ [Email Us](mailto:sales@migibio.net)**
 
 ## What to Include in Your Inquiry
 

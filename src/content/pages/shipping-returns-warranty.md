@@ -97,7 +97,7 @@ Every kit carries a lot number, which links it to our production and lot-release
 
 ## Contact
 
-Shipping, returns and warranty claims: email martinwang2024@gmail.com or see [Contact Us](/contact/).
+Shipping, returns and warranty claims: email sales@migibio.net or see [Contact Us](/contact/).
 
 ---
 
