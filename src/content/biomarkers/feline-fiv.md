@@ -22,3 +22,73 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## Quick Answer
+
+FIV is diagnosed by antibody, not by antigen: the virus establishes lifelong infection and the antibody response is persistent, so a positive result in an adult cat is usually genuine. The exceptions define the practical rules — kittens under about six months can carry maternal antibody and test positive without being infected, and vaccination (where still used) produces antibody indistinguishable from infection. A positive screening result should therefore be confirmed, and a positive result in a kitten should be repeated after the maternal antibody window.
+
+## What the test measures
+
+| Test | Sample | Answers | Limits |
+|---|---|---|---|
+| FIV antibody | Serum | Has the cat been infected or vaccinated | Cannot distinguish the two; maternal antibody in kittens |
+| (PCR, referral) | Blood | Is provirus present | Sensitivity varies; not a first-line screen |
+
+Antibody screening is the standard first step because it is cheap, fast and sensitive. Its weaknesses are specific and well defined, which makes them easy to handle with a protocol.
+
+## The two situations that produce a misleading result
+
+**Kittens.** Maternal antibody persists for weeks to months. A positive result before roughly six months of age may reflect transfer rather than infection, and the accepted approach is to repeat after the window rather than to make a lifelong diagnosis on the first result. Declaring a kitten FIV-positive, and rehoming or euthanising on that basis, is a documented harm.
+
+**Vaccinated cats.** FIV vaccines have been used in some regions, and vaccination produces antibody that a binding assay cannot distinguish from infection. Where vaccination history is unknown, a positive result requires confirmation by PCR or by a different assay format.
+
+`[[ State the platform's recommended confirmation pathway, and whether the assay has been assessed for interference from vaccination in the markets you serve. ]]`
+
+## Why quantitative results have limited use here
+
+FIV is a chronic, lifelong infection; antibody presence is the diagnostic signal, and titre magnitude does not reliably correlate with clinical stage. A quantitative value is useful for confirming a clear positive and for documenting change over time, but it should not be presented as a staging tool.
+
+`[[ If the assay reports a quantitative value, state explicitly that it is not a prognostic marker. ]]`
+
+## Clinical management after a positive result
+
+A confirmed positive cat is infected for life. Management is about monitoring and risk reduction:
+
+- **Regular health checks**, with attention to oral health, body weight and renal function.
+- **Separation from FIV-negative cats** where feasible, to reduce transmission risk through fighting.
+- **Prompt treatment of secondary infections** — the clinical consequence of FIV is immune compromise, not the virus itself.
+- **Realistic prognosis discussions.** Many FIV-positive cats live normal lifespans with good care; the diagnosis is not a death sentence and should not be presented as one.
+
+## Reference values and decision limits
+
+`[[ Insert platform cut-offs, marked assay-specific. ]]`
+
+| Parameter | Value | Notes |
+|---|---|---|
+| Positive cut-off | `[[ ]]` | `[[ ]]` |
+| Retest window for kittens | `[[ ]]` months | `[[ maternal antibody ]]` |
+| Confirmation method | `[[ ]]` | `[[ PCR / alternate assay ]]` |
+
+## Six traps
+
+1. **Diagnosing a kitten on a single positive.** Repeat after the maternal antibody window.
+2. **Ignoring vaccination history.** Vaccine antibody mimics infection.
+3. **Skipping confirmation.** A screening positive should be confirmed before a lifelong diagnosis.
+4. **Presenting the diagnosis as terminal.** Many cats live normal lives.
+5. **Using titre magnitude as a stage.** It is not a prognostic marker.
+6. **Missing co-infection.** FeLV testing belongs in the same workup.
+
+## The Author's Take
+
+**Position.** The page's job is to make FIV a manageable diagnosis rather than a feared one, and the single most valuable element is a clear retest rule for kittens.
+
+**Reasoning.** FIV carries a stigma that predates the evidence: many positive cats live long, normal lives, but a positive result on a young cat can still end in euthanasia or relinquishment. The kitten retest rule is the specific intervention that prevents the worst version of that outcome, and it costs the vendor nothing to publish. Beyond the ethics, there is a commercial logic: a clinic that has been taught to confirm and to retest is a clinic that trusts the assay when the result is real. Vendors that let their test be used as a one-shot verdict lose the trust that comes from being right twice.
+
+**Disclosure.** Written from published feline retrovirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+
+## Sources
+
+1. `[[ Feline retrovirus testing guidance (e.g. AAFP/ABCD) — screening, confirmation, kitten retest window, vaccination interference ]]`
+2. `[[ FIV clinical management literature — prognosis and monitoring ]]`
+3. `[[ FeLV/FIV co-infection and testing algorithm ]]`
+4. CLSI EP17 / EP06 — detection capability and measuring interval.
