@@ -64,6 +64,37 @@ const schema = {
       <strong>Clinical note:</strong> this hub is an educational reference, not a substitute for veterinary judgement. Always interpret results with the patient's signalment, history, clinical signs, and the individual kit IFU.
     </div>
 
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold text-gray-900">Browse by clinical discipline</h2>
+      <p class="mt-2 max-w-3xl text-sm text-gray-600">
+        Discipline hubs group diseases by the clinical question being asked — useful when the differential is unclear and you want the testing logic for a category rather than a single pathogen.
+      </p>
+      <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {[
+          { label: 'Infectious disease', href: '/diseases/infectious/', note: 'Antigen vs antibody, panels, timing' },
+          { label: 'Inflammatory', href: '/diseases/inflammatory/', note: 'CRP and SAA, magnitude and trend' },
+          { label: 'Endocrine', href: '/diseases/endocrine/', note: 'Thyroid and adrenal pitfalls' },
+          { label: 'Cardiac', href: '/diseases/cardiac/', note: 'NT-proBNP as a rule-out' },
+          { label: 'Renal', href: '/diseases/renal/', note: 'Three markers, one narrow question' },
+          { label: 'Pancreatic', href: '/diseases/pancreatic/', note: 'Composite diagnosis' },
+          { label: 'Reproduction', href: '/diseases/reproduction/', note: 'Progesterone then relaxin' },
+          { label: 'Vector-borne', href: '/diseases/vector-borne/', note: 'Clinical need and menu boundary' },
+        ].map((hub) => (
+          <a href={hub.href} class="group rounded-lg border border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md">
+            <h3 class="text-base font-semibold text-gray-900 group-hover:text-brand-700">{hub.label}</h3>
+            <p class="mt-1 text-sm text-gray-600">{hub.note}</p>
+          </a>
+        ))}
+      </div>
+      <p class="mt-4 text-sm text-gray-600">
+        Testing by species and life stage: <a href="/species/dogs/" class="text-brand-600 hover:text-brand-800">dogs</a> ·
+        <a href="/species/cats/" class="text-brand-600 hover:text-brand-800">cats</a> ·
+        <a href="/species/puppies/" class="text-brand-600 hover:text-brand-800">puppies</a> ·
+        <a href="/species/kittens/" class="text-brand-600 hover:text-brand-800">kittens</a> ·
+        <a href="/species/seniors/" class="text-brand-600 hover:text-brand-800">seniors</a>
+      </p>
+    </section>
+
     {grouped.map((group) => (
       <section class="mb-12">
         <h2 class="text-2xl font-bold text-gray-900">{group.label}</h2>

@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 slug: "privacy-policy"
 description: "How Migibio (Guangzhou Magic Biotech Co., Ltd.) collects, uses and protects personal information submitted through migibio.net, and your rights over it."
-faq: [{"q": "Does migibio.net use tracking or advertising cookies?", "a": "No. This website does not run advertising cookies, social-media pixels or third-party analytics trackers. Essential security cookies may be set by our content delivery network (Cloudflare) to protect the site against bots and abuse; these are used only for security and are not used to profile visitors."}, {"q": "What information does Migibio collect from a quotation enquiry?", "a": "Only what you send us: typically your name, company, country, email address, telephone or WhatsApp number, the products or catalog numbers you are interested in, and your message. We use it to prepare the quotation and to answer you — we do not sell it or pass it to unrelated third parties."}, {"q": "How can I have my information deleted?", "a": "Email martinwang2024@gmail.com with your request and the details you want removed, and we will delete the personal information we hold about you, except where we are required to keep records for accounting, tax or legal purposes."}]
+faq: [{"q": "Does migibio.net use tracking or advertising cookies?", "a": "No. This website does not run advertising cookies, social-media pixels or third-party analytics trackers. Essential security cookies may be set by our content delivery network (Cloudflare) to protect the site against bots and abuse; these are used only for security and are not used to profile visitors."}, {"q": "What information does Migibio collect from a quotation enquiry?", "a": "Only what you send us: typically your name, company, country, email address, telephone or WhatsApp number, the products or catalog numbers you are interested in, and your message. We use it to prepare the quotation and to answer you — we do not sell it or pass it to unrelated third parties."}, {"q": "How can I have my information deleted?", "a": "Email sales@migibio.net with your request and the details you want removed, and we will delete the personal information we hold about you, except where we are required to keep records for accounting, tax or legal purposes."}]
 ---
 
 # Privacy Policy
@@ -11,7 +11,7 @@ This policy explains how **Guangzhou Magic Biotech Co., Ltd.** (广州敏捷生�
 
 ## Who We Are
 
-Guangzhou Magic Biotech Co., Ltd., G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China. For any privacy question or request, contact us at martinwang2024@gmail.com.
+Guangzhou Magic Biotech Co., Ltd., G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China. For any privacy question or request, contact us at sales@migibio.net.
 
 ## Information We Collect
 
@@ -84,7 +84,7 @@ Subject to applicable law, you may request to:
 - receive your information in a portable format;
 - withdraw consent where processing is based on consent.
 
-To exercise any of these rights, email martinwang2024@gmail.com. We will respond within a reasonable period and within any deadline set by applicable law. If you are not satisfied with our response, you may complain to your local data protection authority.
+To exercise any of these rights, email sales@migibio.net. We will respond within a reasonable period and within any deadline set by applicable law. If you are not satisfied with our response, you may complain to your local data protection authority.
 
 ## Children
 
@@ -100,7 +100,7 @@ We may update this policy when our practices or legal obligations change. The ve
 
 ## Contact Us
 
-Guangzhou Magic Biotech Co., Ltd. — privacy enquiries: martinwang2024@gmail.com, or see [Contact Us](/contact/) for our full contact details.
+Guangzhou Magic Biotech Co., Ltd. — privacy enquiries: sales@migibio.net, or see [Contact Us](/contact/) for our full contact details.
 
 ---
 

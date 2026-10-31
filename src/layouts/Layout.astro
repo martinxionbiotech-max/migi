@@ -38,7 +38,7 @@ const pageId = `${pageUrl.replace(/\/$/, '')}/#webpage`;
 const brandTitle = title.includes('Migibio') || title.length + 10 > 60 ? title : `${title} — Migibio`;
 const companyName = 'Guangzhou Magic Biotech Co., Ltd.';
 const contactName = 'Martin.Wong';
-const email = 'martinwang2024@gmail.com';
+const email = 'sales@migibio.net';
 const whatsapp = 'https://wa.me/8613323237275';
 const address = 'G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou City, Guangdong Province, China';
 
@@ -176,13 +176,19 @@ const navLinks = [
   },
   {
     label: 'Resources',
-    href: '/core-technology',
+    href: '/technology',
     children: [
+      { label: 'Technology Reference', href: '/technology' },
       { label: 'Core Technology', href: '/core-technology' },
+      { label: 'Species Guides', href: '/species' },
+      { label: 'Disease Hub', href: '/diseases' },
+      { label: 'Compare Methods', href: '/compare' },
+      { label: 'Applications', href: '/applications' },
+      { label: 'Glossary', href: '/glossary' },
+      { label: 'Documents', href: '/resources' },
+      { label: 'Data Hub', href: '/biomarkers' },
       { label: 'Knowledge Base', href: 'https://docs.migibio.net' },
       { label: 'Research Center', href: 'https://research.migibio.net' },
-      { label: 'Data Hub', href: '/biomarkers' },
-      { label: 'Disease Hub', href: '/diseases' },
     ],
   },
 ];
@@ -315,6 +321,8 @@ const navLinks = [
             <li><a href="/equipment/FIA680" class="text-gray-400 transition-colors hover:text-brand-300">FIA680 Analyzer</a></li>
             <li><a href="/equipment/FIA880" class="text-gray-400 transition-colors hover:text-brand-300">FIA880 Analyzer</a></li>
             <li><a href="/reagents" class="text-gray-400 transition-colors hover:text-brand-300">Canine &amp; Feline Reagents</a></li>
+            <li><a href="/technology" class="text-gray-400 transition-colors hover:text-brand-300">Technology Reference</a></li>
+            <li><a href="/species" class="text-gray-400 transition-colors hover:text-brand-300">Species Guides</a></li>
             <li><a href="/core-technology" class="text-gray-400 transition-colors hover:text-brand-300">Core Technology</a></li>
           </ul>
         </div>
@@ -333,6 +341,11 @@ const navLinks = [
             <li><a href="https://docs.migibio.net" class="text-gray-400 transition-colors hover:text-brand-300">Knowledge Base</a></li>
             <li><a href="https://research.migibio.net" class="text-gray-400 transition-colors hover:text-brand-300">Research Center</a></li>
             <li><a href="/biomarkers" class="text-gray-400 transition-colors hover:text-brand-300">Data Hub</a></li>
+            <li><a href="/diseases" class="text-gray-400 transition-colors hover:text-brand-300">Disease Hub</a></li>
+            <li><a href="/compare" class="text-gray-400 transition-colors hover:text-brand-300">Compare Methods</a></li>
+            <li><a href="/applications" class="text-gray-400 transition-colors hover:text-brand-300">Applications</a></li>
+            <li><a href="/glossary" class="text-gray-400 transition-colors hover:text-brand-300">Glossary</a></li>
+            <li><a href="/resources" class="text-gray-400 transition-colors hover:text-brand-300">Documents</a></li>
           </ul>
         </div>
       </div>

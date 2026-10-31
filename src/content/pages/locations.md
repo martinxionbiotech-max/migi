@@ -14,7 +14,7 @@ Guangzhou Magic Biotech Co., Ltd. is headquartered in **Guangzhou Science City**
 
 **Contact:** Martin.Wong  
 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8613323237275)  
-**Email:** martinwang2024@gmail.com
+**Email:** sales@migibio.net
 
 ## Manufacturing & R&D Facility
 

@@ -67,7 +67,7 @@ We may update these terms from time to time. The version published on this page,
 
 ## Contact
 
-Guangzhou Magic Biotech Co., Ltd. — see [Contact Us](/contact/) or email martinwang2024@gmail.com.
+Guangzhou Magic Biotech Co., Ltd. — see [Contact Us](/contact/) or email sales@migibio.net.
 
 ---
 

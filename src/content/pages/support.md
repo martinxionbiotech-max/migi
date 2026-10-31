@@ -10,11 +10,11 @@ Migibio provides comprehensive technical documentation and support for our veter
 
 ## Instructions for Use (IFU)
 
-Each Migibio test kit ships with a printed Instructions for Use. Electronic copies are available on request through our technical support team, ensuring your clinic always has the latest version.
+Each Migibio test kit ships with a printed Instructions for Use. Electronic copies are available on request through our technical support team, ensuring your clinic always has the latest version. For what an IFU must state — version, effective date, market scope — see [Instructions for Use: versions and scope](/resources/ifu/).
 
 ## Standard Operating Procedures (SOP)
 
-We provide SOP templates to help veterinary laboratories standardise sample collection, test execution, quality control, and result interpretation across all Migibio analyzers and reagent panels.
+We provide SOP templates to help veterinary laboratories standardise sample collection, test execution, quality control, and result interpretation across all Migibio analyzers and reagent panels. A worked quality-control plan is published on the [quality control page](/technology/quality-control/), and sample acceptance limits on the [sample handling page](/technology/sample-handling/).
 
 ## Video Tutorials
 
@@ -38,7 +38,7 @@ A: Store kits at 4–30℃ until the expiration date. Operate tests at 18–28�
 A: Most kits accept serum or plasma (EDTA anticoagulant recommended). Refer to the specific IFU for each analyte.
 
 **Q: How do I obtain a quote or place an order?**  
-A: Contact our sales team (Contact: Martin.Wong) via WhatsApp or email martinwang2024@gmail.com. You may also use the contact form on our Contact Us page.
+A: Contact our sales team via WhatsApp or email sales@migibio.net. You may also use the contact form on our Contact Us page.
 
 **Q: What is the difference between antigen and antibody tests?**  
 A: Antigen tests detect the pathogen itself and indicate active infection; antibody tests detect the immune response and indicate exposure or immunity. See [Antigen vs. Antibody Testing](/blog/canine-feline-antigen-vs-antibody-testing).
