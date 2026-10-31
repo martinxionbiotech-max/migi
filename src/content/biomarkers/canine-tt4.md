@@ -55,6 +55,17 @@ The pairing is what turns a suggestive number into a defensible diagnosis. A low
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values and cut-offs on other platforms
+
+| Source | Method / population | Reported value |
+|---|---|---|
+| Euthyroid plasma reference interval, Utrecht ([PMC4857956](https://pmc.ncbi.nlm.nih.gov/articles/PMC4857956/)) | Immulite canine total T4 | 19–46 nmol/L |
+| Dixon & Mooney, *J Small Anim Pract* 1999 ([10.1111/j.1748-5827.1999.tb03040.x](https://doi.org/10.1111/j.1748-5827.1999.tb03040.x)) | 107 dogs with signs; diagnosis by TSH-response testing | Optimal cut-off **< 14.9 nmol/L** (sensitivity 100%, specificity 75.3%); TSH cut-off > 0.68 ng/mL |
+| Breed-specific, Salukis (*JAVMA* 2010, n = 282) | Total T4, breed-specific limits vs general canine limits | Median 13.0 nmol/L (2.8–40.0) versus general 15.0–50.0 nmol/L |
+| AAHA 2023 endocrine guidelines | Clinical guidance | An isolated low TT4 should not be the sole criterion; ~20–40% of overtly hypothyroid dogs have TSH within the reference interval |
+
+Two of these rows are the argument this page makes. The first shows a normal interval that starts at 19 nmol/L; the second shows that a cut-off of 14.9 nmol/L maximises sensitivity at the cost of specificity. A dog at 16 nmol/L is normal on one and suspicious on the other, and neither is wrong — they answer different questions.
+
 | Population | Interval | n | Notes |
 |---|---|---|---|
 | Adult dogs | Pending nmol/L | Pending | Pending |
@@ -103,3 +114,6 @@ Two practical points that are frequently mishandled:
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP quality assurance guidelines.
+
+5. Dixon RM, Mooney CT. Evaluation of serum free thyroxine and thyrotropin concentrations in the diagnosis of canine hypothyroidism. *J Small Anim Pract* 1999;40(2):72–78. https://doi.org/10.1111/j.1748-5827.1999.tb03040.x
+6. AAHA 2023 Selected Endocrinopathies of Dogs and Cats — canine hypothyroidism diagnostic testing and monitoring. https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/diagnostic-testing-and-monitoring/

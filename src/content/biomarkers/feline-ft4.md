@@ -60,6 +60,17 @@ Serial measurement is not a marketing suggestion; in feline thyroid disease it i
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values and cut-offs on other platforms
+
+| Source | Method / population | Reported value |
+|---|---|---|
+| Reference interval, 165 clinically normal cats aged 7–19 y, as used in a POCT comparison ([PMC11129217](https://pmc.ncbi.nlm.nih.gov/articles/PMC11129217/)) | Automated enzyme immunoassay | 12–50 nmol/L |
+| Reference interval, 172 clinically normal cats (*JAVMA* 2001, [10.2460/javma.2001.218.529](https://doi.org/10.2460/javma.2001.218.529)) | Total T4, non-parametric central 95% | 12–48 nmol/L; free T4 16–51 pmol/L |
+| Same POCT comparison | In-clinic vs reference laboratory | 95% limits of agreement ±30%; classification agreement 96.8% at a 12–50 nmol/L interval |
+| Review of feline hyperthyroidism diagnosis ([PMC7337209](https://pmc.ncbi.nlm.nih.gov/articles/PMC7337209/)) | Clinical literature | Up to ~10% of hyperthyroid cats have T4 within the interval; >95% of those have elevated free T4; 20–30% of the normal-T4 group have concurrent illness |
+
+The ±30% limits of agreement between two TT4 methods is the number worth remembering: a cat at 48 nmol/L on one platform can sit at 62 or 34 on another, which is the difference between "normal" and "treat".
+
 | Population | Interval | n | Notes |
 |---|---|---|---|
 | Adult cats | Pending nmol/L | Pending | Pending |
@@ -101,3 +112,6 @@ Free T4 by equilibrium dialysis is the usual second-line test when total T4 is e
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology, including age-appropriate partitioning.
+
+4. Comparison of in-clinic point-of-care and reference laboratory total thyroxine immunoassays in hyperthyroid cats. https://pmc.ncbi.nlm.nih.gov/articles/PMC11129217/
+5. Diagnosis and management of feline hyperthyroidism: current perspectives. https://pmc.ncbi.nlm.nih.gov/articles/PMC7337209/

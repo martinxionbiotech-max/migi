@@ -43,6 +43,16 @@ Cortisol is the end product of the hypothalamic–pituitary–adrenal axis. Its 
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published cut-offs on other platforms
+
+| Source | Test / population | Reported cut-off |
+|---|---|---|
+| Low-dose dexamethasone suppression patterns ([PMC8252562](https://pmc.ncbi.nlm.nih.gov/articles/PMC8252562/)) | LDDST in dogs | Failure to suppress below 50% of basal, or a 4- or 8-hour cortisol < 27.59 nmol/L, is consistent with hyperadrenocorticism |
+| Michigan State University endocrinology guidance | Comparison of dynamic tests | ACTH stimulation is more specific but less sensitive than LDDST for hyperadrenocorticism |
+| Same guidance | Hypoadrenocorticism | Pre- and post-ACTH cortisol are expected to be very low or undetectable in untreated Addison's disease |
+
+Both dynamic cut-offs above belong to specific cortisol assays. The 27.59 nmol/L figure is not a universal threshold: it was derived on one method, and applying it to a different immunoassay misclassifies dogs in both directions — which is the reason this page insists on assay-specific limits.
+
 ## The dynamic tests, and why they cannot be replaced
 
 **ACTH stimulation** — measures adrenal reserve. Used for diagnosing Cushing's (exaggerated response) and Addison's (absent response), and for monitoring trilostane dose. Requires the specific ACTH preparation and a validated post-stimulation cut-off for the assay.
@@ -96,3 +106,6 @@ Both tests are **assay-dependent**: post-ACTH and post-dexamethasone cut-offs pu
 2. Reference to be added.
 3. Reference to be added.
 4. CLSI EP28-A3c — reference interval methodology.
+
+5. Patterns of the low-dose dexamethasone suppression test in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC8252562/
+6. Michigan State University VDL — Adrenal testing in dogs. https://cvm.msu.edu/vdl/laboratory-sections/endocrinology/adrenal-testing-in-dogs
