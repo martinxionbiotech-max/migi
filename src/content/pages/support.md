@@ -10,11 +10,11 @@ Migibio provides comprehensive technical documentation and support for our veter
 
 ## Instructions for Use (IFU)
 
-Each Migibio test kit ships with a printed Instructions for Use. Electronic copies are available on request through our technical support team, ensuring your clinic always has the latest version.
+Each Migibio test kit ships with a printed Instructions for Use. Electronic copies are available on request through our technical support team, ensuring your clinic always has the latest version. For what an IFU must state — version, effective date, market scope — see [Instructions for Use: versions and scope](/resources/ifu/).
 
 ## Standard Operating Procedures (SOP)
 
-We provide SOP templates to help veterinary laboratories standardise sample collection, test execution, quality control, and result interpretation across all Migibio analyzers and reagent panels.
+We provide SOP templates to help veterinary laboratories standardise sample collection, test execution, quality control, and result interpretation across all Migibio analyzers and reagent panels. A worked quality-control plan is published on the [quality control page](/technology/quality-control/), and sample acceptance limits on the [sample handling page](/technology/sample-handling/).
 
 ## Video Tutorials
 
