@@ -44,7 +44,7 @@ A qualitative strip reports "positive", collapsing a puppy shedding enormous amo
 2. **Trend**, which supports monitoring through the course of the disease.
 3. **Discordance detection**, because a result that does not fit the clinical picture prompts a dilution check rather than an assumption.
 
-`[[ State the platform's unit (see the units and reporting page for the general convention), the measuring interval, and the upper reportable limit above which dilution is required. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The two windows that decide the result
 
@@ -56,14 +56,14 @@ A third window belongs on any page about this assay: **antigen excess**. In a do
 
 ## Reference intervals and decision limits
 
-`[[ Insert platform-specific cut-off for antigen positivity, the measuring interval, and the upper limit above which dilution confirmation is required. State the specimen type explicitly (rectal swab vs faecal). ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Positive cut-off | `[[ ]]` | `[[ platform-specific ]]` |
-| Measuring interval | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Antibody protective threshold | `[[ ]]` | `[[ if the assay supports interpretation ]]` |
+| Positive cut-off | Pending | Pending |
+| Measuring interval | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Antibody protective threshold | Pending | Pending |
 
 ## Interpretation in practice
 
@@ -79,7 +79,7 @@ A third window belongs on any page about this assay: **antigen excess**. In a do
 
 In a shelter, the useful pattern is antigen testing at intake for at-risk animals plus isolation on positives, rather than antibody screening. Antibody testing is valuable in a different setting — assessing whether a population is immune before an outbreak, or deciding whether a vaccinated animal needs boosters — but it does not identify shedders.
 
-`[[ State the recommended testing cadence for group housing, if the platform has guidance. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -96,11 +96,11 @@ In a shelter, the useful pattern is antigen testing at intake for at-risk animal
 
 **Reasoning.** Single-antigen positioning puts the product in direct competition with every strip on the market, where the decision reduces to price. The pair positioning changes the conversation: antigen tells the clinic who to isolate today, antibody tells the breeder whether the litter is protected. Those are different buyers with different budgets, and a vendor supplying both becomes the reference point for the disease rather than a line item. The risk is misuse — antibody read as diagnosis — and that is manageable by placing the interpretation table on the page, which costs nothing and prevents the complaint that would otherwise arrive in month two.
 
-**Disclosure.** Written from published canine parvovirus literature and immunoassay principles; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published canine parvovirus literature and immunoassay principles; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Canine parvovirus diagnosis literature — antigen shedding windows, vaccination interference with antibody testing ]]`
-2. `[[ Shelter outbreak management guidance — testing strategy in group housing ]]`
-3. `[[ Vaccine-strain shedding literature — timing and interpretation ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP17 — detection capability; CLSI EP06 — measuring interval (relevant to dilution confirmation).

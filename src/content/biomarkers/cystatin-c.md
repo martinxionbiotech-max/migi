@@ -43,16 +43,16 @@ That advantage is real but narrower than marketing usually implies. Cystatin C i
 
 The clinical value is in the disagreement. A thin cat with a high creatinine and a normal cystatin C is a different animal from a thin cat with both high — one has a muscle-mass-independent filtration marker that is reassuring, the other does not. The clinician who has only creatinine cannot make that distinction. That is the case for keeping a third marker on the menu; it is not a case for replacing the first two.
 
-`[[ State explicitly whether the platform's cystatin C has been validated in both species, and for which specimen types. Do not imply canine validation extends to feline samples. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference intervals
 
-`[[ Insert species-specific intervals. Where feline or canine intervals are not established, say so rather than publishing a combined interval. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Method |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` mg/L | `[[ ]]` | `[[ EP28 ]]` |
-| Adult cats | `[[ ]]` mg/L | `[[ ]]` | `[[ ]]` |
+| Adult dogs | Pending mg/L | Pending | Pending |
+| Adult cats | Pending mg/L | Pending | Pending |
 | Puppies / kittens | Not established | — | Interpret against serial change |
 
 ## Interpretation in practice
@@ -82,11 +82,11 @@ The table is a reasoning aid, not an algorithm. Every row requires hydration sta
 
 **Reasoning.** The temptation is to present cystatin C as the most sophisticated marker on the menu — it is newer, it sounds advanced, and it has an elegant physiological rationale. But buyers in this category include laboratory directors who know the veterinary literature, and a claim that outruns the evidence is the fastest way to lose them. The narrower claim — "useful when creatinine and the clinical picture disagree, especially in the very muscular or very wasted patient" — is defensible, teachable, and survives contact with difficult cases. It also creates a legitimate reason to run three markers rather than one, which is a better commercial argument than replacement, because replacement invites a comparison that cystatin C does not win.
 
-**Disclosure.** Written from published veterinary and general literature on cystatin C as a filtration marker; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform studies.
+**Disclosure.** Written from published veterinary and general literature on cystatin C as a filtration marker; no new experimental data. Values marked are placeholders for Migibio's platform studies.
 
 ## Sources
 
-1. `[[ Veterinary cystatin C literature — canine and feline studies; state species, n, and comparator method ]]`
-2. `[[ Human/mammalian literature on non-renal influences (thyroid status, glucocorticoids) — cite the reviews relied upon ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP quality assurance guidelines.

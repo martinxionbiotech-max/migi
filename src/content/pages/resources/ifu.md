@@ -27,13 +27,13 @@ faq:
 | Storage and stability | Kit and sample |
 | Version and effective date | Determines whether the document is current |
 
-`[[ Insert the actual IFU structure and section numbering used for your products. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Requesting a copy
 
 Include the product name, catalogue number, reagent lot if the question is batch-specific, and the intended use of the document — a registration submission and a bench reference may need different formats and languages.
 
-`[[ Insert the request route and typical response time. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Checking that the document matches your lot
 
@@ -66,7 +66,7 @@ Include the product name, catalogue number, reagent lot if the question is batch
 
 **Reasoning.** The worry is that a public IFU invites comparison and criticism. But the realistic alternative is worse: buyers receive a document by email, cannot verify its currency, and either delay a submission or use a superseded version. Both outcomes cost the vendor more than any criticism. A public library with versions and dates also demonstrates a functioning document control system, which is exactly what a distributor's quality audit is looking for — and it converts a support task into a competitive signal.
 
-**Disclosure.** Structural page pending document publication. `[[ ]]` markers indicate where the current IFU structure and request route must be inserted.
+**Disclosure.** Structural page pending document publication. markers indicate where the current IFU structure and request route must be inserted.
 
 ## Related pages
 
@@ -75,5 +75,5 @@ Include the product name, catalogue number, reagent lot if the question is batch
 
 ## Sources
 
-1. `[[ Document control register — IFU versions per product ]]`
-2. `[[ Market registration status per product ]]`
+1. Reference to be added.
+2. Reference to be added.

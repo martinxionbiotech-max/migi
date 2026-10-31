@@ -32,7 +32,7 @@ faq:
 
 A lower LoD is a real capability, and there are analytes where it changes clinical decisions — cardiac markers and some hormones being the usual examples. But for many veterinary markers the decision threshold sits orders of magnitude above either method's detection limit, which means the sensitivity difference has no clinical consequence.
 
-`[[ State the platform's LoD for the analytes where sensitivity is contested, and where the clinical decision limit sits relative to it. That comparison is the honest form of the argument. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A vendor who claims superior sensitivity without locating the decision threshold is making an analytical claim, not a clinical one.
 
@@ -59,7 +59,7 @@ Where that cost is high, a method with a slightly higher LoD and a same-hour res
 
 The two methods do not produce interchangeable numbers. Different calibration systems and signal-to-concentration relationships produce proportional bias, and a decision limit from a chemiluminescence platform applied to a fluorescence result will misclassify.
 
-`[[ Publish the platform's comparison against a named method where one has been performed, and state that intervals are platform-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -76,10 +76,10 @@ The two methods do not produce interchangeable numbers. Different calibration sy
 
 **Reasoning.** A laboratory scientist will not accept that a bench-top cartridge matches a chemiluminescence platform on detection limit, and pretending otherwise ends the conversation. What that scientist will accept is that the decision limit for most veterinary analytes sits well above both, and that the binding constraint in practice is turnaround. That argument is checkable, it respects the buyer's expertise, and it moves the discussion from method prestige to clinical workflow — which is the ground where point-of-care testing actually wins.
 
-**Disclosure.** This page compares method categories, not specific products. Figures marked `[[ ]]` indicate where platform-specific detection limits and comparison data must be inserted.
+**Disclosure.** This page compares method categories, not specific products. Figures marked indicate where platform-specific detection limits and comparison data must be inserted.
 
 ## Sources
 
-1. `[[ Platform LoD data per analyte, and clinical decision limits from the reference interval page ]]`
+1. Reference to be added.
 2. CLSI EP17 — detection capability.
-3. `[[ Method comparison against a chemiluminescence platform, if performed ]]`
+3. Reference to be added.

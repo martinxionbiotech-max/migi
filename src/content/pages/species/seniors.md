@@ -23,11 +23,11 @@ Diagnosis is a snapshot. Senior care is a series. The series only works if the m
 
 | Parameter | Why it is tracked | Frequency guide |
 |---|---|---|
-| Creatinine and urine specific gravity | Filtration and concentrating ability together | `[[ ]]` months |
-| SDMA where creatinine is confounded | Muscle-mass-independent filtration | `[[ ]]` months |
-| Urine protein:creatinine | Proteinuria is a treatment target, invisible to filtration markers | `[[ ]]` months |
-| Blood pressure | Both cause and consequence of renal and cardiac disease | `[[ ]]` months |
-| T4 in cats | Hyperthyroidism is common and treatable | `[[ ]]` months |
+| Creatinine and urine specific gravity | Filtration and concentrating ability together | Pending months |
+| SDMA where creatinine is confounded | Muscle-mass-independent filtration | Pending months |
+| Urine protein:creatinine | Proteinuria is a treatment target, invisible to filtration markers | Pending months |
+| Blood pressure | Both cause and consequence of renal and cardiac disease | Pending months |
+| T4 in cats | Hyperthyroidism is common and treatable | Pending months |
 | NT-proBNP where murmur or signs exist | Cardiac load; interpretation with renal function | On indication |
 | Inflammatory marker where chronic disease exists | Trend supports response assessment | On indication |
 
@@ -39,7 +39,7 @@ If a cat's creatinine is measured on one platform in March and a different one i
 
 The same principle applies to switching markers: tracking SDMA for a year and then creatinine for the next year produces a curve that cannot be interpreted.
 
-`[[ State the platform's precision at the concentrations used for monitoring, so a change can be judged against noise. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What a senior visit should decide
 
@@ -72,7 +72,7 @@ The same principle applies to switching markers: tracking SDMA for a year and th
 
 **Reasoning.** In a young animal, one test answers one question. In an older animal, the value is in the curve, and the curve is only as good as its comparability. A vendor that publishes its precision at monitoring concentrations, keeps reference intervals stable across lots, and warns about method switching is selling something more durable than a cartridge: it is selling the ability to know whether the animal is getting worse. Clinics that understand this become single-platform practices by choice, which is the most defensible form of customer retention available in this market.
 
-**Disclosure.** Clinical and operational guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform data and monitoring intervals must be inserted.
+**Disclosure.** Clinical and operational guidance, not a performance claim. Figures marked indicate where platform data and monitoring intervals must be inserted.
 
 ## Related pages
 
@@ -82,6 +82,6 @@ The same principle applies to switching markers: tracking SDMA for a year and th
 
 ## Sources
 
-1. `[[ Senior/geriatric screening guidance used by medical affairs ]]`
-2. `[[ IRIS staging and feline hyperthyroidism guidance ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — age-appropriate reference intervals; CLSI EP05 — precision.

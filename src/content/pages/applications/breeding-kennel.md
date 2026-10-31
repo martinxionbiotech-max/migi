@@ -27,9 +27,9 @@ One test tells you where you are. A series tells you where you are going. Breedi
 | Stud fee and travel | Often non-refundable once booked |
 | Boarding and handling | Accrues while waiting for a decision |
 | Repeat ultrasound/visits | Adds up if timing is uncertain |
-| Progesterone series | `[[ ]]` per test × `[[ ]]` tests per cycle |
+| Progesterone series | Pending per test × Pending tests per cycle |
 
-`[[ Insert the platform's per-test cost and a worked example using a realistic kennel cycle count, rather than a best case. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 The comparison that matters is not "test cost versus no test cost" but **test cost versus the probability-weighted cost of losing a cycle**. A kennel that breeds six bitches a year and loses one cycle to mistimed insemination has already paid for a lot of testing.
 
@@ -43,7 +43,7 @@ The comparison that matters is not "test cost versus no test cost" but **test co
 
 A kennel-specific complication: samples are often drawn by staff who are not veterinarians, and transported. That makes three things critical — a written collection protocol, a fixed transport time, and a documented storage temperature. A curve built from inconsistent handling is worse than no curve, because it looks authoritative.
 
-`[[ State the platform's sample type, minimum volume, stability window and transport requirements in a form that can be handed to kennel staff. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Where relaxin fits
 
@@ -61,7 +61,7 @@ A kennel that buys relaxin and uses it to time breeding has bought the wrong tes
 
 For each bitch and cycle: first day of oestrus, every progesterone value with date and time, the insemination dates, the pregnancy outcome, and litter size. Two or three seasons of this data turn a breeding programme from habit into a managed process — and it is the difference between "she didn't take" and "we know why".
 
-`[[ Provide a one-page cycle record template. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -78,10 +78,10 @@ For each bitch and cycle: first day of oestrus, every progesterone value with da
 
 **Reasoning.** Progesterone assays are commodity items; every POCT vendor has one. What a kennel cannot easily buy is consistency: the same schedule, the same interpretation rule, the same record format, across staff and across seasons. A vendor that supplies a protocol, a record template and a worked example curve converts a commodity into an operating system, and it creates repeat testing that is predictable rather than opportunistic. It also reduces the vendor's support burden, because most "your test was wrong" complaints in this segment are actually schedule complaints.
 
-**Disclosure.** This page is operational and economic guidance, not a performance claim. Values marked `[[ ]]` indicate where platform pricing, protocol thresholds and templates must be inserted.
+**Disclosure.** This page is operational and economic guidance, not a performance claim. Values marked indicate where platform pricing, protocol thresholds and templates must be inserted.
 
 ## Sources
 
-1. `[[ Canine breeding management guidance — ovulatory threshold range, insemination timing rule ]]`
-2. `[[ Progesterone assay comparison literature — platform-dependent decision limits ]]`
-3. `[[ Relaxin validation literature — earliest reliable detection day ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

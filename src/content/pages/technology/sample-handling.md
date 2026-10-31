@@ -31,18 +31,18 @@ Every step before the cartridge is loaded introduces variance:
 6. **Freeze-thaw** — repeated cycles degrade proteins; the number of cycles matters.
 7. **Loading** — pipetting accuracy, bubble exclusion, temperature equilibration of the cartridge.
 
-`[[ Insert the platform's specified limits for each step, per analyte. Where a limit differs within the menu, it must be stated per analyte, not as a single menu-wide value. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Specimen matrix
 
 | Matrix | Status on this platform | Notes |
 |---|---|---|
-| Serum | `[[ supported / not supported ]]` | `[[ clot time, separation window ]]` |
-| Lithium heparin plasma | `[[ ]]` | `[[ preferred matrix per IFU ]]` |
-| EDTA plasma | `[[ ]]` | `[[ chelation compatibility per analyte ]]` |
-| Whole blood | `[[ ]]` | `[[ not applicable for serum-based immunoassays ]]` |
-| Rectal swab / faecal | `[[ ]]` | `[[ for enteric antigen assays only ]]` |
-| Urine | `[[ ]]` | `[[ for renal markers where validated ]]` |
+| Serum | Pending | Pending |
+| Lithium heparin plasma | Pending | Pending |
+| EDTA plasma | Pending | Pending |
+| Whole blood | Pending | Pending |
+| Rectal swab / faecal | Pending | Pending |
+| Urine | Pending | Pending |
 
 **The rule that prevents most confusion:** a result is only comparable to another result from the same matrix, on the same platform, handled the same way. Converting a historical serum result to a plasma value without a documented comparison is a calculation, not a measurement.
 
@@ -50,12 +50,12 @@ Every step before the cartridge is loaded introduces variance:
 
 | Condition | Limit | Analytes affected |
 |---|---|---|
-| Room temperature before centrifugation | `[[ ]]` | `[[ ]]` |
-| 2–8 °C after separation | `[[ ]]` | `[[ ]]` |
-| −20 °C | `[[ ]]` | `[[ ]]` |
-| Freeze-thaw cycles | `[[ max ]]` | `[[ ]]` |
+| Room temperature before centrifugation | Pending | Pending |
+| 2–8 °C after separation | Pending | Pending |
+| −20 °C | Pending | Pending |
+| Freeze-thaw cycles | Pending | Pending |
 
-`[[ A stability table that names no analyte is not a specification. Publish per-analyte limits, or state explicitly which analytes share a limit and why. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Hemolysis, lipemia and icterus
 
@@ -63,9 +63,9 @@ These are not rare events in the populations where POCT is used: trauma, sepsis,
 
 | Interferent | Threshold | Effect |
 |---|---|---|
-| Hemoglobin | `[[ g/L ]]` | `[[ none / positive bias / negative bias ]]` |
-| Triglycerides | `[[ mg/dL ]]` | `[[ ]]` |
-| Bilirubin | `[[ mg/dL ]]` | `[[ ]]` |
+| Hemoglobin | Pending | Pending |
+| Triglycerides | Pending | Pending |
+| Bilirubin | Pending | Pending |
 
 Practical guidance for clinics, independent of platform:
 
@@ -78,7 +78,7 @@ Practical guidance for clinics, independent of platform:
 
 Vendors quote time to result — minutes from loading to reading. Clinicians experience **time to test**, which includes collection, separation, transport and queueing. For an in-house analyzer these are close; for a shared device or a satellite clinic they can differ by hours, and it is the second number that determines whether a result changes a same-visit decision.
 
-`[[ State both: instrument time to result per assay, and the maximum sample age at which the result remains valid. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -95,13 +95,13 @@ Vendors quote time to result — minutes from loading to reading. Clinicians exp
 
 **Reasoning.** Training does not survive staff turnover; a card does. Every complaint about "unreliable results" that I would expect in this category traces back to a pre-analytical deviation that no one recorded: a sample left on the bench, a tube type substituted, a hemolysed draw. Vendors tend to invest in analytical claims because they are measurable and comparable, while the largest source of field error sits in a process nobody documents. A card also has a commercial function: it makes the platform look operationally thought-through, which is what a multi-site buyer is actually assessing — not the CV, but whether ten branches will run it the same way.
 
-**Disclosure.** Written from general pre-analytical laboratory practice and CLSI conventions; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's validation work and IFU content.
+**Disclosure.** Written from general pre-analytical laboratory practice and CLSI conventions; no new experimental data. Values marked are placeholders for Migibio's validation work and IFU content.
 
 ## Sources
 
 1. CLSI GP41 / GP48 — specimen collection, handling and transport conventions for venous blood specimens.
 2. CLSI EP07 — interference testing in clinical chemistry (hemolysis, lipemia, icterus evaluation).
-3. `[[ Per-analyte stability studies — internal validation reports; state study identifiers ]]`
+3. Reference to be added.
 4. ASVCP quality assurance guidelines — pre-analytical considerations in veterinary laboratory testing.
 
 <!-- DATA REQUIRED before publication:

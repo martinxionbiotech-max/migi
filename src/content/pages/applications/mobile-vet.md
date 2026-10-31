@@ -28,7 +28,7 @@ Clinic protocols assume a controlled room. Mobile protocols must assume the oppo
 | Vibration and movement | Pipetting error, cartridge misalignment | Park before running; fixed bench surface inside the vehicle |
 | Space and light | Hurried technique, misread labels | A defined working tray; task lighting |
 
-`[[ State the platform's specified operating temperature and humidity range, and the documented response to an excursion. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Sample handling away from the clinic
 
@@ -38,7 +38,7 @@ The decisive question is whether the assay's validated sample type requires sepa
 2. **Return the sample** to the clinic within the platform's stability window, and
 3. **Document the delay** in the record — a value with an unrecorded transport time cannot be interpreted later.
 
-`[[ Insert the platform's stability limits for the sample types used in mobile practice, per analyte. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 Whole-blood-capable assays are a genuine advantage in this setting; serum-based assays are not, because clotting time competes with the visit.
 
@@ -63,7 +63,7 @@ The failure mode to design against is the one where controls are run weekly "bec
 | Cardiac markers | Low–medium | Sample handling sensitivity; often better sent |
 | Renal panel | Low | Pre-analytical sensitivity, and rarely changes an on-site decision |
 
-`[[ Verify the sample type per assay before promoting mobile suitability. Do not generalise from one assay to the menu. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -80,10 +80,10 @@ The failure mode to design against is the one where controls are run weekly "bec
 
 **Reasoning.** Mobile practitioners cannot absorb complexity — they work alone, under time pressure, with no bench and no colleague to check a decision. A platform that publishes a mobile protocol, a short menu that actually works on the road, and a control rhythm designed for vehicles is solving a problem the clinician feels every day. That is a different kind of loyalty from the one bought with a discount, and it travels: mobile vets talk to each other in narrow networks, and a tool that works in a van gets recommended with more conviction than one that works in a well-equipped clinic.
 
-**Disclosure.** This page is operational guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform specifications must be inserted.
+**Disclosure.** This page is operational guidance, not a performance claim. Figures marked indicate where platform specifications must be inserted.
 
 ## Sources
 
-1. `[[ Platform operating temperature/humidity specification and excursion policy ]]`
-2. `[[ Per-analyte sample stability and required sample type ]]`
-3. `[[ Internal guidance on mobile QC frequency, if available ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

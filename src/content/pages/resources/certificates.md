@@ -26,7 +26,7 @@ faq:
 | Sites covered | Is the manufacturing site for my product listed? |
 | Validity dates | Current, and not expiring within the contract period? |
 
-`[[ Insert the certificate numbers, issuing bodies, scopes and validity dates for each site as they apply to your products. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Why scope is the decisive field
 
@@ -69,7 +69,7 @@ These are complementary, not substitutable. A dossier usually needs several of t
 
 **Reasoning.** In this market, the distinction between a manufacturer and a trading company is the single most consequential thing a buyer needs to establish, and certificate scope answers it directly. A trading company can hold a distribution-scope certificate and present it identically to a manufacturing one at a glance; the scope statement is what separates them. A manufacturer that publishes its scope, with the site and the activities named, has effectively answered the qualification question before the first meeting — and that is worth more than any number of compliance logos in a footer.
 
-**Disclosure.** Structural page pending certificate publication. `[[ ]]` markers indicate where certificate details must be inserted and verified against the issuing body's register.
+**Disclosure.** Structural page pending certificate publication. markers indicate where certificate details must be inserted and verified against the issuing body's register.
 
 ## Related pages
 
@@ -78,5 +78,5 @@ These are complementary, not substitutable. A dossier usually needs several of t
 
 ## Sources
 
-1. `[[ Certificate register — numbers, scopes, sites, validity ]]`
-2. `[[ Issuing body accreditation verification ]]`
+1. Reference to be added.
+2. Reference to be added.

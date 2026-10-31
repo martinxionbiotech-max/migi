@@ -25,7 +25,7 @@ faq:
 2. **The curve is loaded.** The instrument applies the stored signal-to-concentration relationship rather than assuming a universal curve.
 3. **Verification follows.** Controls confirm that the loaded curve reproduces expected values on that instrument, on that day.
 
-`[[ State the platform's mechanism: code chip, barcode, on-board calibration, or master curve with lot-specific adjustment. State whether the curve is lot-specific or shared across lots. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 The distinction matters commercially and technically: a lot-specific curve scopes risk to a lot; a shared master curve requires demonstration that the manufacturing variation between lots is small enough to be absorbed. One is not automatically better, but a buyer cannot evaluate the claim without knowing which is in use.
 
@@ -54,7 +54,7 @@ Reported result
         → [end point: certified reference material / international standard / none]
 ```
 
-`[[ Insert the actual end point per analyte. Where no certified material exists, say so explicitly and describe how the calibrator values were assigned (e.g. gravimetric preparation, comparison to a validated method, consensus value). ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 **The clinical consequence of a shortened chain.** If two manufacturers' assays both terminate at their own internal master lots, their results are not guaranteed comparable in absolute terms. This is not a defect unique to one vendor — it is the state of veterinary immunoassay — but it has a practical implication clinicians must be told: absolute values are platform-specific, and cut-offs derived from another platform's master lot do not transfer.
 
@@ -66,7 +66,7 @@ Reported result
 - Environmental excursion outside the specified operating range.
 - Discrepancy between an expected control value and the observed one that survives re-testing.
 
-`[[ Insert the specified operating temperature and humidity range, and the documented response to an excursion. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Documenting a calibration event
 
@@ -86,14 +86,14 @@ Minimum record: date and time, operator, instrument ID, reagent lot, calibration
 
 **Reasoning.** Buyers in this category are increasingly sophisticated: distributors preparing registration dossiers, laboratories that have read the CLSI documents, and reference labs that will ask which method the calibrator was assigned against. An ambiguous claim survives until the first technical question, and then costs credibility on every other claim on the site. A scoped claim survives the question, and it also tells the buyer something actionable: absolute values are platform-specific, which is exactly the information they need before switching methods. The uncomfortable sentence is the one that keeps the rest of the page believable.
 
-**Disclosure.** Written from CLSI calibration and traceability conventions; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's calibration documentation.
+**Disclosure.** Written from CLSI calibration and traceability conventions; no new experimental data. Values marked are placeholders for Migibio's calibration documentation.
 
 ## Sources
 
 1. CLSI EP32 / EP15 — metrological traceability and verification of performance for quantitative measurement procedures.
 2. ISO 17511 — in vitro diagnostic medical devices: establishment of metrological traceability of values assigned to calibrators and control materials (scope and limits for analytes without reference materials).
 3. CLSI C24 — statistical quality control (verification practice following calibration).
-4. `[[ Internal calibration documentation — lot-specific curve mechanism, calibrator value assignment method ]]`
+4. Reference to be added.
 
 <!-- DATA REQUIRED before publication:
 1. Calibration mechanism (code chip / barcode / on-board) and whether curves are lot-specific

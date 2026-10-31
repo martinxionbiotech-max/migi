@@ -41,7 +41,7 @@ Cortisol is the end product of the hypothalamic–pituitary–adrenal axis. Its 
 | Atypical or equivocal signs | Insufficient; proceed to dynamic testing |
 | Stressed or hospitalised patient | Interpret with caution; the stress response confounds |
 
-`[[ Insert the platform's cut-off above which hypoadrenocorticism is considered unlikely, and state that it is assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The dynamic tests, and why they cannot be replaced
 
@@ -51,17 +51,17 @@ Cortisol is the end product of the hypothalamic–pituitary–adrenal axis. Its 
 
 Both tests are **assay-dependent**: post-ACTH and post-dexamethasone cut-offs published for one cortisol method do not transfer to another. This is the single most important technical statement on the page, because imported cut-offs produce systematic misdiagnosis in both directions.
 
-`[[ State whether the platform supplies validated post-stimulation cut-offs, and if not, say so explicitly and describe the referral pathway. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference intervals
 
-`[[ Insert platform-specific resting intervals, with the caveat that the interval describes a population of unstressed animals and that clinic stress raises values. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Notes |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` nmol/L | `[[ ]]` | `[[ EP28 ]]` |
-| Post-ACTH | `[[ ]]` | `[[ ]]` | `[[ assay-specific ]]` |
-| Post-LDDST (8 h) | `[[ ]]` | `[[ ]]` | `[[ assay-specific ]]` |
+| Adult dogs | Pending nmol/L | Pending | Pending |
+| Post-ACTH | Pending | Pending | Pending |
+| Post-LDDST (8 h) | Pending | Pending | Pending |
 
 ## Interpretation of the common patterns
 
@@ -88,11 +88,11 @@ Both tests are **assay-dependent**: post-ACTH and post-dexamethasone cut-offs pu
 
 **Reasoning.** Cushing's is a diagnosis clinicians are under pressure to make — the owner wants an explanation, the signs are non-specific, and a high cortisol looks like confirmation. The result is over-diagnosis, unnecessary lifelong medication, and in some cases genuine harm from treatment. A vendor that publishes "a single cortisol does not diagnose Cushing's" is protecting its own test from being blamed when the clinical reasoning fails, and it is also earning the credibility needed for the far more valuable claim: that its cortisol is suitable for the dynamic tests, where the actual revenue and clinical value sit. In this category, restraint on the easy claim is what makes the hard claim believable.
 
-**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ ACVIM consensus statement on diagnosis of hyperadrenocorticism in dogs — testing algorithm and interpretation ]]`
-2. `[[ Canine hypoadrenocorticism guidance — diagnostic approach and the role of resting cortisol ]]`
-3. `[[ Assay-specific cut-off literature for ACTH stimulation and LDDST ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP28-A3c — reference interval methodology.

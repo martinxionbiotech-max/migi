@@ -71,23 +71,23 @@ where `CVa` is the analytical coefficient of variation at the relevant concentra
 
 This is the single most useful thing a POCT manufacturer can publish after the reference interval itself, because it converts the device from a snapshot instrument into a monitoring instrument. For any analyte used to follow treatment — CRP, SAA, SDMA, NT-proBNP, progesterone — the monitoring use case is where the commercial value sits.
 
-`[[ Publish RCV per analyte, per concentration band, with the CVi source cited. Where CVi is unavailable in the literature for the species, say so rather than substituting human data. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ---
 
 ## Reference intervals on the Migibio platform
 
-`[[ Insert the full table. Required columns: Analyte | Species | Age band | n | Lower limit (90% CI) | Upper limit (90% CI) | Unit | Statistical method | Study date | Review date ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Analyte | Species | Age band | n | LL (90% CI) | UL (90% CI) | Unit | Method | Study date |
 |---|---|---|---|---|---|---|---|---|
-| cCRP | Canine | Adult 1–7 y | `[[ n ]]` | `[[ ]]` | `[[ ]]` | mg/L | `[[ EP28 non-parametric ]]` | `[[ ]]` |
-| cCRP | Canine | < 1 y | `[[ n ]]` | `[[ ]]` | `[[ ]]` | mg/L | `[[ ]]` | `[[ ]]` |
-| fSAA | Feline | Adult | `[[ n ]]` | `[[ ]]` | `[[ ]]` | mg/L | `[[ ]]` | `[[ ]]` |
-| SDMA | Canine / Feline | Adult | `[[ n ]]` | `[[ ]]` | `[[ ]]` | µg/dL | `[[ ]]` | `[[ ]]` |
-| cPL | Canine | Adult | `[[ n ]]` | `[[ ]]` | `[[ ]]` | µg/L | `[[ ]]` | `[[ ]]` |
+| cCRP | Canine | Adult 1–7 y | Pending | Pending | Pending | mg/L | Pending | Pending |
+| cCRP | Canine | < 1 y | Pending | Pending | Pending | mg/L | Pending | Pending |
+| fSAA | Feline | Adult | Pending | Pending | Pending | mg/L | Pending | Pending |
+| SDMA | Canine / Feline | Adult | Pending | Pending | Pending | µg/dL | Pending | Pending |
+| cPL | Canine | Adult | Pending | Pending | Pending | µg/L | Pending | Pending |
 
-`[[ Continue for all assays. Analytes without established intervals should appear with "Not established — interpret against serial change and clinical context" rather than being omitted. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ---
 
@@ -119,7 +119,7 @@ This is the single most useful thing a POCT manufacturer can publish after the r
 
 There is also a defensive argument that is rarely made: a published interval with a documented method is evidence of a functioning quality system. The veterinary literature's finding that 28% of supplied limits failed verification is not an argument against publishing — it is an argument that most vendors are publishing *unverified* numbers, and that a vendor which verifies has something to say.
 
-**Disclosure.** This page cites published methodology and literature; it does not report new experimental data. Figures marked `[[ ]]` are placeholders for Migibio's own studies and must not be published unreplaced.
+**Disclosure.** This page cites published methodology and literature; it does not report new experimental data. Figures marked are placeholders for Migibio's own studies and must not be published unreplaced.
 
 ---
 

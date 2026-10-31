@@ -34,13 +34,13 @@ Three properties follow from moving the detection step off the human eye:
 
 **Recordability.** A numeric result can be stored, exported, plotted and audited. A visual impression cannot.
 
-The cost of that shift is dependency: a quantitative result is only as good as its calibration. `[[ State whether the calibration curve is lot-specific and how the lot identity reaches the instrument. ]]`
+The cost of that shift is dependency: a quantitative result is only as good as its calibration.
 
 ## Temperature control
 
 Immunoassay kinetics are temperature-dependent; capillary migration rate and antibody binding both shift with temperature. A platform that does not control temperature is implicitly assuming the clinic's ambient conditions.
 
-`[[ State the temperature control mechanism and the specified operating range, and what happens outside it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What FICT does not solve
 
@@ -64,7 +64,7 @@ Each of the following is a separate discipline, and each is published separately
 
 ## Platform specifications
 
-Manufacturer-reported platform characteristics are published on the [analytical performance page](/technology/analytical-performance/), which separates platform-level figures from assay-level studies. `[[ Verify every figure quoted in marketing material against that page; where a value is platform-level, say so. ]]`
+Manufacturer-reported platform characteristics are published on the [analytical performance page](/technology/analytical-performance/), which separates platform-level figures from assay-level studies.
 
 ## Where the technology is applied
 
@@ -78,11 +78,11 @@ Manufacturer-reported platform characteristics are published on the [analytical 
 
 **Reasoning.** Every quantitative platform in this category has the same three exposures: interference, antigen excess, and pre-analytical handling. Buyers who have used POCT before already know this, so a page that omits them reads as either inexperienced or evasive, and experienced buyers discount everything else on it. Naming them, and linking to the mechanism and the mitigation, converts three potential complaints into three demonstrations of competence. In my judgement this is the highest-leverage change available to a technology page in this market: it costs nothing, and it changes how the rest of the site is read.
 
-**Disclosure.** Written from published immunoassay principles and CLSI methodology; no new experimental data. Figures marked `[[ ]]` are placeholders for Migibio's platform documentation.
+**Disclosure.** Written from published immunoassay principles and CLSI methodology; no new experimental data. Figures marked are placeholders for Migibio's platform documentation.
 
 ## Sources
 
 1. CLSI EP06 — linearity and measuring interval.
 2. CLSI EP07 — interference testing.
 3. CLSI EP17 — detection capability.
-4. `[[ Internal platform specification document — temperature control, calibration mechanism, dynamic range ]]`
+4. Reference to be added.

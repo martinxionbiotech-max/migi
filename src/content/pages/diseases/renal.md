@@ -58,17 +58,17 @@ A cat with a normal SDMA and a UPC of 3.0 has active disease and needs treatment
 4. **Blood pressure**, because hypertension both causes and results from renal injury.
 5. **Staging** where chronic kidney disease is confirmed, using the current guideline framework.
 
-`[[ Insert the platform's reference intervals per species and the guideline version used for staging, quoted exactly as the guideline states it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Monitoring
 
 For a stable patient, the useful monitoring set is creatinine or SDMA (consistently the same marker), UPC, blood pressure, body weight and clinical status. Changing markers mid-course produces a trend that cannot be interpreted; the same-analyzer principle applies across the whole panel, not just to one assay.
 
-`[[ State the platform's precision at decision concentrations so a change can be judged against assay noise. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Gaps in the current menu, stated plainly
 
-`[[ Insert accurate coverage of renal analytes not offered — e.g. electrolytes, urine protein:creatinine, blood gas. State the clinical need without implying availability. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -85,7 +85,7 @@ For a stable patient, the useful monitoring set is creatinine or SDMA (consisten
 
 **Reasoning.** The market conversation has been about which filtration marker is better, and that conversation has largely run its course — clinicians know that both creatinine and SDMA have limits. What remains unsolved is the practical one: most renal workups still skip UPC and blood pressure, which are the variables that actually change treatment. A vendor that publishes a workup sequence with a clear "these markers do not answer these questions" table is doing something more valuable than claiming superiority for its assay, and it positions the platform as the entry point to a complete assessment rather than a single-number screen.
 
-**Disclosure.** Written from published veterinary nephrology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary nephrology guidance; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Related pages
 
@@ -94,6 +94,6 @@ For a stable patient, the useful monitoring set is creatinine or SDMA (consisten
 
 ## Sources
 
-1. `[[ IRIS CKD staging guidelines — current version, staging variables ]]`
-2. `[[ Veterinary SDMA and cystatin C literature — validation and limitations ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.

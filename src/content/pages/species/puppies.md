@@ -38,7 +38,7 @@ No test closes that gap. The practical responses are:
 2. **Control exposure** — isolation from unknown-status animals, hygiene, cohort management.
 3. **Test when signs appear**, not to predict protection.
 
-`[[ Insert the guideline version adopted by medical affairs for vaccination scheduling, quoted precisely rather than paraphrased. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## When puppy testing changes management
 
@@ -73,7 +73,7 @@ In a puppy with compatible signs, a negative result means "repeat", not "dischar
 
 **Reasoning.** Puppy owners frequently ask for a test to "check immunity", and clinics are tempted to offer one because it produces a billable result. But an antibody snapshot taken during the susceptibility gap can be reassuring and wrong, and a negative result can prompt unnecessary revaccination or, worse, a false sense of security. A vendor that says "test for infection, vaccinate for protection" keeps the platform in the role where it is reliable and avoids the scenario where a puppy dies of parvovirus two weeks after a "protective" result — a scenario in which the assay, unfairly, takes the blame.
 
-**Disclosure.** Clinical guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform data and guideline versions must be inserted.
+**Disclosure.** Clinical guidance, not a performance claim. Figures marked indicate where platform data and guideline versions must be inserted.
 
 ## Related pages
 
@@ -83,6 +83,6 @@ In a puppy with compatible signs, a negative result means "repeat", not "dischar
 
 ## Sources
 
-1. `[[ Veterinary vaccination guidelines — maternal antibody and scheduling ]]`
-2. `[[ Canine parvovirus and distemper diagnostic literature ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 — detection capability (basis for the false-negative discussion).

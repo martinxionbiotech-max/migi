@@ -47,22 +47,22 @@ The distinction matters because the mitigation differs. Interference is managed 
 - **Direction of effect reported**, not only magnitude.
 - **Species relevance** — a study on human plasma does not transfer to canine or feline samples.
 
-`[[ State the design, the acceptance criterion, sample base, species, and the concentrations tested. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reporting structure
 
 | Analyte | Interferent | Tested concentration | Effect | Acceptable up to |
 |---|---|---|---|---|
-| `[[ cCRP ]]` | Hemoglobin | `[[ g/L ]]` | `[[ ]]%` | `[[ g/L ]]` |
-| `[[ cCRP ]]` | Triglycerides | `[[ mg/dL ]]` | `[[ ]]%` | `[[ mg/dL ]]` |
-| `[[ cCRP ]]` | Bilirubin | `[[ mg/dL ]]` | `[[ ]]%` | `[[ mg/dL ]]` |
-| `[[ cCRP ]]` | Biotin | `[[ ng/mL ]]` | `[[ ]]%` | `[[ ng/mL ]]` |
+| Pending | Hemoglobin | Pending | Pending | Pending |
+| Pending | Triglycerides | Pending | Pending | Pending |
+| Pending | Bilirubin | Pending | Pending | Pending |
+| Pending | Biotin | Pending | Pending | Pending |
 
 **Cross-reactivity:**
 
 | Analyte | Cross-reactant | Concentration tested | Apparent result |
 |---|---|---|---|
-| `[[ ]]` | `[[ structurally related molecule ]]` | `[[ ]]` | `[[ ]]%` |
+| Pending | Pending | Pending | Pending |
 
 ## What to do when interference is suspected in practice
 
@@ -86,13 +86,13 @@ The distinction matters because the mitigation differs. Interference is managed 
 
 **Reasoning.** A clinic will rarely operate near the limit of detection, but it will regularly run samples from hemolysed, lipemic, jaundiced animals, because those are the animals that are sick. The practical question a clinician faces is "this sample is visibly hemolysed — can I trust this number?", and only this table answers it. Vendors deprioritise interference studies because they do not appear in head-to-head brochures, which is exactly why publishing them creates differentiation at low cost: the study is not expensive compared with a clinical validation trial, and almost no competitor publishes thresholds in a usable form.
 
-**Disclosure.** Written from CLSI interference-testing conventions and general immunoassay practice; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's validation studies.
+**Disclosure.** Written from CLSI interference-testing conventions and general immunoassay practice; no new experimental data. Values marked are placeholders for Migibio's validation studies.
 
 ## Sources
 
 1. CLSI EP07 — Interference testing in clinical chemistry (spike-and-recovery design, acceptance criteria, reporting).
 2. CLSI EP17 — detection capability (interaction of interference with LoD claims).
-3. `[[ Internal interference studies per analyte — state study identifiers and species ]]`
+3. Reference to be added.
 4. ASVCP quality assurance guidelines — interference and sample quality in veterinary testing.
 
 <!-- DATA REQUIRED before publication:

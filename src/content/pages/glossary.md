@@ -123,4 +123,4 @@ Working definitions, written for clinical use rather than for a textbook. Each e
 
 1. CLSI EP05 / EP06 / EP07 / EP09 / EP17 / EP28 — precision, linearity, interference, method comparison, detection capability, reference intervals.
 2. ASVCP quality assurance guidelines — total allowable error and veterinary practice.
-3. `[[ Platform-specific values referenced from the linked technical pages ]]`
+3. Reference to be added.

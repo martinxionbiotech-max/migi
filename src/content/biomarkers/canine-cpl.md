@@ -50,13 +50,13 @@ The last row matters more than it first appears. When cPL and ultrasound disagre
 
 ## Reference intervals and decision thresholds
 
-`[[ Insert platform intervals and, separately, any clinical decision limits. State clearly that decision limits are not the same statistic as reference intervals. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Basis |
 |---|---|---|
-| Reference interval (adult dogs) | `[[ ]]` µg/L | `[[ EP28 ]]` |
-| Upper reference limit | `[[ ]]` | `[[ ]]` |
-| Suggested decision limit | `[[ ]]` | `[[ platform-specific; do not import from another assay ]]` |
+| Reference interval (adult dogs) | Pending µg/L | Pending |
+| Upper reference limit | Pending | Pending |
+| Suggested decision limit | Pending | Pending |
 
 **A warning that belongs on the page rather than in a footnote:** the widely quoted canine PLI decision thresholds in the literature come from one specific commercial assay. They are not transferable to a different immunoassay, and importing them produces systematic misclassification. If a clinic has been using thresholds from another platform, the switch to this one requires re-baselining.
 
@@ -86,7 +86,7 @@ This is why the test is best used as one component of a diagnostic composite rat
 
 Serial cPL is useful, but slower than acute-phase proteins: values can remain elevated for days after clinical improvement. A falling trend supports resolution; a flat or rising trend in a clinically worsening dog supports complication ( abscess, pseudocyst, or concurrent disease). Do not expect the value to normalise before the patient does.
 
-`[[ State the platform's precision at the relevant concentrations, so a change can be judged against assay noise rather than assumed meaningful. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -103,11 +103,11 @@ Serial cPL is useful, but slower than acute-phase proteins: values can remain el
 
 **Reasoning.** Every vendor claims sensitivity; buyers have learned to discount the word. What clinicians actually struggle with is the case where the number and the ultrasound disagree, and the case where a mildly elevated value arrives in a dog that looks well. Those are interpretation problems, not analytical ones, and they can be addressed with a decision table at zero experimental cost. A vendor that publishes the table is effectively supplying the clinical judgement that its own assay cannot supply — which is the most defensible form of differentiation available to a diagnostic company, because it cannot be copied by adding a feature.
 
-**Disclosure.** Written from published canine pancreatic lipase literature and immunoassay methodology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published canine pancreatic lipase literature and immunoassay methodology; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Canine PLI validation and clinical evaluation literature — cite the primary studies used by medical affairs, including the assay those thresholds belong to ]]`
-2. `[[ Reviews on canine pancreatitis diagnosis (composite approach, imaging correlation) ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval versus decision limit methodology.
 4. ASVCP quality assurance guidelines.

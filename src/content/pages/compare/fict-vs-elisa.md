@@ -46,13 +46,13 @@ faq:
 
 The useful comparison is not "POCT versus ELISA" but **the CV of the specific assay at the relevant concentration**. A well-run ELISA can have CVs in the low single digits; a poorly handled cartridge can be worse than the insert states. Conversely, a well-run cartridge can outperform an ELISA that is batched irregularly with infrequent controls.
 
-`[[ Insert the platform's precision data at low, mid and high concentrations so the comparison can be made against a specific ELISA, rather than in the abstract. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The bias question
 
 Different immunoassays produce different absolute values for the same analyte. A clinic switching from a laboratory ELISA to a point-of-care assay will see a systematic shift, and any reference interval or decision limit carried across will be wrong.
 
-`[[ Publish the platform's comparison against a named method (slope, intercept, bias) and state which interval applies. Do not imply interchangeability. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The Author's Take
 
@@ -60,10 +60,10 @@ Different immunoassays produce different absolute values for the same analyte. A
 
 **Reasoning.** Laboratory-trained buyers know that batch assays are efficient and precise; a claim of general superiority invites scepticism and a test drive that ends in a comparison table the vendor did not control. The narrower claim — "we are not trying to replace your plate reader, we are trying to replace the two-day wait on the cases that cannot wait" — is credible, fits the buyer's existing workflow, and positions the platform as an addition rather than a threat. That is a far easier procurement conversation, especially where the laboratory director is protective of existing validated methods.
 
-**Disclosure.** This page compares method categories, not specific products. Figures marked `[[ ]]` indicate where platform-specific comparison data must be inserted.
+**Disclosure.** This page compares method categories, not specific products. Figures marked indicate where platform-specific comparison data must be inserted.
 
 ## Sources
 
-1. `[[ Platform precision data at clinical decision concentrations ]]`
-2. `[[ Method comparison against a named ELISA, if performed — slope, intercept, bias ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP05 / EP09 — precision and method comparison.

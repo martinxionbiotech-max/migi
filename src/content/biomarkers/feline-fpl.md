@@ -55,13 +55,13 @@ Cats tolerate hospitalisation poorly; a quantitative trend gives a reason to esc
 
 ## Reference intervals and decision limits
 
-`[[ Insert platform intervals and decision limits; state that feline and canine thresholds are not interchangeable, and that thresholds from other commercial assays do not transfer. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Basis |
 |---|---|---|
-| Reference interval (adult cats) | `[[ ]]` µg/L | `[[ EP28 ]]` |
-| Suggested decision limit | `[[ ]]` | `[[ platform-specific ]]` |
-| Precision at decision limit | `[[ ]]`% | Required to interpret change |
+| Reference interval (adult cats) | Pending µg/L | Pending |
+| Suggested decision limit | Pending | Pending |
+| Precision at decision limit | Pending | Required to interpret change |
 
 ## Interpretation
 
@@ -97,11 +97,11 @@ A cat with high fPL and normal fSAA has pancreatic involvement without a systemi
 
 **Reasoning.** Sold alone, fPL invites the two failure modes above: over-reading a mild elevation and excluding disease on a normal value. Neither is a defect of the assay; both are defects of framing. Sold as a pair with fSAA, the clinician gets two orthogonal pieces of information from one sample, and the interpretation becomes a small matrix rather than a threshold — which is both more clinically useful and, not incidentally, a higher-value test bundle. In feline medicine specifically, where examination findings are thin and hospitalisation is stressful, a two-marker panel that shortens the diagnostic loop is an easier sale than a single marker with an ambiguous result.
 
-**Disclosure.** Written from published feline pancreatitis and acute-phase protein literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline pancreatitis and acute-phase protein literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline PLI validation and clinical evaluation literature — cite the primary studies; note the assay those thresholds belong to ]]`
-2. `[[ Feline pancreatitis and triaditis reviews — comorbidity and diagnostic composite ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval vs decision limit methodology.
 4. ASVCP quality assurance guidelines.

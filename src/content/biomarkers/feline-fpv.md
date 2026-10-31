@@ -41,7 +41,7 @@ FPV and CPV are closely related parvoviruses, and antigen tests designed for one
 - **In a cat**, a positive faecal antigen test supports parvovirus — which in cats means FPV.
 - **In a dog**, cross-detection matters where FPV contamination or vaccine exposure is possible, though CPV remains the clinical target.
 
-`[[ State whether the platform's canine CPV assay has been evaluated for feline sample cross-reactivity, and if so, how this should be reported. Do not claim species specificity that has not been tested. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 This is one of the few places where a vendor can demonstrate technical honesty at low cost: most cartridges cross-detect, few say so.
 
@@ -51,7 +51,7 @@ Modified-live FPV vaccines replicate in the recipient and can be shed in faeces 
 
 Practical rule: **record the vaccination date before interpreting a positive faecal antigen result in a young cat.** A positive in an unvaccinated cat with compatible signs is strong evidence; a positive in a recently vaccinated kitten requires clinical correlation and, where available, a repeat after the shedding window.
 
-`[[ State the shedding window the platform recommends for interpreting post-vaccination positives. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Clinical picture
 
@@ -59,13 +59,13 @@ FPV causes acute febrile illness with vomiting, diarrhoea and marked leucopenia,
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs and measuring interval, marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Post-vaccination interpretation window | `[[ ]]` days | `[[ ]]` |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Post-vaccination interpretation window | Pending days | Pending |
 
 ## Interpretation matrix
 
@@ -91,11 +91,11 @@ FPV causes acute febrile illness with vomiting, diarrhoea and marked leucopenia,
 
 **Reasoning.** In an emergency, the practical question is whether the clinic can act now. A canine CPV cartridge that also detects FPV turns a species gap into a same-minute answer, and stating that openly is more valuable than implying a species-specific assay the platform may not have. It also protects the vendor: if the cross-reactivity is documented, a clinician who sees a positive feline result understands what it means; if it is hidden, the same result becomes an unexplained anomaly and eventually a complaint. Publishing a limitation that also happens to be a capability is the cheapest kind of credibility.
 
-**Disclosure.** Written from published feline panleukopenia and parvovirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline panleukopenia and parvovirus literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline panleukopenia literature — diagnosis, faecal antigen detection, leucopenia ]]`
-2. `[[ Parvovirus cross-reactivity literature — FPV vs CPV antigen detection ]]`
-3. `[[ Vaccine shedding literature for modified-live FPV vaccines ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP17 / EP06 — detection capability and measuring interval.

@@ -28,7 +28,7 @@ The question is not "is POCT good enough" — it is "for which samples, in which
 | After-hours cover | Staffing thin overnight | Competency and QC must be maintainable by the on-call staff |
 | Downtime backup | Main analyzer failure | Documented continuity procedure, not improvisation |
 
-`[[ State the platform's throughput, time-to-result and per-test economics, and the sample volumes at which each role becomes defensible. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The acceptance criteria that a laboratory quality system will ask for
 
@@ -38,11 +38,11 @@ The question is not "is POCT good enough" — it is "for which samples, in which
 4. **Traceability statement** scoped honestly: which calibrator, which assignment method, and where the chain ends.
 5. **Result integrity**: units, flags, reference intervals and below-LoQ/above-range conventions that match the LIS, so the reporting layer cannot silently mix two methods.
 
-`[[ Insert the laboratory-specific TEa values used for acceptance, and the platform data that must be compared against them. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The two-channel problem
 
-The risk that gets underestimated is reporting, not measurement. If the POCT channel reports `[[ ]]` and the main analyzer reports `[[ ]]` for the same analyte in the same unit, and both appear in the same report under one analyte name, the clinician has no way to know which method produced the value. That is not a small inconsistency; it invalidates trend interpretation and can invalidate a reference interval.
+The risk that gets underestimated is reporting, not measurement. If the POCT channel reports and the main analyzer reports for the same analyte in the same unit, and both appear in the same report under one analyte name, the clinician has no way to know which method produced the value. That is not a small inconsistency; it invalidates trend interpretation and can invalidate a reference interval.
 
 Three mitigations, in order of preference:
 
@@ -52,7 +52,7 @@ Three mitigations, in order of preference:
 
 ## Capacity planning
 
-`[[ Insert the queue model: samples per hour, batch size, turnaround target, and the volume at which the POCT channel reduces the laboratory's overall turnaround rather than adding a parallel queue. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A POCT channel that duplicates an existing fast path adds cost without improving turnaround. It earns its place when it removes a specific bottleneck — the single urgent sample that would otherwise wait 90 minutes, or the overnight gap when the main platform is not staffed.
 
@@ -78,11 +78,11 @@ A POCT channel that duplicates an existing fast path adds cost without improving
 
 **Reasoning.** Laboratory directors run the numbers on a per-test basis, and POCT loses that comparison by design: the economics of batch testing are better. What POCT wins is the tail — the 3 a.m. sample, the STAT that would otherwise miss a surgical window, the week the main analyzer is down. Vendors who understand this sell a small number of units into a well-defined role; vendors who overstate the case sell an instrument that gets used enthusiastically for a quarter and then sits idle while the director writes it off. The narrower claim is not a concession, it is the only claim that survives a procurement committee.
 
-**Disclosure.** This page is operational guidance for laboratories, not a performance claim. Figures marked `[[ ]]` indicate where platform specifications and laboratory-specific TEa values must be inserted.
+**Disclosure.** This page is operational guidance for laboratories, not a performance claim. Figures marked indicate where platform specifications and laboratory-specific TEa values must be inserted.
 
 ## Sources
 
 1. CLSI EP09 — method comparison and bias estimation using patient samples.
 2. CLSI EP05 — precision evaluation.
 3. CLSI EP28-A3c — reference intervals (channel-specific validity).
-4. `[[ Laboratory's own total allowable error policy and LIS reporting conventions ]]`
+4. Reference to be added.

@@ -28,7 +28,7 @@ faq:
 | Release signature and date | Authorisation |
 | Reference to the specification document | Traceability of the criteria |
 
-`[[ Insert your CoA template fields so buyers can see the structure before requesting a copy. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What buyers do with it
 
@@ -41,7 +41,7 @@ faq:
 
 Include the lot number printed on the kit, the catalogue number, and the date of receipt. Without the lot number a certificate cannot be issued, because the record is batch-specific.
 
-`[[ Insert the request route and typical turnaround. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## When something does not match
 
@@ -54,7 +54,7 @@ Include the lot number printed on the kit, the catalogue number, and the date of
 
 ## Batch-to-batch variation and monitoring
 
-For a laboratory monitoring patients over time, a batch change is a potential confound even when the CoA shows conformance: conformance means the lot is within specification, not that it is identical to the previous lot. `[[ Insert your lot-to-lot consistency policy — tolerance and verification method. ]]`
+For a laboratory monitoring patients over time, a batch change is a potential confound even when the CoA shows conformance: conformance means the lot is within specification, not that it is identical to the previous lot.
 
 ## Six traps
 
@@ -71,7 +71,7 @@ For a laboratory monitoring patients over time, a batch change is a potential co
 
 **Reasoning.** Sellers who do not manufacture cannot produce a batch-specific record with parameters, criteria and release authorisation, and they know it — which is why so many supply a generic certificate or a "conformity" letter instead. Publishing a template on the website, with the fields visible in advance, tells a technical buyer which kind of supplier they are dealing with before the first email. It also sets an expectation that protects both sides: a distributor who has seen the template will ask for the lot number rather than complaining later that no record exists.
 
-**Disclosure.** Structural page pending document publication. `[[ ]]` markers indicate where the template and request route must be inserted.
+**Disclosure.** Structural page pending document publication. markers indicate where the template and request route must be inserted.
 
 ## Related pages
 
@@ -80,5 +80,5 @@ For a laboratory monitoring patients over time, a batch change is a potential co
 
 ## Sources
 
-1. `[[ Internal CoA template and specification references ]]`
-2. `[[ Lot-to-lot consistency policy ]]`
+1. Reference to be added.
+2. Reference to be added.

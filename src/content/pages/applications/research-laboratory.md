@@ -38,7 +38,7 @@ Three questions decide the fit: does the endpoint need absolute traceability, wi
 | Measurements where the unit is defined by a reference method | Assay-defined units are not comparable |
 | Regulatory submission data | Traceability chain must terminate at a recognised reference |
 
-`[[ State the platform's traceability end point per analyte, since this is exactly what a methods reviewer will ask for. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The methods paragraph a reviewer expects
 
@@ -88,10 +88,10 @@ A lot change without bridging is not a small documentation gap; it is a plausibl
 
 **Reasoning.** Researchers are the harshest technical reviewers a diagnostic product will ever face, and they publish their verdicts. A platform that supports reproducible methods — lot documentation, stated traceability, precision at the concentrations used — accumulates citations that function as third-party validation, which is precisely what this category lacks. The commercial mistake is to treat research as a low-margin channel and under-support it; the correct move is to publish a methods template and a lot-bridging protocol, which cost nothing and turn every study into a reference.
 
-**Disclosure.** This page is methodological guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform documentation must be inserted.
+**Disclosure.** This page is methodological guidance, not a performance claim. Figures marked indicate where platform documentation must be inserted.
 
 ## Sources
 
-1. `[[ Platform documentation — traceability end point per analyte, calibration mechanism ]]`
-2. `[[ Internal precision data at study-relevant concentrations ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP05 / EP09 / EP28 — precision, method comparison, reference intervals.

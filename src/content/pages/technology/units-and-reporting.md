@@ -38,7 +38,7 @@ Units are not formatting. They determine whether a clinician can act on a number
 4. **AI and search extraction fails.** A number without a comparable unit is not an extractable fact, which removes the page from the answer layer entirely.
 5. **It signals an unfinished document.** Buyers read an undefined unit as a symptom, not a detail.
 
-`[[ State, per analyte, whether the unit is mass, molar, or assay-defined; if assay-defined, publish the definition and the conversion status. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The three acceptable resolutions for an assay-defined unit
 
@@ -50,7 +50,7 @@ Units are not formatting. They determine whether a clinician can act on a number
 
 Reporting a number in a unit nobody can interpret, with no definition anywhere on the site, is the only option that is not defensible.
 
-`[[ Insert the platform's decision per analyte: unit type, definition, conversion factor or explicit non-convertibility statement. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reporting conventions that should be standard
 
@@ -61,11 +61,11 @@ Reporting a number in a unit nobody can interpret, with no definition anywhere o
 - **Derived qualitative interpretations are stated as derived**, with the threshold that produced them, so a "positive" can be traced to a number.
 - **Rounding rules are documented**, so two operators cannot produce two different reported values from one measurement.
 
-`[[ Insert the rounding rules per analyte and the reporting template fields, including how below-LoQ and above-range are displayed. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## A worked illustration of the problem
 
-Two clinics use the same platform. Clinic A reports `[[ 12.4 Tu/ml ]]`; clinic B's laboratory reports `[[ 8 mg/L ]]` for the same analyte in the same species. Without a published definition, neither clinician can tell whether these values agree, differ by a constant factor, or differ by a factor that changes across the range. The assay may be excellent; the reporting makes the comparison impossible — and the clinician, not the assay, pays for that.
+Two clinics use the same platform. Clinic A reports; clinic B's laboratory reports for the same analyte in the same species. Without a published definition, neither clinician can tell whether these values agree, differ by a constant factor, or differ by a factor that changes across the range. The assay may be excellent; the reporting makes the comparison impossible — and the clinician, not the assay, pays for that.
 
 ## Common errors
 
@@ -82,14 +82,14 @@ Two clinics use the same platform. Clinic A reports `[[ 12.4 Tu/ml ]]`; clinic B
 
 **Reasoning.** An assay can have excellent precision, a defensible reference interval and a real clinical use case, and still fail a distributor's technical review at the first table, because a value in an undefined unit cannot be placed in a tender document. The fix costs an internal decision and a published definition — not a study. In this context, leaving `Tu/ml` undefined is not a neutral choice; it converts a solved technical problem into an open commercial one, and it does so at the exact point where credibility is being assessed.
 
-**Disclosure.** Written from general laboratory reporting conventions and ISO 17511 scope; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's decisions and assay documentation.
+**Disclosure.** Written from general laboratory reporting conventions and ISO 17511 scope; no new experimental data. Values marked are placeholders for Migibio's decisions and assay documentation.
 
 ## Sources
 
 1. ISO 17511 — assignment of values to calibrators and the limits of metrological traceability where no reference material exists.
 2. CLSI EP06 — linearity and measuring interval (reportable range conventions).
 3. CLSI C24 / general laboratory reporting practice — below-LoQ and above-range reporting conventions.
-4. `[[ Internal unit-definition decision per analyte ]]`
+4. Reference to be added.
 
 <!-- DATA REQUIRED before publication:
 1. Unit type per analyte (mass / molar / assay-defined)

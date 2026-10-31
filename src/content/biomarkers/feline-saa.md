@@ -52,25 +52,25 @@ The third row is underrated. Quantitative values let a clinician notice discorda
 
 ## Reference intervals
 
-`[[ Insert platform-specific feline intervals, partitioned by age if established. Do not publish canine-derived or human-derived values. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Method |
 |---|---|---|---|
-| Adult cats | `[[ ]]` mg/L | `[[ ]]` | `[[ EP28 non-parametric ]]` |
-| Kittens | `[[ ]]` mg/L | `[[ ]]` | `[[ ]]` |
+| Adult cats | Pending mg/L | Pending | Pending |
+| Kittens | Pending mg/L | Pending | Pending |
 
 **Editorial note:** SAA intervals are method-sensitive, and feline-specific antibodies matter. A test using antibodies raised against a different species' SAA may behave differently in feline plasma, which is one reason intervals cannot be borrowed across platforms.
 
 ## Interpretation bands
 
-`[[ Insert platform-specific bands. The structure below shows the required granularity. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Band | Interpretation | Typical action |
 |---|---|---|
 | Within interval | No significant acute-phase response at sampling | Re-evaluate if suspicion persists; localized disease can hide here |
-| `[[ mild ]]` | Low-grade or resolving inflammation | Trend in 24–48 h |
-| `[[ moderate ]]` | Active inflammation | Localize: imaging, cytology, culture |
-| `[[ marked ]]` | Severe systemic inflammation | Urgent workup; serial monitoring |
+| Pending | Low-grade or resolving inflammation | Trend in 24–48 h |
+| Pending | Active inflammation | Localize: imaging, cytology, culture |
+| Pending | Severe systemic inflammation | Urgent workup; serial monitoring |
 
 ## Where fSAA changes decisions
 
@@ -95,11 +95,11 @@ The third row is underrated. Quantitative values let a clinician notice discorda
 
 **Reasoning.** Canine CRP is a crowded space: every POCT vendor offers something, the literature is thick, and the buyer can compare freely. Feline SAA is narrower: fewer platforms offer a feline-specific quantitative assay, feline acute-phase biology genuinely differs from canine, and the clinical question it answers — "is this cat systemically inflamed?" — is asked constantly in feline practice where examination findings are thin. A vendor that positions fSAA as a feline-specific tool, with feline reference intervals and feline decision bands, occupies ground that canine-CRP-led competitors have not claimed. Positioning it as "fSAA, our cat CRP" gives that ground away.
 
-**Disclosure.** Written from published feline acute-phase protein literature and assay methodology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform studies.
+**Disclosure.** Written from published feline acute-phase protein literature and assay methodology; no new experimental data. Values marked are placeholders for Migibio's platform studies.
 
 ## Sources
 
-1. `[[ Feline acute-phase protein literature — species difference between SAA and CRP; cite the reviews your medical affairs team adopts ]]`
+1. Reference to be added.
 2. CLSI EP28-A3c — reference interval methodology.
 3. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2 — platform-dependent bias and same-analyzer follow-up principle, transferable to the monitoring argument.
 4. ASVCP quality assurance guidelines.

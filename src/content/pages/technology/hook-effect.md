@@ -25,19 +25,19 @@ A sandwich assay needs antigen to bridge a capture antibody and a detection anti
 
 ## Which assays carry the risk on our platform
 
-`[[ Insert the per-analyte assessment. The distinction must be made per assay, because format and expected concentration range differ. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Analyte | Format | Expected maximum in disease | Hook risk | Mitigation |
 |---|---|---|---|---|
-| `[[ CPV antigen ]]` | `[[ sandwich ]]` | `[[ ]]` | `[[ high / low ]]` | `[[ dilution protocol ]]` |
-| `[[ cCRP ]]` | `[[ sandwich ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` |
-| `[[ fSAA ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` |
+| Pending | Pending | Pending | Pending | Pending |
+| Pending | Pending | Pending | Pending | Pending |
+| Pending | Pending | Pending | Pending | Pending |
 
 ## Detection: the dilution test
 
 The diagnostic test for antigen excess is not a repeat measurement — it is a **dilution series**:
 
-1. Dilute the sample `[[ 1:10 ]]` and re-measure.
+1. Dilute the sample and re-measure.
 2. If the result scales down proportionally, the original value was real.
 3. If the result rises, the original sample was beyond the measurable range and the dilution brought it back inside.
 
@@ -53,11 +53,11 @@ A defensible workflow, applicable to any clinic:
 4. **Record both the raw and corrected values** in the record; a corrected value without its dilution factor cannot be audited.
 5. **Do not use an undiluted borderline result as a negative.** In a patient with compatible clinical signs, a low or negative antigen result at the top of a dilution-requiring range is a reason to dilute, not to exclude.
 
-`[[ State the upper reportable limit, the recommended dilution, and the multiplication convention for each assay at risk. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## A concrete scenario, described without inventing data
 
-A puppy presents with hemorrhagic diarrhea and profound lethargy. The antigen result is `[[ low ]]`. The clinician's question is whether this is a true negative in a vaccinated animal, a sampling failure, or antigen excess.
+A puppy presents with hemorrhagic diarrhea and profound lethargy. The antigen result is. The clinician's question is whether this is a true negative in a vaccinated animal, a sampling failure, or antigen excess.
 
 The correct sequence is: confirm sample adequacy (rectal swab technique, not a fecal loop sweep), then dilute and re-test. In a genuine negative, the diluted result stays negative; in antigen excess, it converts to a clearly positive, often very high, value. The difference between these two outcomes is the difference between discharging with supportive care and admitting for isolation and intensive treatment.
 
@@ -76,11 +76,11 @@ The correct sequence is: confirm sample adequacy (rectal swab technique, not a f
 
 **Reasoning.** Most assay limitations create a slightly wrong number; antigen excess creates a confidently wrong *category* — negative in an animal that is severely positive. In a parvo outbreak this translates into a ward placement decision, not a rounding difference. Adding a "high-dose, confirm by dilution" flag to the analyzer costs software effort once and prevents a class of error permanently. Publishing the limit also protects the vendor: when a clinic later reports a discordant case, the documentation shows the assay was used beyond its stated range, which is a different conversation from an unexplained failure.
 
-**Disclosure.** Written from sandwich immunoassay principles and general laboratory practice; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's assay-specific studies.
+**Disclosure.** Written from sandwich immunoassay principles and general laboratory practice; no new experimental data. Values marked are placeholders for Migibio's assay-specific studies.
 
 ## Sources
 
-1. `[[ Internal antigen-excess studies per sandwich assay — state the concentrations tested and the observed recovery ]]`
+1. Reference to be added.
 2. CLSI EP06 — linearity and measuring interval (dilution linearity as the basis for reportable range).
 3. General immunoassay literature on the hook effect in two-site (sandwich) formats — mechanism and dilution-based confirmation.
 

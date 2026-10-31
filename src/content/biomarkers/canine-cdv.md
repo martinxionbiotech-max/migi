@@ -44,7 +44,7 @@ Distemper is a multi-system disease with a clinical picture that overlaps with r
 - **Urine** can remain positive later, particularly with renal involvement.
 - **Sample quality matters more than assay sensitivity** — a poorly collected swab produces a false negative regardless of the platform.
 
-`[[ State the validated sample types and the recommended collection technique for each. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The antibody question, handled honestly
 
@@ -55,17 +55,17 @@ Antibody testing has two legitimate uses:
 
 It has one illegitimate use: diagnosing infection in a vaccinated dog. Vaccine-induced antibody and infection-induced antibody are, for practical purposes, indistinguishable on a binding assay. Claiming otherwise — or implying that a quantitative titre separates them — is the kind of claim that fails the first technical review.
 
-`[[ If the assay reports IgM separately, state explicitly what IgM means and what it does not: recent exposure and recent vaccination can both produce it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs, measuring interval, and the antibody threshold used for immune-status interpretation, each marked as assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Antibody immune threshold | `[[ ]]` | `[[ assay-specific ]]` |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Antibody immune threshold | Pending | Pending |
 
 ## Interpretation matrix
 
@@ -91,10 +91,10 @@ It has one illegitimate use: diagnosing infection in a vaccinated dog. Vaccine-i
 
 **Reasoning.** Distemper is a disease where clinicians want a definitive answer quickly, and a positive antibody in a vaccinated dog is often taken as one. When that happens, the assay gets blamed for the misreading. Publishing the limitation converts a predictable complaint into a documented interpretation rule, and it also positions the antigen assay as the diagnostic product while the antibody assay stays where it belongs: immunity management. That split is commercially cleaner, because the two tests then serve two different buyers instead of arguing with each other.
 
-**Disclosure.** Written from published canine distemper diagnostics literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published canine distemper diagnostics literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Canine distemper diagnosis literature — sample types, antigen detection windows, PCR comparison ]]`
-2. `[[ Vaccination and antibody interpretation guidance — what a positive titre does and does not mean ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval.

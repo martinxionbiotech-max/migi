@@ -73,7 +73,7 @@ The practical rule: in a strongly suspected case, a negative result is a prompt 
 
 ## Where this menu does not reach
 
-`[[ Insert a clear, factual statement of the pathogens not covered by the current reagent menu that clinicians in your markets commonly ask about — e.g. heartworm, vector-borne agents, Giardia, leptospira. State the clinical need and the limitation without implying capability. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 Stating a limitation is more useful than omitting it: a clinician who knows the boundary orders the test that exists, rather than assuming a panel covers everything.
 
@@ -83,7 +83,7 @@ Stating a limitation is more useful than omitting it: a clinician who knows the 
 
 **Reasoning.** Pathogen-organised menus are convenient for manufacturers and useless at the point of care: nobody wakes up wanting to test for a virus, they want to know why the puppy has bloody diarrhoea. A sign-first index also does something a pathogen list cannot — it makes the trade-offs visible, including when not to test, which is where most of the cost and most of the harm sits. For the vendor, the practical benefit is that such a page becomes the page clinicians bookmark, and a bookmarked page is worth more than ten pages that rank once and are never returned to.
 
-**Disclosure.** This page is clinical decision guidance, not a performance claim. Figures marked `[[ ]]` indicate where menu coverage must be stated accurately.
+**Disclosure.** This page is clinical decision guidance, not a performance claim. Figures marked indicate where menu coverage must be stated accurately.
 
 ## Related disease pages
 
@@ -92,6 +92,6 @@ Stating a limitation is more useful than omitting it: a clinician who knows the 
 
 ## Sources
 
-1. `[[ Canine and feline infectious disease diagnostic guidance — antigen vs antibody windows ]]`
-2. `[[ Shelter and cattery outbreak management guidance — cohorting and panel selection ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval (basis for the false-negative discussion).

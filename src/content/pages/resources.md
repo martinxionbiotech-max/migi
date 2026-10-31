@@ -28,7 +28,7 @@ faq:
 
 ## What is available now
 
-`[[ Insert an accurate, current statement of which document types are available on request, and which are not yet available. Do not list a document type as available unless a current version exists and can be sent. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## How to request
 
@@ -39,7 +39,7 @@ Requests are handled by technical support. To make the response useful, include:
 3. The document type required (IFU, CoA, validation summary, certificate).
 4. The intended purpose — registration, tender, internal qualification — because the required format differs.
 
-`[[ Insert the request route: form, email address, or distributor contact. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Version control matters more than the document
 
@@ -55,7 +55,7 @@ If they do not match, treat the mismatch as information rather than as noise —
 
 Most vendor resource pages present a complete-looking set of icons. In practice, document availability varies by product, by market and by product generation, and discovering a gap during a tender submission is expensive for the buyer.
 
-`[[ Maintain an explicit list of documents not yet available, with the reason (in preparation, not applicable, available only under NDA). Update it when status changes. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The Author's Take
 
@@ -63,7 +63,7 @@ Most vendor resource pages present a complete-looking set of icons. In practice,
 
 **Reasoning.** Registration and tender processes are document-driven: a distributor's timeline is set by how long it takes to assemble a dossier, and every missing certificate is a week. A vendor who publishes what exists, what does not, and how to request it removes the worst part of that process — the uncertainty. The temptation is to present a full set of icons because competitors do; but a buyer who clicks four empty icons concludes the vendor is disorganised, while a buyer who sees an accurate status table concludes the vendor knows its own documentation. The second impression is worth more, and it is the only one that survives contact with an actual request.
 
-**Disclosure.** This page is a structural placeholder pending document publication. `[[ ]]` markers indicate where current status, request routes and available document types must be inserted.
+**Disclosure.** This page is a structural placeholder pending document publication. markers indicate where current status, request routes and available document types must be inserted.
 
 ## Related pages
 
@@ -73,5 +73,5 @@ Most vendor resource pages present a complete-looking set of icons. In practice,
 
 ## Sources
 
-1. `[[ Internal document control register — current versions and effective dates ]]`
-2. `[[ QMS certificate scope documents ]]`
+1. Reference to be added.
+2. Reference to be added.

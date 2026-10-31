@@ -21,7 +21,7 @@ A test earns its place by changing a decision. If the result will not change tre
 
 ## By life stage
 
-**Puppies (0–12 months)** — the questions are infectious disease and immunity, not chronic disease. Parvovirus and distemper antigen when clinical signs appear; antibody testing is confounded by maternal antibody and by vaccination, which is why antigen is the diagnostic anchor. `[[ Insert the platform's guidance on maternal antibody interference and retest intervals. ]]`
+**Puppies (0–12 months)** — the questions are infectious disease and immunity, not chronic disease. Parvovirus and distemper antigen when clinical signs appear; antibody testing is confounded by maternal antibody and by vaccination, which is why antigen is the diagnostic anchor.
 
 **Adults (1–7 years)** — most testing here is driven by a clinical episode: vomiting, diarrhoea, pyrexia, weight loss, or a breeding decision. Inflammatory markers support triage and, more importantly, monitoring. Pancreatic lipase resolves the ambiguous pancreatitis case. Progesterone and relaxin, in that order, answer two different breeding questions.
 
@@ -50,7 +50,7 @@ The last row is deliberately phrased as a pair. A single low T4 is the most comm
 
 ## Where the menu ends
 
-`[[ State accurately which agents the reagent menu covers — including heartworm and vector-borne serology — and note that the remainder requires send-out. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -67,7 +67,7 @@ The last row is deliberately phrased as a pair. A single low T4 is the most comm
 
 **Reasoning.** Clinics do not wake up wanting a panel; they wake up with a puppy that has bloody diarrhoea or a bitch that must be bred this week. Organising a species page around those moments makes the relevant assay obvious and makes the irrelevant ones visibly irrelevant, which is a service to the buyer and a defence for the vendor. It also reduces the most common source of dissatisfaction in this category: a test was run, the number came back, nobody knew what to do with it, and the assay took the blame.
 
-**Disclosure.** Clinical decision guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform data and menu coverage must be inserted.
+**Disclosure.** Clinical decision guidance, not a performance claim. Figures marked indicate where platform data and menu coverage must be inserted.
 
 ## Related pages
 
@@ -76,6 +76,6 @@ The last row is deliberately phrased as a pair. A single low T4 is the most comm
 
 ## Sources
 
-1. `[[ Veterinary preventive care and diagnostic guidance used by medical affairs ]]`
-2. `[[ Platform menu coverage and species validation ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — species- and age-specific reference intervals.

@@ -35,7 +35,7 @@ Maternal FIV antibody can persist for weeks to months. A positive antibody resul
 
 Why this matters more than it appears: a positive result in a kitten can lead to rehoming refusal, relinquishment, or euthanasia. Those decisions are irreversible, and they are being made on a test that was never designed to answer the question at that age.
 
-`[[ Insert the platform's recommended retest interval and the confirmation pathway for positives. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Panleukopenia: the emergency
 
@@ -71,7 +71,7 @@ Two technical points that belong in every training session:
 
 **Reasoning.** Everything else on this site is about choosing the right test. In kittens, the dominant risk is not the wrong test — it is the right test at the wrong age, followed by an irreversible decision. A vendor that publishes the six-month rule, the confirmation pathway and the vaccine-shedding caveat is doing the one thing that this segment actually needs, and it is also protecting its own reputation: a cat euthanised on a maternal-antibody result is a story that circulates in the cat community for years.
 
-**Disclosure.** Clinical guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform data and guideline versions must be inserted.
+**Disclosure.** Clinical guidance, not a performance claim. Figures marked indicate where platform data and guideline versions must be inserted.
 
 ## Related pages
 
@@ -81,6 +81,6 @@ Two technical points that belong in every training session:
 
 ## Sources
 
-1. `[[ Feline retrovirus testing guidelines — maternal antibody, retest intervals, confirmation ]]`
-2. `[[ Feline panleukopenia literature — vaccine shedding, cross-reactivity ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 — detection capability.

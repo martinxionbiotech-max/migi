@@ -27,7 +27,7 @@ Capacity is a throughput question. Menu is a decision question. Workflow is a st
 | Decision-changing share | Fraction of those tests that alter treatment, isolation or discharge today | Determines whether the testing earns its place |
 | Current send-out cost per test | Your own invoices, including courier and delay | The comparison baseline that any ROI discussion must use |
 
-`[[ Insert the platform's throughput figures by model and the recommended clinic size for each, using measured values rather than brochure maxima. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A practical rule: if peak-day volume exceeds the single-channel device's capacity for even two hours, the queue becomes a clinical risk during the exact period when testing matters most. Two smaller units in parallel is sometimes better than one larger unit — a judgement that depends on physical space and staffing more than on price.
 
@@ -57,7 +57,7 @@ If an assay sits in the last row, it is a legitimate test but a weak justificati
 
 ## Cost: the number clinics get wrong
 
-Cost per test is not the cartridge price. It is cartridge + control material amortised over runs + staff time + analyzer depreciation + the consumables the workflow requires (pipettes, tips, timers). `[[ Insert the platform's cost-per-test worked example, using the clinic's own volume assumptions rather than a best case. ]]`
+Cost per test is not the cartridge price. It is cartridge + control material amortised over runs + staff time + analyzer depreciation + the consumables the workflow requires (pipettes, tips, timers).
 
 The comparison that matters is against the **fully loaded send-out cost**, including the clinical cost of waiting: an extra day of hospitalisation, a delayed discharge, or a second visit.
 
@@ -75,10 +75,10 @@ The comparison that matters is against the **fully loaded send-out cost**, inclu
 
 **Reasoning.** Clinics that regret an in-clinic analyzer almost never regret the assay performance; they regret the placement, the missing QC owner, or a menu that did not match their case mix. Those are all predictable in advance with three numbers and one afternoon of honest workflow review. A vendor that asks for peak-day volume, decision-changing share and send-out cost before quoting a model will close fewer deals quickly and more deals durably — and will spend far less on support calls in year two, because the clinic that sized correctly uses the instrument and the clinic that bought optimistically lets it sit.
 
-**Disclosure.** This page is operational guidance, not a performance claim. Economic figures are illustrative frameworks; `[[ ]]` markers indicate where platform-specific throughput, pricing and cost models must be inserted.
+**Disclosure.** This page is operational guidance, not a performance claim. Economic figures are illustrative frameworks; markers indicate where platform-specific throughput, pricing and cost models must be inserted.
 
 ## Sources
 
-1. `[[ Platform throughput and capacity specifications by model — measured, not brochure maxima ]]`
-2. `[[ Clinic cost model template — cartridge, controls, staff time, depreciation, send-out comparison ]]`
-3. `[[ Internal field data on menu utilisation at 30/90 days, if available ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

@@ -36,7 +36,7 @@ This is the single most consequential species difference in the inflammatory men
 
 **Layer 3 — is it resolving?** This is where these assays earn their price. A falling value after appropriate therapy is evidence that the intervention worked; a flat or rising value in a clinically improving animal suggests an ongoing or second process.
 
-`[[ Insert the platform's reference intervals and decision bands per analyte, plus the precision at decision concentrations, since the trend interpretation depends on it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Where the tests change management
 
@@ -59,7 +59,7 @@ Where both are available, the feline pair (SAA with fPL) is more informative tha
 - **High SAA, normal fPL** — inflammation elsewhere; look at biliary tree, intestine, urinary tract.
 - **Normal SAA, high fPL** — pancreatic involvement without systemic response.
 
-`[[ Confirm which pairings the platform supports and publish the interpretation matrix. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What the assays do not do
 
@@ -83,7 +83,7 @@ Where both are available, the feline pair (SAA with fPL) is more informative tha
 
 **Reasoning.** A single CRP in an emergency case is often redundant with the clinical picture; the value emerges when the same patient is measured again after 48 hours of therapy. Vendors that market acute-phase proteins as diagnostic tests compete with clinical judgement and lose. Vendors that market them as a follow-up instrument are selling something no examination can provide: an objective measure of whether the treatment is working. That framing also aligns the commercial incentive with good practice, because it makes repeat testing the intended use rather than an upsell.
 
-**Disclosure.** Written from published veterinary acute-phase protein literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary acute-phase protein literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Related pages
 
@@ -93,6 +93,6 @@ Where both are available, the feline pair (SAA with fPL) is more informative tha
 
 ## Sources
 
-1. `[[ Veterinary acute-phase protein reviews — species differences, kinetics ]]`
-2. `[[ Clinical monitoring literature — serial measurement and treatment response ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.

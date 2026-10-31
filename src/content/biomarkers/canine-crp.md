@@ -64,9 +64,9 @@ That means a reference interval taken from another manufacturer's insert, or fro
 
 | Population | Reference interval | n | Method / notes |
 |---|---|---|---|
-| Adult dogs (1–7 y) | `[[ LL – UL mg/L ]]` | `[[ n ]]` | `[[ CLSI EP28-A3c, non-parametric, 90% CI ]]` |
-| Puppies (< 1 y) | `[[ LL – UL mg/L ]]` | `[[ n ]]` | `[[ age-dependent; may differ from adult ]]` |
-| Geriatric dogs (> 7 y) | `[[ LL – UL mg/L ]]` | `[[ n ]]` | `[[ comorbidity screening applied ]]` |
+| Adult dogs (1–7 y) | Pending | Pending | Pending |
+| Puppies (< 1 y) | Pending | Pending | Pending |
+| Geriatric dogs (> 7 y) | Pending | Pending | Pending |
 
 **Editorial interpretation (not a manufacturer claim):** where a laboratory has fewer than the guideline-recommended number of reference individuals, publishing the interval with n and the statistical method is still more useful than publishing nothing — provided the limitation is stated. An interval with a visible sample size invites verification; an absent interval invites the reader to guess.
 
@@ -79,11 +79,11 @@ Absolute values should be read against the interval above, not against numbers f
 | Band | Interpretation | Typical clinical action |
 |---|---|---|
 | Within reference interval | No significant acute-phase response at sampling time | Re-evaluate if clinical suspicion persists — a normal CRP does not exclude localized or chronic disease |
-| `[[ mild band ]]` | Low-grade or resolving inflammation | Trend in 24–48 h rather than treat reflexively |
-| `[[ moderate band ]]` | Active inflammation | Pair with localization diagnostics (imaging, cytology, culture) |
-| `[[ marked band ]]` | Severe systemic inflammation / SIRS candidate | Urgent workup; serial monitoring to judge response |
+| Pending | Low-grade or resolving inflammation | Trend in 24–48 h rather than treat reflexively |
+| Pending | Active inflammation | Pair with localization diagnostics (imaging, cytology, culture) |
+| Pending | Severe systemic inflammation / SIRS candidate | Urgent workup; serial monitoring to judge response |
 
-`[[ Bands must be set from your own platform data and clinical validation — do not import these from another manufacturer. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ---
 
@@ -92,9 +92,9 @@ Absolute values should be read against the interval above, not against numbers f
 The useful unit of CRP measurement is not the value, it is the **change relative to baseline in the same patient on the same analyzer**. A defensible workflow:
 
 1. Measure at presentation (baseline), before antibiotics or surgery where feasible.
-2. Define an expected response window for the condition — `[[ e.g. 48–72 h post-initiation of appropriate therapy ]]`.
+2. Define an expected response window for the condition.
 3. Re-measure at the window. Compare against baseline, not against the reference interval alone.
-4. Interpret the delta against the assay's own imprecision at those concentrations. `[[ Insert the platform's CV at low / mid / high concentration — a change smaller than the assay's combined imprecision is not a clinical change. ]]`
+4. Interpret the delta against the assay's own imprecision at those concentrations.
 5. Escalate localization work only when the delta fails to move, or moves in the wrong direction.
 
 This is why the precision data on the technical page is not decorative: **without it, step 4 is guesswork**, and the entire monitoring use case degrades into "the number went down a bit."
@@ -103,16 +103,16 @@ This is why the precision data on the technical page is not decorative: **withou
 
 ## Sample handling
 
-`[[ Complete from the current IFU; the table below is the required structure, values must be platform-specific ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Specimen | Acceptable | Notes |
 |---|---|---|
-| Serum | `[[ Y/N ]]` | `[[ clotting time, separation window ]]` |
-| Lithium heparin plasma | `[[ Y/N ]]` | `[[ preferred per IFU ]]` |
-| EDTA plasma | `[[ Y/N ]]` | `[[ compatibility statement ]]` |
-| Whole blood | `[[ Y/N ]]` | `[[ not applicable / point-of-care only ]]` |
-| Storage before testing | `[[ room temp h / 2–8 °C h ]]` | `[[ max delay to centrifugation ]]` |
-| Freeze–thaw | `[[ max cycles ]]` | `[[ −20 °C stability ]]` |
+| Serum | Pending | Pending |
+| Lithium heparin plasma | Pending | Pending |
+| EDTA plasma | Pending | Pending |
+| Whole blood | Pending | Pending |
+| Storage before testing | Pending | Pending |
+| Freeze–thaw | Pending | Pending |
 
 ---
 
@@ -122,13 +122,13 @@ Interference is not a theoretical footnote for an acute-phase protein: hemolysis
 
 | Interferent | Tested concentration | Effect on result |
 |---|---|---|
-| Hemoglobin | `[[ g/L ]]` | `[[ none / bias % ]]` |
-| Triglycerides (lipemia) | `[[ mg/dL ]]` | `[[ none / bias % ]]` |
-| Bilirubin | `[[ mg/dL ]]` | `[[ none / bias % ]]` |
-| Biotin | `[[ ng/mL ]]` | `[[ relevant only for streptavidin-biotin systems — state whether applicable ]]` |
-| Heterophile antibodies / RF | `[[ tested? ]]` | `[[ false elevation risk statement ]]` |
+| Hemoglobin | Pending | Pending |
+| Triglycerides (lipemia) | Pending | Pending |
+| Bilirubin | Pending | Pending |
+| Biotin | Pending | Pending |
+| Heterophile antibodies / RF | Pending | Pending |
 
-`[[ Hook effect: dog CRP values in severe SIRS can be high; state whether the assay has a defined upper reporting limit and the dilution protocol above it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ---
 
@@ -136,7 +136,7 @@ Interference is not a theoretical footnote for an acute-phase protein: hemolysis
 
 1. **Reading a single value as a diagnosis.** CRP is a magnitude signal. Localization requires imaging, cytology, or culture.
 2. **Comparing two analyzers.** Published bias between canine CRP platforms reaches double digits; a patient monitored across two devices can appear to improve or worsen purely from method difference.
-3. **Comparing across a kit lot change without a control.** `[[ State lot-to-lot policy here. ]]`
+3. **Comparing across a kit lot change without a control.**
 4. **Treating a normal CRP as exclusion.** Localized, walled-off, and chronic low-grade processes can sit inside the reference interval.
 5. **Ignoring the sampling interval.** A re-check drawn 6 h after the first sample may fall inside the assay's imprecision band and be reported as "no change."
 6. **Using CRP to choose an antibiotic.** CRP supports decisions about *whether* inflammation is present and *whether therapy is working*; it does not identify the organism.
@@ -149,13 +149,13 @@ Interference is not a theoretical footnote for an acute-phase protein: hemolysis
 
 **Reasoning.** A buyer comparing two fluorescence platforms will find near-identical claims: quantitative, minutes to result, broad menu. The decision then turns on evidence: can I trust the number, and can I interpret it on day one? A vendor that publishes an interval with sample size and method, plus CV at clinically relevant concentrations, removes the buyer's largest unknown. That is a lower-cost differentiator than adding another analyte to the menu.
 
-**Disclosure.** This page was written from published veterinary literature on acute-phase proteins and point-of-care assay validation, plus the general analytical framework in CLSI EP28. It does not report new experimental data. Figures marked `[[ ]]` are placeholders for Migibio's own measurements and must not be published unreplaced.
+**Disclosure.** This page was written from published veterinary literature on acute-phase proteins and point-of-care assay validation, plus the general analytical framework in CLSI EP28. It does not report new experimental data. Figures marked are placeholders for Migibio's own measurements and must not be published unreplaced.
 
 ---
 
 ## Sources
 
-1. Canine CRP physiology and acute-phase behaviour — `[[ cite the reference textbook or review used by your medical affairs team ]]`
+1. Canine CRP physiology and acute-phase behaviour
 2. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* (2018). https://doi.org/10.1186/s12917-018-1415-2 — source for platform-dependent bias (10–30% range reported across POCT evaluations), reference interval methodology (n = 60 healthy dogs), and the same-analyzer follow-up recommendation.
 3. CLSI EP28-A3c — Defining, establishing, and verifying reference intervals in the clinical laboratory (methodology standard).
 

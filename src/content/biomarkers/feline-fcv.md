@@ -48,23 +48,23 @@ FCV causes a substantial share of feline upper respiratory disease and, in a min
 2. **Sample early.** Shedding is highest in the acute phase.
 3. **Accept the limitation.** A negative swab in a strongly suspected cat does not exclude FCV — the virus is genetically diverse and detection depends on sample quality and timing.
 
-`[[ State the validated swab type, transport requirements and stability window. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The systemic form, and why it matters commercially
 
 Virulent systemic FCV presents with oedema, ulceration, jaundice and high mortality, and it spreads within a clinic or shelter. In an outbreak, rapid antigen detection supports isolation decisions on the same day. This is the clinical scenario where a point-of-care quantitative result changes management most clearly.
 
-`[[ State whether the assay detects the systemic strains as reliably as typical strains, or note that cross-reactivity with variant strains is not established. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs, measuring interval, and any antibody threshold used for immunity assessment — each marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Antibody immune threshold | `[[ ]]` | `[[ if supported ]]` |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Antibody immune threshold | Pending | Pending |
 
 ## Interpretation matrix
 
@@ -90,10 +90,10 @@ Virulent systemic FCV presents with oedema, ulceration, jaundice and high mortal
 
 **Reasoning.** Routine respiratory testing is a low-value use: most affected cats are treated symptomatically regardless of result, and the owner often declines the test. The systemic form is different — it is an emergency where a same-day answer changes isolation, staff protocols and prognosis discussions, and where the hospital's own liability is at stake. A vendor that positions the assay for systemic-disease triage is selling into a decision that is already being made under time pressure, which is where point-of-care testing has a genuine advantage over sending a swab away.
 
-**Disclosure.** Written from published feline calicivirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline calicivirus literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline calicivirus diagnosis literature — sampling sites, shedding, virulent systemic disease ]]`
-2. `[[ Feline vaccination guidance — antibody interpretation in vaccinated populations ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval.

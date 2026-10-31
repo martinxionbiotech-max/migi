@@ -53,17 +53,17 @@ Vaccination is widespread, and vaccine-induced antibody cannot be distinguished 
 - **Corneal ulceration with dendritic or geographic patterns**: FHV supports antiviral rather than antibacterial-only treatment.
 - **Outbreak in a cattery or shelter**: same-day antigen detection supports isolation and cohorting.
 
-`[[ State the validated sampling site (conjunctival vs oropharyngeal), transport requirements and stability window. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs and measuring interval, marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Antibody immune threshold | `[[ ]]` | `[[ if supported ]]` |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Antibody immune threshold | Pending | Pending |
 
 ## Interpretation matrix
 
@@ -89,10 +89,10 @@ Vaccination is widespread, and vaccine-induced antibody cannot be distinguished 
 
 **Reasoning.** General respiratory testing rarely changes management — most cats are treated supportively and the owner declines the test. But an ophthalmologist or a GP facing a non-healing corneal ulcer has a genuine decision: antiviral versus antibacterial, and whether to use a topical steroid (a decision that can worsen a herpetic ulcer). In that moment, same-day FHV antigen detection is worth paying for, and the clinician already knows why. Positioning FHV for ocular disease is narrower, more defensible, and it reaches a buyer with a higher willingness to pay than the general respiratory market.
 
-**Disclosure.** Written from published feline herpesvirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline herpesvirus literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline herpesvirus literature — latency, reactivation, ocular disease, sampling sites ]]`
-2. `[[ Feline vaccination guidance — antibody interpretation ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval.

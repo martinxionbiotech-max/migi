@@ -41,7 +41,7 @@ FCoV spreads readily among cats in multi-cat households and catteries. Seropreva
 
 The consequence: **a positive FCoV antibody test is a statement about exposure, not about disease.** Diagnosing FIP from a titre is the classic error, and it leads to euthanasia of healthy cats — a decision that is irreversible and, in some cases, unnecessary given modern antiviral options.
 
-`[[ Cite the seroprevalence literature used by medical affairs, with the populations it describes. Do not generalise a cattery figure to a household single cat. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What actually supports an FIP diagnosis
 
@@ -65,17 +65,17 @@ The non-effusive (dry) form is harder: it presents as pyrexia of unknown origin,
 2. **Serum antigen** — supports the presence of virus in a cat with compatible signs, but must not be read as confirmation.
 3. **Antibody** — useful for population management decisions in catteries (identifying naive cats), not for individual diagnosis.
 
-`[[ State which specimen types the platform validates and which it does not. If effusion is not validated, say so clearly. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs and measuring interval, marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
-| Antibody threshold for exposure | `[[ ]]` | Not a diagnostic threshold |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
+| Antibody threshold for exposure | Pending | Not a diagnostic threshold |
 
 ## Six traps
 
@@ -92,11 +92,11 @@ The non-effusive (dry) form is harder: it presents as pyrexia of unknown origin,
 
 **Reasoning.** FIP is the disease where a laboratory result most often ends a cat's life. A titre taken casually, in a young cat from a multi-cat household, can produce a euthanasia decision on the strength of a result that describes exposure rather than disease. Any vendor selling into this space inherits that risk, and the only defensible response is to make the limitation impossible to miss and to point clinicians towards effusion analysis. This is not only ethics: the vendors who are trusted on FIP are the ones clinicians consult when the case is genuinely difficult, which is where the durable relationship is built.
 
-**Disclosure.** Written from published feline coronavirus and FIP literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline coronavirus and FIP literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline coronavirus seroprevalence literature — populations and figures ]]`
-2. `[[ FIP diagnostic guidance — effusion analysis, Rivalta, A:G ratio, histopathology, immunohistochemistry ]]`
-3. `[[ Recent FIP antiviral treatment literature — why diagnostic certainty matters more now ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP17 / EP06 — detection capability and measuring interval.

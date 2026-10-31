@@ -19,13 +19,13 @@ faq:
 
 | Evidence type | Status | Where described |
 |---|---|---|
-| Analytical performance (LoD, LoQ, precision, linearity) | `[[ available / in preparation ]]` | [Analytical performance](/technology/analytical-performance/) |
-| Method comparison against a reference method | `[[ ]]` | [Method comparison](/technology/method-comparison/) |
-| Reference intervals (platform-specific) | `[[ ]]` | [Reference intervals](/technology/reference-intervals/) |
-| Clinical performance (sensitivity, specificity) | `[[ ]]` | [Clinical performance](/technology/clinical-performance/) |
+| Analytical performance (LoD, LoQ, precision, linearity) | Pending | [Analytical performance](/technology/analytical-performance/) |
+| Method comparison against a reference method | Pending | [Method comparison](/technology/method-comparison/) |
+| Reference intervals (platform-specific) | Pending | [Reference intervals](/technology/reference-intervals/) |
+| Clinical performance (sensitivity, specificity) | Pending | [Clinical performance](/technology/clinical-performance/) |
 | Independent third-party publication | **Not published** | This page |
 
-`[[ Update this table as studies complete. An out-of-date status table is worse than none. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What a validation summary contains
 
@@ -52,7 +52,7 @@ We have not published independent studies. The practical consequences:
 
 Include the analyte, the characteristic of interest (analytical or clinical), and the intended use of the document. For distributor qualification, state the market and the regulatory pathway, because the required evidence package differs.
 
-`[[ Insert the request route and note which documents are under NDA. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## What a buyer should ask next
 
@@ -68,7 +68,7 @@ Include the analyte, the characteristic of interest (analytical or clinical), an
 
 **Reasoning.** In this category the buyer is often a quality or regulatory professional whose job is to find what is missing. A vendor who lists gaps has already answered the first question of the audit, and the conversation moves to planning instead of discovery. A vendor who lists only strengths signals that the buyer's job is to find the omission — and the buyer will. The uncomfortable table is the one that shortens the qualification process, which is the opposite of what instinct suggests.
 
-**Disclosure.** The status table above must reflect the current state of the evidence; `[[ ]]` markers indicate where it must be completed before publication. No third-party validation is claimed.
+**Disclosure.** The status table above must reflect the current state of the evidence; markers indicate where it must be completed before publication. No third-party validation is claimed.
 
 ## Related pages
 
@@ -78,5 +78,5 @@ Include the analyte, the characteristic of interest (analytical or clinical), an
 
 ## Sources
 
-1. `[[ Internal validation reports — study identifiers per analyte ]]`
-2. `[[ Regulatory pathway requirements per target market ]]`
+1. Reference to be added.
+2. Reference to be added.

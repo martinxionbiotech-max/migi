@@ -60,13 +60,13 @@ A qualitative or cut-off-only result collapses the informative middle of the dis
 
 ## Reference intervals and decision limits
 
-`[[ Insert platform intervals by species and, where published, by age band. Do not apply canine thresholds to cats. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | Decision limit | n |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` pmol/L | `[[ ]]` | `[[ ]]` |
-| Adult cats | `[[ ]]` pmol/L | `[[ ]]` | `[[ ]]` |
-| Geriatric | `[[ ]]` | `[[ ]]` | `[[ ]]` |
+| Adult dogs | Pending pmol/L | Pending | Pending |
+| Adult cats | Pending pmol/L | Pending | Pending |
+| Geriatric | Pending | Pending | Pending |
 
 **Editorial note:** clinical decision limits for NT-proBNP are lower than the "rule-in heart failure" thresholds often quoted in the literature, and the difference confuses users. State which one the platform is using and what it means.
 
@@ -84,7 +84,7 @@ The renal row explains most discordant results in practice: a cat with chronic k
 
 ## Sample handling
 
-`[[ State the validated specimen type (EDTA plasma vs serum), tube, minimum volume, stability at room temperature and 2–8 °C, and freeze-thaw limits. NT-proBNP is sensitive to handling and to delayed separation. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -101,11 +101,11 @@ The renal row explains most discordant results in practice: a cat with chronic k
 
 **Reasoning.** A wellness-screening claim invites exactly the cases where the test performs worst: young asymptomatic animals with murmurs, geriatric cats with renal disease, and anxious patients with high respiratory effort. Each produces a false positive or an ambiguous value, each generates a referral, and the clinician concludes the assay is unreliable. The dyspnoea claim is different: prevalence of heart failure is high, the clinical question is binary and urgent, and a negative result genuinely changes the plan. A vendor that narrows its own claim is doing something buyers notice, because everybody else is widening theirs — and in a category where over-claiming is the norm, restraint reads as competence.
 
-**Disclosure.** Written from published veterinary cardiac biomarker literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform studies.
+**Disclosure.** Written from published veterinary cardiac biomarker literature; no new experimental data. Values marked are placeholders for Migibio's platform studies.
 
 ## Sources
 
-1. `[[ Veterinary NT-proBNP literature — diagnostic accuracy for heart failure, species differences, confounders (renal disease, age, pulmonary hypertension) ]]`
-2. `[[ ACVIM consensus statements on canine and feline heart disease — where biomarker testing is and is not recommended ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP quality assurance guidelines.

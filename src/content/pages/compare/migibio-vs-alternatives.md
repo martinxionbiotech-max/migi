@@ -67,7 +67,7 @@ If a vendor cannot answer the first four, the comparison is not worth having. If
 
 **Reasoning.** Buyers in technical categories are surrounded by comparison tables that all flatter their author, and they have learned to discount them to near zero. A vendor that says "we are not going to give you unverifiable numbers, here is the checklist instead, and here is where we are weak" is doing something the category does not do — and it gains the one thing a comparison table cannot buy: the assumption that the vendor is not exaggerating. That assumption is worth more than any single row of a feature matrix, because every subsequent claim inherits it.
 
-**Disclosure.** This page contains no competitor specifications. Claims about Migibio products are manufacturer-reported and qualified in the table above. `[[ ]]` markers elsewhere in this section indicate values requiring verification.
+**Disclosure.** This page contains no competitor specifications. Claims about Migibio products are manufacturer-reported and qualified in the table above. markers elsewhere in this section indicate values requiring verification.
 
 ## Sources
 

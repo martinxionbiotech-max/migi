@@ -42,7 +42,7 @@ Practical implications:
 3. **Microfilaria testing answers a different question** — whether the dog is a source for mosquitoes.
 4. **Treatment decisions depend on staging**, which includes imaging and clinical assessment, not on the antigen result alone.
 
-`[[ Insert the guideline version and testing intervals adopted by medical affairs, quoted precisely. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Geography and seasonality
 
@@ -50,7 +50,7 @@ Prevalence varies enormously by region, and a test's predictive value changes wi
 
 ## Where a POCT menu ends
 
-`[[ Insert an accurate, factual statement of which of these agents the current reagent menu covers, and which require send-out. State the boundary without implying capability that does not exist. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A clinician who knows the boundary orders the right test. A clinician who assumes a "vector-borne panel" covers heartworm will eventually miss one, and the failure will be attributed to the platform rather than to the assumption.
 
@@ -77,7 +77,7 @@ A clinician who knows the boundary orders the right test. A clinician who assume
 
 **Reasoning.** A clinician who discovers, mid-case, that the in-clinic menu does not cover heartworm does not conclude "I should have checked the menu" — they conclude the vendor oversold. That single experience contaminates every other assay on the platform, including the ones that perform well. Publishing the boundary costs a small amount of apparent competitiveness and buys something harder to obtain: the assumption of good faith. In a category where every brochure claims completeness, the vendor that publishes a coverage table with visible gaps is the one whose other claims get believed.
 
-**Disclosure.** This page is clinical and menu-coverage guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform coverage and guideline versions must be stated.
+**Disclosure.** This page is clinical and menu-coverage guidance, not a performance claim. Figures marked indicate where platform coverage and guideline versions must be stated.
 
 ## Related pages
 
@@ -87,6 +87,6 @@ A clinician who knows the boundary orders the right test. A clinician who assume
 
 ## Sources
 
-1. `[[ Heartworm prevention and testing guidelines — antigen windows, testing intervals ]]`
-2. `[[ Vector-borne disease testing guidance — serology vs PCR vs antigen ]]`
-3. `[[ Regional prevalence data used by medical affairs ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

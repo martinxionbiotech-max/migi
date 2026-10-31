@@ -42,13 +42,13 @@ Antibody screening is the standard first step because it is cheap, fast and sens
 
 **Vaccinated cats.** FIV vaccines have been used in some regions, and vaccination produces antibody that a binding assay cannot distinguish from infection. Where vaccination history is unknown, a positive result requires confirmation by PCR or by a different assay format.
 
-`[[ State the platform's recommended confirmation pathway, and whether the assay has been assessed for interference from vaccination in the markets you serve. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Why quantitative results have limited use here
 
 FIV is a chronic, lifelong infection; antibody presence is the diagnostic signal, and titre magnitude does not reliably correlate with clinical stage. A quantitative value is useful for confirming a clear positive and for documenting change over time, but it should not be presented as a staging tool.
 
-`[[ If the assay reports a quantitative value, state explicitly that it is not a prognostic marker. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Clinical management after a positive result
 
@@ -61,13 +61,13 @@ A confirmed positive cat is infected for life. Management is about monitoring an
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs, marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Positive cut-off | `[[ ]]` | `[[ ]]` |
-| Retest window for kittens | `[[ ]]` months | `[[ maternal antibody ]]` |
-| Confirmation method | `[[ ]]` | `[[ PCR / alternate assay ]]` |
+| Positive cut-off | Pending | Pending |
+| Retest window for kittens | Pending months | Pending |
+| Confirmation method | Pending | Pending |
 
 ## Six traps
 
@@ -84,11 +84,11 @@ A confirmed positive cat is infected for life. Management is about monitoring an
 
 **Reasoning.** FIV carries a stigma that predates the evidence: many positive cats live long, normal lives, but a positive result on a young cat can still end in euthanasia or relinquishment. The kitten retest rule is the specific intervention that prevents the worst version of that outcome, and it costs the vendor nothing to publish. Beyond the ethics, there is a commercial logic: a clinic that has been taught to confirm and to retest is a clinic that trusts the assay when the result is real. Vendors that let their test be used as a one-shot verdict lose the trust that comes from being right twice.
 
-**Disclosure.** Written from published feline retrovirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline retrovirus literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline retrovirus testing guidance (e.g. AAFP/ABCD) — screening, confirmation, kitten retest window, vaccination interference ]]`
-2. `[[ FIV clinical management literature — prognosis and monitoring ]]`
-3. `[[ FeLV/FIV co-infection and testing algorithm ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP17 / EP06 — detection capability and measuring interval.

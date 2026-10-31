@@ -37,13 +37,13 @@ Passing-Bablok handles both problems: it is non-parametric, resistant to outlier
 
 ## Reading the outputs
 
-**Slope.** A slope of `[[ 1.08 ]]` with a confidence interval excluding 1.0 indicates proportional difference: the test method reads about 8% higher across the range. Proportional bias is the most consequential kind for monitoring, because it shifts every value and therefore every trend.
+**Slope.** A slope of with a confidence interval excluding 1.0 indicates proportional difference: the test method reads about 8% higher across the range. Proportional bias is the most consequential kind for monitoring, because it shifts every value and therefore every trend.
 
 **Intercept.** A non-zero intercept indicates constant difference, which dominates at low concentrations — exactly where borderline clinical decisions are made.
 
 **Bland-Altman.** Plot the difference against the mean. A fan-shaped pattern indicates proportional bias; a shifted band indicates constant bias. The limits of agreement state the range within which 95% of differences fall, and a clinician can read them directly: *if these two methods differ by up to X, is that acceptable for this decision?*
 
-**Acceptance against total allowable error.** The comparison is only concluded when the observed difference is judged against a clinical tolerance. In veterinary clinical pathology, ASVCP-derived total allowable error goals are the conventional reference. `[[ State which TEa source and value applies per analyte. ]]`
+**Acceptance against total allowable error.** The comparison is only concluded when the observed difference is judged against a clinical tolerance. In veterinary clinical pathology, ASVCP-derived total allowable error goals are the conventional reference.
 
 ## Study design requirements that decide credibility
 
@@ -53,23 +53,23 @@ Passing-Bablok handles both problems: it is non-parametric, resistant to outlier
 4. **Fresh samples within stability limits.** A stored sample compared fresh measures degradation.
 5. **Range of clinical relevance.** A comparison built on healthy animals only says nothing about the high values that trigger treatment decisions.
 
-`[[ State n, sample types, concentration range, the reference method, and whether samples were native, fresh, and from clinical cases. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## A worked reading
 
-`[[ Insert the platform's actual comparison for one analyte. The structure below shows the required fields and the interpretation logic; no values may be published until measured. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Field | Value |
 |---|---|
-| Analyte / species | `[[ ]]` |
-| n | `[[ ]]` |
-| Range covered | `[[ ]]` |
-| Reference method | `[[ ]]` |
-| Passing-Bablok slope (95% CI) | `[[ ]]` |
-| Intercept (95% CI) | `[[ ]]` |
-| Bland-Altman mean bias (95% LoA) | `[[ ]]` |
-| TEa applied | `[[ ]]` |
-| Conclusion | `[[ within / outside TEa ]]` |
+| Analyte / species | Pending |
+| n | Pending |
+| Range covered | Pending |
+| Reference method | Pending |
+| Passing-Bablok slope (95% CI) | Pending |
+| Intercept (95% CI) | Pending |
+| Bland-Altman mean bias (95% LoA) | Pending |
+| TEa applied | Pending |
+| Conclusion | Pending |
 
 ## Five traps
 
@@ -85,7 +85,7 @@ Passing-Bablok handles both problems: it is non-parametric, resistant to outlier
 
 **Reasoning.** Every vendor in this category can show r > 0.9; the number has been normalised into meaninglessness. Bias is different: it is the number a laboratory director uses to decide whether existing reference intervals and historical patient data remain usable after a switch. A vendor that states its bias, and states which interval applies with it, is effectively helping the buyer migrate — and migration anxiety is one of the strongest barriers to switching platforms. Hiding the bias does not remove it; it just guarantees the buyer discovers it in the first month of use, which is the worst possible time.
 
-**Disclosure.** Methodology per Passing-Bablok, Deming and Bland-Altman conventions; no new experimental data. Figures marked `[[ ]]` are placeholders for Migibio's studies.
+**Disclosure.** Methodology per Passing-Bablok, Deming and Bland-Altman conventions; no new experimental data. Figures marked are placeholders for Migibio's studies.
 
 ## Sources
 

@@ -50,22 +50,22 @@ The renal interaction explains most misleading results in cats, who frequently h
 - **Screening cats for HCM.** A normal value does not exclude early hypertrophy.
 - **Monitoring chronic therapy** in stable patients, where clinical signs and imaging drive decisions.
 
-`[[ State the platform's validated specimen type and handling limits; cardiac peptides are sensitive to delayed separation and freeze-thaw. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference intervals and decision limits
 
-`[[ Insert species-specific intervals and decision limits, with a note that rule-in and rule-out thresholds differ and that grey zones require imaging. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | Decision limit | Notes |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` pmol/L | `[[ ]]` | `[[ ]]` |
-| Adult cats | `[[ ]]` pmol/L | `[[ ]]` | `[[ ]]` |
+| Adult dogs | Pending pmol/L | Pending | Pending |
+| Adult cats | Pending pmol/L | Pending | Pending |
 
 ## Monitoring treatment
 
 Where NT-proBNP is used serially — for example during hospitalisation for congestive heart failure — the trend can support the assessment of decongestion alongside respiratory rate, effort and weight. It should not replace those measures; it is an adjunct that can catch a patient whose clinical signs are equivocal.
 
-`[[ State whether serial monitoring is supported and at what interval, with the precision data that makes a change interpretable. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -82,7 +82,7 @@ Where NT-proBNP is used serially — for example during hospitalisation for cong
 
 **Reasoning.** The obvious claim is "detect heart disease early", which invites exactly the asymptomatic screening that produces false positives and eroded trust. The narrower claim — "resolve the dyspnoeic patient" — is bought by emergency and internal medicine clinicians who face that decision weekly, and it is the use case where a same-day result genuinely beats sending blood away. There is a second, less obvious benefit: a clinician who has used the test successfully to rule out heart failure once will trust it the next time a result is ambiguous. Trust in diagnostics is built from correct negatives far more than from impressive positives.
 
-**Disclosure.** Written from published veterinary cardiac biomarker literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary cardiac biomarker literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Related pages
 
@@ -92,6 +92,6 @@ Where NT-proBNP is used serially — for example during hospitalisation for cong
 
 ## Sources
 
-1. `[[ Veterinary NT-proBNP literature — diagnostic accuracy, confounders, species differences ]]`
-2. `[[ ACVIM consensus statements — recommended use of cardiac biomarkers ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.

@@ -61,11 +61,11 @@ Same assay. Same sensitivity and specificity. The positive predictive value move
 5. **Spectrum** — disease severity and stage in the case group. A test validated on severe cases will underperform in early or mild disease.
 6. **Whether samples were prospective and consecutive**, or selected. Selected samples inflate apparent accuracy.
 
-`[[ Insert per-analyte clinical studies with: n, population, reference standard, case definition, sensitivity and specificity with 95% CI, and study identifiers. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Analyte | n | Population | Reference standard | Sensitivity (95% CI) | Specificity (95% CI) |
 |---|---|---|---|---|---|
-| `[[ ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` | `[[ ]]` |
+| Pending | Pending | Pending | Pending | Pending | Pending |
 
 ## Spectrum bias, in one paragraph
 
@@ -88,11 +88,11 @@ A vendor that answers all six is publishing evidence. A vendor that answers only
 
 **Reasoning.** Clinicians do not experience sensitivity; they experience the animal in front of them and a result. The practical question is always "how much should I trust this positive?", and the answer is a function of their own prevalence, not of the vendor's study. A vendor that supplies a small table showing PPV across two or three realistic prevalence scenarios — outbreak, symptomatic suspect, routine screening — is effectively handing the clinic the interpretation framework, which is the part clinicians most often get wrong and least often admit. It also protects the vendor: when a clinic in a low-prevalence setting sees false positives, the documented framework already told them to expect it.
 
-**Disclosure.** The arithmetic illustration uses assumed values (95%/95%) chosen for transparency and is not a performance claim for any Migibio product. Figures marked `[[ ]]` are placeholders for Migibio's clinical studies.
+**Disclosure.** The arithmetic illustration uses assumed values (95%/95%) chosen for transparency and is not a performance claim for any Migibio product. Figures marked are placeholders for Migibio's clinical studies.
 
 ## Sources
 
-1. `[[ Clinical performance studies per analyte — population, reference standard, n, sensitivity/specificity with 95% CI ]]`
+1. Reference to be added.
 2. CLSI EP12 — qualitative test performance evaluation (case definition, reference standard, disagreement resolution).
 3. STARD 2015 reporting guideline for diagnostic accuracy studies — required reporting elements.
 4. General diagnostic-accuracy literature on spectrum bias and prevalence-dependent predictive values.

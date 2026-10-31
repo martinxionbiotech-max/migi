@@ -35,7 +35,7 @@ Progesterone for the window. Relaxin for the answer. Ultrasound for the details.
 4. **Time insemination from the bracket**, not from a single reading.
 5. **Stop once well past ovulation** — the luteal plateau carries no timing information.
 
-`[[ Insert the platform's ovulatory threshold and the precision at that concentration, since a 48-hour delta near the threshold must exceed assay noise to be interpretable. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Why pseudopregnancy matters
 
@@ -52,7 +52,7 @@ Before investigating infertility, establish whether the cycle was actually manag
 | Was the same platform used throughout? | A platform change can mimic a stall or a rise |
 | Was relaxin run at the validated interval? | An early negative is uninterpretable |
 
-`[[ Provide a cycle record template covering oestrus onset, every value with date/time, insemination dates, and outcome. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Monitoring an established pregnancy
 
@@ -73,7 +73,7 @@ Progesterone is not a pregnancy-monitoring test in routine use, and serial proge
 
 **Reasoning.** Progesterone and relaxin are both commodities; several suppliers have them. What a breeder or a reproduction clinic cannot buy easily is consistency — the same schedule, the same interpretation rule, the same record format across staff and seasons. Supplying that turns two assays into a managed programme, reduces the support burden dramatically (most "test failure" calls in this segment are timing calls), and generates predictable repeat testing. It is also the rare case where a vendor can improve outcomes without needing better data: the data is already good enough; the workflow is what fails.
 
-**Disclosure.** Written from published canine reproductive endocrinology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data and the guidance adopted by medical affairs.
+**Disclosure.** Written from published canine reproductive endocrinology; no new experimental data. Values marked are placeholders for Migibio's platform data and the guidance adopted by medical affairs.
 
 ## Related pages
 
@@ -83,6 +83,6 @@ Progesterone is not a pregnancy-monitoring test in routine use, and serial proge
 
 ## Sources
 
-1. `[[ Canine breeding management guidance — ovulatory thresholds and insemination timing ]]`
-2. `[[ Relaxin validation literature — earliest reliable detection ]]`
-3. `[[ Pseudopregnancy and luteal function literature ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

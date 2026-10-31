@@ -58,18 +58,18 @@ Serial measurement is not a marketing suggestion; in feline thyroid disease it i
 
 ## Reference intervals
 
-`[[ Insert platform-specific feline intervals. Note that feline reference intervals are typically established in young healthy cats and may not represent the geriatric population in which the disease occurs. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Notes |
 |---|---|---|---|
-| Adult cats | `[[ ]]` nmol/L | `[[ ]]` | `[[ EP28 ]]` |
-| Geriatric | `[[ ]]` | `[[ ]]` | `[[ age-appropriate data preferred ]]` |
+| Adult cats | Pending nmol/L | Pending | Pending |
+| Geriatric | Pending | Pending | Pending |
 
 ## Where free T4 fits
 
 Free T4 by equilibrium dialysis is the usual second-line test when total T4 is equivocal. Its limitation is reciprocal: it improves sensitivity in early disease but loses specificity, because non-thyroidal illness can raise free T4 in euthyroid cats. The practical rule is that free T4 is useful when the clinical picture strongly suggests hyperthyroidism and total T4 is normal — not as a general screen.
 
-`[[ State whether the platform offers free T4, and if not, say so and describe the referral pathway rather than implying equivalence. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Monitoring treatment
 
@@ -77,7 +77,7 @@ Free T4 by equilibrium dialysis is the usual second-line test when total T4 is e
 - **Radioiodine / thyroidectomy:** T4 falls, sometimes into the low range transiently; monitor for hypothyroidism.
 - **Renal function:** treating hyperthyroidism can unmask or worsen azotaemia, because increased glomerular filtration was masking reduced renal function. T4 and renal parameters should be interpreted together, before and after treatment.
 
-`[[ State the recommended sampling interval relative to dosing and the monitoring schedule. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -94,10 +94,10 @@ Free T4 by equilibrium dialysis is the usual second-line test when total T4 is e
 
 **Reasoning.** Feline hyperthyroidism is a diagnosis clinicians are usually confident about, and the test most often "disagrees" in the early cases where the diagnosis is actually being made on clinical grounds. When that happens, a clinician who has not been warned concludes the assay is insensitive, and the platform loses credibility on all endocrine tests. A vendor that sets the expectation in advance — and supplies a retest interval — converts a common clinical pattern into a documented protocol, which is the difference between a complaint and a routine follow-up. It also creates a legitimate repeat-testing behaviour that is good for consumables revenue without misrepresenting the product.
 
-**Disclosure.** Written from published feline endocrinology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published feline endocrinology guidance; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Feline hyperthyroidism guidance — diagnostic approach, proportion of normal T4 in confirmed cases, free T4 specificity ]]`
-2. `[[ Renal–thyroid interaction literature (masked azotaemia after treatment) ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology, including age-appropriate partitioning.

@@ -44,7 +44,7 @@ Weights are a starting point, not a doctrine. A shelter will weight cost higher;
 
 **4. Cost per decision-relevant test (15%)** — `(analyzer cost / expected lifetime tests) + consumables + staff minutes` compared with the send-out equivalent.
 
-`[[ Insert the platform's pricing, menu list and lifetime assumptions so the matrix can be completed with real numbers rather than placeholders. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reading a completed matrix
 
@@ -84,10 +84,10 @@ A vendor who helps you complete the matrix will usually recommend a smaller devi
 
 **Reasoning.** Buyers have been through enough sales processes to recognise a decision framework that exists only to justify a predetermined recommendation. A matrix published openly, with weights the buyer can change and a terminal row that argues against the purchase, reads as engineering advice rather than marketing. It also does something practical: it moves the conversation from "which model" to "which variables", which is where the vendor's actual expertise lives and where the buyer's uncertainty is highest.
 
-**Disclosure.** Weights are a proposed framework, not a validated instrument. Figures marked `[[ ]]` indicate where platform data must be inserted.
+**Disclosure.** Weights are a proposed framework, not a validated instrument. Figures marked indicate where platform data must be inserted.
 
 ## Sources
 
 1. [FIA680 vs FIA880](/compare/fia680-vs-fia880/) — capacity and specification detail
 2. [In-clinic POCT: capacity, menu and workflow](/applications/veterinary-clinic/)
-3. `[[ Platform pricing, menu coverage and lifetime assumptions ]]`
+3. Reference to be added.

@@ -49,7 +49,7 @@ An instrument that is not maintained produces worse information than a strip tha
 
 ## The trap in the comparison
 
-The common misreading is "quantitative equals more sensitive". Analytical sensitivity and quantitative output are different properties: an assay can be quantitative and less sensitive than a good strip, or highly sensitive and qualitative. `[[ State the platform's LoD against the strip's stated cut-off, if a comparison has been performed, rather than implying a general advantage. ]]`
+The common misreading is "quantitative equals more sensitive". Analytical sensitivity and quantitative output are different properties: an assay can be quantitative and less sensitive than a good strip, or highly sensitive and qualitative.
 
 ## Where both are appropriate
 
@@ -61,10 +61,10 @@ Many clinics end up running both: strips for immediate triage where no record is
 
 **Reasoning.** Buyers in this category have usually used strips, often for years, and they know their limitations from experience. A comparison that presents fluorescence as universally superior contradicts that experience, and the buyer resolves the contradiction by discounting the vendor. A comparison that says "a strip is fine for X and fails at Y" reads as technical confidence rather than sales pressure — and it also sets up the strongest argument for the instrument, which is not sensitivity but the ability to prove what happened.
 
-**Disclosure.** This page compares method categories, not specific products. Figures marked `[[ ]]` indicate where platform-specific performance data must be inserted.
+**Disclosure.** This page compares method categories, not specific products. Figures marked indicate where platform-specific performance data must be inserted.
 
 ## Sources
 
-1. `[[ Platform LoD and precision data for the assays referenced ]]`
+1. Reference to be added.
 2. CLSI EP17 — detection capability definitions (LoB/LoD/LoQ).
-3. `[[ Internal comparison studies, if performed against a lateral-flow format ]]`
+3. Reference to be added.

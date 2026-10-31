@@ -53,5 +53,5 @@ Species is not a label on a reference interval; it changes which marker to use, 
 
 ## Sources
 
-1. `[[ Veterinary species-specific guidance used by medical affairs ]]`
+1. Reference to be added.
 2. CLSI EP28-A3c — species- and age-specific reference intervals.

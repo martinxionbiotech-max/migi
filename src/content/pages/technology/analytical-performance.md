@@ -54,13 +54,13 @@ These follow the CLSI conventions that veterinary laboratories are evaluated aga
 
 ## How to read the table (worked example, illustrative only)
 
-`[[ The rows below are EXAMPLE format — replace every value with your verified measurement before publishing. Do not publish this example block. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Analyte | Species | Sample | LoB | LoD | LoQ (CV target) | Measuring interval | Units |
 |---|---|---|---|---|---|---|---|
-| cCRP | Canine | `[[ plasma ]]` | `[[ x ]]` | `[[ x ]]` | `[[ x at CV ≤ 20% ]]` | `[[ LoQ – UL ]]` | mg/L |
-| fSAA | Feline | `[[ serum ]]` | `[[ x ]]` | `[[ x ]]` | `[[ x ]]` | `[[ LoQ – UL ]]` | mg/L |
-| cPL | Canine | `[[ plasma ]]` | `[[ x ]]` | `[[ x ]]` | `[[ x ]]` | `[[ LoQ – UL ]]` | µg/L |
+| cCRP | Canine | Pending | Pending | Pending | Pending | Pending | mg/L |
+| fSAA | Feline | Pending | Pending | Pending | Pending | Pending | mg/L |
+| cPL | Canine | Pending | Pending | Pending | Pending | Pending | µg/L |
 
 Three rules for reading any such table, ours included:
 
@@ -72,7 +72,7 @@ Three rules for reading any such table, ours included:
 
 ## Assay-level performance
 
-`[[ Insert the full assay table here. Required columns: Analyte | Species | Sample | LoB | LoD | LoQ + CV target | Measuring interval | Precision (within-run CV%, between-run CV%, between-lot CV%) | Cut-off (if qualitative interpretation is offered) | Data on file (study ID / date) ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 **Editorial note:** assays without completed studies should be listed with `Data pending` rather than omitted. An incomplete table with visible gaps is more credible than a complete-looking table with absent provenance.
 
@@ -82,7 +82,7 @@ Three rules for reading any such table, ours included:
 
 Clinicians read a value at the top of the range and a value at the bottom of the range very differently, and the analytical behaviour at those two places is not symmetric. Imprecision is usually largest in relative terms at low concentration, which is exactly where the clinically decisive question is asked: *is this mildly elevated, or is this normal?*
 
-Consider a dog monitored after starting therapy. The value moves from `[[ 82 ]]` to `[[ 68 ]]` mg/L over 48 hours. Whether that is a clinical improvement depends entirely on the combined imprecision at those concentrations. If the assay's intermediate precision at 70 mg/L is CV = 8%, the 95% confidence band on a single result is roughly ±16%, and a 17% apparent drop is inside the noise. If precision at that level is CV = 3%, the same drop is real.
+Consider a dog monitored after starting therapy. The value falls from one concentration to a lower one over 48 hours. Whether that is a clinical improvement depends entirely on the combined imprecision at those concentrations. If the assay's intermediate precision at 70 mg/L is CV = 8%, the 95% confidence band on a single result is roughly ±16%, and a 17% apparent drop is inside the noise. If precision at that level is CV = 3%, the same drop is real.
 
 This is why our technical documentation asks clinics to compare consecutive results from the same analyzer only, and why the reference change value framework is published alongside the reference interval.
 
@@ -116,7 +116,7 @@ Analytical performance says nothing about whether the test answers a clinical qu
 
 **Reasoning.** Procurement and regulatory reviewers do not expect every assay to be equally mature — they expect the vendor to know which is which. A table that says "these eleven assays have completed precision and LoD studies; these six have LoD only; these four are pending" tells the reviewer that the quality system tracks evidence status. A uniformly confident table tells them the opposite, and the first missing study ID confirms it. In tenders, this distinction usually decides whether the vendor is treated as a manufacturer or as a trader.
 
-**Disclosure.** This page describes methodology and reporting conventions; it does not report new experimental results. Figures marked `[[ ]]` are placeholders for Migibio's internal measurements and must not be published unreplaced.
+**Disclosure.** This page describes methodology and reporting conventions; it does not report new experimental results. Figures marked are placeholders for Migibio's internal measurements and must not be published unreplaced.
 
 ---
 

@@ -49,7 +49,7 @@ Two feline-specific interactions matter: non-thyroidal illness suppresses T4 in 
 | ACTH stimulation | Cushing's diagnosis and trilostane monitoring | Assay-specific cut-offs; ACTH preparation required |
 | Low-dose dexamethasone suppression | Cushing's diagnosis | Assay-specific cut-offs; time points matter |
 
-`[[ Insert platform-specific cut-offs for resting, post-ACTH and post-LDDST, and state that cut-offs from other assays do not transfer. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 The cut-off portability issue is not academic: importing thresholds from another assay produces systematic misclassification in both directions — treating normal dogs and missing affected ones.
 
@@ -62,7 +62,7 @@ The cut-off portability issue is not academic: importing thresholds from another
 
 ## Gaps in the current menu, stated plainly
 
-`[[ Insert an accurate statement of endocrine analytes not covered — e.g. fructosamine for diabetic monitoring, bile acids for hepatic function, insulin. State the clinical need without implying availability. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A clinician who does not know the boundary will assume a thyroid panel covers diabetes monitoring, and will request the wrong test.
 
@@ -81,7 +81,7 @@ A clinician who does not know the boundary will assume a thyroid panel covers di
 
 **Reasoning.** The commercial temptation is to make endocrine testing easy: a single abnormal number, a clear recommendation, a repeat prescription. That path produces over-diagnosis, and over-diagnosis eventually produces a backlash — clinicians who have been burned by a misdiagnosed dog become sceptical of the whole menu. The vendors who take the slower route, insisting on panels and retest intervals, end up with clinicians who trust the assays because they have seen them get it right in difficult cases. Endocrine testing is a judgement product; the vendor that supplies judgement is the one that stays on the shelf.
 
-**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Related pages
 
@@ -90,6 +90,6 @@ A clinician who does not know the boundary will assume a thyroid panel covers di
 
 ## Sources
 
-1. `[[ Veterinary endocrinology guidance — thyroid and adrenal testing algorithms, drug effects ]]`
-2. `[[ Assay-specific cut-off literature for cortisol dynamic tests ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.

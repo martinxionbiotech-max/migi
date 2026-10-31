@@ -29,7 +29,7 @@ Test to decide, not to know. The three decisions that matter are: isolate or not
 | Healthy puppy/kitten, unknown history | Vaccinate, observe, test only if signs develop | Highest risk group — but the intervention is vaccination, not testing |
 | Pre-adoption / pre-transfer | Test if destination requires it | A movement decision, not a diagnosis |
 
-`[[ Insert the platform's time-to-result and per-test cost so shelters can compute a budget per 100 animals. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The response timeline
 
@@ -41,7 +41,7 @@ Test to decide, not to know. The three decisions that matter are: isolate or not
 
 **Day 7 — review and release.** Relax restrictions only after a full incubation window with no new cases. Releasing early is how outbreaks get a second wave.
 
-`[[ State the incubation window the platform recommends using for the day 3 and day 7 steps. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Cohorting rules that actually hold
 
@@ -82,10 +82,10 @@ Shelter medicine involves capacity limits that private practice does not: isolat
 
 **Reasoning.** Shelter budgets are fixed and scrutiny is high, so a vendor that recommends universal screening is recommending something the shelter cannot sustain, and the relationship ends when the budget is cut. A vendor that publishes a risk-based protocol with a timeline becomes the reference for shelter outbreak management, which is a durable position: shelters talk to each other, and a protocol that works gets copied across a region. The commercial logic is not altruism — it is that a modest amount of testing used correctly produces better outcomes and better references than a large amount used indiscriminately.
 
-**Disclosure.** This page is operational guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform specifications and cost models must be inserted.
+**Disclosure.** This page is operational guidance, not a performance claim. Figures marked indicate where platform specifications and cost models must be inserted.
 
 ## Sources
 
-1. `[[ Shelter outbreak management guidance — cohorting, isolation, vaccination timing ]]`
-2. `[[ Canine parvovirus incubation and shedding literature — basis for the day 3 / day 7 review points ]]`
-3. `[[ Platform cost and throughput data for shelter budget modelling ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

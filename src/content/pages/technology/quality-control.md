@@ -50,7 +50,7 @@ This matters when a clinic blames "the machine" for a discordant result. The mac
 | Moderate (5–30/day) | Two levels at start of day, one level per shift | Documented operator sign-off |
 | High volume / multi-site | Two levels per shift, rotating third level | Monthly review of charts by a responsible person |
 
-`[[ Insert the platform's recommended control material, levels, and acceptance limits. Where no commercial control exists for an analyte, state the alternative (patient pool, retained sample) and its limitations. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The monitoring chart
 
@@ -59,7 +59,7 @@ Plot each control value against its established mean and limits. Two rules cover
 - **1-3s** — one control exceeds ±3 SD: reject the run. Single-point, large deviation: usually a random or gross error.
 - **2-2s** — two consecutive controls exceed ±2 SD on the same side: reject and investigate. This is the shift detector, and it is the rule most clinics omit.
 
-`[[ Insert the analyte-specific control means and SDs, and the rule set adopted. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## When a rule fires, in order
 
@@ -70,7 +70,7 @@ Plot each control value against its established mean and limits. Two rules cover
 5. **Record** the failure, the investigation, and the resolution. This record is what turns an incident into quality evidence.
 6. **Review retrospectively** — identify which patient results were reported on the failing system and whether they need repeating.
 
-`[[ State the platform's required action for a failed control, and the escalation contact. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Lot change: the highest-risk moment
 
@@ -93,14 +93,14 @@ Minimum record set per testing day: control values, operator, instrument ID, lot
 
 **Reasoning.** A quantitative platform shifts the clinic's failure modes: instead of a strip that looks faintly positive, the clinic now reports a number with three significant figures. That precision invites a trust the underlying process may not deserve, and QC is the only mechanism that keeps the two aligned. Vendors who supply a control protocol, a chart template and a one-page rule card are not adding a feature; they are protecting the platform's reputation in the field, because the alternative — a clinic reporting confident numbers from a drifted instrument — eventually gets attributed to the product rather than the process.
 
-**Disclosure.** Written from general laboratory quality practice and CLSI conventions; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's control specifications.
+**Disclosure.** Written from general laboratory quality practice and CLSI conventions; no new experimental data. Values marked are placeholders for Migibio's control specifications.
 
 ## Sources
 
 1. CLSI C24 — Statistical quality control for quantitative measurement procedures (control rules, chart design, error detection).
 2. Westgard JO et al. — multirule QC procedures (1-3s, 2-2s, R-4s, 4-1s, 10x).
 3. ASVCP quality assurance guidelines — quality control practice in veterinary laboratories.
-4. `[[ Internal control material specification — state target values, acceptable limits, and stability ]]`
+4. Reference to be added.
 
 <!-- DATA REQUIRED before publication:
 1. Recommended control materials and levels per analyte

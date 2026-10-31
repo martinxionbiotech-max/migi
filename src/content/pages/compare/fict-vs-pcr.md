@@ -60,7 +60,7 @@ A defensible sequence in most clinics:
 2. **PCR for discordance** — negative antigen with strong clinical suspicion, or positive antigen with an atypical picture.
 3. **PCR for typing** when the result will influence a population-level decision (outbreak, breeding programme, regulatory report).
 
-`[[ State which assays on the platform are supported by an in-house PCR referral pathway, and how samples should be collected and shipped. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The specificity claim, examined
 
@@ -72,10 +72,10 @@ PCR is often described as more specific. That is true analytically, but clinic-l
 
 **Reasoning.** Every laboratory-trained buyer knows PCR is more sensitive; a vendor who claims otherwise loses credibility immediately. What buyers often do not have is a working rule for when the cheaper, faster test is sufficient — and that rule is the vendor's real contribution. Saying "antigen for triage, PCR for discordance and typing" gives the clinician a defensible pathway, positions PCR as a complement rather than a competitor, and makes the point-of-care assay the default first step instead of the compromise option.
 
-**Disclosure.** This page compares method categories, not specific products. Figures marked `[[ ]]` indicate where platform-specific data and referral pathways must be inserted.
+**Disclosure.** This page compares method categories, not specific products. Figures marked indicate where platform-specific data and referral pathways must be inserted.
 
 ## Sources
 
-1. `[[ Platform antigen assay detection windows per pathogen ]]`
-2. `[[ PCR methodology references — contamination control, sample transport ]]`
-3. `[[ Diagnostic guidance comparing antigen and nucleic-acid testing per pathogen ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.

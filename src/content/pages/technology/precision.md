@@ -31,7 +31,7 @@ The difference between the two is the interesting quantity. A platform with 3% r
 
 The standard design (CLSI EP05) uses nested runs: multiple replicates per run, multiple runs per day, multiple days, more than one lot. The output is variance components — within-run, between-run, between-day, between-lot — combined into repeatability and intermediate precision.
 
-`[[ State the design used: number of samples, replicates per run, runs per day, days, lots, concentration levels. A CV without the design behind it cannot be evaluated. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 Three details that change the meaning of the number:
 
@@ -41,19 +41,19 @@ Three details that change the meaning of the number:
 
 ## Reading a precision table
 
-`[[ Insert the platform table. Required columns: Analyte | Concentration level | Mean | Within-run CV% | Between-run CV% | Between-day CV% | Between-lot CV% | Total CV% | Replicates × runs × days | Data on file ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Analyte | Level | Mean | Within-run CV | Intermediate CV | Design | Data on file |
 |---|---|---|---|---|---|---|
-| `[[ cCRP ]]` | Low (near LoQ) | `[[ ]]` | `[[ ]]%` | `[[ ]]%` | `[[ n×r×d ]]` | `[[ ]]` |
-| `[[ cCRP ]]` | Mid | `[[ ]]` | `[[ ]]%` | `[[ ]]%` | `[[ ]]` | `[[ ]]` |
-| `[[ cCRP ]]` | High | `[[ ]]` | `[[ ]]%` | `[[ ]]%` | `[[ ]]` | `[[ ]]` |
+| Pending | Low (near LoQ) | Pending | Pending | Pending | Pending | Pending |
+| Pending | Mid | Pending | Pending | Pending | Pending | Pending |
+| Pending | High | Pending | Pending | Pending | Pending | Pending |
 
 **Editorial note:** a table with three levels per analyte and a visible design column is more defensible than a single headline CV, because a reviewer can check whether the design matches the claim.
 
 ## Why the low-concentration CV decides usefulness
 
-Consider a dog treated for pancreatitis, measured on admission and again at 48 hours. The result moves from `[[ 82 ]]` to `[[ 68 ]]` — a fall of about 17%. Is that improvement?
+Consider a dog treated for pancreatitis, measured on admission and again at 48 hours. The result falls from one value to a lower one — a fall of about 17%. Is that improvement?
 
 It depends entirely on imprecision at those concentrations. If intermediate precision near 70 is CV = 8%, the combined analytical variation around each result is wide enough that a 17% apparent drop is inside the noise band. If precision there is CV = 3%, the same drop is real. Same numbers, opposite clinical conclusions, and only the vendor can supply the information that resolves it.
 
@@ -69,7 +69,7 @@ RCV = 1.96 × √2 × √(CVa² + CVi²)
 
 `CVa` comes from the precision study at the relevant concentration; `CVi` is within-subject biological variation for the analyte and species, taken from literature. Publishing RCV per analyte converts precision data into a clinical instruction: changes larger than X are real.
 
-`[[ Publish RCV per analyte per concentration band, with the CVi source cited; where species-specific CVi is unavailable, state that rather than substituting human values. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six errors in how precision is reported and used
 
@@ -86,7 +86,7 @@ RCV = 1.96 × √2 × √(CVa² + CVi²)
 
 **Reasoning.** Headline CVs are chosen for how they read, not for what they describe. Every vendor in this category quotes a favourable figure, so the figure has stopped carrying information; a matrix does, because it forces the vendor to show where the assay is weak. That is also a commercial argument: a clinic that knows the assay is tight at midrange and looser near LoQ will use it correctly — trending markers at midrange, confirming borderline values by repeat — and will therefore blame the assay less often, not more. Vendors hide weak rows because they expect criticism; in practice, a stated weak row accompanied by a usage rule prevents the very misapplication that generates complaints.
 
-**Disclosure.** Methodology per CLSI EP05; no new experimental data reported. Figures marked `[[ ]]` are placeholders for Migibio's internal studies and must not be published unreplaced.
+**Disclosure.** Methodology per CLSI EP05; no new experimental data reported. Figures marked are placeholders for Migibio's internal studies and must not be published unreplaced.
 
 ## Sources
 

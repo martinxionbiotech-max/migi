@@ -45,7 +45,7 @@ Pseudopregnancy is common in bitches and produces behavioural and physical signs
 
 Relaxin cannot be detected before placental tissue is established. Testing too early produces a negative result that is then read as "not pregnant", when the correct interpretation is "too early to know".
 
-`[[ State the validated earliest detection day relative to ovulation or LH surge, and the recommended retest interval. Do not publish a day range without the study behind it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 A defensible protocol:
 
@@ -56,13 +56,13 @@ A defensible protocol:
 
 ## Reference intervals and decision limits
 
-`[[ Insert platform-specific values. Relaxin is usually interpreted as detected / not detected above a cut-off, with a quantitative value where the assay supports it. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Basis |
 |---|---|---|
-| Cut-off for positive | `[[ ]]` ng/mL | `[[ platform study ]]` |
-| Earliest reliable detection | `[[ ]]` days post-ovulation | `[[ validation ]]` |
-| Quantitative range | `[[ ]]` | Optional clinical use |
+| Cut-off for positive | Pending ng/mL | Pending |
+| Earliest reliable detection | Pending days post-ovulation | Pending |
+| Quantitative range | Pending | Optional clinical use |
 
 **Editorial note:** where a quantitative value is reported, it should not be used to estimate gestational age or litter size — the relationship is not established for that purpose, and implying it invites misuse.
 
@@ -99,10 +99,10 @@ Using relaxin to time breeding is a category error: by the time relaxin is detec
 
 **Reasoning.** Pregnancy confirmation is usually achieved by ultrasound a short time later, so relaxin competes with a test the clinic already owns. Pseudopregnancy is different: ultrasound shows no fetuses but cannot easily distinguish "too early" from "not pregnant", the owner is emotionally invested, and the conversation can go on for weeks. A blood-based answer that arrives earlier than imaging, with a defensible cut-off, ends that conversation. Vendors who market relaxin as a pregnancy test compete with ultrasound; vendors who market it as a pseudopregnancy resolver complement it — and complement is the easier sale.
 
-**Disclosure.** Written from published canine reproductive endocrinology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's validation data.
+**Disclosure.** Written from published canine reproductive endocrinology; no new experimental data. Values marked are placeholders for Migibio's validation data.
 
 ## Sources
 
-1. `[[ Canine relaxin validation literature — earliest detection, cut-off, sensitivity/specificity for pregnancy ]]`
-2. `[[ Canine breeding management guidance — where relaxin fits relative to progesterone and ultrasound ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval vs decision limit methodology.

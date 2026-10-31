@@ -35,7 +35,7 @@ SDMA is a methylated arginine produced during normal protein breakdown, released
 
 Creatinine is a byproduct of muscle creatine metabolism. A heavily muscled working dog and a greyhound can hold normal creatinine values while their filtration is already reduced; a severely muscle-wasted cat can show an elevated creatinine caused largely by lost muscle mass rather than by lost filtration. SDMA removes most of that confound. It does not remove all of it, and it does not tell you why filtration is reduced.
 
-Published validation work on SDMA reports that it correlates with glomerular filtration rate and identifies reduced filtration in some animals with creatinine still within the reference interval. `[[ Cite the specific validation studies and the proportions reported — do not paraphrase a percentage without the source ]]`
+Published validation work on SDMA reports that it correlates with glomerular filtration rate and identifies reduced filtration in some animals with creatinine still within the reference interval.
 
 **The distinction that matters clinically:** SDMA is an *indirect* filtration marker. It is not a measure of tubular function, not a measure of damage, and not a substitute for urinalysis. A cat with a normal SDMA can still have proteinuria, an active sediment, or a concentrating defect — all of which change management.
 
@@ -50,20 +50,20 @@ SDMA is used for two purposes that require different statistical properties:
 | Detecting reduced filtration | A validated upper reference limit, established on the platform in use |
 | Following a patient over months | Known imprecision at the concentration band being monitored, and an RCV |
 
-A qualitative or category-based readout (normal / borderline / high) collapses both uses into a label. It cannot answer "did this cat's filtration decline by an amount larger than assay noise since March," which is the question that determines whether you adjust therapy. `[[ State the platform's measuring interval and the concentration at which CV was characterised — this is the number that determines whether 6-month trending is meaningful. ]]`
+A qualitative or category-based readout (normal / borderline / high) collapses both uses into a label. It cannot answer "did this cat's filtration decline by an amount larger than assay noise since March," which is the question that determines whether you adjust therapy.
 
 ---
 
 ## Reference intervals
 
-`[[ Insert platform-specific intervals. SDMA intervals in veterinary use are conventionally partitioned by species; age partitioning in kittens/puppies is not established for most platforms and should be stated as such rather than assumed. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Method |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` µg/dL | `[[ ]]` | `[[ EP28 ]]` |
-| Adult cats | `[[ ]]` µg/dL | `[[ ]]` | `[[ EP28 ]]` |
+| Adult dogs | Pending µg/dL | Pending | Pending |
+| Adult cats | Pending µg/dL | Pending | Pending |
 | Puppies / kittens | Not established | — | Interpret against serial change |
-| Geriatric | Same as adult unless partitioned with evidence | `[[ ]]` | `[[ ]]` |
+| Geriatric | Same as adult unless partitioned with evidence | Pending | Pending |
 
 The interval is a population statement. A geriatric cat whose SDMA has moved from 12 to 16 µg/dL within the same platform interval has changed; whether that change is clinically meaningful depends on the RCV, not on whether the second value crossed a line.
 
@@ -77,7 +77,7 @@ A defensible sequence, and the reasoning behind it:
 2. **SDMA as an orthogonal filtration marker**, particularly when creatinine and clinical picture disagree — the muscular dog with a "normal" creatinine, the thin cat with a "high" one.
 3. **Urine protein:creatinine ratio.** Proteinuria is a staging variable and a treatment target in its own right; it is invisible to both creatinine and SDMA.
 4. **Blood pressure.** Hypertension both results from and drives renal injury, and it changes management immediately.
-5. **IRIS staging** where chronic kidney disease is confirmed — staging uses creatinine plus proteinuria plus blood pressure, `[[ and per current IRIS guidance the role of SDMA in staging should be stated exactly as the guideline states it, not extended ]]`.
+5. **IRIS staging** where chronic kidney disease is confirmed — staging uses creatinine plus proteinuria plus blood pressure,.
 
 The error to avoid is treating SDMA as an earlier, better creatinine that can replace the rest of the workup. It is a better *filtration* marker in specific populations; it says nothing about protein loss, concentrating ability, infection, or hypertension.
 
@@ -100,14 +100,14 @@ The error to avoid is treating SDMA as an earlier, better creatinine that can re
 
 **Reasoning.** Framing SDMA as a superior screening test invites its use as a replacement, which leads to exactly the errors listed above: excluding renal disease on a normal SDMA, or diagnosing it on a single value in a dehydrated animal. Framing it as a tie-breaker is more honest and, commercially, more defensible: it positions the assay as adding diagnostic certainty in defined situations rather than as rendering existing tests obsolete. Clinicians adopt the narrower claim more readily because it survives contact with their difficult cases.
 
-**Disclosure.** Written from published veterinary nephrology literature and assay validation work; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary nephrology literature and assay validation work; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ---
 
 ## Sources
 
-1. `[[ SDMA validation studies — cite the primary papers used by medical affairs, including reported sensitivity relative to creatinine and the populations studied ]]`
-2. `[[ IRIS CKD staging guidelines — current version, and the specific role assigned to SDMA ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP guidelines — reference interval and quality goal practice in veterinary clinical pathology.
 

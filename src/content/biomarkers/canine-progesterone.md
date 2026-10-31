@@ -61,10 +61,10 @@ A defensible protocol:
 1. **Start the series when oestrus is first detected** — behaviour, vulvar swelling, or cytology — not on a fixed calendar day.
 2. **Sample at a fixed interval**, commonly every 48 hours, and keep the interval constant; the interpretation depends on the slope, which requires comparable spacing.
 3. **Continue until the ovulatory threshold is bracketed** — i.e., you have a value below and a value above, on the same platform, in the same dog.
-4. **Set insemination timing from the bracket**, per the current reproductive guidance, rather than from a single reading. `[[ Insert the timing rule your medical affairs team endorses, and state the evidence basis ]]`
+4. **Set insemination timing from the bracket**, per the current reproductive guidance, rather than from a single reading.
 5. **Stop measuring once well past ovulation** — the luteal plateau is not interpretable for timing and generates cost without information.
 
-`[[ Insert the platform's ovulatory threshold values and the RCV at that concentration — without the RCV, a 48-hour delta near the threshold cannot be distinguished from assay noise. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ---
 
@@ -72,10 +72,10 @@ A defensible protocol:
 
 | Parameter | Value | Basis |
 |---|---|---|
-| Anoestrus / pro-oestrus baseline | `[[ ]]` ng/mL | `[[ platform RI ]]` |
-| Ovulatory threshold | `[[ ]]` ng/mL | `[[ platform + literature concurrence ]]` |
-| Optimal breeding window (relative to ovulation) | `[[ ]]` days | `[[ current reproductive guidance ]]` |
-| Luteal plateau range | `[[ ]]` ng/mL | Not used for timing |
+| Anoestrus / pro-oestrus baseline | Pending ng/mL | Pending |
+| Ovulatory threshold | Pending ng/mL | Pending |
+| Optimal breeding window (relative to ovulation) | Pending days | Pending |
+| Luteal plateau range | Pending ng/mL | Not used for timing |
 
 **Note the distinction.** A reference interval describes the range in a population of normal animals at an undefined cycle stage — it is not useful for timing. Timing uses *decision limits* established from periovulatory data. Publishing the first while implying the second is a common and consequential error.
 
@@ -100,7 +100,7 @@ The two tests answer different questions and should not be presented as alternat
 | Question | Test | Timing |
 |---|---|---|
 | When should I breed? | Progesterone series | Periovulatory window |
-| Is she pregnant? | Relaxin | `[[ after the manufacturer-validated earliest detection day ]]` |
+| Is she pregnant? | Relaxin | Pending |
 | How many? Any concern? | Ultrasound | Later in gestation |
 
 A clinic that buys relaxin and uses it to time breeding, or buys progesterone and expects a pregnancy answer, has bought the wrong test for the question — and will conclude the test is unreliable. This is a positioning problem in the market, not only a clinical one.
@@ -113,15 +113,15 @@ A clinic that buys relaxin and uses it to time breeding, or buys progesterone an
 
 **Reasoning.** Progesterone is already sold by many suppliers, and the reagent is not where differentiation lives. What breeders and reproduction clinics struggle with is interpretation consistency — the same value read by two clinicians produces different breeding advice. A vendor-supplied protocol, with worked example curves, converts a commodity test into a service the clinic can defend to its client after a missed cycle. It also creates predictable repeat-testing behaviour, which is good for consumable revenue without misrepresenting the product.
 
-**Disclosure.** Written from published canine reproductive endocrinology guidance and assay methodology; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data and for the reproduction guidance your medical affairs team adopts.
+**Disclosure.** Written from published canine reproductive endocrinology guidance and assay methodology; no new experimental data. Values marked are placeholders for Migibio's platform data and for the reproduction guidance your medical affairs team adopts.
 
 ---
 
 ## Sources
 
-1. `[[ Current canine breeding management guidance used by medical affairs (e.g. the reproduction society or textbook your team cites) — for the ovulatory threshold range and the insemination timing rule ]]`
-2. `[[ Progesterone assay comparison literature — platform-dependent bias and the need for assay-specific decision limits ]]`
-3. `[[ Relaxin validation literature — earliest reliable detection day ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
 4. CLSI EP28-A3c — reference interval vs decision limit methodology.
 
 ---

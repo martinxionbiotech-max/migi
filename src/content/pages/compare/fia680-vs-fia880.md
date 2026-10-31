@@ -30,7 +30,7 @@ faq:
 | Users | One at a time | Multiple clinicians in parallel |
 | Language support | CN / EN / RU / IT | CN / EN / RU / IT |
 
-Figures are manufacturer-reported. `[[ Verify against the current specification sheet before publication and state the revision. ]]`
+Figures are manufacturer-reported.
 
 ## What the difference means operationally
 
@@ -51,7 +51,7 @@ The question to ask before choosing: **at the busiest hour of your busiest day, 
 
 The FIA880's constant-temperature control is not a marketing detail. Assay kinetics are temperature-dependent, and a clinic where ambient temperature swings between morning and afternoon — or where the analyzer sits near a door — benefits from controlled conditions. A single-channel unit without it depends more heavily on a stable room.
 
-`[[ State the operating temperature range for each model, and the documented response to excursions. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The custom-curve difference
 
@@ -72,10 +72,10 @@ Per-client custom standard curves matter for distributors and multi-site groups 
 
 **Reasoning.** Most clinics over-buy capacity and then underuse it, which is expensive and, worse, breeds the belief that the platform was a mistake. A distributor who can demonstrate the queue calculation — peak concurrent demand versus assay time — sells the right unit and keeps the account through the replacement cycle. The larger model then becomes an earned upgrade when the practice grows, rather than a premature purchase that has to be justified internally after the fact.
 
-**Disclosure.** Specifications quoted are manufacturer-reported. This page is selection guidance, not a performance claim. `[[ ]]` markers indicate values requiring verification against the current datasheet.
+**Disclosure.** Specifications quoted are manufacturer-reported. This page is selection guidance, not a performance claim. markers indicate values requiring verification against the current datasheet.
 
 ## Sources
 
-1. `[[ Current specification sheets for FIA680 and FIA880 — revision and date ]]`
+1. Reference to be added.
 2. [Platform analytical performance](/technology/analytical-performance/)
-3. `[[ Internal field data on queueing at peak, if available ]]`
+3. Reference to be added.

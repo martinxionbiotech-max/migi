@@ -53,13 +53,13 @@ The pairing is what turns a suggestive number into a defensible diagnosis. A low
 
 ## Reference intervals
 
-`[[ Insert platform-specific canine intervals, including any breed notes. Sighthound breeds commonly sit at the low end and should be noted explicitly if the platform has data. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Population | Interval | n | Notes |
 |---|---|---|---|
-| Adult dogs | `[[ ]]` nmol/L | `[[ ]]` | `[[ EP28 ]]` |
-| Geriatric | `[[ ]]` | `[[ ]]` | `[[ ]]` |
-| Sighthounds | `[[ ]]` | `[[ ]]` | `[[ breed-specific data if available ]]` |
+| Adult dogs | Pending nmol/L | Pending | Pending |
+| Geriatric | Pending | Pending | Pending |
+| Sighthounds | Pending | Pending | Pending |
 
 ## Interpretation matrix
 
@@ -78,7 +78,7 @@ Two practical points that are frequently mishandled:
 1. **Consistent sampling time relative to the dose.** T4 varies through the dosing interval; comparing values drawn at different intervals produces apparent changes that are pharmacokinetic, not clinical.
 2. **Treat the dog, not the number.** Clinical response, body weight, activity and skin should drive dose adjustment; a T4 inside the reference interval with no clinical improvement suggests another diagnosis or a dosing problem.
 
-`[[ State whether the platform recommends peak or trough sampling, and the target range for monitoring. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -95,11 +95,11 @@ Two practical points that are frequently mishandled:
 
 **Reasoning.** Hypothyroidism is one of the most over-diagnosed conditions in small animal practice, and the diagnostic harm is not theoretical: a dog started on levothyroxine for a euthyroid-sick episode may never come off it, while the actual disease goes untreated. A vendor that publishes the interpretation matrix — including the low-T4/normal-TSH row — is doing something commercially counter-intuitive but strategically sound: it makes the test harder to misuse, which reduces the number of cases where the assay is blamed for a clinical misjudgement. Diagnostic companies that sell endocrine tests are, in effect, selling judgement; the vendors that supply judgement explicitly are the ones clinicians keep using.
 
-**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary endocrinology guidance; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Veterinary endocrinology guidance on canine hypothyroidism diagnosis — T4/TSH interpretation, euthyroid-sick syndrome, drug effects ]]`
-2. `[[ Breed-specific thyroid literature (sighthounds) ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP quality assurance guidelines.

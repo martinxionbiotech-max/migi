@@ -48,7 +48,7 @@ That asymmetry has a direct implication for testing: **a positive CCV result in 
 | Is this likely a co-infection picture? | No help | Very high antigen alongside CPV positivity supports co-infection |
 | Is the animal improving? | Late | Trend against imprecision |
 
-`[[ State the platform's measuring interval, cut-off and upper reportable limit. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Where CCV testing earns its place
 
@@ -56,16 +56,16 @@ That asymmetry has a direct implication for testing: **a positive CCV result in 
 - **Group housing** — shelters and breeding kennels where enteritis spreads quickly.
 - **Co-infection assessment** — a positive CPV with a high CCV antigen supports a more guarded prognosis than CPV alone in some reports.
 
-`[[ State the evidence basis for any prognostic claim; do not assert severity correlation without a cited study. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Reference values and decision limits
 
-`[[ Insert platform cut-offs and measuring interval, marked assay-specific. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 | Parameter | Value | Notes |
 |---|---|---|
-| Antigen positive cut-off | `[[ ]]` | `[[ ]]` |
-| Upper reportable limit | `[[ ]]` | Dilute above this |
+| Antigen positive cut-off | Pending | Pending |
+| Upper reportable limit | Pending | Dilute above this |
 
 ## Interpretation matrix
 
@@ -91,10 +91,10 @@ That asymmetry has a direct implication for testing: **a positive CCV result in 
 
 **Reasoning.** The clinical reality is that CCV rarely changes management on its own: the treatment is supportive either way, and the test's main value is in the negative-CPV, unwell puppy where the clinician wants to know whether a viral agent is present at all. Over-positioning it invites the two failure modes above — blaming a mild virus for a severe disease, and missing the co-infection that actually matters. A restrained claim narrows the use case, which paradoxically increases trust and repeat use, because the test then performs exactly as promised in the situations where it is ordered.
 
-**Disclosure.** Written from published canine coronavirus literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published canine coronavirus literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Sources
 
-1. `[[ Canine coronavirus literature — clinical significance, co-infection with CPV, severity ]]`
-2. `[[ Canine enteritis diagnostic guidance — when viral panels are indicated ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval.

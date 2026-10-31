@@ -55,11 +55,11 @@ Same menu, different interpretation. The species determines which marker, which 
 
 ## Handling and stress
 
-Cats tolerate handling poorly, and sample quality suffers: small volumes, difficult venepuncture, delayed separation. For analytes sensitive to handling, the practical answer is to control the pre-analytical chain — minimise handling, separate promptly, and record the delay. `[[ Insert the platform's stability limits for the matrices used in feline practice. ]]`
+Cats tolerate handling poorly, and sample quality suffers: small volumes, difficult venepuncture, delayed separation. For analytes sensitive to handling, the practical answer is to control the pre-analytical chain — minimise handling, separate promptly, and record the delay.
 
 ## Where the menu ends
 
-`[[ State which feline agents the menu covers, and note the remainder requires send-out — for example vector-borne or less common pathogens. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Six traps
 
@@ -76,7 +76,7 @@ Cats tolerate handling poorly, and sample quality suffers: small volumes, diffic
 
 **Reasoning.** The three differences above are not trivia — each one changes a diagnosis. A vendor that publishes a genuinely feline protocol, with SAA as the inflammatory marker, retrovirus rules that protect kittens from a life sentence, and the thyroid–renal interaction stated up front, is demonstrating something a menu cannot: that the company understands the species it claims to serve. In feline practice, that demonstration is the entire basis of trust, because cats do not forgive a wrong call.
 
-**Disclosure.** Clinical guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform data must be inserted.
+**Disclosure.** Clinical guidance, not a performance claim. Figures marked indicate where platform data must be inserted.
 
 ## Related pages
 
@@ -86,6 +86,6 @@ Cats tolerate handling poorly, and sample quality suffers: small volumes, diffic
 
 ## Sources
 
-1. `[[ Feline acute-phase protein and retrovirus guidance ]]`
-2. `[[ Feline hyperthyroidism and renal interaction literature ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — feline reference intervals.

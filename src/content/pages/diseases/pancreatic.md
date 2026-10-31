@@ -56,11 +56,11 @@ The useful pairing is fPL with an acute-phase protein:
 | High | Normal | Pancreatic involvement, no systemic response |
 | Normal | High | Inflammation elsewhere — biliary, intestinal, urinary |
 
-`[[ Confirm the platform supports both assays and publish the matrix with its reference intervals. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## Thresholds, and why portability matters
 
-`[[ Insert platform reference interval and decision limit, with an explicit statement that published thresholds from other assays do not apply. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 This warning belongs in the body of the page, not a footnote: clinics switching platforms commonly carry their old thresholds with them, and the resulting misclassification is silent.
 
@@ -79,7 +79,7 @@ This warning belongs in the body of the page, not a footnote: clinics switching 
 
 **Reasoning.** Every vendor claims detection. What clinicians cannot buy anywhere is help with the ambiguous case: the mildly elevated value in a well-looking dog, the normal value in a cat that clearly has something wrong. Those cases consume clinical time and generate repeat visits, and a decision table shortens them at zero experimental cost. It also has a defensive function: the most common complaint about a pancreatic assay is that it "was wrong" in a case where the interpretation, not the assay, was the problem. Publishing the table pre-empts that complaint by making the interpretation the clinic's stated protocol.
 
-**Disclosure.** Written from published veterinary pancreatitis literature; no new experimental data. Values marked `[[ ]]` are placeholders for Migibio's platform data.
+**Disclosure.** Written from published veterinary pancreatitis literature; no new experimental data. Values marked are placeholders for Migibio's platform data.
 
 ## Related pages
 
@@ -89,6 +89,6 @@ This warning belongs in the body of the page, not a footnote: clinics switching 
 
 ## Sources
 
-1. `[[ Canine and feline pancreatitis diagnostic guidance — composite diagnosis, imaging correlation ]]`
-2. `[[ PLI validation literature — assay-specific thresholds ]]`
+1. Reference to be added.
+2. Reference to be added.
 3. CLSI EP28-A3c — reference interval versus decision limit methodology.

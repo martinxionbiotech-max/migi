@@ -32,7 +32,7 @@ faq:
 
 The delay is not an abstraction. In a suspect parvovirus case it is a day of ward space and cohort exposure. In a breeding management case it is a cycle. In a dyspnoeic cat it is diuretics started blind. In post-operative monitoring it is a complication identified a day later.
 
-`[[ Provide a worked example using a clinic's own numbers: ward day rate, second-visit cost, and the per-test difference. Do not use a best case that assumes every test changes a decision. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 The honest version of this calculation includes the tests that **would not** have changed anything — because those are the ones that make in-house capacity expensive if the menu is bought indiscriminately.
 
@@ -64,7 +64,7 @@ The useful decision rule is per-test, not per-clinic:
 | Confirms a diagnosis already suspected | Send-out unless timing matters |
 | Uncommon, low volume | Send-out |
 
-`[[ Insert the platform's menu boundary so clinics know which tests cannot be brought in-house. ]]`
+> **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
 ## The comparison nobody publishes
 
@@ -85,10 +85,10 @@ Most vendor comparisons assume every in-house test changes a decision and ignore
 
 **Reasoning.** Clinics that buy a broad in-house menu to "save money" typically discover expiry and underuse within a year, and the resulting disappointment attaches to the platform rather than to the purchasing decision. A vendor that helps the clinic size the menu to its decision load ends up with a customer who uses the instrument daily, renews consumables predictably, and recommends it to peers — because it did what it was bought for. The narrower sale is the durable one, and in a category where trust is the scarce resource, that is the better trade.
 
-**Disclosure.** This page is economic and workflow guidance, not a performance claim. Figures marked `[[ ]]` indicate where platform pricing, menu boundaries and clinic cost models must be inserted.
+**Disclosure.** This page is economic and workflow guidance, not a performance claim. Figures marked indicate where platform pricing, menu boundaries and clinic cost models must be inserted.
 
 ## Sources
 
-1. `[[ Platform pricing and menu coverage data ]]`
-2. `[[ Reference laboratory price lists for comparison, as supplied by the user or market research ]]`
-3. `[[ In-clinic workflow time studies, if available ]]`
+1. Reference to be added.
+2. Reference to be added.
+3. Reference to be added.
