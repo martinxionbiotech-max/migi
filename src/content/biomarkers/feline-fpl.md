@@ -57,6 +57,15 @@ Cats tolerate hospitalisation poorly; a quantitative trend gives a reason to esc
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values and decision limits on other platforms
+
+| Source | Method | Population | Reported value |
+|---|---|---|---|
+| Original Spec fPL reference interval study, *JAVMA* ([10.2460/javma.23.02.0105](https://doi.org/10.2460/javma.23.02.0105)) | Pancreas-specific lipase ELISA | 41 healthy cats | 0.7–3.5 µg/L; decision threshold ≥ 5.4 µg/L |
+| Analytical validation and re-evaluation, *Vet Clin Pathol* 2023 ([10.1111/vcp.13283](https://doi.org/10.1111/vcp.13283)) | Same assay | 107 clinically healthy cats | Upper limit 4.4 µg/L; equivocal 4.5–8.7; ≥ 8.8 µg/L consistent with pancreatitis |
+
+Two published intervals for the same assay, 3.5 and 4.4 µg/L, and two decision thresholds, 5.4 and 8.8 µg/L. A clinician reading only the older figures would classify a substantial number of cats differently.
+
 | Parameter | Value | Basis |
 |---|---|---|
 | Reference interval (adult cats) | Pending µg/L | Pending |
@@ -105,3 +114,6 @@ A cat with high fPL and normal fSAA has pancreatic involvement without a systemi
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval vs decision limit methodology.
 4. ASVCP quality assurance guidelines.
+
+5. Original Spec fPL reference interval and decision threshold. https://doi.org/10.2460/javma.23.02.0105
+6. Analytical validation and re-evaluated reference interval, *Vet Clin Pathol* 2023. https://doi.org/10.1111/vcp.13283

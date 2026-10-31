@@ -58,6 +58,17 @@ A qualitative or category-based readout (normal / borderline / high) collapses b
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values on other platforms
+
+| Source | Method | Population | Reported value |
+|---|---|---|---|
+| *J Vet Intern Med* 2024, older dogs ([10.1111/jvim.16981](https://doi.org/10.1111/jvim.16981)) | LC-MS/MS (gold standard) | Adult dogs | 8.0–14.0 µg/dL |
+| Same study | LC-MS/MS vs ELISA | Older dogs | LC-MS/MS 4.4–15.0 µg/dL; ELISA 6.4–17.4 µg/dL; mean difference 2.2 µg/dL |
+| Same study | ELISA | Reference population | Upper limit 14 µg/dL (the basis of the IRIS staging cut-offs) |
+| Kopke et al., *J Vet Intern Med* 2018 ([PMC5867003](https://pmc.ncbi.nlm.nih.gov/articles/PMC5867003/)) | Commercial immunoassay | 20 healthy adult dogs | Critical difference between sequential results 1.34 µg/dL |
+
+The last row matters more than the intervals: a change smaller than ≈1.3 µg/dL between two visits cannot be distinguished from normal biological and analytical variation, which is why the monitoring argument on this page does not depend on the exact upper limit.
+
 | Population | Interval | n | Method |
 |---|---|---|---|
 | Adult dogs | Pending µg/dL | Pending | Pending |
@@ -110,5 +121,8 @@ The error to avoid is treating SDMA as an earlier, better creatinine that can re
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
 4. ASVCP guidelines — reference interval and quality goal practice in veterinary clinical pathology.
+
+5. *J Vet Intern Med* 2024 — SDMA in older dogs: reference interval and method comparison. https://doi.org/10.1111/jvim.16981
+6. Kopke MA, et al. Variability of symmetric dimethylarginine in apparently healthy dogs. *J Vet Intern Med* 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5867003/
 
 ---

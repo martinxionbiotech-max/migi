@@ -54,6 +54,16 @@ The third row is underrated. Quantitative values let a clinician notice discorda
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values on other platforms
+
+| Source | Method | Population | Reported value |
+|---|---|---|---|
+| *Am J Vet Res* 2024 ([10.2460/ajvr.24.03.0067](https://doi.org/10.2460/ajvr.24.03.0067)) | Automated turbidimetric, two antibody formats | 52 healthy cats | VET-SAA 0–4.0 mg/L; LZ-SAA 0 mg/L (below detection) |
+| Tamamoto et al., *J Vet Diagn Invest* 2013 ([10.1177/1040638713486112](https://doi.org/10.1177/1040638713486112)) | Human SAA turbidimetric immunoassay | Reference population from prior study | ≤ 0.82 mg/L |
+| *J Feline Med Surg* 2026, acute pyelonephritis cohort ([10.1177/1098612X261451465](https://doi.org/10.1177/1098612X261451465)) | Point-of-care SAA | 10 healthy cats | Median 1.85 mg/L (range 1–2.7) |
+
+Two intervals for the same analyte, one at 0–4.0 mg/L and one at ≤ 0.82 mg/L, differing by roughly fivefold. That gap is method and antibody format, not biology — and it is why a feline-specific antibody and a feline reference interval are both required.
+
 | Population | Interval | n | Method |
 |---|---|---|---|
 | Adult cats | Pending mg/L | Pending | Pending |
@@ -103,3 +113,6 @@ The third row is underrated. Quantitative values let a clinician notice discorda
 2. CLSI EP28-A3c — reference interval methodology.
 3. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2 — platform-dependent bias and same-analyzer follow-up principle, transferable to the monitoring argument.
 4. ASVCP quality assurance guidelines.
+
+5. *Am J Vet Res* 2024 — polyclonal vs monoclonal SAA assays in cats. https://doi.org/10.2460/ajvr.24.03.0067
+6. Tamamoto T, et al. Serum amyloid A as a prognostic marker in cats. *J Vet Diagn Invest* 2013. https://doi.org/10.1177/1040638713486112

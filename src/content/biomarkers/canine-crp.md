@@ -85,6 +85,19 @@ Absolute values should be read against the interval above, not against numbers f
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values on other platforms
+
+The values below come from published studies on **other** assays. They are listed to show how much the interval moves with the platform — not as a substitute for the interval above.
+
+| Source | Method | Population | Reported value |
+|---|---|---|---|
+| Hillström et al., *BMC Vet Res* 2018 ([PMC5859731](https://pmc.ncbi.nlm.nih.gov/articles/PMC5859731/)) | Fluorescence POCT (Point Strip / Point Reader V) | 60 healthy adult dogs | ≤ 11.9 mg/L; 54/60 dogs below 5 mg/L, so a formal interval was not computable |
+| Same study, comparator | Gentian canine CRP turbidimetric immunoassay | Healthy dogs | < 10 mg/L |
+| Same study, comparator | TriDelta sandwich ELISA | Healthy dogs | 0.1–7.6 mg/L |
+| Review of canine CRP as a marker ([PMC9598812](https://pmc.ncbi.nlm.nih.gov/articles/PMC9598812)) | Multiple methods | Healthy dogs | Upper limits reported between ≈5 and ≈20 µg/mL across studies |
+
+The spread — roughly a factor of four between the lowest ELISA and the highest POCT cut-off — is the reason this page argues that an interval must be established on the platform in use.
+
 ---
 
 ## The framework most clinics get wrong: baseline + delta
@@ -158,5 +171,8 @@ Interference is not a theoretical footnote for an acute-phase protein: hemolysis
 1. Canine CRP physiology and acute-phase behaviour
 2. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* (2018). https://doi.org/10.1186/s12917-018-1415-2 — source for platform-dependent bias (10–30% range reported across POCT evaluations), reference interval methodology (n = 60 healthy dogs), and the same-analyzer follow-up recommendation.
 3. CLSI EP28-A3c — Defining, establishing, and verifying reference intervals in the clinical laboratory (methodology standard).
+
+4. Hillström A, et al. Evaluation of a novel quantitative canine species-specific point-of-care assay for C-reactive protein. *BMC Veterinary Research* 2018. https://doi.org/10.1186/s12917-018-1415-2
+5. Review: C-reactive protein as a diagnostic marker in dogs. https://pmc.ncbi.nlm.nih.gov/articles/PMC9598812
 
 ---

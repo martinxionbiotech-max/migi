@@ -52,6 +52,16 @@ The last row matters more than it first appears. When cPL and ultrasound disagre
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Published reference values and decision limits on other platforms
+
+| Source | Method | Population / use | Reported value |
+|---|---|---|---|
+| IDEXX Spec cPL, as used in published studies ([PMC8120087](https://pmc.ncbi.nlm.nih.gov/articles/PMC8120087/)) | Pancreas-specific lipase ELISA | Healthy dogs | Reference interval < 200 µg/L |
+| Same assay | As above | Suspected pancreatitis | ≥ 400 µg/L taken as consistent with pancreatitis |
+| *Front Vet Sci* 2025, point-of-care cPL evaluation ([10.3389/fvets.2025.1421103](https://doi.org/10.3389/fvets.2025.1421103)) | Quantitative point-of-care cPL | Dogs with suspected acute pancreatitis | Median 843 µg/L (range 77–2001) |
+
+Note that these thresholds are assay-specific and, in the published literature, belong to one commercial ELISA. Importing them onto a different immunoassay is the error this page warns about.
+
 | Parameter | Value | Basis |
 |---|---|---|
 | Reference interval (adult dogs) | Pending µg/L | Pending |
@@ -111,3 +121,6 @@ Serial cPL is useful, but slower than acute-phase proteins: values can remain el
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval versus decision limit methodology.
 4. ASVCP quality assurance guidelines.
+
+5. Spec cPL reference interval as applied in published studies. https://pmc.ncbi.nlm.nih.gov/articles/PMC8120087/
+6. *Front Vet Sci* 2025 — quantitative point-of-care serum cPL assessment. https://doi.org/10.3389/fvets.2025.1421103
