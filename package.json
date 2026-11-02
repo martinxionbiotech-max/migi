@@ -7,7 +7,8 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/dedupe-css.mjs",
+    "images": "node scripts/optimize-images.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },

@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import OptImage from '../../components/OptImage.astro';
 import { PRICE_RANGES, formatRange } from '../../data/pricing';
 
 export async function getStaticPaths() {
@@ -112,7 +113,7 @@ const productSchema = {
       <div>
         {image && (
           <div class="overflow-hidden rounded-xl border border-gray-200 bg-white">
-            <img src={image} alt={title} class="w-full object-contain p-6" />
+            <OptImage src={image} alt={title} class="w-full object-contain p-6" sizes="(max-width: 1024px) 100vw, 720px" priority />
           </div>
         )}
       </div>

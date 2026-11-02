@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import OptImage from '../../components/OptImage.astro';
 
 const products = await getCollection('products');
 const reagents = products
@@ -66,7 +67,7 @@ const schema = {
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
               <div class="aspect-square overflow-hidden bg-gray-100">
                 {p.data.image ? (
-                  <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+                  <OptImage src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 360px" />
                 ) : (
                   <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🧪</span></div>
                 )}
@@ -93,7 +94,7 @@ const schema = {
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
               <div class="aspect-square overflow-hidden bg-gray-100">
                 {p.data.image ? (
-                  <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+                  <OptImage src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 360px" />
                 ) : (
                   <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🧪</span></div>
                 )}
@@ -120,7 +121,7 @@ const schema = {
             <a href={`/reagents/${p.data.slug}`} class="group overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm transition-shadow hover:shadow-md">
               <div class="aspect-square overflow-hidden bg-gray-100">
                 {p.data.image ? (
-                  <img src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" loading="lazy" />
+                  <OptImage src={p.data.image} alt={p.data.title} class="h-full w-full object-contain p-4 transition-transform group-hover:scale-105" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 360px" />
                 ) : (
                   <div class="flex h-full w-full items-center justify-center bg-brand-50"><span class="text-5xl text-brand-300">🧪</span></div>
                 )}

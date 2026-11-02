@@ -1,0 +1,60 @@
+---
+/**
+ * Responsive <picture> for content images.
+ *
+ * Serves AVIF then WebP from /images/opt/, falls back to the original PNG, and
+ * always emits intrinsic width/height so the browser reserves space before the
+ * image arrives (no layout shift, and the LCP candidate is not held back by
+ * layout recalculation).
+ *
+ * `priority` marks the above-the-fold hero: eager + fetchpriority=high. Everything
+ * else stays lazy.
+ *
+ * Variants and intrinsic dimensions come from src/data/image-manifest.json, which
+ * scripts/optimize-images.mjs regenerates.
+ */
+import manifest from "../data/image-manifest.json";
+
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  sizes?: string;
+  priority?: boolean;
+  loading?: "lazy" | "eager";
+}
+
+const { src, alt, class: cls = "", sizes = "100vw", priority = false, loading } = Astro.props;
+
+const fileName = src.split("/").pop() ?? "";
+const meta = (manifest as Record<string, { width: number; height: number; widths: number[] }>)[fileName];
+const name = fileName.replace(/\.(png|jpe?g)$/i, "");
+const widths = meta?.widths ?? [];
+
+const srcset = (ext: string) =>
+  widths.map((w) => `/images/opt/${name}-${w}.${ext} ${w}w`).join(", ");
+
+const loadingAttr = loading ?? (priority ? "eager" : "lazy");
+const imgAttrs = {
+  src,
+  alt,
+  class: cls,
+  width: meta?.width ?? undefined,
+  height: meta?.height ?? undefined,
+  loading: loadingAttr,
+  decoding: "async",
+  ...(priority ? { fetchpriority: "high" } : {}),
+};
+---
+
+{
+  widths.length > 0 ? (
+    <picture>
+      <source type="image/avif" srcset={srcset("avif")} sizes={sizes} />
+      <source type="image/webp" srcset={srcset("webp")} sizes={sizes} />
+      <img {...imgAttrs} />
+    </picture>
+  ) : (
+    <img {...imgAttrs} />
+  )
+}

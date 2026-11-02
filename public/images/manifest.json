@@ -1,0 +1,419 @@
+{
+  "FIA680-detail-1.png": {
+    "width": 2198,
+    "height": 1712,
+    "bytes": 248476,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "FIA680-detail-2.png": {
+    "width": 2397,
+    "height": 1679,
+    "bytes": 300849,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "FIA680.png": {
+    "width": 2374,
+    "height": 1530,
+    "bytes": 1013412,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "FIA880-detail-1.png": {
+    "width": 2445,
+    "height": 1939,
+    "bytes": 373784,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "FIA880-detail-2.png": {
+    "width": 2274,
+    "height": 1615,
+    "bytes": 297344,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "FIA880.png": {
+    "width": 1786,
+    "height": 1567,
+    "bytes": 1390129,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "default-og.png": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 3633,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "favicon.png": {
+    "width": 25,
+    "height": 25,
+    "bytes": 3662,
+    "widths": [
+      25
+    ]
+  },
+  "migi-cat-feline-calicivirus-antigen-fcv-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 232740,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-coronavirus-antigen-fcov-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 254856,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-cystatin-c-fcys-c-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-fpv-fhv-fcv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 254856,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-herpes-virus-antibody-fhv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 254856,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-herpes-virus-antigen-fhv-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-immunodeficiency-virus-antibody-fiv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 232740,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-leukemia-virus-antigen-felv-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-n-terminal-pro-brain-natriuretic-peptide-fnt-probnp-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-pancreatic-lipase-fpl-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 232740,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-panleukopenia-virus-antibody-fpv-ab-rapid-quantitative-test.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-panleukopenia-virus-antigen-fpv-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 232740,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-feline-total-thyroxine-ftt4-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-cat-fsaa-feline-serum-amyloid-a-rapid-quantitative-test.png": {
+    "width": 1560,
+    "height": 707,
+    "bytes": 75105,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-adenovirus-antibody-cav-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-c-reactive-protein-ccrp-rapid-quantitative-test.png": {
+    "width": 1560,
+    "height": 694,
+    "bytes": 23312,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-coronavirus-antigen-ccv-ag-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 290820,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-cortisol-ccortisol-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 290820,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-cystatin-c-ccys-c-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-distemper-virus-antibody-cdv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-leishmania-antibody-clsh-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-n-terminal-pro-brain-natriuretic-peptide-cnt-probnp-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-pancreatic-lipase-cpl-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-parvovirus-antibody-cpv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-relaxin-crelaxin-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-thyroid-stimulating-hormone-ctsh-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-total-thyroxine-ctt4-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-canine-toxoplasma-gondii-antibody-ctoxo-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-cdv-agcanine-distemper-virus-antigen-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-cdv-cpv-cav-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 306807,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migi-dog-cpv-ag-canine-parvovirus-antigen-rapid-quantitative-test.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 246782,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "migibio-cat-feline-calicivirus-antibody-fcv-ab-rapid-quantitative-test-kit.png": {
+    "width": 1299,
+    "height": 974,
+    "bytes": 226148,
+    "widths": [
+      400,
+      800,
+      1200
+    ]
+  },
+  "sdma-stage-chronic-kidney-disease-kit.png": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 211530,
+    "widths": [
+      400,
+      800
+    ]
+  }
+}
