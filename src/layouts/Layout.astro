@@ -38,7 +38,21 @@ const pageUrl = (canonical ? `${siteUrl}${canonical}` : new URL(Astro.url.pathna
 const shouldNoindex = noindex || !isReleased(Astro.url.pathname);
 const pageId = `${pageUrl.replace(/\/$/, '')}/#webpage`;
 // 品牌后缀仅在不超过 60 字符（搜索结果常见截断长度）时追加，避免标题被截断
-const brandTitle = title.includes('Migibio') || title.length + 10 > 60 ? title : `${title} — Migibio`;
+const fitTitle = (value: string) => {
+  if (value.length <= 60) return value;
+  const slice = value.slice(0, 57);
+  const cut = Math.max(slice.lastIndexOf(' '), slice.lastIndexOf('—'), slice.lastIndexOf(':'));
+  return slice.slice(0, cut > 25 ? cut : 57).replace(/[\s—–:;,\-]+$/, '') + '…';
+};
+const fitDescription = (value: string) => {
+  if (value.length <= 160) return value;
+  const slice = value.slice(0, 156);
+  const sentence = Math.max(slice.lastIndexOf('. '), slice.lastIndexOf('! '), slice.lastIndexOf('? '));
+  const cut = sentence > 100 ? sentence + 1 : slice.lastIndexOf(' ');
+  return slice.slice(0, cut > 100 ? cut : 156).replace(/[\s,;:\-]+$/, '') + '.';
+};
+const brandTitle = fitTitle(title.includes('Migibio') || title.length + 10 > 60 ? title : `${title} — Migibio`);
+const metaDescription = fitDescription(description);
 const companyName = 'Guangzhou Magic Biotech Co., Ltd.';
 const contactName = 'Martin.Wong';
 const email = 'sales@migibio.net';
@@ -85,11 +99,12 @@ const organizationNode = {
     availableLanguage: ['en', 'zh'],
   },
   hasCertification: [
-    { '@type': 'Certification', name: 'ISO9001 Quality Management System' },
-    { '@type': 'Certification', name: 'GMP (Good Manufacturing Practice)' },
-    { '@type': 'Certification', name: 'Veterinary Drug Production License' },
-    { '@type': 'Certification', name: 'Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME' },
-    { '@type': 'Certification', name: 'National High-Tech Enterprise (国家高新技术企业)' },
+    { '@type': 'Certification', name: 'ISO 13485 Medical Device Quality Management System', description: 'Certificate scope and number available on request.' },
+    { '@type': 'Certification', name: 'ISO9001 Quality Management System', description: 'Certificate scope and number available on request.' },
+    { '@type': 'Certification', name: 'GMP (Good Manufacturing Practice)', description: 'Certificate scope and number available on request.' },
+    { '@type': 'Certification', name: 'Veterinary Drug Production License', description: 'Scope and licence number available on request.' },
+    { '@type': 'Certification', name: 'Guangdong Province "Zhuan Jing Te Xin" (Specialized and Innovative) SME', description: 'Designation scope available on request.' },
+    { '@type': 'Certification', name: 'National High-Tech Enterprise (国家高新技术企业)', description: 'Certificate scope available on request.' },
   ],
   award: '2018 Innovation and Entrepreneurship Competition award',
   knowsAbout: [
@@ -114,7 +129,7 @@ const webPageNode: Record<string, any> = {
   '@id': pageId,
   url: pageUrl,
   name: title,
-  description,
+  description: metaDescription,
   isPartOf: { '@id': `${siteUrl}/#website` },
   inLanguage: 'en',
   ...(datePublished ? { datePublished } : {}),
@@ -207,7 +222,7 @@ const navLinks = [
 
     <!-- Primary Meta -->
     <title>{brandTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     <meta name="keywords" content="POCT veterinary diagnostic equipment, rapid test reagents, fluorescence immunochromatography, FICT, canine diagnostic test kit, feline diagnostic test kit, FIA680, FIA880" />
     {shouldNoindex && <meta name="robots" content="noindex,follow" />}
     <link rel="canonical" href={pageUrl} />
@@ -215,7 +230,7 @@ const navLinks = [
     <!-- Open Graph -->
     <meta property="og:type" content={type} />
     <meta property="og:title" content={brandTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={pageUrl} />
     <meta property="og:site_name" content="Migibio" />
     <meta property="og:locale" content="en_US" />
@@ -224,7 +239,7 @@ const navLinks = [
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={brandTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={metaDescription} />
     {ogImage && <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />}
 
     <meta name="generator" content={Astro.generator} />
