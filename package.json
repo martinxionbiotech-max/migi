@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/dedupe-css.mjs",
+    "build": "astro build && node scripts/dedupe-css.mjs && node scripts/generate-markdown.mjs",
     "images": "node scripts/optimize-images.mjs",
     "preview": "astro preview",
     "astro": "astro"
@@ -18,5 +18,8 @@
     "@tailwindcss/typography": "^0.5.20",
     "astro": "^5.5.0",
     "tailwindcss": "^3.4.19"
+  },
+  "devDependencies": {
+    "node-html-markdown": "^2.0.0"
   }
 }
