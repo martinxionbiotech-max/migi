@@ -32,3 +32,10 @@ Migibio continues to invest in next-generation diagnostic platforms and an expan
 
 - **Vision:** More sensitive, more efficient!
 - **Spirit:** Focus, Innovation, Win-win!
+
+
+## What the milestones mean for buyers
+
+The 2017 founding, the 2020 production workshop and the 2021–2022 certification milestones are useful context, but they are not a substitute for current documents. A buyer should ask for the certificate scope and validity date, the production site named on the certificate and a recent batch record for the model being purchased.
+
+The later export and FIA880 milestones describe the direction of the business, not a guarantee of local registration. Market access, labelling and import documentation still depend on the destination country and the product; confirm those requirements before placing a first order.

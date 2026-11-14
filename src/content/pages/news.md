@@ -40,3 +40,9 @@ Our blog covers the science and practice of veterinary diagnostics:
 - [Veterinary Laboratory Quality Control: A Complete Guide](/blog/veterinary-laboratory-quality-control)
 
 For the latest articles, visit our [Blog](/blog).
+
+## How this page is maintained
+
+News items are published when there is a verifiable company or product update: a new analyzer, a certification milestone, an exhibition or a change to the published technical documentation. We do not publish a dated item solely to keep a feed active.
+
+If a dated item is corrected, the page is updated and the correction is visible rather than silently removed. Product claims should be checked against the current IFU and certificate scope; a news item is context, not a substitute for the controlled document.

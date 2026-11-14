@@ -26,3 +26,10 @@ All articles authored by Dr. Tang are written to support evidence-based veterina
 ## Contact the Author
 
 For technical questions about Migibio diagnostics, contact our [support team](/support) or email sales@migibio.net.
+
+
+## Review and disclosure
+
+Dr. Tang's role as founder and legal representative of Migibio is disclosed on every article and on this page. Technical statements are checked against the product IFU, the test methods and the published literature cited in the relevant article; commercial claims are kept separate from clinical interpretation.
+
+Corrections can be sent to the support team with the page URL and the source you are comparing. A correction that changes a clinical statement or a product limit is dated and reviewed before it is published again. The author page is not a substitute for a formal medical or regulatory opinion, and it does not imply that every product is registered in every market.

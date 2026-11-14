@@ -34,3 +34,10 @@ Migibio products are distributed in **30+ countries and regions**, including the
 ## Getting Here
 
 Guangzhou Science City is located in the Huangpu District, approximately 30 minutes by road from Guangzhou Baiyun International Airport and well-connected to Guangzhou East Railway Station. The Najin Technology Industrial Park is accessible by Metro Line 6 (Science City area) and the major highways linking the city's industrial zones.
+
+
+## Visiting and sample shipments
+
+Visits are arranged in advance so that the relevant technical and quality staff are available. If you plan to send samples for evaluation, contact us first and confirm the receiving address, the sample type, the required documentation and the courier route; diagnostic samples and industrial materials do not follow the same import process.
+
+For distributors, the same contact can coordinate a factory tour, a product demonstration and a document review in one visit. Tell us the models and the market you are preparing for, and we will confirm what can be shown and which certificates can be discussed on site.

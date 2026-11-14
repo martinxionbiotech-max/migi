@@ -33,3 +33,9 @@ Every Migibio product is manufactured under ISO9001 and GMP-certified processes.
 
 - **Vision:** More sensitive, more efficient!
 - **Spirit:** Focus, Innovation, Win-win!
+
+## How to verify the identity behind the brand
+
+Migibio is a brand of Guangzhou Magic Biotech Co., Ltd. For supplier qualification, ask for the business licence, the certificate scope and a recent batch record together, and check that the legal name and address match the quotation and the shipping documents. The brand name alone is not a legal entity.
+
+Where a distributor or marketplace uses the Migibio name, confirm that the seller is authorised for the territory and the product. A certificate or logo without a legal entity, scope and validity date is not enough to establish the manufacturer relationship.
