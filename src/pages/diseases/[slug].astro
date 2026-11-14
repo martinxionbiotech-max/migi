@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { title, species, clinicalContext, biomarkers, relatedProducts, relatedBlogs, source, date, confidence, faq } = entry.data;
+const { Content } = await render(entry);
+const hasBody = Boolean(entry.body?.trim());
 
 const biomarkerEntries = await getCollection('biomarkers');
 const products = await getCollection('products');
@@ -119,6 +121,15 @@ const pageSchema = {
         Interpretation should combine the quantitative result with the patient's signalment, history, clinical signs, vaccination or treatment history where relevant, and any other laboratory findings. A single value is rarely diagnostic on its own; serial measurements often provide more useful information.
       </p>
     </section>
+
+    {hasBody && (
+      <section class="mb-10">
+        <h2 class="text-xl font-bold text-gray-900">Clinical decision notes</h2>
+        <div class="prose prose-gray mt-3 max-w-none">
+          <Content />
+        </div>
+      </section>
+    )}
 
     {relatedBiomarkerEntries.length > 0 && (
       <section class="mb-10">

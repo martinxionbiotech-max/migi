@@ -17,3 +17,11 @@ faq:
   - q: "Does NT-proBNP replace an echocardiogram?"
     a: "No. NT-proBNP tells you the heart is under stress; an echocardiogram tells you why. They are complementary — NT-proBNP screens and triages, echo characterizes."
 ---
+
+## What changes the decision in cats
+
+In cats, hypertrophic cardiomyopathy is the common structural disease behind dyspnoea, a gallop or an unexpected thromboembolic event. Cats hide cardiac disease well; a normal resting examination does not exclude it, and a murmur may be absent.
+
+NT-proBNP is most useful in the dyspnoeic cat when the clinician needs to separate cardiac from respiratory causes before imaging. A high result supports cardiac investigation; a low result makes primary respiratory disease more likely. The test does not distinguish hypertrophic cardiomyopathy from other cardiomyopathies and does not measure outflow obstruction.
+
+Echocardiography is required to characterise wall thickness, atrial size and dynamic obstruction. In a cat with hyperthyroidism or systemic hypertension, treat and reassess those conditions as well: both can alter the cardiac picture. Use NT-proBNP as a triage aid, not as a standalone diagnosis.

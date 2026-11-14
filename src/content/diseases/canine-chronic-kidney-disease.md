@@ -17,3 +17,11 @@ faq:
   - q: "When should SDMA be measured?"
     a: "SDMA should be part of routine senior health screening, before anaesthesia or nephrotoxic drug use, and whenever kidney disease is suspected. Serial SDMA measurements also support IRIS staging and monitoring of disease progression."
 ---
+
+## What changes the decision in dogs
+
+Canine CKD is staged with creatinine and SDMA together, not with a single value. SDMA rises earlier in many dogs and is less dependent on muscle mass, which matters in cachectic or senior patients. A single elevated SDMA still needs confirmation and a search for a prerenal cause.
+
+The practical work-up includes urine specific gravity, proteinuria (UPC), blood pressure and a review of drugs and hydration. A dog with a normal creatinine but a persistent rise in SDMA is a different patient from one with a stable, mildly raised creatinine and no proteinuria.
+
+Serial trends are more useful than one result. Record weight, muscle condition, hydration and the assay used. If the dog is dehydrated or receiving a nephrotoxic drug, repeat after correction before assigning an IRIS stage.
