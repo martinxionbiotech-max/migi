@@ -198,3 +198,9 @@ Inspect packaging and labels before use. Do not use if the pouch is damaged, imp
 Do not use the test device beyond its expiration date.
 Use one pipette tip per specimen to prevent cross-contamination.
 Technical or procedural errors and unlisted substances in blood may affect test results and lead to inaccuracies.
+
+## Progesterone is a timing test, not a pregnancy test
+
+In breeding management, progesterone is used to identify the luteal phase and to time insemination. A single value is rarely enough: the useful information is the trend across serial samples, interpreted against the laboratory method and the queen or bitch's cycle. Do not use progesterone to confirm pregnancy.
+
+Relaxin answers a different question. It is produced by the placenta and is used as a pregnancy marker; it does not time ovulation. The two tests are not interchangeable, and a progesterone result should not be reported as evidence of conception.

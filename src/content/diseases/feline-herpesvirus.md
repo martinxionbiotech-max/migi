@@ -17,3 +17,9 @@ faq:
   - q: "Why distinguish FCV from FHV-1?"
     a: "Although the clinical signs overlap, management differs — FHV-1 patients may benefit from antiviral therapy, while FCV is managed supportively with strict hygiene due to its environmental hardiness. Accurate identification guides treatment and infection control."
 ---
+
+## FHV is not FCV
+
+Feline herpesvirus type 1 causes acute upper respiratory disease and ocular signs, and it establishes latency in the trigeminal ganglion. Reactivation can produce recurrent sneezing or keratitis without a new exposure. This is different from calicivirus, which is more often associated with oral ulcers and chronic gingivostomatitis.
+
+PCR can support the diagnosis during an active episode, but a positive result does not prove that every current sign is due to FHV, and a negative result does not exclude latency. Evaluate the sample site, timing and clinical pattern; do not use a calicivirus result as a substitute for herpesvirus testing.

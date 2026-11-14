@@ -17,3 +17,9 @@ faq:
   - q: "Why distinguish FCV from FHV-1?"
     a: "Although the clinical signs overlap, management differs — FHV-1 patients may benefit from antiviral therapy, while FCV is managed supportively with strict hygiene due to its environmental hardiness. Accurate identification guides treatment and infection control."
 ---
+
+## FCV is not FHV
+
+Feline calicivirus is a common cause of oral ulcers, chronic gingivostomatitis and upper respiratory signs. It is not the same virus as feline herpesvirus, although both can cause sneezing and ocular discharge. FCV has a high degree of strain variation, and a vaccine does not prevent every infection.
+
+Diagnosis is usually clinical, supported by PCR or virus isolation where the distinction matters. A positive FCV result does not explain every chronic oral lesion, and a negative result does not exclude the virus. FCV carriers can shed intermittently, so the test should be interpreted with the timing of signs and the sample site.

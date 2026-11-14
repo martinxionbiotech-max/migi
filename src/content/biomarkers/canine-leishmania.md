@@ -22,3 +22,9 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## What the antibody result changes
+
+Canine leishmaniasis is a sandfly-borne disease with a long incubation period. Antibody testing is most useful in a dog with compatible signs — weight loss, lymphadenopathy, skin lesions, renal disease — or with a history of travel to an endemic region. A positive antibody result shows exposure and supports clinical assessment; it does not by itself prove active disease.
+
+Antibody and antigen tests answer different questions. A vaccinated dog may carry vaccine-related antibody, and a recently infected dog may be antibody-negative. Where confirmation matters, combine serology with cytology, PCR or histopathology on an appropriate tissue. Monitoring antibody levels can support follow-up, but the trend must be read with clinical response and renal values.

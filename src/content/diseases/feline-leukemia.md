@@ -17,3 +17,9 @@ faq:
   - q: "When should cats be tested for FeLV and FIV?"
     a: "Testing is recommended for new cats entering a household, sick cats with unexplained illness, cats with bite wounds or outdoor access, and before vaccination. Retrovirus screening is a standard part of preventive feline care."
 ---
+
+## FeLV is not FIV
+
+Feline leukemia virus is a retrovirus spread mainly through close contact. Antigen testing detects viral antigen and supports the diagnosis of infection; it is not an antibody test and does not measure vaccination response. A positive result should be confirmed, especially in a low-risk cat, because false positives occur.
+
+FeLV is associated with anaemia, lymphoma, immunosuppression and reproductive disease. FIV, by contrast, is a lentivirus associated with immune dysfunction and chronic infections; the two require different tests. A cat can be tested for both, but one result should not be used as a proxy for the other.

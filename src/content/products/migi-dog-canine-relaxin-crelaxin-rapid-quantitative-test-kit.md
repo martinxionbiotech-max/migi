@@ -173,3 +173,9 @@ Inspect packaging and labels before use. Do not use if the pouch is damaged, imp
 Do not use the test device beyond its expiration date.
 Use one pipette tip per specimen to prevent cross-contamination.
 Technical or procedural errors and unlisted substances in blood may affect test results and lead to inaccuracies.
+
+## Relaxin is a pregnancy marker, not an ovulation timer
+
+Relaxin is produced by the placenta, so it can support pregnancy diagnosis after implantation. It does not tell you when ovulation occurred and it is not a substitute for progesterone timing. The test should be interpreted with the date of breeding, the stage of the cycle and the kit's validated window.
+
+Progesterone and relaxin answer different clinical questions. Use progesterone serial measurements to plan insemination; use relaxin when the question is whether a pregnancy has been established. A negative relaxin result does not by itself rule out pregnancy at every stage, and a positive result does not confirm a viable fetus.

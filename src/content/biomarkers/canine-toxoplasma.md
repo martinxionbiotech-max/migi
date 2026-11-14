@@ -22,3 +22,9 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## What the antibody result changes
+
+Toxoplasma gondii is a protozoan parasite; infection in dogs is often subclinical and exposure is not the same as active disease. Antibody testing is most useful when a dog has compatible neurological, respiratory, ocular or systemic signs and the clinician is building a differential that includes toxoplasmosis.
+
+A positive antibody result indicates exposure. It does not distinguish recent from distant infection, and it does not prove that the parasite is causing the current illness. A negative result is more useful for lowering the probability in an untreated dog. Confirm active disease with appropriate PCR, cytology or histopathology, and interpret the result alongside clinical signs and other laboratory findings.

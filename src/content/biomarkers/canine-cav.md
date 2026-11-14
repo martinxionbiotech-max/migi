@@ -22,3 +22,9 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## What the CAV antibody result changes
+
+Canine adenovirus type 1 causes infectious canine hepatitis; type 2 is associated with respiratory disease and is used in some vaccines. An antibody result is primarily a measure of immune exposure or vaccine response, not a direct measure of active infection.
+
+Use CAV antibody testing when the question is whether a dog has detectable immunity after vaccination or natural exposure. A positive result does not prove protective immunity for every challenge, and a negative result does not always mean susceptibility. If active adenovirus disease is suspected, use an antigen or PCR test appropriate to the sample and clinical syndrome.
