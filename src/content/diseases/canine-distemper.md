@@ -17,3 +17,9 @@ faq:
   - q: "Why is quantitative CDV testing valuable?"
     a: "Quantitative fluorescence testing reports viral antigen concentration rather than a simple positive/negative, helping clinicians assess viral load, monitor disease progression, and evaluate treatment response."
 ---
+
+## Antigen, antibody and the neurological stage
+
+CDV antigen testing is most likely to be positive during active infection with compatible systemic signs. In the neurological stage, antigen may be undetectable in blood or swabs, so a negative result does not exclude distemper. Antibody testing is used for immune status, not as a substitute for antigen detection in an acutely ill dog.
+
+Vaccination history changes the interpretation. A recently vaccinated dog may have antibody without active infection, while an unvaccinated puppy with compatible signs needs urgent isolation and supportive care. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

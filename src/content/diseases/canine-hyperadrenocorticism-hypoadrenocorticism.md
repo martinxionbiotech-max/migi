@@ -19,3 +19,9 @@ faq:
   - q: "What sample is used for quantitative cortisol testing?"
     a: "The quantitative cortisol test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---
+
+## Why a resting cortisol is only a screen
+
+Cortisol is pulsatile and rises with stress, so a single resting value cannot confirm Cushing's syndrome. The diagnosis depends on a dynamic test and a compatible clinical picture; a normal resting cortisol does not exclude every case. For Addison's disease, a low basal cortisol is a prompt for confirmatory ACTH stimulation, not a diagnosis by itself.
+
+Interpret the result with electrolytes, hydration, blood pressure and the patient's medication history. A dog with a severe illness or recent steroid exposure needs a different interpretation from a stable outpatient. Further background: [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system) and [eClinPath](https://eclinpath.com/).

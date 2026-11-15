@@ -17,3 +17,9 @@ faq:
   - q: "How should a CPV sample be collected?"
     a: "A rectal swab is inserted into the rectum and rotated gently to collect faecal material. The sample is mixed into buffer and applied to the test device. Quantitative tests read the result on an immunofluorescence analyzer within minutes."
 ---
+
+## Test timing, vaccination and co-infection
+
+CPV antigen is most useful during active faecal shedding. A negative result very early or late in the course does not exclude parvovirus, and recent modified-live vaccination can complicate antigen interpretation in some assays. Repeat with a fresh sample when the clinical suspicion remains high.
+
+Test for common co-pathogens where the picture is severe, and do not use a positive CPV result to stop looking for another cause of the diarrhoea. Isolation and supportive care should start on clinical suspicion, not wait for the laboratory. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

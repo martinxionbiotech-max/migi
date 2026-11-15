@@ -17,3 +17,9 @@ faq:
   - q: "How is FCoV detected?"
     a: "FCoV is detected by antigen testing on rectal/fecal swabs, since the virus is shed in faeces. Quantitative testing measures viral load, which can help monitor shedding and support management in multi-cat environments."
 ---
+
+## FCoV shedding is not FIP
+
+A positive FCoV antigen result shows that the cat is shedding coronavirus; it does not show that the virus has mutated into FIP. Most infected cats remain healthy, and a negative faecal result can occur with intermittent shedding. The diagnosis of FIP is clinical and usually requires effusion analysis, imaging, laboratory findings and, where appropriate, tissue confirmation.
+
+Do not treat a positive FCoV result as a diagnosis of FIP, and do not use it to predict the outcome for an individual cat. In multi-cat environments, the result is most useful for understanding shedding and hygiene, not for labelling a cat as having FIP. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

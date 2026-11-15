@@ -17,3 +17,9 @@ faq:
   - q: "When should T4 be measured in a dog on levothyroxine?"
     a: "Total T4 peaks a few hours after levothyroxine dosing, so sample consistently — commonly 4–6 hours post-pill — about 4–6 weeks after starting or changing the dose. Consistent timing makes serial values comparable for dose titration."
 ---
+
+## How to avoid a false diagnosis
+
+A low total T4 is not enough. Non-thyroidal illness, glucocorticoids, phenobarbital and other drugs can suppress T4 in a euthyroid dog, and a single borderline result can prompt unnecessary lifelong treatment. Repeat the panel when the dog is stable, and interpret TSH with T4 rather than using either alone.
+
+If the dog is already on levothyroxine, keep the sampling time consistent. A post-pill T4 measured at a different interval is not comparable with the previous value. Further background: [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system) and [eClinPath](https://eclinpath.com/).
