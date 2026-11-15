@@ -20,11 +20,11 @@ faq:
 
 ## What changes the decision in cats
 
-Feline CKD is common in older cats and is often found before clinical signs appear. Creatinine and SDMA should be read together with urine specific gravity, proteinuria, blood pressure and body weight. A cat with poor muscle condition can have a misleadingly low creatinine.
+Feline CKD is common in older cats and is often found before clinical signs appear. Creatinine and SDMA should be read together with urine specific gravity, proteinuria, blood pressure and body weight ([IRIS — International Renal Interest Society](https://www.iris-kidney.com/)). A cat with poor muscle condition can have a misleadingly low creatinine.
 
-Hyperthyroidism and hypertension are common companions in the same patient. Treat and monitor them alongside renal values; a rising creatinine after thyroid treatment may reflect unmasking of CKD rather than a new renal insult.
+Hyperthyroidism and hypertension are common companions in the same patient ([eClinPath — Clinical pathology reference](https://eclinpath.com/)). Treat and monitor them alongside renal values; a rising creatinine after thyroid treatment may reflect unmasking of CKD rather than a new renal insult.
 
-Serial monitoring is the core of feline CKD care: weight, muscle condition, hydration, creatinine, SDMA, UPC and blood pressure. A single SDMA result should not be used to stage a cat without confirmation and a review of prerenal factors.
+Serial monitoring is the core of feline CKD care: weight, muscle condition, hydration, creatinine, SDMA, UPC and blood pressure ([Merck Veterinary Manual — Urinary system](https://www.merckvetmanual.com/urinary-system)). A single SDMA result should not be used to stage a cat without confirmation and a review of prerenal factors.
 
 ## Common misinterpretation in cats
 

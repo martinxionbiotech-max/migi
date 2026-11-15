@@ -20,11 +20,11 @@ faq:
 
 ## What changes the decision in dogs
 
-Canine CKD is staged with creatinine and SDMA together, not with a single value. SDMA rises earlier in many dogs and is less dependent on muscle mass, which matters in cachectic or senior patients. A single elevated SDMA still needs confirmation and a search for a prerenal cause.
+Canine CKD is staged with creatinine and SDMA together, not with a single value. SDMA rises earlier in many dogs and is less dependent on muscle mass, which matters in cachectic or senior patients ([IRIS — International Renal Interest Society](https://www.iris-kidney.com/)). A single elevated SDMA still needs confirmation and a search for a prerenal cause.
 
-The practical work-up includes urine specific gravity, proteinuria (UPC), blood pressure and a review of drugs and hydration. A dog with a normal creatinine but a persistent rise in SDMA is a different patient from one with a stable, mildly raised creatinine and no proteinuria.
+The practical work-up includes urine specific gravity, proteinuria (UPC), blood pressure and a review of drugs and hydration ([Merck Veterinary Manual — Urinary system](https://www.merckvetmanual.com/urinary-system)). A dog with a normal creatinine but a persistent rise in SDMA is a different patient from one with a stable, mildly raised creatinine and no proteinuria.
 
-Serial trends are more useful than one result. Record weight, muscle condition, hydration and the assay used. If the dog is dehydrated or receiving a nephrotoxic drug, repeat after correction before assigning an IRIS stage.
+Serial trends are more useful than one result ([eClinPath — Clinical pathology reference](https://eclinpath.com/)). Record weight, muscle condition, hydration and the assay used. If the dog is dehydrated or receiving a nephrotoxic drug, repeat after correction before assigning an IRIS stage.
 
 ## Common misinterpretation in dogs
 

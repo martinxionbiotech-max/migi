@@ -20,11 +20,11 @@ faq:
 
 ## What changes the decision in dogs
 
-In dogs, the common acquired cardiac cause behind a new cough or exercise intolerance is myxomatous mitral valve disease, particularly in older small-breed dogs such as the Cavalier King Charles Spaniel. A left apical systolic murmur, a gallop or a history of syncope changes the pretest probability before any biomarker is run.
+In dogs, the common acquired cardiac cause behind a new cough or exercise intolerance is myxomatous mitral valve disease, particularly in older small-breed dogs such as the Cavalier King Charles Spaniel ([Merck Veterinary Manual — Circulatory system](https://www.merckvetmanual.com/circulatory-system)). A left apical systolic murmur, a gallop or a history of syncope changes the pretest probability before any biomarker is run.
 
-NT-proBNP is most useful when the clinical question is “is this cough cardiac or respiratory?” A high result supports cardiac work-up; a low result makes primary airway disease more likely. A normal value does not exclude early disease, and a mildly raised value does not distinguish mild from severe disease.
+NT-proBNP is most useful when the clinical question is “is this cough cardiac or respiratory?” ([ACVIM — Cardiology resources](https://www.acvim.org/)) A high result supports cardiac work-up; a low result makes primary airway disease more likely. A normal value does not exclude early disease, and a mildly raised value does not distinguish mild from severe disease.
 
-Echocardiography remains the test that describes valve lesions, chamber enlargement and pulmonary pressure. Use NT-proBNP to decide who needs that examination sooner, not to replace it. In a dog with concurrent renal disease, interpret the result alongside hydration and renal function.
+Echocardiography remains the test that describes valve lesions, chamber enlargement and pulmonary pressure ([eClinPath — Clinical pathology reference](https://eclinpath.com/)). Use NT-proBNP to decide who needs that examination sooner, not to replace it. In a dog with concurrent renal disease, interpret the result alongside hydration and renal function.
 
 ## Common misinterpretation in dogs
 
