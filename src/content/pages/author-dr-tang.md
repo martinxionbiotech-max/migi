@@ -33,3 +33,7 @@ For technical questions about Migibio diagnostics, contact our [support team](/s
 Dr. Tang's role as founder and legal representative of Migibio is disclosed on every article and on this page. Technical statements are checked against the product IFU, the test methods and the published literature cited in the relevant article; commercial claims are kept separate from clinical interpretation.
 
 Corrections can be sent to the support team with the page URL and the source you are comparing. A correction that changes a clinical statement or a product limit is dated and reviewed before it is published again. The author page is not a substitute for a formal medical or regulatory opinion, and it does not imply that every product is registered in every market.
+
+## How to cite this work
+
+If you refer to a page in a report or training document, cite it as a manufacturer technical note, not as a peer-reviewed paper. Include the page title, Migibio, the URL and the date you accessed it. Where a claim depends on a guideline or a product IFU, cite that source directly rather than this author page.

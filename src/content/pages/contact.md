@@ -47,3 +47,9 @@ If your enquiry is urgent, put the model and destination country in the subject 
 ## For distributor and OEM enquiries
 
 Include your company, territory, expected annual volume, current product mix and whether you need private-label artwork or a formulation change. If you are comparing suppliers, tell us which documents you need for qualification: business licence, ISO 13485/9001 scope, GMP evidence, sample COA or a representative batch record. We will confirm what exists rather than promise a document we cannot issue.
+
+## Document requests
+
+For an IFU, certificate of analysis or certificate package, include the model, lot number where applicable, destination country and the document you need. We will confirm whether the document exists for that model and scope; we will not substitute a certificate from another product or issue a number we cannot verify.
+
+Allow 1–2 business days for a document check. A request that arrives without a model or market usually needs a second round of email before it can be answered.
