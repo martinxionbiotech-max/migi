@@ -17,3 +17,10 @@ faq:
   - q: "How is the test performed?"
     a: "A blood sample is collected and T4 (and TSH) measured quantitatively on an immunofluorescence analyzer. Precise concentrations with age-appropriate reference ranges support diagnosis and subsequent monitoring of therapy."
 ---
+
+
+## What a high T4 does and does not prove
+
+Total T4 is the primary screening test, but a single high value should be interpreted with the clinical picture and, where needed, a free T4 or TSH result. Non-thyroidal illness can alter thyroid values, and a cat with a normal T4 can still have early disease. Age-appropriate reference intervals matter.
+
+Hyperthyroidism can mask or complicate chronic kidney disease; renal values and blood pressure should be assessed before and during treatment. Monitor weight, heart rate and T4 rather than treating a number in isolation. Further background: [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system) and [eClinPath](https://eclinpath.com/).

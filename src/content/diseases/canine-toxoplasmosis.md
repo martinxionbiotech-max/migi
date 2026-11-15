@@ -13,9 +13,16 @@ faq:
   - q: "When is Toxoplasma testing considered in dogs?"
     a: "Testing may be considered when a dog has compatible clinical signs or relevant risk factors, including travel or regional exposure. Interpretation should combine antibody results with clinical signs and other diagnostics."
   - q: "What does a positive antibody result mean?"
-    a: "A positive antibody result means the animal has been exposed to the pathogen or vaccinated, not necessarily that it is currently sick. A single antibody value is best interpreted with clinical findings."
+    a: "A positive antibody result means the animal has been exposed to the pathogen, not necessarily that it is currently sick. A single antibody value is best interpreted with clinical findings."
   - q: "What is the role of quantitative fluorescence testing?"
     a: "Quantitative fluorescence immunoassay reports objective, instrument-read concentrations with pg/ml-level sensitivity and CV% <10% precision, which supports monitoring and treatment tracking."
   - q: "What sample is used for quantitative Toxoplasma antibody testing?"
     a: "The quantitative Toxoplasma antibody test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---
+
+
+## Exposure is not the same as active disease
+
+Toxoplasma antibody testing is most useful when a dog has compatible neurological, ocular or systemic signs and a plausible exposure history. A positive antibody result shows that the dog has met the parasite; it does not prove that Toxoplasma is causing the current illness. A negative result is more useful for lowering the probability in an untreated dog.
+
+There is no canine Toxoplasma vaccine, so vaccination history should not be used to explain a positive result. Where active disease is suspected, combine serology with PCR, cytology or histopathology on the relevant tissue and interpret the findings with the clinical picture. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

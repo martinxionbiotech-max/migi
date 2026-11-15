@@ -17,3 +17,10 @@ faq:
   - q: "Why is CAV antibody testing useful?"
     a: "Quantitative CAV antibody measurement supports assessment of vaccine-induced immunity against infectious canine hepatitis and respiratory disease, especially when combined with vaccination history and clinical judgement."
 ---
+
+
+## CAV-1, CAV-2 and the antibody question
+
+Canine adenovirus type 1 causes infectious canine hepatitis; type 2 is associated with respiratory disease and is used in some vaccines. An antibody result measures immune exposure or vaccine response, not active infection. A positive result does not prove protective immunity for every challenge, and a negative result does not always mean susceptibility.
+
+If active adenovirus disease is suspected, use an antigen or PCR test appropriate to the sample and clinical syndrome. For vaccine-response questions, interpret the titre with the vaccination history and the patient's risk. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

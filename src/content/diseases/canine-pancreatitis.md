@@ -19,3 +19,10 @@ faq:
   - q: "What sample is used for quantitative cPL testing?"
     a: "The quantitative cPL test is conducted using serum or plasma (EDTA anticoagulant recommended)."
 ---
+
+
+## cPL is supportive, not stand-alone
+
+Canine pancreatic lipase is species-specific and more useful than amylase or lipase, but it does not by itself establish the diagnosis. Clinical signs, hydration, biochemistry, imaging and the exclusion of other causes remain part of the assessment. A normal cPL does not exclude every form of pancreatitis, and a raised value does not identify the cause.
+
+Serial cPL can support monitoring, but treatment decisions remain clinical. Where the result and the clinical picture disagree, repeat the test and review sample timing and handling rather than treating the number alone. Further background: [Merck Veterinary Manual — Digestive system](https://www.merckvetmanual.com/digestive-system) and [eClinPath](https://eclinpath.com/).
