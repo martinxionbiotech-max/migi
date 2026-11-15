@@ -34,3 +34,16 @@ To receive an accurate quotation quickly, please include:
 - Proprietary FICT technology for quantitative, pg/ml-level results
 - 30+ country export experience with responsive after-sales support
 - OEM/ODM and private-label capability for distributors
+
+## What happens after you send an inquiry
+
+1. **Technical check** — we confirm the model, sample type and intended use against the current IFU.
+2. **Commercial reply** — price, MOQ, lead time and Incoterm are returned in writing; the quotation states what is included.
+3. **Sample or document stage** — where needed, we arrange a sample, COA template or certificate request before the first order.
+4. **Order and release** — the proforma invoice, artwork approval and shipping documents are checked before production.
+
+If your enquiry is urgent, put the model and destination country in the subject line. That lets the technical and sales questions be answered in one reply instead of a week of forwarding.
+
+## For distributor and OEM enquiries
+
+Include your company, territory, expected annual volume, current product mix and whether you need private-label artwork or a formulation change. If you are comparing suppliers, tell us which documents you need for qualification: business licence, ISO 13485/9001 scope, GMP evidence, sample COA or a representative batch record. We will confirm what exists rather than promise a document we cannot issue.

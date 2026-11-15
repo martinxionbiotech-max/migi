@@ -52,3 +52,19 @@ A: The single-channel FIA680 suits low-to-moderate volume, while the multi-chann
 ## Request Documentation
 
 For IFU, SOP, or video access, please contact our support team and include your clinic or company name and the product catalog number.
+
+## Before you contact technical support
+
+Send the information that lets us reproduce the issue:
+
+- analyzer model and serial number;
+- reagent name, catalog number and lot number;
+- sample type and how it was collected and stored;
+- the exact error message or result, with a photo of the screen where possible;
+- whether the issue affects one test, one lot or every test on the analyzer.
+
+Do not send a patient-identifiable record unless it is necessary. A de-identified result and a clear timeline are usually enough to identify whether the problem is pre-analytical, reagent-related or instrument-related.
+
+## Escalation
+
+If the first response does not resolve the issue, ask for it to be escalated with the case reference. We will review the lot record, the analyzer log and the handling chain, and tell you what we can and cannot confirm from the information available. A replacement or a field action is a decision with a documented basis, not a promise made to close a ticket.
