@@ -28,3 +28,7 @@ faq:
 TSH is most useful when it is read with total T4, not instead of it. A high TSH with a low T4 supports primary hypothyroidism; a normal TSH does not exclude the diagnosis, and a low TSH can occur in sick euthyroid dogs or with certain medication. The assay should be interpreted against the kit's reference interval and the clinical picture.
 
 Repeat a borderline result before starting lifelong treatment. Non-thyroidal illness, recent glucocorticoid use and breed variation can all alter the picture. Further background: [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system) and [eClinPath](https://eclinpath.com/).
+
+## When to repeat
+
+Do not start lifelong thyroid treatment on one borderline TSH. Repeat the panel when the dog is stable, review drugs that suppress T4, and combine the result with T4 and the clinical picture. A single normal TSH does not exclude hypothyroidism, and a single high TSH does not confirm it.

@@ -17,3 +17,7 @@ faq:
   - q: "Antigen or antibody testing for panleukopenia?"
     a: "Use antigen testing when a cat is actively ill, to confirm current infection and guide isolation. Use antibody testing in serum/plasma to verify vaccine protection or assess exposure in apparently healthy cats."
 ---
+
+## Antigen for illness, antibody for immunity
+
+FPV antigen testing is used when a cat is acutely ill and shedding virus; antibody testing is used to assess vaccine response or exposure in a healthy cat. Recent vaccination affects antibody interpretation, not the antigen result. A negative antigen test does not exclude panleukopenia if the sample was taken outside the shedding window, so repeat with a fresh faecal or rectal sample when suspicion remains.

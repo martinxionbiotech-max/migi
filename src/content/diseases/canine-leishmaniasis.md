@@ -25,3 +25,7 @@ faq:
 A Leishmania antibody result shows immune exposure; it does not prove active disease on its own. In an endemic or travel-exposed dog with compatible signs, combine serology with clinical examination, routine laboratory work and, where appropriate, cytology or PCR. Renal and ocular involvement change the management plan and should be assessed separately.
 
 A positive antibody result in a vaccinated dog, or in a dog from a low-exposure setting, needs a confirmatory strategy. A negative result does not exclude early infection. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).
+
+## Monitoring is not the same as cure
+
+A falling Leishmania antibody titre can support response, but it does not by itself prove parasitological cure. Monitor clinical signs, renal function, proteinuria and any ocular disease alongside serology. A rising titre or a new clinical sign warrants reassessment even if the previous value was improving.

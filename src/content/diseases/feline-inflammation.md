@@ -23,3 +23,7 @@ faq:
 SAA rises quickly in inflammation and can fall before the cat looks better, which makes serial measurement useful for monitoring. It does not identify the cause: infection, immune-mediated disease, pancreatitis, neoplasia and surgery can all raise it. A single high value should prompt a clinical search, not a diagnosis.
 
 Use the same assay and, where possible, the same laboratory interval when following a cat. A falling trend supports response; a rising or persistently high value supports reassessment. Further background: [eClinPath](https://eclinpath.com/) and [Merck Veterinary Manual](https://www.merckvetmanual.com/).
+
+## SAA and CRP are not interchangeable
+
+SAA is the more responsive acute-phase marker in cats; CRP is more established in dogs. Do not compare a feline SAA value with a canine CRP value as if they were the same analyte. Use the species-appropriate marker, the same assay and a consistent sampling interval when following a trend.
