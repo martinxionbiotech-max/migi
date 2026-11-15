@@ -37,3 +37,9 @@ Corrections can be sent to the support team with the page URL and the source you
 ## How to cite this work
 
 If you refer to a page in a report or training document, cite it as a manufacturer technical note, not as a peer-reviewed paper. Include the page title, Migibio, the URL and the date you accessed it. Where a claim depends on a guideline or a product IFU, cite that source directly rather than this author page.
+
+## Review and corrections process
+
+A draft is checked against three things before publication: the current IFU for the product being discussed, the method or guideline cited for a clinical claim, and the date of the underlying document. Where a figure is manufacturer-reported, the page says so; where a clinical threshold is guideline-derived, the page links to the guideline rather than presenting the number as a Migibio performance claim.
+
+A correction request should include the page URL, the sentence at issue, and the source you are comparing. If the correction changes a clinical statement or product limit, the page is updated with a revised date. This author page is not a medical licence, a peer-reviewed publication or a substitute for veterinary judgement.

@@ -46,3 +46,9 @@ For the latest articles, visit our [Blog](/blog).
 News items are published when there is a verifiable company or product update: a new analyzer, a certification milestone, an exhibition or a change to the published technical documentation. We do not publish a dated item solely to keep a feed active.
 
 If a dated item is corrected, the page is updated and the correction is visible rather than silently removed. Product claims should be checked against the current IFU and certificate scope; a news item is context, not a substitute for the controlled document.
+
+## Media enquiries and verification
+
+Media and conference enquiries should go through sales@migibio.net with the publication, topic and deadline. We can confirm company dates, product names and published specifications; we do not comment on unverified competitor claims or provide patient-level data.
+
+A news item is not a certificate or a product approval. Where a story refers to a quality system, ask for the current certificate scope and validity rather than relying on the news date. Corrections to a published item are dated and kept visible.
