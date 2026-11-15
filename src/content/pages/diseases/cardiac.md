@@ -95,3 +95,10 @@ Where NT-proBNP is used serially — for example during hospitalisation for cong
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
+
+## Further reading
+
+- [Merck Veterinary Manual — Circulatory system](https://www.merckvetmanual.com/circulatory-system)
+- [ACVIM — Cardiology resources](https://www.acvim.org/)
+
+Background resources for clinical context, not batch certificates or product approvals.

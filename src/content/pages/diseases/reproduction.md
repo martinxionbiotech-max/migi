@@ -86,3 +86,10 @@ Progesterone is not a pregnancy-monitoring test in routine use, and serial proge
 1. Reference to be added.
 2. Reference to be added.
 3. Reference to be added.
+
+## Further reading
+
+- [Merck Veterinary Manual — Reproductive system](https://www.merckvetmanual.com/reproductive-system)
+- [eClinPath — Clinical pathology reference](https://eclinpath.com/)
+
+Background resources for clinical context, not batch certificates or product approvals.

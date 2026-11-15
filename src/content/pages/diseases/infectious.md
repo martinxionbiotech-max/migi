@@ -95,3 +95,10 @@ Stating a limitation is more useful than omitting it: a clinician who knows the 
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP17 / EP06 — detection capability and measuring interval (basis for the false-negative discussion).
+
+## Further reading
+
+- [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases)
+- [eClinPath — Clinical pathology reference](https://eclinpath.com/)
+
+Background resources for clinical context, not batch certificates or product approvals.

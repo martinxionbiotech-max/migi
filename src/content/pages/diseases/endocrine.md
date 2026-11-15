@@ -93,3 +93,10 @@ A clinician who does not know the boundary will assume a thyroid panel covers di
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
+
+## Further reading
+
+- [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system)
+- [eClinPath — Clinical pathology reference](https://eclinpath.com/)
+
+Background resources for clinical context, not batch certificates or product approvals.

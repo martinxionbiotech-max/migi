@@ -92,3 +92,10 @@ This warning belongs in the body of the page, not a footnote: clinics switching 
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval versus decision limit methodology.
+
+## Further reading
+
+- [Merck Veterinary Manual — Digestive system](https://www.merckvetmanual.com/digestive-system)
+- [eClinPath — Clinical pathology reference](https://eclinpath.com/)
+
+Background resources for clinical context, not batch certificates or product approvals.

@@ -97,3 +97,10 @@ For a stable patient, the useful monitoring set is creatinine or SDMA (consisten
 1. Reference to be added.
 2. Reference to be added.
 3. CLSI EP28-A3c — reference interval methodology.
+
+## Further reading
+
+- [IRIS — International Renal Interest Society](https://www.iris-kidney.com/)
+- [Merck Veterinary Manual — Urinary system](https://www.merckvetmanual.com/urinary-system)
+
+Background resources for clinical context, not batch certificates or product approvals.
