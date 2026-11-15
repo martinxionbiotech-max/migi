@@ -25,3 +25,9 @@ In dogs, the common acquired cardiac cause behind a new cough or exercise intole
 NT-proBNP is most useful when the clinical question is “is this cough cardiac or respiratory?” A high result supports cardiac work-up; a low result makes primary airway disease more likely. A normal value does not exclude early disease, and a mildly raised value does not distinguish mild from severe disease.
 
 Echocardiography remains the test that describes valve lesions, chamber enlargement and pulmonary pressure. Use NT-proBNP to decide who needs that examination sooner, not to replace it. In a dog with concurrent renal disease, interpret the result alongside hydration and renal function.
+
+## Common misinterpretation in dogs
+
+A normal NT-proBNP does not exclude early mitral valve disease, and a high value does not prove that a cough is cardiac. The test moves probability; it does not replace the murmur, the rhythm, the radiograph or the echocardiogram. In a dog with a soft murmur and no symptoms, the useful question is whether the disease is progressing, not whether the biomarker is “abnormal”.
+
+Breed matters as well: a Cavalier King Charles Spaniel with a murmur is a different pretest population from a large-breed dog with an arrhythmia. Record the murmur grade, the rhythm and the respiratory pattern before ordering the test, so the result is interpreted against a real clinical question.

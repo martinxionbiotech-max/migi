@@ -25,3 +25,9 @@ Canine CKD is staged with creatinine and SDMA together, not with a single value.
 The practical work-up includes urine specific gravity, proteinuria (UPC), blood pressure and a review of drugs and hydration. A dog with a normal creatinine but a persistent rise in SDMA is a different patient from one with a stable, mildly raised creatinine and no proteinuria.
 
 Serial trends are more useful than one result. Record weight, muscle condition, hydration and the assay used. If the dog is dehydrated or receiving a nephrotoxic drug, repeat after correction before assigning an IRIS stage.
+
+## Common misinterpretation in dogs
+
+A single SDMA result is not an IRIS stage. Dehydration, recent feeding and concurrent disease can shift the value; confirm a persistent increase after correction and review the urine specific gravity. A normal creatinine does not exclude early CKD, and a raised creatinine does not always mean chronic disease.
+
+Proteinuria and blood pressure change management independently of the stage. A dog with a mild creatinine increase but marked proteinuria is not the same patient as one with a stable value and no proteinuria. Record the trend, the assay and the clinical context before making a treatment change.

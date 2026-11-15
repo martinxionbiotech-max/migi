@@ -25,3 +25,9 @@ In cats, hypertrophic cardiomyopathy is the common structural disease behind dys
 NT-proBNP is most useful in the dyspnoeic cat when the clinician needs to separate cardiac from respiratory causes before imaging. A high result supports cardiac investigation; a low result makes primary respiratory disease more likely. The test does not distinguish hypertrophic cardiomyopathy from other cardiomyopathies and does not measure outflow obstruction.
 
 Echocardiography is required to characterise wall thickness, atrial size and dynamic obstruction. In a cat with hyperthyroidism or systemic hypertension, treat and reassess those conditions as well: both can alter the cardiac picture. Use NT-proBNP as a triage aid, not as a standalone diagnosis.
+
+## Common misinterpretation in cats
+
+A normal NT-proBNP does not exclude hypertrophic cardiomyopathy, especially when the disease is segmental or the cat is stressed and difficult to examine. A high value does not distinguish hypertrophic cardiomyopathy from another cardiomyopathy, and it does not measure the severity of outflow obstruction.
+
+The physical examination is often unhelpful: a cat can have severe disease without a murmur. When dyspnoea is present, treat the immediate respiratory problem and stabilise the cat before imaging; the biomarker is an adjunct, not a substitute for thoracic ultrasound or echocardiography. Hyperthyroidism and systemic hypertension can also change the cardiac picture and must be assessed alongside it.

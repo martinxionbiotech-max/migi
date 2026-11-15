@@ -25,3 +25,9 @@ Feline CKD is common in older cats and is often found before clinical signs appe
 Hyperthyroidism and hypertension are common companions in the same patient. Treat and monitor them alongside renal values; a rising creatinine after thyroid treatment may reflect unmasking of CKD rather than a new renal insult.
 
 Serial monitoring is the core of feline CKD care: weight, muscle condition, hydration, creatinine, SDMA, UPC and blood pressure. A single SDMA result should not be used to stage a cat without confirmation and a review of prerenal factors.
+
+## Common misinterpretation in cats
+
+A creatinine value within the reference interval does not exclude CKD in a cat with poor muscle mass. SDMA can rise earlier, but a single result still needs confirmation and a review of hydration, thyroid status and blood pressure.
+
+Hyperthyroidism can mask a rising creatinine; after treatment, renal values may worsen as the hyperthyroid state resolves. Hypertension and proteinuria are separate treatment triggers, not optional extras. Stage the cat with the full dataset, and use serial trends rather than one visit to decide whether the disease is progressing.
