@@ -136,7 +136,7 @@ const productSchema = {
     { name: 'Reagents', url: '/reagents/' },
     { name: title },
   ]}
-  ogImage={image || '/images/default-og.png'}
+  ogImage={`/images/og/${entry.data.slug}.jpg`}
 >
   <article class="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
     <nav class="mb-6 text-sm text-gray-500" aria-label="Breadcrumb">
