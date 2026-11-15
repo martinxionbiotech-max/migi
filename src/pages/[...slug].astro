@@ -25,6 +25,17 @@ const PAGE_TYPES: Record<string, string> = {
   news: 'CollectionPage',
 };
 const pageType = PAGE_TYPES[entry.data.slug] ?? 'WebPage';
+const SECTION_OG: Record<string, string> = {
+  about: '/images/og/section-about.jpg',
+  applications: '/images/og/section-applications.jpg',
+  biomarkers: '/images/og/section-biomarkers.jpg',
+  blog: '/images/og/section-blog.jpg',
+  compare: '/images/og/section-compare.jpg',
+  diseases: '/images/og/section-diseases.jpg',
+  resources: '/images/og/section-resources.jpg',
+  technology: '/images/og/section-technology.jpg',
+};
+const ogImage = SECTION_OG[entry.data.slug.split('/')[0]] ?? '/images/og/section-about.jpg';
 // dateModified 取该内容文件最后 git 提交日期（真实、可核验）
 const contentDates = (await import('../data/content-dates.json')).default as Record<string, string>;
 const dateModified = contentDates[`pages/${entry.data.slug}`];
@@ -49,6 +60,7 @@ const pageSchema = {
   description={description}
   schema={pageSchema}
   canonical={pageUrl}
+  ogImage={ogImage}
   pageType={pageType}
   dateModified={dateModified}
   crumbs={[{ name: 'Home', url: '/' }, { name: title }]}
