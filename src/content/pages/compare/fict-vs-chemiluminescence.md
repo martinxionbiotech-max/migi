@@ -70,6 +70,25 @@ The two methods do not produce interchangeable numbers. Different calibration sy
 5. **Assuming central-lab precision transfers to point of care.** Handling and operator differ.
 6. **Ignoring maintenance burden.** A high-end platform that is not maintained underperforms a simple one.
 
+## Decision math: does the extra sensitivity change a decision?
+
+The useful question is not “which method has the lower LoD”, but “how far is the clinical decision limit from the LoD?”
+
+Let:
+
+- `L` = the lowest concentration that changes a clinical decision;
+- `D` = the method's limit of detection.
+
+The ratio `L / D` is the analytical headroom. If the decision limit is far above both methods' LoD, the extra sensitivity is real but clinically irrelevant for that decision. If the decision limit sits close to the LoD, the lower-LoD method may classify more samples correctly near the boundary.
+
+| Illustrative situation | What the extra sensitivity buys |
+|---|---|
+| Decision limit 10× above both LoDs | Little for that decision; precision and bias matter more |
+| Decision limit 2× above both LoDs | Some benefit near the boundary; verify with method comparison |
+| Decision limit near the LoD | Potentially meaningful; confirm with a validated study |
+
+This is a reasoning framework, not a claim about any specific assay. Before switching methods, compare bias, imprecision and reference intervals at the decision concentration; a lower LoD does not transfer a reference interval from one platform to another.
+
 ## The Author's Take
 
 **Position.** In this comparison, the point-of-care vendor should concede the analytical argument and win the clinical one — because that is the only version that survives scrutiny.
@@ -80,6 +99,6 @@ The two methods do not produce interchangeable numbers. Different calibration sy
 
 ## Sources
 
-1. Reference to be added.
-2. CLSI EP17 — detection capability.
-3. Reference to be added.
+- [CLSI — method evaluation resources](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)
+- [Merck Veterinary Manual](https://www.merckvetmanual.com/)

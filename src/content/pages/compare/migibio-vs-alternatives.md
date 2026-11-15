@@ -61,6 +61,24 @@ If a vendor cannot answer the first four, the comparison is not worth having. If
 5. Check what happens when a lot changes, and whether QC is documented.
 6. Score the workflow, not only the instrument: placement, owner, training, downtime.
 
+## Scoring a vendor response, not a brochure
+
+A comparison becomes defensible when every vendor is asked the same question and the answer is scored against evidence, not familiarity.
+
+Suggested scoring:
+
+| Score | Meaning |
+|---:|---|
+| 0 | No answer, or a claim without a document |
+| 1 | Partial answer; method or scope missing |
+| 2 | Answer with a document, method and scope that can be checked |
+
+Weight the questions by the decision they affect:
+
+`weighted score = Σ (question weight × score) / Σ question weights`
+
+Do not average a missing validation document into a “good” total. A zero on LoD, precision or reference intervals is a fail on the technical gate, regardless of the commercial score. Apply the same checklist to Migibio; the page is designed to make that possible.
+
 ## The Author's Take
 
 **Position.** Refusing to publish a competitor scoreboard is a stronger competitive move than publishing one, provided the refusal is replaced with something more useful than silence.
@@ -71,7 +89,5 @@ If a vendor cannot answer the first four, the comparison is not worth having. If
 
 ## Sources
 
-1. [Analytical performance](/technology/analytical-performance/) — LoD/LoQ definitions and buyer questions
-2. [Reference intervals](/technology/reference-intervals/) — platform-specific interval rationale
-3. [Clinical performance](/technology/clinical-performance/) — sensitivity, specificity and prevalence
-4. [Research and analytical performance](/research/) — current validation status statement
+- [CLSI — method evaluation resources](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)

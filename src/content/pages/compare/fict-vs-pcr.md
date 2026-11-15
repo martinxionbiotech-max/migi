@@ -66,6 +66,23 @@ A defensible sequence in most clinics:
 
 PCR is often described as more specific. That is true analytically, but clinic-level specificity also depends on contamination control, sample handling and laboratory quality. An antigen assay run carefully can be more reliable than a PCR run badly — which is why method claims should be qualified by the setting, not asserted absolutely.
 
+## Decision math: prevalence changes what a result means
+
+A test result is not a diagnosis by itself. The same sensitivity and specificity produce different positive and negative predictive values when prevalence changes.
+
+Use the odds form:
+
+`posterior odds = prior odds × likelihood ratio`
+
+The practical consequences:
+
+- In a high-prevalence outbreak, a positive antigen result is more likely to be a true positive.
+- In a low-prevalence screening population, even a good test produces more false positives; confirm before acting.
+- A negative result is more reassuring when prevalence is low and the sample was taken inside the detection window.
+- PCR can remain positive after the organism is no longer viable, so a positive PCR is not automatically active disease.
+
+This is why the comparison should name the setting: shelter outbreak, single sick pet, or export screening. The assay does not change with prevalence; the interpretation does.
+
 ## The Author's Take
 
 **Position.** The comparison should be framed around windows and decisions rather than around analytical superiority, because the superiority claim is the one that gets tested first and fails first.
@@ -76,6 +93,6 @@ PCR is often described as more specific. That is true analytically, but clinic-l
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. Reference to be added.
+- [CLSI — method evaluation resources](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)
+- [Merck Veterinary Manual](https://www.merckvetmanual.com/)
