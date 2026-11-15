@@ -19,3 +19,9 @@ faq:
   - q: "What sample is used for quantitative Leishmania antibody testing?"
     a: "The quantitative Leishmania antibody test is performed using serum or plasma (EDTA anticoagulant recommended)."
 ---
+
+## Antibody, antigen and clinical disease
+
+A Leishmania antibody result shows immune exposure; it does not prove active disease on its own. In an endemic or travel-exposed dog with compatible signs, combine serology with clinical examination, routine laboratory work and, where appropriate, cytology or PCR. Renal and ocular involvement change the management plan and should be assessed separately.
+
+A positive antibody result in a vaccinated dog, or in a dog from a low-exposure setting, needs a confirmatory strategy. A negative result does not exclude early infection. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

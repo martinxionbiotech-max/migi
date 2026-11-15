@@ -22,3 +22,9 @@ faq:
   - q: "Why does this Data Hub not publish a universal reference range?"
     a: "Reference ranges vary by species, age and laboratory method — always interpret against the kit IFU and your in-house validation."
 ---
+
+## How TSH changes the thyroid decision
+
+TSH is most useful when it is read with total T4, not instead of it. A high TSH with a low T4 supports primary hypothyroidism; a normal TSH does not exclude the diagnosis, and a low TSH can occur in sick euthyroid dogs or with certain medication. The assay should be interpreted against the kit's reference interval and the clinical picture.
+
+Repeat a borderline result before starting lifelong treatment. Non-thyroidal illness, recent glucocorticoid use and breed variation can all alter the picture. Further background: [Merck Veterinary Manual — Endocrine system](https://www.merckvetmanual.com/endocrine-system) and [eClinPath](https://eclinpath.com/).

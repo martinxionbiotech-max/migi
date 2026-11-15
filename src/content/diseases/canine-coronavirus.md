@@ -19,3 +19,9 @@ faq:
   - q: "What sample is used for quantitative CCV antigen testing?"
     a: "The quantitative CCV antigen test is performed using rectal swabs."
 ---
+
+## CCV in the context of co-infection
+
+Canine coronavirus antigen testing is most useful in a puppy or dog with enteric signs, especially when parvovirus is also a concern. A positive CCV result does not exclude CPV, and a negative result does not rule out coronavirus at every stage of shedding. Sample timing and quality matter.
+
+The clinical value is in isolation and supportive-care decisions, not in identifying a specific treatment for CCV. Where signs are severe, test for the major enteric pathogens together and interpret each result with the vaccination and exposure history. Further background: [Merck Veterinary Manual — Infectious diseases](https://www.merckvetmanual.com/infectious-diseases) and [eClinPath](https://eclinpath.com/).

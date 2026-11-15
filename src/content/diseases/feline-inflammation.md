@@ -17,3 +17,9 @@ faq:
   - q: "Which is better for monitoring treatment?"
     a: "For cats, serial SAA is an excellent monitor of treatment response because it falls quickly once therapy is effective — a falling value confirms the treatment is working before the patient looks better."
 ---
+
+## Reading SAA as a trend, not a diagnosis
+
+SAA rises quickly in inflammation and can fall before the cat looks better, which makes serial measurement useful for monitoring. It does not identify the cause: infection, immune-mediated disease, pancreatitis, neoplasia and surgery can all raise it. A single high value should prompt a clinical search, not a diagnosis.
+
+Use the same assay and, where possible, the same laboratory interval when following a cat. A falling trend supports response; a rising or persistently high value supports reassessment. Further background: [eClinPath](https://eclinpath.com/) and [Merck Veterinary Manual](https://www.merckvetmanual.com/).

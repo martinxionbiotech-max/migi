@@ -17,3 +17,9 @@ faq:
   - q: "Can I use cPL on a cat or fPL on a dog?"
     a: "No. cPL (canine pancreatic lipase) and fPL (feline pancreatic lipase) are species-specific assays and are not interchangeable. Running a dog assay on a cat sample, or vice versa, produces an invalid result."
 ---
+
+## What fPL does and does not establish
+
+Feline pancreatic lipase is species-specific and more useful than amylase or lipase, but it is not a stand-alone diagnosis. Cats with pancreatitis can have non-specific signs, and concurrent enteritis, hepatic disease or neoplasia can complicate the picture. The result should be interpreted with clinical signs, hydration, biochemistry and imaging.
+
+A normal fPL does not exclude every form of pancreatitis, and a raised value does not by itself identify the cause. Serial values can support monitoring, but treatment decisions remain clinical. Further background: [Merck Veterinary Manual — Digestive system](https://www.merckvetmanual.com/digestive-system) and [eClinPath](https://eclinpath.com/).
