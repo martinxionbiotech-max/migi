@@ -7,7 +7,7 @@ catNo: "MG-CA-R020"
 image: "/images/migi-dog-canine-progesterone-cprogesterone-rapid-quantitative-test-kit.png"
 order: 28
 attributes: {"Place of Origin": "China", "Classification": "Specific Reagents", "Product name": "Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit", "CAT No.": "MG-CA-R020", "Package": "Box", "Appearance": "Liquid", "Specification": "10T", "Storage": "Room Temperature", "Shelf life": "2 years", "MOQ": "10 boxes", "Suitable for": "Veterinary", "Grade": "Reagent Grade"}
-faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit?", "a": "The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or the timing of a Cesarean section. Detecting reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 1.0 ~ 50 ng/ml Conversion Factor : 1 ng/ml = 3.18 nmol/L Result (ng/ml) Result (nmol/L) Level Suggestion ≤ 1.0 ≤ 3.18 Negative Non-estrus phase 1.0 - 5.0 3.18 - 15.9 Low Preovulation phase 5.0 - 10.0 15.9 - 31.8 Medium+ Oviposition phase 10.0 - 20.0 31.8 - 63.6 Medium++ Optimal fertility phase > 20.0 > 63.6 High+++ Ootid senescence phase Each laboratory should establish its own reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Suitable for use with serum or plasma (EDTA anticoagulant recommended)."}]
+faq: [{"q": "What is the intended use of the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit?", "a": "The cProgesterone test is a fluorescence immunoassay used with an Immunofluorescence Analyzer for the quantitative determination of progesterone concentration in canine serum or plasma. Clinical Applications : Determining optimal breeding dates. Predicting parturition dates or the timing of a Cesarean section. Detecting reproductive disorders such as split heat, delayed puberty, silent estrus, or hypoluteidism. For in vitro diagnostic use only . For professional use only."}, {"q": "What detection principle does the Migi (Dog) Canine Progesterone (cProgesterone) Rapid Quantitative Test Kit use?", "a": "Utilizes a quantitative competitive fluorescence immunoassay technique. The fluorescent signal intensity correlates with the amount of cProgesterone captured, with results expressed in ng/ml or nmol/L."}, {"q": "What are the storage and stability requirements?", "a": "Store the test kit at 4–30℃ until the expiration date. Operate the test at 18–28℃ after opening the Test Device. Perform the test within 30 minutes of opening the pouch."}, {"q": "How are the results interpreted?", "a": "Detection Range : 1.0 ~ 50 ng/ml Conversion Factor : 1 ng/ml = 3.18 nmol/L Result (ng/ml) Result (nmol/L) Level Suggestion ≤ 1.0 ≤ 3.18 Negative Non-estrus phase 1.0 - 5.0 3.18 - 15.9 Low Preovulation phase 5.0 - 10.0 15.9 - 31.8 Medium+ Ovulation phase 10.0 - 20.0 31.8 - 63.6 Medium++ Optimal fertility phase > 20.0 > 63.6 High+++ Oocyte ageing / post-ovulation Each laboratory should establish its own reference range based on the specific population being evaluated."}, {"q": "Which analyzer does this run on?", "a": "It is used with a Migibio Immunofluorescence Analyzer; follow the analyzer operation manual."}, {"q": "What is the MOQ and shelf life?", "a": "The listed MOQ is 10 boxes; shelf life is 2 years."}, {"q": "What sample does it use?", "a": "Suitable for use with serum or plasma (EDTA anticoagulant recommended)."}]
 whenToTest: "During oestrus-cycle monitoring to time ovulation and optimize natural breeding or artificial insemination."
 whyTest: "Serial canine progesterone measurement supports ovulation timing and optimal breeding management."
 interpretation: "Use serial measurements to track the progesterone rise and ovulation window according to the kit IFU; timing decisions should incorporate reproductive history and clinical examination."
@@ -178,7 +178,7 @@ Preovulation phase
 - 5.0 - 10.0
 - 15.9 - 31.8
 Medium+
-Oviposition phase
+Ovulation phase
 - 10.0 - 20.0
 - 31.8 - 63.6
 Medium++
@@ -186,7 +186,7 @@ Optimal fertility phase
 > 20.0
 > 63.6
 High+++
-Ootid senescence phase
+Oocyte ageing / post-ovulation
 Each laboratory should establish its own reference range based on the specific population being evaluated.
 
 ## Warnings and Limitations
@@ -201,6 +201,13 @@ Technical or procedural errors and unlisted substances in blood may affect test 
 
 ## Progesterone is a timing test, not a pregnancy test
 
-In breeding management, progesterone is used to identify the luteal phase and to time insemination. A single value is rarely enough: the useful information is the trend across serial samples, interpreted against the laboratory method and the queen or bitch's cycle. Do not use progesterone to confirm pregnancy.
+In breeding management, progesterone is used to identify the luteal phase and to time insemination. A single value is rarely enough: the useful information is the trend across serial samples, interpreted against the laboratory method and the bitch's cycle. Do not use progesterone to confirm pregnancy.
 
 Relaxin answers a different question. It is produced by the placenta and is used as a pregnancy marker; it does not time ovulation. The two tests are not interchangeable, and a progesterone result should not be reported as evidence of conception.
+
+
+## How to use the progesterone trend
+
+A single progesterone value is a snapshot. For breeding timing, the useful pattern is the rise across serial samples, interpreted against the assay and the individual bitch's cycle. Sampling interval and the decision threshold belong in the breeding protocol; do not copy a table from another laboratory without confirming its method and reference range.
+
+The test does not confirm pregnancy and does not replace an examination for pyometra or other reproductive disease. If the value is unexpected, repeat the sample and check the collection time, sample handling and assay lot before changing the breeding plan.

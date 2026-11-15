@@ -179,3 +179,10 @@ Technical or procedural errors and unlisted substances in blood may affect test 
 Relaxin is produced by the placenta, so it can support pregnancy diagnosis after implantation. It does not tell you when ovulation occurred and it is not a substitute for progesterone timing. The test should be interpreted with the date of breeding, the stage of the cycle and the kit's validated window.
 
 Progesterone and relaxin answer different clinical questions. Use progesterone serial measurements to plan insemination; use relaxin when the question is whether a pregnancy has been established. A negative relaxin result does not by itself rule out pregnancy at every stage, and a positive result does not confirm a viable fetus.
+
+
+## What relaxin can and cannot tell you
+
+Relaxin supports pregnancy diagnosis after the placental tissue is established. It does not date ovulation, confirm fetal viability or replace ultrasound. A negative result early after breeding may reflect testing before the validated window; a positive result confirms placental tissue, not the number of fetuses or their health.
+
+Use relaxin when the clinical question is “is this a pregnancy?” and use progesterone when the question is “when should we breed?”. The two results should not be substituted for each other, and neither replaces a physical examination or imaging where those are indicated.
