@@ -19,6 +19,44 @@ const { title, description, catNo, image, attributes, faq, whenToTest, whyTest, 
 
 const { Content } = await render(entry);
 
+const SOURCE_LINKS = {
+  infectious: [
+    { label: 'Merck Veterinary Manual — Infectious diseases', url: 'https://www.merckvetmanual.com/infectious-diseases' },
+    { label: 'eClinPath — Clinical pathology reference', url: 'https://eclinpath.com/' },
+  ],
+  cardiac: [
+    { label: 'Merck Veterinary Manual — Circulatory system', url: 'https://www.merckvetmanual.com/circulatory-system' },
+    { label: 'ACVIM — Cardiology resources', url: 'https://www.acvim.org/' },
+  ],
+  renal: [
+    { label: 'IRIS — International Renal Interest Society', url: 'https://www.iris-kidney.com/' },
+    { label: 'Merck Veterinary Manual — Urinary system', url: 'https://www.merckvetmanual.com/urinary-system' },
+  ],
+  endocrine: [
+    { label: 'Merck Veterinary Manual — Endocrine system', url: 'https://www.merckvetmanual.com/endocrine-system' },
+    { label: 'eClinPath — Clinical pathology reference', url: 'https://eclinpath.com/' },
+  ],
+  pancreatic: [
+    { label: 'Merck Veterinary Manual — Digestive system', url: 'https://www.merckvetmanual.com/digestive-system' },
+    { label: 'eClinPath — Clinical pathology reference', url: 'https://eclinpath.com/' },
+  ],
+  inflammatory: [
+    { label: 'eClinPath — Clinical pathology reference', url: 'https://eclinpath.com/' },
+  ],
+};
+const sourceText = `${title} ${entry.data.slug} ${description ?? ''}`.toLowerCase();
+const sourceGroup = /nt-probnp|cardiac|heart/.test(sourceText)
+  ? 'cardiac'
+  : /sdma|cystatin|renal|kidney/.test(sourceText)
+    ? 'renal'
+    : /t4|tsh|cortisol|progesterone|relaxin|thyroid|endocrine/.test(sourceText)
+      ? 'endocrine'
+      : /fpl|pancrea/.test(sourceText)
+        ? 'pancreatic'
+        : /crp|saa|inflamm/.test(sourceText)
+          ? 'inflammatory'
+          : 'infectious';
+const sourceLinks = SOURCE_LINKS[sourceGroup];
 const pageUrl = `/reagents/${entry.data.slug}/`;
 const siteUrl = 'https://migibio.net';
 const gallery = entry.data.gallery ?? [];
@@ -167,6 +205,16 @@ const productSchema = {
         </div>
       </section>
     )}
+
+    <section class="mt-12 border-t border-gray-200 pt-8">
+      <h2 class="text-2xl font-bold text-gray-900">Further reading</h2>
+      <ul class="mt-4 space-y-2">
+        {sourceLinks.map((link) => (
+          <li><a href={link.url} class="font-medium text-brand-600 hover:text-brand-800" target="_blank" rel="noopener noreferrer">{link.label}</a></li>
+        ))}
+      </ul>
+      <p class="mt-3 text-sm text-gray-500">Background resources for clinical context. Product performance and intended use are defined by the current IFU, not by these links.</p>
+    </section>
 
     {faq && faq.length > 0 && (
       <section class="mt-12">
