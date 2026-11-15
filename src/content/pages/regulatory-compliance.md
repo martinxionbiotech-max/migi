@@ -95,3 +95,19 @@ For certificates, declarations, technical dossiers or compliance questionnaires,
 ---
 
 *Last updated: 23 October 2026.*
+
+
+## Certificate verification checklist
+
+A certificate is only useful if the buyer can connect it to the supplier, the site and the product. Use the same four checks for every document:
+
+| Check | What to ask |
+|---|---|
+| Legal entity | Does the certificate name Guangzhou Magic Biotech Co., Ltd., not a trading name or a different company? |
+| Scope | Which products, processes or sites does the certificate cover? |
+| Validity | What is the issue date, expiry date and current status? |
+| Issuer | Which certification body or authority issued it, and can it be verified independently? |
+
+For ISO 13485 and ISO 9001, ask for the certificate and its scope annex. For GMP and the Veterinary Drug Production Licence, ask which production activities and product classes are covered. For the Guangdong “Zhuan Jing Te Xin” designation and the National High-Tech Enterprise certificate, ask for the issuing authority and the period of validity.
+
+We do not publish certificate numbers on this website because a number without the issuing body and scope is easy to misread. Qualified buyers can request the current certificate package with the model and market; we will identify the documents that exist and state clearly when a certificate does not cover a particular product or market.
