@@ -39,6 +39,10 @@ Comparisons are only useful if they state the trade-off honestly. Each page belo
 4. Check the reference interval on the demonstration unit.
 5. Score the workflow, not only the instrument.
 
+## What these pages are not
+
+These comparisons are decision aids, not product validations. They do not rank a method for every analyte, and they do not replace a method comparison on your samples. Where a number is manufacturer-reported, the page says so; where a statement is a reasoning framework, it is labelled as such.
+
 ## The Author's Take
 
 **Position.** The most persuasive page in a comparison section is the one that concedes ground — and it is also the one competitors find hardest to answer.

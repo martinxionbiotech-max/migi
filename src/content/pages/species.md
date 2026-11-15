@@ -43,6 +43,10 @@ Species is not a label on a reference interval; it changes which marker to use, 
 - Clinical discipline hubs: [infectious](/diseases/infectious/), [inflammatory](/diseases/inflammatory/), [endocrine](/diseases/endocrine/), [cardiac](/diseases/cardiac/), [renal](/diseases/renal/), [pancreatic](/diseases/pancreatic/), [reproduction](/diseases/reproduction/)
 - Setting-based guidance: [veterinary clinic](/applications/veterinary-clinic/), [reference laboratory](/applications/reference-laboratory/), [breeding kennel](/applications/breeding-kennel/), [shelter](/applications/animal-shelter/), [research](/applications/research-laboratory/), [mobile practice](/applications/mobile-vet/)
 
+## How to use these pages
+
+Use the species page to narrow the differential and the sample type, then open the disease or biomarker page for the test logic. A species page is not a dosing guide or a substitute for the patient's history; it is a map of the questions that change with age, environment and reproductive status.
+
 ## The Author's Take
 
 **Position.** Species guides are where a manufacturer demonstrates whether it understands practice, and most do not, because species differences are usually handled by relabelling a canine page.

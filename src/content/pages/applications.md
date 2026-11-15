@@ -36,6 +36,10 @@ The rule that prevents most of it: **test to decide, not to know.** If a result 
 - [Analyzer selection matrix](/compare/analyzer-selection-matrix/) — the four variables
 - [Species guides](/species/) — the patient-side counterpart to this section
 
+## Choosing a setting
+
+Start with the decision the test must support, then choose the setting. A shelter outbreak needs isolation speed; a reference laboratory needs traceability and batch capacity; a mobile practice needs power, temperature control and a workflow that survives a vehicle. The same analyzer can fit two settings for different reasons, and fail in a third.
+
 ## The Author's Take
 
 **Position.** Setting-based pages are the most commercially useful content on a diagnostic site, because buyers search for their situation, not for an analyte.
