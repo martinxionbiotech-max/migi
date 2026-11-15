@@ -79,6 +79,25 @@ Most vendor comparisons assume every in-house test changes a decision and ignore
 5. **Sending out tests that are decided today.** The delay is the whole point.
 6. **Comparing results across methods later.** Bias, not equivalence.
 
+## Pricing the delay as a formula
+
+The send-out comparison becomes clearer when the delay is written as a cost, not a feeling:
+
+`delay cost = probability the result changes management × cost of that delay + fixed cost of the extra visit or bed-day`
+
+The first term is clinical, the second is operational. A test that rarely changes management should not justify an in-house menu; a test that changes isolation, treatment or discharge on the same day can justify a premium even when the cartridge costs more.
+
+Build the comparison per test, not per clinic:
+
+| Question | In-house | Send-out |
+|---|---|---|
+| Will the result change action today? | If yes, value the avoided delay | If no, batch and save |
+| Is the analyte stable in transport? | Local handling required | Laboratory protocol required |
+| Is confirmation needed? | Usually not | Often yes |
+| Is the menu broad enough? | Check expiry and utilisation | Usually yes |
+
+The arithmetic does not decide the clinical policy; it exposes the assumptions behind it.
+
 ## The Author's Take
 
 **Position.** The honest commercial position is "in-house for decisions, send-out for everything else" — and a vendor that says this sells fewer menus and keeps more accounts.
@@ -89,6 +108,5 @@ Most vendor comparisons assume every in-house test changes a decision and ignore
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. Reference to be added.
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)
+- [Merck Veterinary Manual](https://www.merckvetmanual.com/)

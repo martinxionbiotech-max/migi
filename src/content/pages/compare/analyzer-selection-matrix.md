@@ -78,6 +78,21 @@ A vendor who helps you complete the matrix will usually recommend a smaller devi
 5. **Skipping the "do we need in-house at all" question.** Sometimes the answer is no.
 6. **No owner assigned.** The most reliable predictor of underuse.
 
+## Worked scoring example: cost per decision-relevant test
+
+The cost term is often reduced to the cartridge price. A more defensible calculation is:
+
+`cost per decision-relevant test = (analyzer cost / lifetime tests) + consumable cost + staff minutes × loaded labour rate`
+
+Two clinics can get different answers from the same analyzer because their denominator differs. A device used for 2,000 decision-changing tests has a very different cost per useful result from one used for 200 tests and left idle. Before comparing quotations, write down:
+
+1. the number of tests per month that will actually change a decision;
+2. the expected service life in months;
+3. the staff minutes per run, including QC and recording;
+4. the consumable cost per reported result, not per cartridge.
+
+If a vendor cannot supply the inputs, mark the cost score as incomplete rather than assuming the cheapest headline. The matrix is a reasoning aid, not a validated economic model; the weights and inputs belong to your practice.
+
 ## The Author's Take
 
 **Position.** Publishing a scoring matrix — including the row that suggests you may not need an analyzer at all — is the single most credible thing a vendor can put on a comparison page.
@@ -88,6 +103,5 @@ A vendor who helps you complete the matrix will usually recommend a smaller devi
 
 ## Sources
 
-1. [FIA680 vs FIA880](/compare/fia680-vs-fia880/) — capacity and specification detail
-2. [In-clinic POCT: capacity, menu and workflow](/applications/veterinary-clinic/)
-3. Reference to be added.
+- [CLSI — method evaluation resources](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)

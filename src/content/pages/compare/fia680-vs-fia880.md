@@ -66,6 +66,21 @@ Per-client custom standard curves matter for distributors and multi-site groups 
 5. **Ignoring placement.** Temperature control helps, but does not make a hot corridor acceptable.
 6. **Sizing to average volume.** The busiest hour is the design case.
 
+## Decision math: what a queue actually costs
+
+Use the manufacturer's stated result time for the assay you run, not the headline throughput. A simple queue model makes the trade-off visible.
+
+Assume, for illustration only, a 10-minute assay and six samples arriving within one minute:
+
+| Model | First result | Last result of six | What the sixth clinician experiences |
+|---|---:|---:|---|
+| Single channel | 10 min | 60 min | Waits for five assays |
+| Six independent channels | 10 min | 10 min | No serial queue |
+
+This is not a promise that every test finishes in 10 minutes; the product range is 3–15 minutes and failed runs add time. The point is structural: a single channel serialises peak demand, while six channels absorb it. If your peak is one test at a time, the single-channel queue costs nothing. If six arrive together during an emergency, it costs the difference between a same-visit result and a delayed one.
+
+The hourly maximum (200 versus 300 tests/hour) describes sustained capacity, not the wait for the first result. Buy for the queue you actually have at the busiest hour.
+
 ## The Author's Take
 
 **Position.** The upsell to the multi-channel model should be justified by queue data, not by capability — and a vendor willing to say "you do not need the bigger one" wins the next purchase.
@@ -76,6 +91,6 @@ Per-client custom standard curves matter for distributors and multi-site groups 
 
 ## Sources
 
-1. Reference to be added.
-2. [Platform analytical performance](/technology/analytical-performance/)
-3. Reference to be added.
+- [Migibio FIA680 specification](https://migibio.net/equipment/FIA680/)
+- [Migibio FIA880 specification](https://migibio.net/equipment/FIA880/)
+- [CLSI — method evaluation resources](https://clsi.org/)

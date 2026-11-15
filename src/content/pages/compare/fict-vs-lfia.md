@@ -55,6 +55,19 @@ The common misreading is "quantitative equals more sensitive". Analytical sensit
 
 Many clinics end up running both: strips for immediate triage where no record is needed, the instrument for anything that will be trended, billed as a data point, or audited. That is a rational portfolio, not a compromise.
 
+## Trend math: when a change is larger than the noise
+
+A quantitative result is not automatically a trend. If the assay's imprecision at the relevant concentration is 10% CV, a 5% change between two samples is inside the noise; repeating the test or waiting for a larger change is more informative than reporting a direction.
+
+The practical rule is:
+
+- compare the change with the assay's precision at that concentration;
+- use the same device, lot and sample type where possible;
+- treat a change near the CV as “no demonstrated change”, not as improvement or deterioration;
+- confirm a unexpected trend with a repeat or an orthogonal method.
+
+This is why a strip and a reader are not equivalent for monitoring: the strip gives a category, while the reader gives a number whose uncertainty can be discussed. The reader does not remove pre-analytical error, and a numerical result with no QC is not better than a careful strip.
+
 ## The Author's Take
 
 **Position.** The comparison should be framed as "what kind of result do you need", not "which technology is better" — and a vendor that concedes the strip's legitimate uses will be believed on the instrument's advantages.
@@ -65,6 +78,5 @@ Many clinics end up running both: strips for immediate triage where no record is
 
 ## Sources
 
-1. Reference to be added.
-2. CLSI EP17 — detection capability definitions (LoB/LoD/LoQ).
-3. Reference to be added.
+- [CLSI EP17 — detection capability definitions](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)

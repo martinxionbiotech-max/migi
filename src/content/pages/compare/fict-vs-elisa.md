@@ -54,6 +54,20 @@ Different immunoassays produce different absolute values for the same analyte. A
 
 > **Data pending.** This section reports measured values from internal validation studies. They are published once the supporting study is complete; the current report is available from technical support on request.
 
+## Break-even reasoning: batch versus single sample
+
+ELISA is efficient when the fixed cost of a run is spread across many samples. Point-of-care testing is efficient when the fixed cost of waiting is larger than the per-test premium.
+
+A simple framing:
+
+`batch cost per sample = (run fixed cost + controls + labour) / N + consumable`
+
+`point-of-care cost per decision = consumable + staff time + cost of the delay avoided`
+
+At high N, the batch denominator dominates and ELISA wins on cost. At N = 1, the fixed cost lands on one sample; the point-of-care premium may be smaller than the cost of holding a patient, repeating a visit or starting empirical treatment. The exact numbers depend on your laboratory and clinical setting, so use your own loaded costs rather than a vendor's example.
+
+The clinical question is the same one the comparison table asks: will the result change an action today? If not, batch testing is usually the rational choice even when the point-of-care cartridge looks convenient.
+
 ## The Author's Take
 
 **Position.** The honest framing is that ELISA remains the better instrument for batch work and POCT is the better instrument for decisions — and a vendor that says so converts more informed buyers than one that claims outright superiority.
@@ -64,6 +78,5 @@ Different immunoassays produce different absolute values for the same analyte. A
 
 ## Sources
 
-1. Reference to be added.
-2. Reference to be added.
-3. CLSI EP05 / EP09 — precision and method comparison.
+- [CLSI EP17 — detection capability definitions](https://clsi.org/)
+- [eClinPath — clinical pathology reference](https://eclinpath.com/)
