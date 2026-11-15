@@ -41,3 +41,9 @@ Guangzhou Science City is located in the Huangpu District, approximately 30 minu
 Visits are arranged in advance so that the relevant technical and quality staff are available. If you plan to send samples for evaluation, contact us first and confirm the receiving address, the sample type, the required documentation and the courier route; diagnostic samples and industrial materials do not follow the same import process.
 
 For distributors, the same contact can coordinate a factory tour, a product demonstration and a document review in one visit. Tell us the models and the market you are preparing for, and we will confirm what can be shown and which certificates can be discussed on site.
+
+## Visiting checklist
+
+Visits are by appointment so that the relevant technical, quality and sales staff are available. Confirm the date, the number of visitors, the models you want to see and whether you need a document review before travelling. Bring the questions you want answered in writing; a factory tour is more useful when the technical scope is agreed in advance.
+
+For samples or materials sent to the site, contact us before shipping so we can confirm the receiving address, the sample type, the labelling and the customs route. A parcel that arrives without a named recipient can be held or returned, which is a poor use of a sample budget.

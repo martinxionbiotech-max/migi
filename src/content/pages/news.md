@@ -52,3 +52,7 @@ If a dated item is corrected, the page is updated and the correction is visible 
 Media and conference enquiries should go through sales@migibio.net with the publication, topic and deadline. We can confirm company dates, product names and published specifications; we do not comment on unverified competitor claims or provide patient-level data.
 
 A news item is not a certificate or a product approval. Where a story refers to a quality system, ask for the current certificate scope and validity rather than relying on the news date. Corrections to a published item are dated and kept visible.
+
+## News categories
+
+Items are limited to company milestones, product or documentation changes, exhibitions and technical notes. A product item should name the model and the change; a documentation item should say which controlled document was revised. Commercial promotions belong on the relevant product page, not in the news index.

@@ -39,3 +39,9 @@ Every Migibio product is manufactured under ISO9001 and GMP-certified processes.
 Migibio is a brand of Guangzhou Magic Biotech Co., Ltd. For supplier qualification, ask for the business licence, the certificate scope and a recent batch record together, and check that the legal name and address match the quotation and the shipping documents. The brand name alone is not a legal entity.
 
 Where a distributor or marketplace uses the Migibio name, confirm that the seller is authorised for the territory and the product. A certificate or logo without a legal entity, scope and validity date is not enough to establish the manufacturer relationship.
+
+## Brand use and distributor authorisation
+
+The Migibio name and logo may be used by a distributor only within the territory and product scope confirmed in writing. A reseller listing, a marketplace page or a trade-show banner is not by itself evidence of authorisation. If you are qualifying a seller, ask for the legal entity, the territory, the product list and the current manufacturer authorisation.
+
+Do not alter the product name, model, catalog number or label in a way that changes the intended use. Private-label artwork is approved through the OEM/ODM process; it is not a licence to present a Migibio product as a different manufacturer's device.

@@ -39,3 +39,9 @@ Migibio continues to invest in next-generation diagnostic platforms and an expan
 The 2017 founding, the 2020 production workshop and the 2021–2022 certification milestones are useful context, but they are not a substitute for current documents. A buyer should ask for the certificate scope and validity date, the production site named on the certificate and a recent batch record for the model being purchased.
 
 The later export and FIA880 milestones describe the direction of the business, not a guarantee of local registration. Market access, labelling and import documentation still depend on the destination country and the product; confirm those requirements before placing a first order.
+
+## What the timeline does not prove
+
+A founding date, a factory opening or an export milestone is company history, not a product approval. It does not prove that a particular model is registered in your market, that a certificate covers the product you are buying, or that a batch meets the specification. Those questions are answered by the current certificate scope and the batch record.
+
+Use the timeline to understand the manufacturer's experience, then verify the documents that matter for the transaction. A supplier that can separate history from current evidence is easier to qualify.

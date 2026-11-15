@@ -60,3 +60,9 @@ Our multidisciplinary team spans immunology, biochemistry, engineering, quality 
 
 - **Vision:** More sensitive, more efficient!
 - **Spirit:** Focus, Innovation, Win-win!
+
+## What this site is not
+
+This website is a manufacturer's technical and commercial reference. It is not a regulatory approval, a product registration for your market, a batch certificate or a substitute for the Instructions for Use. Where a page summarises a clinical concept, the treating veterinarian remains responsible for the diagnosis and the decision.
+
+If a statement on this site conflicts with the current IFU or the certificate scope, the controlled document takes precedence. Tell us about the conflict so the page can be corrected rather than repeated.
