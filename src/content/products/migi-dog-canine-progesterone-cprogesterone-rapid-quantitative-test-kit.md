@@ -211,3 +211,9 @@ Relaxin answers a different question. It is produced by the placenta and is used
 A single progesterone value is a snapshot. For breeding timing, the useful pattern is the rise across serial samples, interpreted against the assay and the individual bitch's cycle. Sampling interval and the decision threshold belong in the breeding protocol; do not copy a table from another laboratory without confirming its method and reference range.
 
 The test does not confirm pregnancy and does not replace an examination for pyometra or other reproductive disease. If the value is unexpected, repeat the sample and check the collection time, sample handling and assay lot before changing the breeding plan.
+
+## What a single progesterone result cannot distinguish
+
+A raised progesterone value is consistent with the luteal phase, but it is not specific to pregnancy. It can also occur with a luteal cyst, pyometra or exogenous progestogen exposure. A low value does not prove that the bitch is not cycling; it may reflect timing, assay variation or a sample taken outside the useful window.
+
+Use the result with the history, physical examination and, where indicated, ultrasound. The test supports breeding management; it does not diagnose reproductive disease on its own.

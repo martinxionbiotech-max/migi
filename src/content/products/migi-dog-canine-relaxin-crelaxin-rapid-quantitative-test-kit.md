@@ -186,3 +186,9 @@ Progesterone and relaxin answer different clinical questions. Use progesterone s
 Relaxin supports pregnancy diagnosis after the placental tissue is established. It does not date ovulation, confirm fetal viability or replace ultrasound. A negative result early after breeding may reflect testing before the validated window; a positive result confirms placental tissue, not the number of fetuses or their health.
 
 Use relaxin when the clinical question is “is this a pregnancy?” and use progesterone when the question is “when should we breed?”. The two results should not be substituted for each other, and neither replaces a physical examination or imaging where those are indicated.
+
+## What a negative relaxin result means
+
+A negative relaxin result is not a definitive “not pregnant” at every time point. Testing before the validated post-implantation window, a sample handled outside the IFU conditions, or an assay interference can all produce a negative result in a pregnant bitch.
+
+Repeat the test at the interval stated in the IFU and use ultrasound where the clinical question requires confirmation. A positive result indicates placental tissue; it does not confirm fetal viability, litter size or the absence of complications.
